@@ -1,0 +1,43 @@
+{
+  "materia": "const",
+  "questoes": [
+    {
+      "id": "const-0001",
+      "topico": "7.12",
+      "tipo": "multipla",
+      "enunciado": "João pretende obter, junto a um banco de dados mantido por entidade governamental, as informações ali registradas a seu próprio respeito, bem como retificar dado incorreto.\n\nO remédio constitucional adequado é:",
+      "alternativas": [
+        "Mandado de segurança.",
+        "Habeas data.",
+        "Mandado de injunção.",
+        "Ação popular.",
+        "Habeas corpus."
+      ],
+      "correta": 1,
+      "comentario": "O habeas data assegura o conhecimento de informações relativas à pessoa do impetrante constantes de registros ou bancos de dados de entidades governamentais ou de caráter público, bem como a retificação de dados.",
+      "fundamento": "CF/1988, art. 5º, LXXII.",
+      "dificuldade": "facil",
+      "tags": ["remedios-constitucionais", "art-5"],
+      "fonte": "Exemplo do modelo"
+    },
+    {
+      "id": "const-0002",
+      "topico": "7.14",
+      "tipo": "multipla",
+      "enunciado": "Sobre o Tribunal de Contas da União, é correto afirmar que:",
+      "alternativas": [
+        "é integrado por onze Ministros, todos escolhidos pelo Presidente da República.",
+        "é integrado por nove Ministros, sendo dois terços escolhidos pelo Congresso Nacional e um terço pelo Presidente da República.",
+        "integra o Poder Judiciário, com jurisdição em todo o território nacional.",
+        "julga as contas prestadas anualmente pelo Presidente da República.",
+        "tem seus Ministros escolhidos exclusivamente entre auditores e membros do Ministério Público de Contas."
+      ],
+      "correta": 1,
+      "comentario": "O TCU é integrado por nove Ministros: dois terços escolhidos pelo Congresso Nacional e um terço pelo Presidente da República, com aprovação do Senado. As contas do Presidente da República são apreciadas pelo TCU mediante parecer prévio, mas julgadas pelo Congresso Nacional. O TCU é órgão auxiliar do controle externo, não integrando o Judiciário.",
+      "fundamento": "CF/1988, arts. 49, IX; 71, I; e 73, §2º.",
+      "dificuldade": "media",
+      "tags": ["tcu", "controle-externo"],
+      "fonte": "Exemplo do modelo"
+    }
+  ]
+}

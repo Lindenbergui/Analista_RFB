@@ -1,0 +1,43 @@
+{
+  "materia": "adm",
+  "questoes": [
+    {
+      "id": "adm-0001",
+      "topico": "5.11",
+      "tipo": "multipla",
+      "enunciado": "O Balanced Scorecard (BSC), proposto por Kaplan e Norton, traduz a estratégia organizacional em objetivos e indicadores distribuídos em perspectivas equilibradas.\n\nAssinale a opção que NÃO corresponde a uma das perspectivas originais do BSC.",
+      "alternativas": [
+        "Financeira.",
+        "Clientes.",
+        "Processos internos.",
+        "Aprendizado e crescimento.",
+        "Responsabilidade socioambiental."
+      ],
+      "correta": 4,
+      "comentario": "As quatro perspectivas originais do BSC são: financeira, clientes, processos internos e aprendizado e crescimento. Responsabilidade socioambiental não integra o modelo original, embora adaptações posteriores (inclusive no setor público) acrescentem perspectivas próprias.",
+      "fundamento": "Kaplan e Norton, A Estratégia em Ação.",
+      "dificuldade": "facil",
+      "tags": ["bsc", "controle", "estrategia"],
+      "fonte": "Exemplo do modelo"
+    },
+    {
+      "id": "adm-0002",
+      "topico": "5.34",
+      "tipo": "multipla",
+      "enunciado": "Um cidadão protocola pedido de acesso a informação em órgão federal. O órgão não dispõe da informação de imediato e precisa reuni-la.\n\nÀ luz da Lei nº 12.527/2011, o prazo para resposta é de:",
+      "alternativas": [
+        "5 dias, improrrogáveis.",
+        "10 dias, prorrogáveis por mais 10 mediante justificativa expressa.",
+        "20 dias, prorrogáveis por mais 10 mediante justificativa expressa.",
+        "30 dias, prorrogáveis por mais 15 mediante justificativa expressa.",
+        "60 dias, improrrogáveis."
+      ],
+      "correta": 2,
+      "comentario": "Não sendo possível conceder o acesso imediato, o órgão deve responder em até 20 dias, prazo prorrogável por mais 10 dias mediante justificativa expressa cientificada ao requerente.",
+      "fundamento": "Lei nº 12.527/2011, art. 11, §1º e §2º.",
+      "dificuldade": "media",
+      "tags": ["lai", "transparencia", "prazos"],
+      "fonte": "Exemplo do modelo"
+    }
+  ]
+}

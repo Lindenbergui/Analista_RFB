@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1">
+<title>Questões RFB</title>
+<meta name="description" content="Plataforma pessoal de revisão por questões para o concurso da Receita Federal.">
+<meta name="theme-color" content="#16211F">
+<link rel="manifest" href="./manifest.webmanifest">
+<link rel="icon" href="./icons/icon-192.png">
+<link rel="apple-touch-icon" href="./icons/icon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Questões RFB">
+<link rel="stylesheet" href="./assets/app.css">
+</head>
+<body>
+
+<header class="barra" id="barra">
+  <div class="barra-esq">
+    <h1 class="marca" id="titulo">Questões RFB</h1>
+  </div>
+  <div class="barra-dir" id="barra-acoes"></div>
+</header>
+
+<main id="tela" class="tela">
+  <p class="carregando">Carregando o banco de questões…</p>
+</main>
+
+<nav class="nav" id="nav" aria-label="Seções">
+  <button data-tela="hoje" class="nav-item" aria-current="page">
+    <span class="nav-glifo" aria-hidden="true">◉</span><span>Hoje</span>
+  </button>
+  <button data-tela="banco" class="nav-item">
+    <span class="nav-glifo" aria-hidden="true">≡</span><span>Banco</span>
+  </button>
+  <button data-tela="progresso" class="nav-item">
+    <span class="nav-glifo" aria-hidden="true">▤</span><span>Progresso</span>
+  </button>
+  <button data-tela="ajustes" class="nav-item">
+    <span class="nav-glifo" aria-hidden="true">⚙</span><span>Ajustes</span>
+  </button>
+</nav>
+
+<div id="aviso" class="aviso" role="status" aria-live="polite" hidden></div>
+
+<script src="./assets/app.js"></script>
+</body>
+</html>

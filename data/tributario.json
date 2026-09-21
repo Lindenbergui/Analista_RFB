@@ -1,0 +1,43 @@
+{
+  "materia": "dtrib",
+  "questoes": [
+    {
+      "id": "dtrib-0001",
+      "topico": "9.14",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que apresenta hipótese de EXTINÇÃO do crédito tributário, e não de suspensão de sua exigibilidade.",
+      "alternativas": [
+        "Moratória.",
+        "Parcelamento.",
+        "Depósito do montante integral.",
+        "Transação.",
+        "Concessão de medida liminar em mandado de segurança."
+      ],
+      "correta": 3,
+      "comentario": "A transação é causa de extinção do crédito tributário (art. 156, III). Moratória, parcelamento, depósito integral e liminar em mandado de segurança são causas de suspensão da exigibilidade (art. 151).",
+      "fundamento": "CTN, arts. 151 e 156.",
+      "dificuldade": "media",
+      "tags": ["credito-tributario", "suspensao", "extincao"],
+      "fonte": "Exemplo do modelo"
+    },
+    {
+      "id": "dtrib-0002",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "Lei publicada em 10 de dezembro majora a alíquota do Imposto sobre Produtos Industrializados (IPI).\n\nConsiderando as limitações constitucionais ao poder de tributar, a nova alíquota poderá ser exigida:",
+      "alternativas": [
+        "imediatamente, pois o IPI é exceção tanto à anterioridade anual quanto à nonagesimal.",
+        "somente no primeiro dia do exercício seguinte, pois o IPI observa apenas a anterioridade anual.",
+        "após 90 dias da publicação, pois o IPI é exceção à anterioridade anual, mas se sujeita à noventena.",
+        "somente após 90 dias contados do primeiro dia do exercício seguinte.",
+        "somente após a conversão da lei em lei complementar."
+      ],
+      "correta": 2,
+      "comentario": "O IPI é exceção à anterioridade de exercício, mas se submete à anterioridade nonagesimal. Assim, a majoração produz efeitos 90 dias após a publicação. Já o II, o IE e o IOF são exceção a ambas as anterioridades.",
+      "fundamento": "CF/1988, art. 150, III, 'b' e 'c', e §1º.",
+      "dificuldade": "media",
+      "tags": ["anterioridade", "ipi", "limitacoes"],
+      "fonte": "Exemplo do modelo"
+    }
+  ]
+}

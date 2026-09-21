@@ -1,0 +1,43 @@
+{
+  "materia": "dados",
+  "questoes": [
+    {
+      "id": "dados-0001",
+      "topico": "6.3",
+      "tipo": "multipla",
+      "enunciado": "Uma equipe da área de inteligência fiscal possui uma base de contribuintes sem qualquer rótulo prévio e deseja separá-los em grupos de comportamento semelhante, sem definir antecipadamente quais são esses grupos.\n\nA técnica adequada e o tipo de aprendizado envolvido são, respectivamente:",
+      "alternativas": [
+        "Regressão logística e aprendizado supervisionado.",
+        "Clusterização (k-means) e aprendizado não supervisionado.",
+        "Árvore de decisão e aprendizado supervisionado.",
+        "Clusterização (k-means) e aprendizado por reforço.",
+        "Random forest e aprendizado não supervisionado."
+      ],
+      "correta": 1,
+      "comentario": "Sem rótulos definidos, o problema é de agrupamento (clustering), típico do aprendizado não supervisionado. Regressão logística, árvores de decisão e random forest são algoritmos supervisionados, que exigem variável-resposta conhecida.",
+      "fundamento": "Fundamentos de aprendizado de máquina.",
+      "dificuldade": "facil",
+      "tags": ["machine-learning", "clusterizacao"],
+      "fonte": "Exemplo do modelo"
+    },
+    {
+      "id": "dados-0002",
+      "topico": "6.8",
+      "tipo": "multipla",
+      "enunciado": "Um sistema precisa representar e percorrer com eficiência as relações societárias entre milhares de empresas e sócios, respondendo a consultas sobre caminhos e vínculos indiretos.\n\nO modelo NoSQL mais adequado e um exemplo de SGBD correspondente são:",
+      "alternativas": [
+        "Chave-valor — Redis.",
+        "Documento — MongoDB.",
+        "Família de colunas — Cassandra.",
+        "Grafo — Neo4j.",
+        "Relacional — PostgreSQL."
+      ],
+      "correta": 3,
+      "comentario": "Bancos orientados a grafos armazenam nós e arestas com propriedades, o que torna eficiente o percurso de relacionamentos e a busca por vínculos indiretos. Neo4j é o exemplo mais citado.",
+      "fundamento": "Modelos NoSQL: chave-valor, documento, colunar e grafo.",
+      "dificuldade": "facil",
+      "tags": ["nosql", "grafos"],
+      "fonte": "Exemplo do modelo"
+    }
+  ]
+}

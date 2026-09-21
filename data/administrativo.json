@@ -1,0 +1,43 @@
+{
+  "materia": "dadm",
+  "questoes": [
+    {
+      "id": "dadm-0001",
+      "topico": "8.3",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que NÃO indica um atributo do ato administrativo.",
+      "alternativas": [
+        "Presunção de legitimidade e de veracidade.",
+        "Imperatividade.",
+        "Autoexecutoriedade.",
+        "Tipicidade.",
+        "Motivo."
+      ],
+      "correta": 4,
+      "comentario": "Motivo é requisito (elemento) do ato administrativo, ao lado de competência, finalidade, forma e objeto. Os atributos usualmente apontados são presunção de legitimidade, imperatividade, autoexecutoriedade e tipicidade.",
+      "fundamento": "Doutrina majoritária (Di Pietro; Hely Lopes Meirelles).",
+      "dificuldade": "facil",
+      "tags": ["ato-administrativo", "atributos"],
+      "fonte": "Exemplo do modelo"
+    },
+    {
+      "id": "dadm-0002",
+      "topico": "8.8",
+      "tipo": "multipla",
+      "enunciado": "De acordo com a Lei nº 8.112/1990, assinale a opção que apresenta forma de provimento de cargo público.",
+      "alternativas": [
+        "Transferência.",
+        "Ascensão funcional.",
+        "Recondução.",
+        "Remoção.",
+        "Redistribuição."
+      ],
+      "correta": 2,
+      "comentario": "São formas de provimento: nomeação, promoção, readaptação, reversão, aproveitamento, reintegração e recondução. Transferência e ascensão foram declaradas inconstitucionais e retiradas da lei. Remoção e redistribuição são formas de deslocamento — do servidor e do cargo, respectivamente — e não de provimento.",
+      "fundamento": "Lei nº 8.112/1990, art. 8º.",
+      "dificuldade": "media",
+      "tags": ["provimento", "8112"],
+      "fonte": "Exemplo do modelo"
+    }
+  ]
+}
