@@ -1,4 +1,505 @@
 {
   "materia": "const",
-  "questoes": []
+  "questoes": [
+    {
+      "id": "const-0001",
+      "topico": "7.1",
+      "tipo": "multipla",
+      "enunciado": "A doutrina clássica da Teoria Geral do Estado, com base em Georg Jellinek, aponta os elementos constitutivos do Estado.\n\nAssinale a opção que os apresenta.",
+      "alternativas": [
+        "Nação, Constituição e forças armadas.",
+        "População, governo eleito e reconhecimento internacional.",
+        "Território, Constituição escrita e separação de Poderes.",
+        "Povo, território e poder soberano.",
+        "Nação, território e regime democrático."
+      ],
+      "correta": 3,
+      "comentario": "A teoria dos três elementos identifica o Estado pela conjugação de povo (elemento humano), território (elemento material ou espacial) e poder soberano (elemento formal). Parte da doutrina, como Dalmo Dallari, acrescenta a finalidade — o bem comum. Constituição escrita, regime democrático e reconhecimento internacional não são elementos constitutivos: há Estados sem constituição escrita e não democráticos.",
+      "fundamento": "Jellinek, Teoria Geral do Estado; Dallari, Elementos de Teoria Geral do Estado.",
+      "dificuldade": "facil",
+      "tags": [
+        "elementos-do-estado",
+        "jellinek"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0002",
+      "topico": "7.1",
+      "tipo": "multipla",
+      "enunciado": "Em determinado momento, encontram-se no território brasileiro cidadãos brasileiros, turistas estrangeiros e estrangeiros residentes. Paralelamente, milhões de brasileiros vivem no exterior.\n\nConsiderando os conceitos da Teoria Geral do Estado, é correto afirmar que:",
+      "alternativas": [
+        "o povo brasileiro abrange todos os que se encontram no território nacional, inclusive os turistas estrangeiros.",
+        "o povo é o conjunto de pessoas ligadas ao Estado pelo vínculo jurídico da nacionalidade, incluindo os brasileiros residentes no exterior; a população é um conceito demográfico que abrange todos os que se encontram no território.",
+        "nação e povo são expressões sinônimas, ambas definidas pelo vínculo jurídico com o Estado.",
+        "a população é formada apenas pelos nacionais, excluídos os estrangeiros residentes.",
+        "os brasileiros que vivem no exterior deixam de integrar o povo brasileiro enquanto lá residirem."
+      ],
+      "correta": 1,
+      "comentario": "Povo é o conjunto de nacionais, ligados ao Estado por vínculo jurídico-político, onde quer que estejam. População é dado numérico e demográfico: todos os que se encontram no território, nacionais ou estrangeiros. Nação é conceito sociológico, fundado em laços históricos, culturais e linguísticos, e não se confunde com o povo — pode haver nação sem Estado e Estado com várias nações.",
+      "fundamento": "Dallari, Elementos de Teoria Geral do Estado.",
+      "dificuldade": "facil",
+      "tags": [
+        "povo",
+        "nacao",
+        "populacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0003",
+      "topico": "7.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre a soberania no Estado federal brasileiro, assinale a afirmativa correta.",
+      "alternativas": [
+        "Os Estados-membros são soberanos, pois possuem Constituição própria.",
+        "A soberania é repartida entre União, Estados, Distrito Federal e Municípios, na proporção de suas competências.",
+        "A soberania pertence à União, e os demais entes gozam apenas de autonomia administrativa.",
+        "A soberania é atributo da República Federativa do Brasil, enquanto União, Estados, Distrito Federal e Municípios são dotados de autonomia.",
+        "Os Municípios não possuem autonomia, pois não têm representação no Senado Federal."
+      ],
+      "correta": 3,
+      "comentario": "No Estado federal, a soberania pertence ao Estado como um todo — a República Federativa do Brasil —, e os entes que o compõem são autônomos (CF, art. 18). A União exerce, em nome da República, as prerrogativas de soberania nas relações internacionais (art. 21, I), mas internamente é ente autônomo como os demais. A autonomia envolve auto-organização, autogoverno, autolegislação e autoadministração; os Municípios a possuem mesmo sem representação no Senado.",
+      "fundamento": "CF/1988, arts. 1º, I, 18 e 21, I.",
+      "dificuldade": "media",
+      "tags": [
+        "soberania",
+        "autonomia",
+        "federacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0004",
+      "topico": "7.1",
+      "tipo": "multipla",
+      "enunciado": "Para Max Weber, o Estado moderno se caracteriza por:",
+      "alternativas": [
+        "ser a comunidade humana que reivindica, com êxito, o monopólio do uso legítimo da força física dentro de determinado território.",
+        "ser a expressão da vontade geral, inalienável e indivisível, de todos os cidadãos.",
+        "identificar-se integralmente com a ordem jurídica, sendo o território e o povo apenas âmbitos de validade das normas.",
+        "resultar de um pacto de submissão absoluta, pelo qual os indivíduos abdicam de todos os seus direitos em favor do soberano.",
+        "ser uma sociedade natural, decorrente da natureza política do homem."
+      ],
+      "correta": 0,
+      "comentario": "A definição weberiana centra-se no monopólio do uso legítimo da força física em um território. A vontade geral é de Rousseau; a identificação entre Estado e ordem jurídica é de Kelsen; o pacto de submissão absoluta é de Hobbes; a natureza política do homem é de Aristóteles.",
+      "fundamento": "Weber, A Política como Vocação.",
+      "dificuldade": "facil",
+      "tags": [
+        "weber",
+        "conceito-de-estado"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0005",
+      "topico": "7.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que associa corretamente o pensador contratualista à sua concepção.",
+      "alternativas": [
+        "Thomas Hobbes — os indivíduos conservam o direito de resistência contra o governante que viola seus direitos naturais.",
+        "John Locke — o estado de natureza é uma guerra de todos contra todos, e o pacto transfere poder absoluto ao soberano.",
+        "Jean-Jacques Rousseau — a soberania reside na vontade geral do povo, sendo inalienável e indivisível.",
+        "Thomas Hobbes — a soberania popular não pode ser representada, exigindo democracia direta.",
+        "John Locke — a propriedade não é direito natural, sendo criada integralmente pelo Estado."
+      ],
+      "correta": 2,
+      "comentario": "Rousseau funda a legitimidade na vontade geral e sustenta que a soberania popular é inalienável e indivisível. Hobbes descreve o estado de natureza como guerra de todos contra todos e defende o soberano absoluto (o Leviatã). Locke parte de direitos naturais — vida, liberdade e propriedade —, defende o governo limitado e admite o direito de resistência. As opções A e B invertem Hobbes e Locke.",
+      "fundamento": "Hobbes, Leviatã; Locke, Segundo Tratado sobre o Governo; Rousseau, Do Contrato Social.",
+      "dificuldade": "media",
+      "tags": [
+        "contratualismo",
+        "hobbes",
+        "locke",
+        "rousseau"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0006",
+      "topico": "7.1",
+      "tipo": "multipla",
+      "enunciado": "Um navio estrangeiro foi abordado por autoridades brasileiras a 150 milhas marítimas da costa, em área de exploração de petróleo.\n\nSobre os espaços marítimos brasileiros, nos termos da Lei nº 8.617/1993, é correto afirmar que:",
+      "alternativas": [
+        "o mar territorial se estende até 200 milhas marítimas, sobre ele o Brasil exercendo soberania plena.",
+        "a zona contígua se estende até 200 milhas, e nela o Brasil exerce soberania plena, inclusive sobre o espaço aéreo.",
+        "a zona econômica exclusiva integra o território nacional para todos os efeitos, inclusive quanto ao direito de passagem.",
+        "o mar territorial tem 12 milhas marítimas, com soberania plena sobre as águas, o espaço aéreo, o leito e o subsolo; na zona econômica exclusiva, até 200 milhas, o Brasil tem direitos de soberania para exploração e aproveitamento dos recursos naturais.",
+        "a área a 150 milhas é alto-mar, não havendo qualquer direito do Estado brasileiro sobre seus recursos."
+      ],
+      "correta": 3,
+      "comentario": "O mar territorial compreende 12 milhas marítimas, com soberania plena que abrange o espaço aéreo sobrejacente, o leito e o subsolo, ressalvado o direito de passagem inocente. A zona contígua vai de 12 a 24 milhas, para fiscalização aduaneira, fiscal, sanitária e de imigração. A zona econômica exclusiva vai de 12 a 200 milhas e confere direitos de soberania sobre os recursos naturais, e não soberania plena.",
+      "fundamento": "Lei nº 8.617/1993, arts. 1º a 8º; CF/1988, art. 20, V e VI.",
+      "dificuldade": "dificil",
+      "tags": [
+        "territorio",
+        "mar-territorial",
+        "zee"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0007",
+      "topico": "7.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que distingue corretamente confederação e federação.",
+      "alternativas": [
+        "Na confederação, os membros perdem a soberania; na federação, a conservam.",
+        "A confederação baseia-se em tratado internacional e admite o direito de secessão; a federação baseia-se em uma Constituição e é, em regra, indissolúvel.",
+        "A federação baseia-se em tratado internacional; a confederação, em uma Constituição comum.",
+        "Na federação, os Estados-membros são soberanos; na confederação, apenas autônomos.",
+        "Tanto a confederação quanto a federação vedam o direito de secessão."
+      ],
+      "correta": 1,
+      "comentario": "Na confederação, Estados soberanos se unem por tratado internacional, conservam a soberania e, por isso, podem se retirar (direito de secessão). Na federação, os entes abrem mão da soberania em favor do Estado federal, conservam autonomia, e o vínculo decorre de uma Constituição, sendo indissolúvel. Os EUA passaram de confederação (Artigos da Confederação) a federação em 1787.",
+      "fundamento": "Teoria Geral do Estado; CF/1988, art. 1º.",
+      "dificuldade": "facil",
+      "tags": [
+        "confederacao",
+        "federacao",
+        "secessao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0008",
+      "topico": "7.1",
+      "tipo": "multipla",
+      "enunciado": "A Assembleia Legislativa de um Estado aprovou a convocação de plebiscito para consultar a população sobre a separação do Estado do restante do Brasil.\n\nÀ luz da Constituição, essa iniciativa é:",
+      "alternativas": [
+        "válida, desde que o resultado seja aprovado por maioria absoluta dos eleitores do Estado.",
+        "válida, pois a autonomia estadual abrange o direito de auto-organização, inclusive quanto à permanência na federação.",
+        "válida, desde que o Congresso Nacional homologue o resultado por lei complementar.",
+        "inválida apenas por vício de competência, pois caberia ao Congresso Nacional convocar o plebiscito.",
+        "inválida, pois a federação brasileira é indissolúvel, não há direito de secessão e a forma federativa é cláusula pétrea."
+      ],
+      "correta": 4,
+      "comentario": "A República Federativa do Brasil é formada pela união indissolúvel dos Estados, Municípios e Distrito Federal (art. 1º). Não há direito de secessão; a forma federativa de Estado não pode ser abolida sequer por emenda constitucional (art. 60, §4º, I); e a manutenção da integridade nacional autoriza intervenção federal (art. 34, I). O problema não é só de competência: o conteúdo é inconstitucional.",
+      "fundamento": "CF/1988, arts. 1º, 34, I, e 60, §4º, I.",
+      "dificuldade": "facil",
+      "tags": [
+        "federacao",
+        "indissolubilidade",
+        "clausula-petrea"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0009",
+      "topico": "7.1",
+      "tipo": "multipla",
+      "enunciado": "A doutrina classifica as federações quanto à sua origem.\n\nSobre essa classificação, é correto afirmar que a federação brasileira:",
+      "alternativas": [
+        "surgiu por agregação, a partir da união de Estados soberanos que cederam parcela de sua soberania, a exemplo dos EUA.",
+        "surgiu por agregação, a partir de uma confederação de províncias independentes.",
+        "surgiu por meio de tratado internacional celebrado entre as províncias do Império.",
+        "surgiu com a Constituição de 1988, que transformou o Estado unitário em federação.",
+        "surgiu por desagregação (ou segregação), a partir da descentralização de um Estado unitário, com a Proclamação da República e a Constituição de 1891."
+      ],
+      "correta": 4,
+      "comentario": "A federação por agregação resulta da união de Estados soberanos (caso dos EUA, em 1787). A por desagregação, ou segregação, resulta da descentralização de um Estado unitário — caso do Brasil, em que as províncias do Império unitário se converteram em Estados-membros com o Decreto nº 1/1889 e a Constituição de 1891. A forma federativa existe no Brasil desde então, não desde 1988.",
+      "fundamento": "Doutrina constitucional; Decreto nº 1/1889; Constituição de 1891.",
+      "dificuldade": "media",
+      "tags": [
+        "federalismo",
+        "agregacao",
+        "desagregacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0010",
+      "topico": "7.1",
+      "tipo": "multipla",
+      "enunciado": "A Constituição de 1988 prevê competências administrativas comuns à União, aos Estados, ao Distrito Federal e aos Municípios, bem como competências legislativas concorrentes.\n\nEssas características aproximam o modelo brasileiro do federalismo:",
+      "alternativas": [
+        "dual, marcado pela separação rígida de competências entre União e Estados.",
+        "por agregação, marcado pela soberania dos Estados-membros.",
+        "cooperativo, marcado pela atuação conjunta e coordenada dos entes federativos.",
+        "centrípeto puro, em que os Estados-membros não possuem competências próprias.",
+        "assimétrico, em que cada Estado negocia individualmente suas competências com a União."
+      ],
+      "correta": 2,
+      "comentario": "O federalismo cooperativo caracteriza-se pela atuação conjunta dos entes, com competências comuns (art. 23) e concorrentes (art. 24), superando a separação estanque do federalismo dual clássico norte-americano. O art. 23, parágrafo único, prevê leis complementares para fixar normas de cooperação entre os entes.",
+      "fundamento": "CF/1988, arts. 23 e 24.",
+      "dificuldade": "media",
+      "tags": [
+        "federalismo-cooperativo",
+        "competencias"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0011",
+      "topico": "7.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que indica corretamente os entes que compõem a organização político-administrativa da República Federativa do Brasil.",
+      "alternativas": [
+        "União, Estados e Distrito Federal, apenas, sendo os Municípios meras divisões administrativas dos Estados.",
+        "União, Estados, Distrito Federal, Municípios e Territórios Federais, todos autônomos.",
+        "União e Estados, apenas, pois somente estes participam do Senado Federal.",
+        "União, Estados, Distrito Federal e Municípios, todos autônomos; os Territórios Federais, se criados, integram a União.",
+        "Estados e Municípios, apenas, cabendo à União somente a representação internacional."
+      ],
+      "correta": 3,
+      "comentario": "A organização político-administrativa compreende União, Estados, Distrito Federal e Municípios, todos autônomos (art. 18). Os Territórios Federais integram a União e não são entes federativos (art. 18, §2º). A inclusão dos Municípios como entes federativos é peculiaridade da federação brasileira de 1988, muitas vezes chamada de federação de três níveis.",
+      "fundamento": "CF/1988, arts. 1º e 18, caput e §2º.",
+      "dificuldade": "facil",
+      "tags": [
+        "entes-federativos",
+        "municipios",
+        "territorios"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0012",
+      "topico": "7.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que apresenta características próprias da forma republicana de governo.",
+      "alternativas": [
+        "Hereditariedade, vitaliciedade e irresponsabilidade política do chefe de Estado.",
+        "Eletividade, temporariedade dos mandatos e responsabilidade dos governantes.",
+        "Separação entre chefia de Estado e chefia de governo, com gabinete responsável perante o parlamento.",
+        "Descentralização política e repartição constitucional de competências.",
+        "Governo exercido diretamente pelo povo, sem representantes."
+      ],
+      "correta": 1,
+      "comentario": "A república caracteriza-se pela eletividade, temporariedade e responsabilidade dos governantes, em oposição à monarquia (hereditariedade, vitaliciedade e irresponsabilidade do monarca). A separação entre chefias é traço do parlamentarismo (sistema de governo); a descentralização política é traço da federação (forma de Estado); o governo direto é característica de regime democrático direto.",
+      "fundamento": "Teoria Geral do Estado.",
+      "dificuldade": "facil",
+      "tags": [
+        "republica",
+        "monarquia",
+        "forma-de-governo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0013",
+      "topico": "7.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que apresenta característica do sistema parlamentarista de governo.",
+      "alternativas": [
+        "As funções de chefe de Estado e chefe de governo são exercidas por pessoas distintas, e o governo depende da confiança do parlamento.",
+        "O chefe do Executivo acumula as funções de chefe de Estado e de governo, com mandato fixo.",
+        "O chefe de governo não pode ser destituído pelo parlamento por razões políticas, apenas por crime de responsabilidade.",
+        "O parlamentarismo é incompatível com a forma republicana de governo, existindo apenas em monarquias.",
+        "Os ministros são livremente nomeados e exonerados pelo chefe de Estado, sem qualquer participação do parlamento."
+      ],
+      "correta": 0,
+      "comentario": "No parlamentarismo, a chefia de Estado (monarca ou presidente) é separada da chefia de governo (primeiro-ministro), e o gabinete depende da confiança do parlamento, podendo cair por moção de desconfiança; em contrapartida, admite-se a dissolução do parlamento. É compatível com a república (Alemanha, Itália, Portugal). As demais opções descrevem o presidencialismo.",
+      "fundamento": "Teoria Geral do Estado.",
+      "dificuldade": "facil",
+      "tags": [
+        "parlamentarismo",
+        "sistema-de-governo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0014",
+      "topico": "7.1",
+      "tipo": "multipla",
+      "enunciado": "Em determinado país, o chefe do Poder Executivo é eleito para mandato fixo, acumula as funções de chefe de Estado e de chefe de governo, nomeia e exonera livremente seus ministros e não pode ser afastado pelo Legislativo por mera discordância política, mas apenas mediante processo por crime de responsabilidade.\n\nEsse país adota:",
+      "alternativas": [
+        "parlamentarismo republicano.",
+        "monarquia constitucional.",
+        "semipresidencialismo.",
+        "parlamentarismo monárquico.",
+        "presidencialismo."
+      ],
+      "correta": 4,
+      "comentario": "Acumulação das chefias de Estado e de governo, mandato fixo, livre nomeação e exoneração de ministros e ausência de responsabilidade política perante o Legislativo — afastamento só por impeachment — são traços do presidencialismo, sistema adotado pelo Brasil. No semipresidencialismo, há presidente eleito com poderes relevantes e primeiro-ministro responsável perante o parlamento.",
+      "fundamento": "CF/1988, arts. 76, 84, I, e 85.",
+      "dificuldade": "facil",
+      "tags": [
+        "presidencialismo",
+        "sistema-de-governo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0015",
+      "topico": "7.1",
+      "tipo": "multipla",
+      "enunciado": "Quanto à forma de Estado, à forma de governo, ao sistema de governo e ao regime político, o Estado brasileiro adota, respectivamente:",
+      "alternativas": [
+        "república, federação, presidencialismo e democracia.",
+        "federação, presidencialismo, república e democracia.",
+        "federação, república, presidencialismo e democracia.",
+        "Estado unitário descentralizado, república, presidencialismo e democracia.",
+        "federação, república, parlamentarismo e democracia semidireta."
+      ],
+      "correta": 2,
+      "comentario": "Forma de Estado diz respeito à distribuição territorial do poder (federação × Estado unitário); forma de governo, ao modo de acesso e exercício da chefia do Estado (república × monarquia); sistema de governo, à relação entre Executivo e Legislativo (presidencialismo × parlamentarismo); regime político, à participação popular (democracia × autocracia). O Brasil é federação, república, presidencialista e democrático.",
+      "fundamento": "CF/1988, arts. 1º e 76.",
+      "dificuldade": "facil",
+      "tags": [
+        "forma-de-estado",
+        "forma-de-governo",
+        "sistema-de-governo",
+        "regime-politico"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0016",
+      "topico": "7.1",
+      "tipo": "multipla",
+      "enunciado": "O parágrafo único do art. 1º da Constituição dispõe que todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente.\n\nCom base nesse dispositivo e no art. 14, o regime adotado pela Constituição é o da democracia:",
+      "alternativas": [
+        "direta, pois o povo pode legislar sem intermediários em qualquer matéria.",
+        "representativa pura, pois a participação popular direta limita-se ao voto.",
+        "indireta, pois o Presidente da República é eleito pelo Congresso Nacional.",
+        "semidireta ou participativa, que combina a representação com instrumentos de participação direta, como plebiscito, referendo e iniciativa popular.",
+        "plebiscitária, em que todas as leis dependem de aprovação popular."
+      ],
+      "correta": 3,
+      "comentario": "A Constituição combina a democracia representativa (eleição de representantes) com mecanismos de participação direta — plebiscito, referendo e iniciativa popular (art. 14, I a III) —, o que caracteriza a democracia semidireta ou participativa. A iniciativa popular de lei federal exige subscrição de, no mínimo, 1% do eleitorado nacional, distribuído por pelo menos cinco Estados, com não menos de 0,3% dos eleitores de cada um (art. 61, §2º).",
+      "fundamento": "CF/1988, arts. 1º, parágrafo único, 14 e 61, §2º.",
+      "dificuldade": "facil",
+      "tags": [
+        "democracia-semidireta",
+        "soberania-popular"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0017",
+      "topico": "7.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre os instrumentos de democracia direta previstos na Constituição e na Lei nº 9.709/1998, assinale a afirmativa correta.",
+      "alternativas": [
+        "O plebiscito é convocado após a edição do ato legislativo, para ratificá-lo ou rejeitá-lo.",
+        "O plebiscito é convocado com anterioridade ao ato legislativo ou administrativo, e o referendo, posteriormente, cabendo ao povo ratificá-lo ou rejeitá-lo.",
+        "Compete ao Presidente da República convocar plebiscito e autorizar referendo em matéria de interesse nacional.",
+        "O referendo é sempre anterior ao ato, e seu resultado tem natureza meramente consultiva.",
+        "Plebiscito e referendo são expressões sinônimas na Constituição de 1988."
+      ],
+      "correta": 1,
+      "comentario": "O plebiscito é convocado previamente, para que o povo aprove ou denegue o que lhe for submetido; o referendo é posterior, para ratificação ou rejeição do ato já editado. É da competência exclusiva do Congresso Nacional autorizar referendo e convocar plebiscito (art. 49, XV).",
+      "fundamento": "CF/1988, arts. 14 e 49, XV; Lei nº 9.709/1998, art. 2º.",
+      "dificuldade": "facil",
+      "tags": [
+        "plebiscito",
+        "referendo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0018",
+      "topico": "7.1",
+      "tipo": "multipla",
+      "enunciado": "Considerando os limites materiais ao poder de reforma da Constituição de 1988, assinale a afirmativa correta.",
+      "alternativas": [
+        "A forma federativa de Estado é cláusula pétrea expressa; a forma republicana e o sistema presidencialista não constam do rol expresso do art. 60, §4º.",
+        "A forma republicana de governo e o sistema presidencialista são cláusulas pétreas expressas.",
+        "Nenhuma das formas de organização do Estado é protegida como cláusula pétrea.",
+        "A forma federativa pode ser abolida por emenda aprovada em plebiscito.",
+        "O voto obrigatório é cláusula pétrea expressa."
+      ],
+      "correta": 0,
+      "comentario": "O art. 60, §4º, veda emendas tendentes a abolir a forma federativa de Estado; o voto direto, secreto, universal e periódico; a separação dos Poderes; e os direitos e garantias individuais. A república e o presidencialismo não integram o rol expresso — há debate doutrinário sobre limite implícito, especialmente após o plebiscito de 1993. A obrigatoriedade do voto também não é cláusula pétrea.",
+      "fundamento": "CF/1988, art. 60, §4º.",
+      "dificuldade": "media",
+      "tags": [
+        "clausulas-petreas",
+        "federacao",
+        "republica"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0019",
+      "topico": "7.1",
+      "tipo": "multipla",
+      "enunciado": "O Ato das Disposições Constitucionais Transitórias previu a realização, em 1993, de plebiscito sobre:",
+      "alternativas": [
+        "a manutenção do voto obrigatório e a redução da maioridade eleitoral.",
+        "a transformação do Brasil em Estado unitário.",
+        "a adoção da democracia direta e a extinção do Senado Federal.",
+        "a criação de novos Estados na região Norte.",
+        "a forma de governo (república ou monarquia constitucional) e o sistema de governo (parlamentarismo ou presidencialismo)."
+      ],
+      "correta": 4,
+      "comentario": "O art. 2º do ADCT previu plebiscito para definir a forma de governo — república ou monarquia constitucional — e o sistema de governo — parlamentarismo ou presidencialismo. Realizado em 21 de abril de 1993, confirmou a república e o presidencialismo. A forma federativa não foi submetida à consulta, por ser cláusula pétrea.",
+      "fundamento": "ADCT, art. 2º.",
+      "dificuldade": "facil",
+      "tags": [
+        "plebiscito-1993",
+        "forma-de-governo",
+        "adct"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0020",
+      "topico": "7.1",
+      "tipo": "multipla",
+      "enunciado": "A evolução do Estado moderno costuma ser descrita em fases sucessivas.\n\nAssinale a opção que caracteriza corretamente essas fases.",
+      "alternativas": [
+        "O Estado liberal caracteriza-se pela intervenção intensa na economia e pela garantia de direitos sociais.",
+        "O Estado social tem como marcos as Constituições francesa de 1791 e norte-americana de 1787.",
+        "O Estado liberal enfatiza as liberdades individuais e a abstenção estatal; o Estado social incorpora direitos prestacionais, com marcos nas Constituições do México (1917) e de Weimar (1919); o Estado Democrático de Direito agrega a participação popular e a legitimação democrática do poder.",
+        "O Estado Democrático de Direito rejeita os direitos sociais, retomando o modelo liberal clássico.",
+        "A Constituição brasileira de 1988 adota o modelo de Estado liberal puro, sem previsão de direitos sociais."
+      ],
+      "correta": 2,
+      "comentario": "O Estado liberal, fruto das revoluções burguesas, garante direitos de primeira dimensão (liberdades negativas) e reduz a intervenção estatal. O Estado social, cujos marcos são as Constituições mexicana de 1917 e de Weimar de 1919 (no Brasil, a de 1934), assume prestações positivas. O Estado Democrático de Direito, adotado pelo art. 1º da CF/1988, soma a esses valores a soberania popular e a participação democrática.",
+      "fundamento": "CF/1988, arts. 1º e 6º; doutrina.",
+      "dificuldade": "media",
+      "tags": [
+        "estado-liberal",
+        "estado-social",
+        "estado-democratico-de-direito"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0021",
+      "topico": "7.1",
+      "tipo": "multipla",
+      "enunciado": "Um estudante sustenta que o Estado não resulta de acordo de vontades, mas decorre da própria natureza humana, pois o homem seria, por natureza, um animal político que só se realiza plenamente na comunidade política.\n\nEssa concepção corresponde à teoria:",
+      "alternativas": [
+        "contratualista, formulada por Hobbes.",
+        "contratualista, formulada por Rousseau.",
+        "da origem violenta, segundo a qual o Estado nasce da dominação de um grupo sobre outro.",
+        "da origem natural do Estado, de matriz aristotélica.",
+        "pura do direito, de Hans Kelsen."
+      ],
+      "correta": 3,
+      "comentario": "Para Aristóteles, o homem é um animal político (zoon politikón), e a pólis é uma realidade natural, anterior ao indivíduo em sentido lógico. Opõe-se às teorias contratualistas (Hobbes, Locke, Rousseau), que explicam o Estado como produto de um pacto de vontades. A teoria da força (Oppenheimer, entre outros) atribui a origem do Estado à dominação.",
+      "fundamento": "Aristóteles, Política; Dallari, Elementos de Teoria Geral do Estado.",
+      "dificuldade": "media",
+      "tags": [
+        "origem-do-estado",
+        "aristoteles",
+        "contratualismo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0022",
+      "topico": "7.1",
+      "tipo": "multipla",
+      "enunciado": "Para Hans Kelsen, o Estado:",
+      "alternativas": [
+        "é uma realidade sociológica anterior e independente do direito.",
+        "identifica-se com a ordem jurídica, sendo território e povo, respectivamente, os âmbitos espacial e pessoal de validade dessa ordem.",
+        "resulta de um contrato social pelo qual os indivíduos preservam seus direitos naturais.",
+        "caracteriza-se essencialmente pelo monopólio da força legítima, sem relação necessária com o direito.",
+        "é a encarnação da ideia ética, na formulação dialética da história."
+      ],
+      "correta": 1,
+      "comentario": "Na Teoria Pura do Direito, Kelsen identifica Estado e ordem jurídica: o Estado é a ordem jurídica centralizada, e os chamados elementos do Estado correspondem aos âmbitos de validade das normas — o território é o âmbito espacial, e o povo, o pessoal. O monopólio da força é a definição de Weber; o Estado como realização da ideia ética é concepção de Hegel.",
+      "fundamento": "Kelsen, Teoria Pura do Direito e Teoria Geral do Direito e do Estado.",
+      "dificuldade": "dificil",
+      "tags": [
+        "kelsen",
+        "conceito-de-estado"
+      ],
+      "fonte": "inédita"
+    }
+  ]
 }
