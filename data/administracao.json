@@ -2,42 +2,533 @@
   "materia": "adm",
   "questoes": [
     {
-      "id": "adm-0001",
-      "topico": "5.11",
+      "id": "adm-0003",
+      "topico": "5.1",
       "tipo": "multipla",
-      "enunciado": "O Balanced Scorecard (BSC), proposto por Kaplan e Norton, traduz a estratégia organizacional em objetivos e indicadores distribuídos em perspectivas equilibradas.\n\nAssinale a opção que NÃO corresponde a uma das perspectivas originais do BSC.",
+      "enunciado": "Frederick Taylor sistematizou a Administração Científica a partir de princípios voltados à racionalização do trabalho operário.\n\nAssinale a opção que apresenta um dos princípios da Administração Científica formulados por Taylor.",
       "alternativas": [
-        "Financeira.",
-        "Clientes.",
-        "Processos internos.",
-        "Aprendizado e crescimento.",
-        "Responsabilidade socioambiental."
+        "Unidade de comando: cada empregado deve receber ordens de um único superior.",
+        "Princípio do controle: verificar se o trabalho está sendo executado de acordo com as normas e o plano previsto.",
+        "Prevalência dos grupos informais sobre a estrutura formal na determinação da produtividade.",
+        "Equifinalidade: um mesmo resultado pode ser alcançado a partir de condições iniciais diferentes.",
+        "Racionalidade limitada: o decisor opta pela alternativa satisfatória, e não pela ótima."
       ],
-      "correta": 4,
-      "comentario": "As quatro perspectivas originais do BSC são: financeira, clientes, processos internos e aprendizado e crescimento. Responsabilidade socioambiental não integra o modelo original, embora adaptações posteriores (inclusive no setor público) acrescentem perspectivas próprias.",
-      "fundamento": "Kaplan e Norton, A Estratégia em Ação.",
+      "correta": 1,
+      "comentario": "Os quatro princípios de Taylor são planejamento, preparo, controle e execução. Unidade de comando é princípio de Fayol; a ênfase nos grupos informais vem da Escola de Relações Humanas; equifinalidade é conceito da Teoria dos Sistemas; racionalidade limitada é contribuição de Herbert Simon.",
+      "fundamento": "Taylor, Princípios de Administração Científica (1911); Chiavenato, Introdução à Teoria Geral da Administração.",
       "dificuldade": "facil",
-      "tags": ["bsc", "controle", "estrategia"],
-      "fonte": "Exemplo do modelo"
+      "tags": [
+        "taylor",
+        "administracao-cientifica",
+        "escola-classica"
+      ],
+      "fonte": "inédita"
     },
     {
-      "id": "adm-0002",
-      "topico": "5.34",
+      "id": "adm-0004",
+      "topico": "5.1",
       "tipo": "multipla",
-      "enunciado": "Um cidadão protocola pedido de acesso a informação em órgão federal. O órgão não dispõe da informação de imediato e precisa reuni-la.\n\nÀ luz da Lei nº 12.527/2011, o prazo para resposta é de:",
+      "enunciado": "O gerente de uma unidade de triagem de encomendas decidiu cronometrar cada etapa do trabalho, decompor as tarefas em movimentos elementares, eliminar os movimentos inúteis, padronizar as ferramentas utilizadas e instituir pagamento adicional por volume processado acima da meta.\n\nAs medidas adotadas pelo gerente alinham-se à:",
       "alternativas": [
-        "5 dias, improrrogáveis.",
-        "10 dias, prorrogáveis por mais 10 mediante justificativa expressa.",
-        "20 dias, prorrogáveis por mais 10 mediante justificativa expressa.",
-        "30 dias, prorrogáveis por mais 15 mediante justificativa expressa.",
-        "60 dias, improrrogáveis."
+        "Teoria das Relações Humanas, com ênfase na satisfação das necessidades sociais do trabalhador.",
+        "Teoria da Burocracia, com ênfase na autoridade racional-legal e na impessoalidade.",
+        "Teoria Comportamental, com ênfase na motivação intrínseca e na autorrealização.",
+        "Administração Científica, com ênfase nas tarefas e na concepção do homo economicus.",
+        "Teoria da Contingência, com ênfase na adequação da estrutura às demandas do ambiente."
+      ],
+      "correta": 3,
+      "comentario": "Estudo de tempos e movimentos, padronização de métodos e ferramentas e incentivos salariais por produção são marcas da Organização Racional do Trabalho de Taylor. A premissa é o homo economicus: o trabalhador seria motivado essencialmente por recompensas financeiras. As Relações Humanas e a Teoria Comportamental rejeitam justamente essa visão.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração — Administração Científica.",
+      "dificuldade": "facil",
+      "tags": [
+        "taylor",
+        "ort",
+        "homo-economicus"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0005",
+      "topico": "5.1",
+      "tipo": "multipla",
+      "enunciado": "Henry Ford adotou três princípios básicos para a produção em massa.\n\nO princípio que consiste em reduzir o tempo de produção com o emprego imediato dos equipamentos e da matéria-prima e com a rápida colocação do produto no mercado denomina-se:",
+      "alternativas": [
+        "produtividade.",
+        "economicidade.",
+        "intensificação.",
+        "especialização.",
+        "padronização."
       ],
       "correta": 2,
-      "comentario": "Não sendo possível conceder o acesso imediato, o órgão deve responder em até 20 dias, prazo prorrogável por mais 10 dias mediante justificativa expressa cientificada ao requerente.",
-      "fundamento": "Lei nº 12.527/2011, art. 11, §1º e §2º.",
+      "comentario": "Os princípios de Ford são intensificação (reduzir o ciclo de produção e acelerar a chegada ao mercado), economicidade (reduzir ao mínimo o estoque de matéria-prima em transformação) e produtividade (aumentar a capacidade de produção do homem pela especialização e pela linha de montagem). Especialização e padronização são meios, não os princípios nomeados por Ford.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração — contribuições de Ford.",
       "dificuldade": "media",
-      "tags": ["lai", "transparencia", "prazos"],
-      "fonte": "Exemplo do modelo"
+      "tags": [
+        "ford",
+        "producao-em-massa",
+        "escola-classica"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0006",
+      "topico": "5.1",
+      "tipo": "multipla",
+      "enunciado": "Henri Fayol distinguiu seis funções básicas de toda empresa e atribuiu a uma delas o papel de coordenar as demais.\n\nSegundo Fayol, a função administrativa é composta por:",
+      "alternativas": [
+        "funções técnicas, comerciais, financeiras, de segurança e contábeis.",
+        "planejar, organizar, dirigir e controlar, nessa ordem obrigatória.",
+        "planejamento, preparo, controle e execução.",
+        "produção, marketing, finanças e recursos humanos.",
+        "prever, organizar, comandar, coordenar e controlar."
+      ],
+      "correta": 4,
+      "comentario": "Para Fayol, a função administrativa se decompõe em prever, organizar, comandar, coordenar e controlar. As demais cinco funções da empresa (técnicas, comerciais, financeiras, de segurança e contábeis) são coordenadas pela função administrativa. A sequência planejar-organizar-dirigir-controlar é a releitura neoclássica do processo administrativo; planejamento, preparo, controle e execução são os princípios de Taylor.",
+      "fundamento": "Fayol, Administração Industrial e Geral (1916).",
+      "dificuldade": "facil",
+      "tags": [
+        "fayol",
+        "funcoes-administrativas",
+        "teoria-classica"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0007",
+      "topico": "5.1",
+      "tipo": "multipla",
+      "enunciado": "Em uma secretaria, todas as atividades relacionadas ao atendimento ao contribuinte passaram a seguir um único plano de ação, sob a responsabilidade de um único gestor, que responde pelo alcance do objetivo comum desse conjunto de atividades.\n\nO princípio de Fayol aplicado nessa reorganização é o da:",
+      "alternativas": [
+        "unidade de comando.",
+        "unidade de direção.",
+        "centralização.",
+        "cadeia escalar.",
+        "divisão do trabalho."
+      ],
+      "correta": 1,
+      "comentario": "Unidade de direção significa um só chefe e um só programa para um conjunto de operações que visam ao mesmo objetivo. Não se confunde com unidade de comando, segundo a qual cada empregado deve receber ordens de apenas um superior — um princípio trata do plano e do objetivo, o outro da relação de subordinação individual. Cadeia escalar refere-se à linha de autoridade do topo à base.",
+      "fundamento": "Fayol, 14 princípios gerais de administração.",
+      "dificuldade": "media",
+      "tags": [
+        "fayol",
+        "principios",
+        "unidade-de-direcao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0008",
+      "topico": "5.1",
+      "tipo": "multipla",
+      "enunciado": "A abordagem clássica da administração, que reúne a Administração Científica e a Teoria Clássica, recebeu diversas críticas das escolas que a sucederam.\n\nAssinale a opção que apresenta uma crítica pertinente a essa abordagem.",
+      "alternativas": [
+        "Tratou a organização como sistema fechado, sem considerar a influência do ambiente externo.",
+        "Desprezou a estrutura formal ao concentrar-se exclusivamente nos grupos informais.",
+        "Adotou uma visão contingencial, negando a existência de princípios universais de administração.",
+        "Enfatizou excessivamente a motivação intrínseca e a autorrealização dos trabalhadores.",
+        "Rejeitou a especialização e a divisão do trabalho como fontes de eficiência."
+      ],
+      "correta": 0,
+      "comentario": "A abordagem clássica foi criticada por conceber a organização como sistema fechado, por seu caráter prescritivo e normativo, pelo mecanicismo (teoria da máquina) e pela visão do homo economicus. As demais opções invertem o sentido: a escola clássica enfatizava a estrutura formal, defendia princípios universais e valorizava a especialização.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração — apreciação crítica da Teoria Clássica.",
+      "dificuldade": "facil",
+      "tags": [
+        "escola-classica",
+        "criticas",
+        "sistema-fechado"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0009",
+      "topico": "5.1",
+      "tipo": "multipla",
+      "enunciado": "A experiência de Hawthorne, conduzida na Western Electric sob a coordenação de Elton Mayo, deu origem à Escola de Relações Humanas.\n\nAssinale a opção que apresenta uma conclusão dessa experiência.",
+      "alternativas": [
+        "O nível de produção é determinado principalmente pela capacidade física e fisiológica do trabalhador.",
+        "A melhoria das condições de iluminação é o fator decisivo para o aumento da produtividade.",
+        "O nível de produção é influenciado pelas normas sociais e expectativas do grupo informal.",
+        "Os incentivos salariais individuais são a principal fonte de motivação dos operários.",
+        "A estrutura formal da organização determina integralmente o comportamento dos empregados."
+      ],
+      "correta": 2,
+      "comentario": "Hawthorne concluiu que o nível de produção depende da integração social, que os trabalhadores agem como membros de grupos, que existem recompensas e sanções sociais e que a organização informal influencia fortemente o desempenho. A primeira fase, sobre iluminação, mostrou justamente que o fator físico não explicava as variações de produtividade.",
+      "fundamento": "Mayo, experiência de Hawthorne (1927–1932).",
+      "dificuldade": "facil",
+      "tags": [
+        "hawthorne",
+        "relacoes-humanas",
+        "grupos-informais"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0010",
+      "topico": "5.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que apresenta corretamente uma diferença entre a Teoria Clássica e a Teoria das Relações Humanas.",
+      "alternativas": [
+        "A Teoria Clássica concebe a organização como sistema aberto; a de Relações Humanas, como sistema fechado.",
+        "A Teoria Clássica valoriza a organização informal; a de Relações Humanas, a organização formal.",
+        "A Teoria Clássica baseia-se no homem social; a de Relações Humanas, no homo economicus.",
+        "A Teoria Clássica enfatiza a estrutura e as tarefas; a de Relações Humanas, as pessoas e os grupos sociais.",
+        "A Teoria Clássica defende a autoridade descentralizada; a de Relações Humanas, a centralização da autoridade."
+      ],
+      "correta": 3,
+      "comentario": "A Teoria Clássica trata a organização como máquina, enfatiza estrutura, tarefas e autoridade centralizada, com base no homo economicus. A de Relações Humanas desloca o foco para pessoas, grupos informais, comunicação e liderança, com base no homem social. Ambas, porém, veem a organização como sistema fechado — por isso a primeira opção está errada.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração — quadro comparativo.",
+      "dificuldade": "media",
+      "tags": [
+        "relacoes-humanas",
+        "teoria-classica",
+        "comparacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0011",
+      "topico": "5.1",
+      "tipo": "multipla",
+      "enunciado": "Max Weber descreveu a burocracia como a forma mais racional de organização para alcançar objetivos com eficiência.\n\nAssinale a opção que NÃO corresponde a uma característica do modelo burocrático weberiano.",
+      "alternativas": [
+        "Caráter legal das normas e regulamentos.",
+        "Impessoalidade nas relações.",
+        "Hierarquia de autoridade.",
+        "Competência técnica e meritocracia na escolha dos funcionários.",
+        "Escolha dos ocupantes dos cargos com base na confiança pessoal da autoridade superior."
+      ],
+      "correta": 4,
+      "comentario": "No modelo weberiano, a admissão e a promoção se baseiam em competência técnica e mérito, e não em relações pessoais — a escolha por confiança é traço do modelo patrimonialista. Também são características: caráter formal das comunicações, divisão racional do trabalho, rotinas padronizadas, separação entre propriedade e administração, profissionalização e previsibilidade do funcionamento.",
+      "fundamento": "Weber, Economia e Sociedade; Chiavenato — Teoria da Burocracia.",
+      "dificuldade": "facil",
+      "tags": [
+        "weber",
+        "burocracia",
+        "caracteristicas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0012",
+      "topico": "5.1",
+      "tipo": "multipla",
+      "enunciado": "Em determinado órgão, os servidores cumprem as determinações do diretor não em razão de suas qualidades pessoais ou da tradição, mas porque ele ocupa um cargo cujas atribuições estão definidas em normas legalmente estabelecidas. Se outra pessoa assumir o cargo, a obediência se transfere a ela.\n\nSegundo a tipologia de Weber, esse é um exemplo de dominação:",
+      "alternativas": [
+        "tradicional.",
+        "carismática.",
+        "racional-legal.",
+        "patrimonial.",
+        "feudal."
+      ],
+      "correta": 2,
+      "comentario": "Na dominação racional-legal, a obediência se dirige ao cargo, e não à pessoa, e fundamenta-se em normas impessoais. Na tradicional, a legitimidade vem dos costumes e da herança (patrimonialismo e feudalismo são formas dela). Na carismática, decorre das qualidades extraordinárias atribuídas ao líder, o que torna difícil a sucessão.",
+      "fundamento": "Weber, tipos de dominação legítima.",
+      "dificuldade": "facil",
+      "tags": [
+        "weber",
+        "dominacao",
+        "autoridade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0013",
+      "topico": "5.1",
+      "tipo": "multipla",
+      "enunciado": "Um contribuinte teve seu pedido indeferido porque o formulário foi preenchido com caneta azul, e não preta, como exige a norma interna. O servidor reconheceu que a informação estava completa e correta, mas afirmou que \"a regra é a regra\".\n\nNa perspectiva de Robert Merton, a situação ilustra a disfunção burocrática denominada:",
+      "alternativas": [
+        "internalização das regras e apego aos regulamentos, que se tornam fins em si mesmos.",
+        "exibição de sinais de autoridade.",
+        "categorização como base do processo decisório.",
+        "despersonalização do relacionamento entre os funcionários.",
+        "resistência a mudanças."
+      ],
+      "correta": 0,
+      "comentario": "Quando as normas deixam de ser meios e passam a ser fins em si mesmas, ocorre a internalização das regras e o apego aos regulamentos. Merton também aponta: excesso de formalismo e papelório, resistência a mudanças, despersonalização, categorização nas decisões, superconformidade às rotinas, exibição de sinais de autoridade e dificuldades no atendimento ao público. A opção A é a que melhor descreve o caso, embora haja também reflexo na dificuldade de atendimento.",
+      "fundamento": "Merton, disfunções da burocracia.",
+      "dificuldade": "media",
+      "tags": [
+        "merton",
+        "disfuncoes",
+        "burocracia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0014",
+      "topico": "5.1",
+      "tipo": "multipla",
+      "enunciado": "A Teoria Estruturalista buscou uma síntese entre a Teoria Clássica e a Teoria das Relações Humanas.\n\nSobre essa teoria, é correto afirmar que:",
+      "alternativas": [
+        "considera o conflito organizacional sempre disfuncional e passível de eliminação completa.",
+        "restringe sua análise às relações internas da organização, desconsiderando outras organizações.",
+        "concebe o trabalhador como homo economicus, motivado exclusivamente por recompensas materiais.",
+        "vê a organização como sistema aberto e propõe a análise intraorganizacional e interorganizacional.",
+        "rejeita a elaboração de tipologias de organizações por considerá-las reducionistas."
+      ],
+      "correta": 3,
+      "comentario": "O estruturalismo trata a organização como sistema aberto, analisa tanto as relações internas quanto as relações entre organizações e adota o conceito de homem organizacional, que desempenha papéis em diferentes organizações. Considera os conflitos inevitáveis e, por vezes, desejáveis como motor de mudança, e é conhecido justamente pelas tipologias de organizações (Etzioni; Blau e Scott).",
+      "fundamento": "Chiavenato — Teoria Estruturalista.",
+      "dificuldade": "media",
+      "tags": [
+        "estruturalismo",
+        "sistema-aberto",
+        "conflito"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0015",
+      "topico": "5.1",
+      "tipo": "multipla",
+      "enunciado": "Amitai Etzioni classificou as organizações segundo o tipo de controle predominante sobre seus participantes.\n\nNessa tipologia, organizações como igrejas, universidades e associações voluntárias, que obtêm a adesão dos membros pelo compromisso com valores e crenças, são classificadas como:",
+      "alternativas": [
+        "coercitivas.",
+        "utilitárias.",
+        "mecanísticas.",
+        "normativas.",
+        "de benefício mútuo."
+      ],
+      "correta": 3,
+      "comentario": "Etzioni distingue organizações coercitivas (controle pela força, como prisões), utilitárias (controle pela remuneração, como empresas) e normativas (controle pelo consenso moral, como igrejas e universidades). 'De benefício mútuo' pertence à tipologia de Blau e Scott, baseada em quem é o beneficiário principal. 'Mecanística' é conceito de Burns e Stalker.",
+      "fundamento": "Etzioni, Organizações Complexas.",
+      "dificuldade": "media",
+      "tags": [
+        "etzioni",
+        "tipologias",
+        "estruturalismo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0016",
+      "topico": "5.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que apresenta características da Teoria Neoclássica da Administração.",
+      "alternativas": [
+        "Rejeição dos postulados clássicos e ênfase exclusiva nas relações informais.",
+        "Ênfase na prática da administração, reafirmação relativa dos postulados clássicos e ênfase nos objetivos e resultados.",
+        "Ênfase na tecnologia como variável independente que determina a estrutura organizacional.",
+        "Ênfase na organização como sistema de decisões e na racionalidade limitada.",
+        "Ênfase na mudança planejada da cultura organizacional por meio de agentes de mudança."
+      ],
+      "correta": 1,
+      "comentario": "A Teoria Neoclássica (Drucker, Koontz, O'Donnell) caracteriza-se pela ênfase na prática da administração, pela reafirmação relativa dos postulados clássicos, pela ênfase nos princípios gerais, nos objetivos e nos resultados, e pelo ecletismo. Dela surge a Administração por Objetivos. A tecnologia como determinante da estrutura é tema contingencial; o sistema de decisões é comportamental; a mudança planejada é o DO.",
+      "fundamento": "Chiavenato — Teoria Neoclássica.",
+      "dificuldade": "media",
+      "tags": [
+        "neoclassica",
+        "drucker",
+        "resultados"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0017",
+      "topico": "5.1",
+      "tipo": "multipla",
+      "enunciado": "Um programa de qualificação profissional reduziu em 30% o custo por aluno e cumpriu integralmente a meta de 5 mil concluintes. Contudo, avaliação posterior verificou que a taxa de empregabilidade dos egressos não se alterou em relação à de quem não participou.\n\nÀ luz dos conceitos de desempenho, o programa foi:",
+      "alternativas": [
+        "ineficiente, eficaz e efetivo.",
+        "eficiente, ineficaz e efetivo.",
+        "eficiente, eficaz e pouco efetivo.",
+        "ineficiente, ineficaz e pouco efetivo.",
+        "eficiente, eficaz e efetivo."
+      ],
+      "correta": 2,
+      "comentario": "Eficiência relaciona-se ao uso dos recursos (reduziu custo por aluno); eficácia, ao alcance das metas (formou os 5 mil previstos); efetividade, ao impacto real sobre o problema que motivou a ação (a empregabilidade não mudou). Um programa pode ser eficiente e eficaz sem ser efetivo — distinção muito cobrada na gestão pública.",
+      "fundamento": "Conceitos de eficiência, eficácia e efetividade.",
+      "dificuldade": "media",
+      "tags": [
+        "eficiencia",
+        "eficacia",
+        "efetividade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0018",
+      "topico": "5.1",
+      "tipo": "multipla",
+      "enunciado": "Um gestor acredita que seus subordinados evitam responsabilidades, preferem ser dirigidos e só trabalham sob controle rígido e ameaça de punição. Por isso, supervisiona de perto todas as atividades e não delega decisões.\n\nSegundo Douglas McGregor, esse gestor adota as premissas da:",
+      "alternativas": [
+        "Teoria X.",
+        "Teoria Y.",
+        "Teoria Z.",
+        "Teoria dos dois fatores.",
+        "Teoria da expectância."
+      ],
+      "correta": 0,
+      "comentario": "A Teoria X parte do pressuposto de que as pessoas são indolentes, evitam responsabilidade e precisam ser controladas e coagidas. A Teoria Y supõe que o trabalho é natural, que as pessoas buscam responsabilidade e são capazes de autodireção e criatividade. Teoria Z é de Ouchi; dois fatores, de Herzberg; expectância, de Vroom.",
+      "fundamento": "McGregor, O Lado Humano da Empresa (1960).",
+      "dificuldade": "facil",
+      "tags": [
+        "mcgregor",
+        "teoria-x-y",
+        "comportamental"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0019",
+      "topico": "5.1",
+      "tipo": "multipla",
+      "enunciado": "Herbert Simon, um dos principais nomes da Teoria Comportamental, criticou o modelo de decisão perfeitamente racional.\n\nSegundo Simon, o tomador de decisão nas organizações:",
+      "alternativas": [
+        "dispõe de informação completa e escolhe sempre a alternativa que maximiza os resultados.",
+        "decide exclusivamente com base em intuição, sem qualquer componente racional.",
+        "é um homo economicus que busca apenas a maximização da recompensa financeira.",
+        "segue invariavelmente os princípios universais de administração.",
+        "opera sob racionalidade limitada e tende a escolher alternativas satisfatórias, e não ótimas."
+      ],
+      "correta": 4,
+      "comentario": "Simon propõe o homem administrativo: por limitações de informação, tempo e capacidade cognitiva, ele opera sob racionalidade limitada e contenta-se com soluções satisfatórias (satisficing). Isso não significa decidir sem racionalidade, mas com uma racionalidade restrita. Para Simon, a organização é um sistema de decisões.",
+      "fundamento": "Simon, Comportamento Administrativo (1947).",
+      "dificuldade": "facil",
+      "tags": [
+        "simon",
+        "racionalidade-limitada",
+        "decisao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0020",
+      "topico": "5.1",
+      "tipo": "multipla",
+      "enunciado": "Duas delegacias partiram de estruturas, equipes e recursos bastante diferentes, mas, ao final de dois anos, atingiram o mesmo patamar de desempenho na recuperação de créditos.\n\nNa Teoria Geral dos Sistemas, essa possibilidade corresponde ao conceito de:",
+      "alternativas": [
+        "entropia.",
+        "equifinalidade.",
+        "homeostase.",
+        "sinergia.",
+        "retroação negativa."
+      ],
+      "correta": 1,
+      "comentario": "Equifinalidade é a propriedade dos sistemas abertos de alcançar o mesmo estado final a partir de condições iniciais diferentes e por caminhos distintos. Entropia é a tendência à desorganização; homeostase, a manutenção do equilíbrio dinâmico; sinergia, o efeito de o todo ser maior que a soma das partes; retroação negativa corrige desvios em relação a um padrão.",
+      "fundamento": "Bertalanffy; Katz e Kahn — Teoria de Sistemas.",
+      "dificuldade": "media",
+      "tags": [
+        "sistemas",
+        "equifinalidade",
+        "sistema-aberto"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0021",
+      "topico": "5.1",
+      "tipo": "multipla",
+      "enunciado": "Burns e Stalker compararam empresas inseridas em ambientes estáveis com empresas inseridas em ambientes dinâmicos e sujeitos a inovação constante.\n\nDe acordo com as conclusões desses autores, organizações que atuam em ambiente instável tendem a ser mais bem-sucedidas quando adotam estrutura:",
+      "alternativas": [
+        "mecanística, com hierarquia rígida e tarefas altamente especializadas.",
+        "burocrática, com comunicação predominantemente vertical e formal.",
+        "orgânica, com baixa formalização, comunicação lateral e redefinição contínua de tarefas.",
+        "funcional pura, com unidade de comando e amplitude de controle reduzida.",
+        "centralizada, com decisões concentradas no topo para garantir coordenação."
+      ],
+      "correta": 2,
+      "comentario": "Burns e Stalker concluíram que não existe estrutura ótima universal: a mecanística funciona bem em ambientes estáveis, e a orgânica — flexível, descentralizada, com comunicação lateral e tarefas redefinidas continuamente — é mais adequada a ambientes mutáveis. É um dos estudos fundadores da Teoria da Contingência.",
+      "fundamento": "Burns e Stalker, The Management of Innovation (1961).",
+      "dificuldade": "media",
+      "tags": [
+        "contingencia",
+        "burns-stalker",
+        "mecanistica-organica"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0022",
+      "topico": "5.1",
+      "tipo": "multipla",
+      "enunciado": "A Teoria da Contingência reúne pesquisas que relacionam a estrutura organizacional a variáveis situacionais.\n\nAssinale a opção que associa corretamente o autor à sua contribuição.",
+      "alternativas": [
+        "Alfred Chandler — a estrutura organizacional acompanha a estratégia adotada pela empresa.",
+        "Joan Woodward — as organizações devem equilibrar diferenciação e integração conforme o ambiente.",
+        "Lawrence e Lorsch — a tecnologia de produção determina a estrutura organizacional.",
+        "Burns e Stalker — a estrutura é determinada pela estratégia de crescimento da empresa.",
+        "Herbert Simon — não existe uma única melhor maneira de organizar, dependendo da tecnologia."
+      ],
+      "correta": 0,
+      "comentario": "Chandler estudou grandes empresas americanas e concluiu que a estrutura segue a estratégia. Woodward relacionou a tecnologia de produção (unitária, em massa, em processo contínuo) à estrutura. Lawrence e Lorsch trataram de diferenciação e integração diante das demandas ambientais. Burns e Stalker distinguiram estruturas mecanísticas e orgânicas. Simon é da Teoria Comportamental.",
+      "fundamento": "Chiavenato — Teoria da Contingência.",
+      "dificuldade": "dificil",
+      "tags": [
+        "contingencia",
+        "chandler",
+        "woodward",
+        "lawrence-lorsch"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0023",
+      "topico": "5.1",
+      "tipo": "multipla",
+      "enunciado": "Um órgão pretende implantar um novo modelo de trabalho. Antes de qualquer alteração, a direção promoveu debates para evidenciar a insuficiência das práticas atuais e reduzir a resistência dos servidores. Em seguida, implantou os novos procedimentos e, por fim, instituiu normas e incentivos para consolidá-los.\n\nNo modelo de mudança de Kurt Lewin, as etapas descritas correspondem, respectivamente, a:",
+      "alternativas": [
+        "diagnóstico, intervenção e avaliação.",
+        "planejamento, execução e controle.",
+        "sensibilização, capacitação e retroação.",
+        "descongelamento, mudança e recongelamento.",
+        "resistência, adaptação e homeostase."
+      ],
+      "correta": 3,
+      "comentario": "Para Lewin, a mudança envolve descongelamento (romper com os padrões atuais e criar prontidão para mudar), mudança ou movimento (adotar novos comportamentos) e recongelamento (incorporar e estabilizar os novos padrões). O modelo é base do Desenvolvimento Organizacional, voltado à mudança planejada.",
+      "fundamento": "Lewin, modelo de mudança em três etapas; Chiavenato — Desenvolvimento Organizacional.",
+      "dificuldade": "facil",
+      "tags": [
+        "lewin",
+        "mudanca",
+        "desenvolvimento-organizacional"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0024",
+      "topico": "5.1",
+      "tipo": "multipla",
+      "enunciado": "Ao analisar o ambiente de uma empresa importadora, um consultor separou os elementos em dois níveis: de um lado, fatores amplos como inflação, mudanças demográficas e evolução tecnológica; de outro, fornecedores, clientes, concorrentes e órgãos reguladores com os quais a empresa interage diretamente.\n\nEsses dois níveis correspondem, respectivamente, ao:",
+      "alternativas": [
+        "ambiente de tarefa e ambiente geral.",
+        "ambiente geral e ambiente de tarefa.",
+        "ambiente interno e ambiente externo.",
+        "microambiente e macroambiente.",
+        "ambiente operacional e ambiente organizacional."
+      ],
+      "correta": 1,
+      "comentario": "O ambiente geral (macroambiente) reúne condições econômicas, tecnológicas, sociais, políticas, legais, demográficas e ecológicas que afetam todas as organizações. O ambiente de tarefa (microambiente) é o mais próximo e imediato: fornecedores, clientes, concorrentes e agências reguladoras. A opção D inverte a ordem.",
+      "fundamento": "Chiavenato — ambiente organizacional.",
+      "dificuldade": "facil",
+      "tags": [
+        "ambiente",
+        "stakeholders",
+        "sistema-aberto"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0025",
+      "topico": "5.1",
+      "tipo": "multipla",
+      "enunciado": "Diversos municípios passaram a adotar o mesmo modelo de escritório de projetos sem avaliar sua adequação local, apenas porque ele havia sido implantado por prefeituras consideradas bem-sucedidas, em um contexto de grande incerteza sobre as melhores práticas de gestão.\n\nSegundo DiMaggio e Powell, trata-se de isomorfismo:",
+      "alternativas": [
+        "coercitivo.",
+        "normativo.",
+        "competitivo.",
+        "funcional.",
+        "mimético."
+      ],
+      "correta": 4,
+      "comentario": "O isomorfismo mimético ocorre quando, diante da incerteza, organizações imitam as que são percebidas como bem-sucedidas. O coercitivo decorre de pressões formais ou informais, como exigências legais e de órgãos de controle. O normativo resulta da profissionalização e da difusão de padrões por redes e formação profissional. A teoria institucional explica por que organizações se tornam parecidas mesmo sem ganho de eficiência.",
+      "fundamento": "DiMaggio e Powell, The Iron Cage Revisited (1983).",
+      "dificuldade": "dificil",
+      "tags": [
+        "teoria-institucional",
+        "isomorfismo"
+      ],
+      "fonte": "inédita"
     }
   ]
 }

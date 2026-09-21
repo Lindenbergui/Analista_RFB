@@ -1,43 +1,4 @@
 {
   "materia": "lad",
-  "questoes": [
-    {
-      "id": "lad-0001",
-      "topico": "11.4",
-      "tipo": "multipla",
-      "enunciado": "O regime aduaneiro especial de drawback permite a importação de insumos vinculada a compromisso de exportação.\n\nAssinale a opção que apresenta as modalidades do regime.",
-      "alternativas": [
-        "Isenção, suspensão e restituição.",
-        "Suspensão, admissão temporária e entreposto.",
-        "Isenção, imunidade e diferimento.",
-        "Restituição, compensação e remissão.",
-        "Suspensão, trânsito e exportação temporária."
-      ],
-      "correta": 0,
-      "comentario": "O drawback comporta três modalidades: suspensão (tributos suspensos na importação de insumos a serem empregados em produto a exportar), isenção (reposição de estoque de insumos já utilizados em produto exportado) e restituição (devolução de tributos pagos na importação).",
-      "fundamento": "Decreto-Lei nº 37/1966, art. 78; Regulamento Aduaneiro.",
-      "dificuldade": "facil",
-      "tags": ["drawback", "regimes-especiais"],
-      "fonte": "Exemplo do modelo"
-    },
-    {
-      "id": "lad-0002",
-      "topico": "11.3",
-      "tipo": "multipla",
-      "enunciado": "Na importação de mercadoria sujeita ao Imposto de Importação com alíquota ad valorem, a base de cálculo é:",
-      "alternativas": [
-        "o preço declarado na fatura comercial, sem qualquer ajuste.",
-        "o valor aduaneiro, apurado segundo as normas do Acordo de Valoração Aduaneira.",
-        "o preço de venda no mercado interno, deduzidos os tributos.",
-        "o custo de produção no país de origem, acrescido de margem de lucro presumida.",
-        "a quantidade de mercadoria expressa na unidade de medida da TEC."
-      ],
-      "correta": 1,
-      "comentario": "Quando a alíquota é ad valorem, a base de cálculo do Imposto de Importação é o valor aduaneiro, apurado conforme o Artigo VII do GATT (Acordo de Valoração Aduaneira). A quantidade expressa na unidade de medida serve de base apenas quando a alíquota é específica.",
-      "fundamento": "CTN, art. 20; Decreto-Lei nº 37/1966; AVA-GATT.",
-      "dificuldade": "facil",
-      "tags": ["imposto-importacao", "valor-aduaneiro"],
-      "fonte": "Exemplo do modelo"
-    }
-  ]
+  "questoes": []
 }

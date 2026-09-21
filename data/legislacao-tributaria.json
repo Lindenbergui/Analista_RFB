@@ -1,43 +1,4 @@
 {
   "materia": "ltrib",
-  "questoes": [
-    {
-      "id": "ltrib-0001",
-      "topico": "10.7",
-      "tipo": "multipla",
-      "enunciado": "Pessoa jurídica tributada pelo lucro real apura a Contribuição para o PIS/Pasep e a COFINS pelo regime não cumulativo, sem enquadrar-se em qualquer regime especial.\n\nAs alíquotas básicas aplicáveis são, respectivamente:",
-      "alternativas": [
-        "0,65% e 3%.",
-        "1,65% e 3%.",
-        "0,65% e 7,6%.",
-        "1,65% e 7,6%.",
-        "2,1% e 9,65%."
-      ],
-      "correta": 3,
-      "comentario": "No regime não cumulativo, as alíquotas básicas são 1,65% (PIS/Pasep) e 7,6% (COFINS), totalizando 9,25%, admitido o desconto de créditos. No regime cumulativo, as alíquotas são 0,65% e 3%, sem direito a crédito.",
-      "fundamento": "Lei nº 10.637/2002, art. 2º; Lei nº 10.833/2003, art. 2º.",
-      "dificuldade": "facil",
-      "tags": ["pis", "cofins", "nao-cumulatividade"],
-      "fonte": "Exemplo do modelo"
-    },
-    {
-      "id": "ltrib-0002",
-      "topico": "10.4",
-      "tipo": "multipla",
-      "enunciado": "Pessoa física residente no Brasil recebe aluguéis pagos mensalmente por outra pessoa física, sem qualquer retenção na fonte.\n\nQuanto ao Imposto de Renda, esses rendimentos:",
-      "alternativas": [
-        "são isentos, por já terem sido tributados na pessoa do locatário.",
-        "sujeitam-se ao recolhimento mensal obrigatório (carnê-leão) e integram a base do ajuste anual.",
-        "sujeitam-se exclusivamente à tributação na fonte, sem ajuste anual.",
-        "sujeitam-se apenas ao ajuste anual, sem qualquer recolhimento mensal.",
-        "sujeitam-se ao regime de tributação definitiva à alíquota de 15%."
-      ],
-      "correta": 1,
-      "comentario": "Rendimentos recebidos de pessoa física, sem retenção na fonte, sujeitam-se ao recolhimento mensal obrigatório (carnê-leão), calculado pela tabela progressiva mensal, e são posteriormente incluídos na declaração de ajuste anual, com compensação do imposto pago.",
-      "fundamento": "RIR/2018 (Decreto nº 9.580/2018), arts. 118 e seguintes.",
-      "dificuldade": "media",
-      "tags": ["irpf", "carne-leao", "alugueis"],
-      "fonte": "Exemplo do modelo"
-    }
-  ]
+  "questoes": []
 }
