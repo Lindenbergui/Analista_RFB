@@ -1,4 +1,529 @@
 {
   "materia": "dtrib",
-  "questoes": []
+  "questoes": [
+    {
+      "id": "dtrib-0001",
+      "topico": "9.1",
+      "tipo": "multipla",
+      "enunciado": "A Constituição Federal distribui entre os entes políticos o poder de instituir tributos.\n\nSobre as características da competência tributária, assinale a afirmativa correta.",
+      "alternativas": [
+        "A competência tributária pode ser delegada, por lei, a outro ente político, desde que haja convênio.",
+        "O ente que deixar de exercer sua competência por cinco anos perde o direito de instituir o tributo.",
+        "A competência tributária é indelegável, irrenunciável e de exercício facultativo, não se perdendo pelo decurso do tempo.",
+        "A lei complementar pode ampliar a competência tributária dos Municípios para abranger impostos estaduais.",
+        "O não exercício da competência por um Estado autoriza a União a instituir o tributo em seu lugar."
+      ],
+      "correta": 2,
+      "comentario": "A competência tributária é indelegável (CTN, art. 7º), irrenunciável, incaducável — não se extingue pelo não uso — e, em regra, facultativa: o ente decide se e quando institui o tributo. Também é inalterável por norma infraconstitucional, pois decorre diretamente da Constituição. O não exercício não transfere a competência a outro ente (CTN, art. 8º).",
+      "fundamento": "CTN, arts. 6º a 8º; CF/1988, arts. 145 a 156.",
+      "dificuldade": "facil",
+      "tags": [
+        "competencia",
+        "caracteristicas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0002",
+      "topico": "9.1",
+      "tipo": "multipla",
+      "enunciado": "Lei federal atribuiu a uma autarquia as funções de fiscalizar e arrecadar determinada contribuição instituída pela União, conferindo-lhe também as garantias e os privilégios processuais da Fazenda Pública.\n\nÀ luz do Código Tributário Nacional, essa atribuição:",
+      "alternativas": [
+        "é válida, pois transfere apenas a capacidade tributária ativa, que é delegável entre pessoas jurídicas de direito público.",
+        "é inválida, pois a competência tributária é indelegável em qualquer de seus aspectos.",
+        "é válida, e transfere à autarquia também o poder de alterar, por ato próprio, a alíquota da contribuição.",
+        "é inválida, pois as garantias e os privilégios processuais não acompanham a delegação de funções.",
+        "é válida, mas somente poderia ser revogada por lei complementar."
+      ],
+      "correta": 0,
+      "comentario": "O CTN distingue competência tributária (poder de legislar, indelegável) de capacidade tributária ativa (arrecadar, fiscalizar, executar leis e decisões em matéria tributária), que pode ser conferida por uma pessoa jurídica de direito público a outra. A atribuição compreende as garantias e os privilégios processuais do ente que a confere e pode ser revogada a qualquer tempo, por ato unilateral. O poder de legislar sobre alíquota não se transfere.",
+      "fundamento": "CTN, art. 7º, caput, §§1º e 2º.",
+      "dificuldade": "media",
+      "tags": [
+        "capacidade-tributaria-ativa",
+        "delegacao",
+        "parafiscalidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0003",
+      "topico": "9.1",
+      "tipo": "multipla",
+      "enunciado": "Um Município firmou contrato com instituição financeira privada para que esta receba, em suas agências, os pagamentos do IPTU efetuados pelos contribuintes.\n\nNos termos do CTN, esse ajuste:",
+      "alternativas": [
+        "configura delegação de competência tributária, vedada pelo ordenamento.",
+        "configura delegação de capacidade tributária ativa, que só pode ser feita a pessoas jurídicas de direito público.",
+        "exige autorização em lei complementar federal.",
+        "transfere ao banco a condição de sujeito ativo da obrigação tributária.",
+        "não constitui delegação de competência, pois se trata apenas do cometimento a pessoa de direito privado da função de arrecadar."
+      ],
+      "correta": 4,
+      "comentario": "O CTN é expresso: não constitui delegação de competência o cometimento, a pessoas de direito privado, do encargo ou da função de arrecadar tributos. O banco atua como mero agente arrecadador, sem se tornar sujeito ativo e sem receber poderes de fiscalização ou cobrança.",
+      "fundamento": "CTN, art. 7º, §3º.",
+      "dificuldade": "facil",
+      "tags": [
+        "capacidade-tributaria-ativa",
+        "arrecadacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0004",
+      "topico": "9.1",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, relativas à competência tributária.\n\nI. A atribuição das funções de fiscalizar e arrecadar tributos, conferida por uma pessoa jurídica de direito público a outra, pode ser revogada a qualquer tempo, por ato unilateral da que a tiver conferido.\nII. A competência tributária compreende a competência legislativa plena, ressalvadas as limitações constitucionais.\nIII. Os tributos cuja receita seja distribuída, no todo ou em parte, a outros entes passam à competência legislativa dos entes beneficiários da repartição.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 1,
+      "comentario": "I está correta (art. 7º, §2º). II está correta (art. 6º, caput). III está errada: pelo parágrafo único do art. 6º, os tributos cuja receita seja distribuída continuam pertencendo à competência legislativa do ente a que foram atribuídos. É o caso do IPI e do IR, repartidos com Estados e Municípios, mas legislados apenas pela União.",
+      "fundamento": "CTN, arts. 6º e 7º.",
+      "dificuldade": "media",
+      "tags": [
+        "competencia",
+        "reparticao-de-receitas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0005",
+      "topico": "9.1",
+      "tipo": "multipla",
+      "enunciado": "A Constituição de 1988 atribuiu à União a competência para instituir o imposto sobre grandes fortunas, que até hoje não foi criado.\n\nDiante dessa situação, é correto afirmar que:",
+      "alternativas": [
+        "a competência caducou, pois não foi exercida no prazo de cinco anos da promulgação da Constituição.",
+        "os Estados podem instituir o imposto, suprindo a omissão da União, por meio de lei complementar estadual.",
+        "a União somente poderá instituí-lo mediante emenda constitucional, dado o longo período de inércia.",
+        "a União continua competente para instituí-lo, pois o não exercício não transfere a competência a outro ente nem a extingue.",
+        "o imposto pode ser instituído por medida provisória, convertida em lei no mesmo exercício."
+      ],
+      "correta": 3,
+      "comentario": "O não exercício da competência não a defere a pessoa jurídica diversa daquela a que a Constituição a atribuiu (CTN, art. 8º), e a competência não caduca. O imposto sobre grandes fortunas exige lei complementar (CF, art. 153, VII), matéria vedada à medida provisória (CF, art. 62, §1º, III).",
+      "fundamento": "CTN, art. 8º; CF/1988, arts. 62, §1º, III, e 153, VII.",
+      "dificuldade": "facil",
+      "tags": [
+        "competencia",
+        "igf",
+        "facultatividade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0006",
+      "topico": "9.1",
+      "tipo": "multipla",
+      "enunciado": "A União pretende criar um novo imposto, não previsto na Constituição, com base em sua competência residual.\n\nSão requisitos para o exercício dessa competência:",
+      "alternativas": [
+        "lei ordinária, cumulatividade e base de cálculo idêntica à de impostos já existentes.",
+        "lei complementar, não cumulatividade e fato gerador ou base de cálculo próprios dos impostos já discriminados na Constituição.",
+        "lei complementar, não cumulatividade e fato gerador ou base de cálculo distintos dos impostos discriminados na Constituição.",
+        "medida provisória, não cumulatividade e vinculação da receita a fundo específico.",
+        "lei ordinária, situação de guerra externa e supressão gradativa após cessadas as causas."
+      ],
+      "correta": 2,
+      "comentario": "A competência residual da União exige: lei complementar; que o imposto seja não cumulativo; e que não tenha fato gerador ou base de cálculo próprios dos impostos discriminados na Constituição. Somente a União detém competência residual para impostos. A opção E descreve o imposto extraordinário de guerra.",
+      "fundamento": "CF/1988, art. 154, I.",
+      "dificuldade": "facil",
+      "tags": [
+        "competencia-residual",
+        "impostos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0007",
+      "topico": "9.1",
+      "tipo": "multipla",
+      "enunciado": "Na iminência de guerra externa, a União instituiu imposto extraordinário cujo fato gerador é a circulação de mercadorias, hipótese já abrangida pela competência dos Estados para o ICMS.\n\nSobre essa situação, é correto afirmar que:",
+      "alternativas": [
+        "o imposto é inconstitucional, pois a União não pode instituir tributo sobre fato gerador de competência estadual.",
+        "o imposto exige lei complementar e deve observar a anterioridade anual.",
+        "o imposto deve ser mantido por pelo menos cinco anos após o fim do conflito.",
+        "a receita do imposto deve ser obrigatoriamente repartida com os Estados.",
+        "o imposto é válido, pois a Constituição permite que ele esteja compreendido ou não na competência da União, devendo ser suprimido gradativamente cessadas as causas de sua criação."
+      ],
+      "correta": 4,
+      "comentario": "Na iminência ou no caso de guerra externa, a União pode instituir impostos extraordinários, compreendidos ou não em sua competência tributária — é a hipótese de bitributação constitucionalmente autorizada. Basta lei ordinária, e o imposto é exceção à anterioridade anual e à nonagesimal. Deve ser suprimido gradativamente quando cessarem as causas.",
+      "fundamento": "CF/1988, arts. 150, §1º, e 154, II.",
+      "dificuldade": "media",
+      "tags": [
+        "imposto-extraordinario",
+        "guerra",
+        "bitributacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0008",
+      "topico": "9.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre os empréstimos compulsórios, assinale a afirmativa correta.",
+      "alternativas": [
+        "São de competência exclusiva da União, instituídos por lei complementar, e a aplicação dos recursos é vinculada à despesa que fundamentou sua instituição.",
+        "Podem ser instituídos pela União, pelos Estados e pelo Distrito Federal, em caso de calamidade pública.",
+        "Podem ser instituídos por medida provisória em caso de investimento público urgente.",
+        "Quando destinados a investimento público urgente e de relevante interesse nacional, dispensam a observância da anterioridade anual.",
+        "Admitem livre destinação da receita, desde que aplicada em despesas da União."
+      ],
+      "correta": 0,
+      "comentario": "Os empréstimos compulsórios são de competência exclusiva da União, exigem lei complementar (o que afasta a medida provisória) e têm receita vinculada à despesa que os fundamentou. Cabem para despesas extraordinárias (calamidade pública, guerra externa ou sua iminência) e para investimento público urgente e de relevante interesse nacional — este último observa a anterioridade anual.",
+      "fundamento": "CF/1988, arts. 62, §1º, III, e 148.",
+      "dificuldade": "media",
+      "tags": [
+        "emprestimo-compulsorio",
+        "uniao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0009",
+      "topico": "9.1",
+      "tipo": "multipla",
+      "enunciado": "Quanto à competência tributária do Distrito Federal, é correto afirmar que:",
+      "alternativas": [
+        "o Distrito Federal institui apenas os impostos municipais, cabendo à União os impostos estaduais em seu território.",
+        "cabem ao Distrito Federal os impostos estaduais e os impostos municipais.",
+        "o Distrito Federal institui apenas taxas e contribuições de melhoria, pois não possui Municípios.",
+        "o Distrito Federal institui apenas os impostos estaduais, sendo os municipais de competência da União.",
+        "a competência do Distrito Federal depende de delegação da União, por lei complementar."
+      ],
+      "correta": 1,
+      "comentario": "O Distrito Federal tem competência tributária cumulativa: institui tanto os impostos estaduais (CF, art. 155) quanto os municipais (CF, art. 147, parte final, e art. 156). Não pode ser dividido em Municípios e acumula as competências legislativas reservadas a Estados e Municípios.",
+      "fundamento": "CF/1988, arts. 32, §1º, 147, 155 e 156.",
+      "dificuldade": "facil",
+      "tags": [
+        "distrito-federal",
+        "competencia-cumulativa"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0010",
+      "topico": "9.1",
+      "tipo": "multipla",
+      "enunciado": "Suponha a criação de um Território Federal não dividido em Municípios.\n\nNesse caso, a competência para instituir os impostos estaduais e municipais nesse Território caberá:",
+      "alternativas": [
+        "ao Estado do qual o Território foi desmembrado, para os impostos estaduais, e à União, para os municipais.",
+        "ao próprio Território, que é dotado de autonomia política.",
+        "ao Distrito Federal, por analogia.",
+        "à União, cumulativamente, quanto aos impostos estaduais e municipais.",
+        "à União, apenas quanto aos impostos estaduais, ficando os municipais sem possibilidade de instituição."
+      ],
+      "correta": 3,
+      "comentario": "Competem à União, em Território Federal, os impostos estaduais e, se o Território não for dividido em Municípios, cumulativamente, os impostos municipais. Territórios não têm autonomia política nem competência tributária própria; integram a União.",
+      "fundamento": "CF/1988, art. 147.",
+      "dificuldade": "media",
+      "tags": [
+        "territorios",
+        "competencia-cumulativa"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0011",
+      "topico": "9.1",
+      "tipo": "multipla",
+      "enunciado": "A respeito da competência para instituir contribuições, assinale a afirmativa correta.",
+      "alternativas": [
+        "Os Estados podem instituir contribuições de intervenção no domínio econômico sobre combustíveis consumidos em seu território.",
+        "Os Municípios podem instituir contribuições de interesse de categorias profissionais para os profissionais neles domiciliados.",
+        "Compete exclusivamente à União instituir contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais ou econômicas, ressalvadas hipóteses constitucionais como a contribuição previdenciária de servidores dos demais entes.",
+        "Somente a União pode instituir contribuição para custeio de regime próprio de previdência de servidores.",
+        "A contribuição para custeio do serviço de iluminação pública é de competência dos Estados."
+      ],
+      "correta": 2,
+      "comentario": "O art. 149 atribui à União a competência exclusiva para contribuições sociais, CIDE e contribuições corporativas. As exceções constitucionais são a contribuição para custeio do regime próprio de previdência dos servidores, instituída por cada ente (art. 149, §1º), e a contribuição de iluminação pública, de competência dos Municípios e do Distrito Federal (art. 149-A).",
+      "fundamento": "CF/1988, arts. 149 e 149-A.",
+      "dificuldade": "media",
+      "tags": [
+        "contribuicoes",
+        "cosip",
+        "rpps"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0012",
+      "topico": "9.1",
+      "tipo": "multipla",
+      "enunciado": "Um Município pretende custear seu serviço de iluminação pública por meio de tributo cobrado na fatura de energia elétrica.\n\nConsiderando a Constituição e a jurisprudência do STF, o Município deve:",
+      "alternativas": [
+        "instituir taxa de iluminação pública, por se tratar de serviço público específico e divisível.",
+        "instituir contribuição para o custeio do serviço de iluminação pública, sendo vedada a cobrança por taxa.",
+        "instituir imposto municipal vinculado ao serviço de iluminação pública.",
+        "solicitar à União a instituição de contribuição de intervenção no domínio econômico sobre energia elétrica.",
+        "instituir contribuição de melhoria, calculada pela valorização decorrente da iluminação."
+      ],
+      "correta": 1,
+      "comentario": "A iluminação pública é serviço indivisível, não podendo ser remunerada por taxa (Súmula Vinculante 41). Por isso a Constituição autoriza Municípios e o Distrito Federal a instituir contribuição para o custeio, a expansão e a melhoria do serviço de iluminação pública — e, após a EC 132/2023, também de sistemas de monitoramento para segurança e preservação de logradouros —, facultada a cobrança na fatura de energia. Imposto com receita vinculada a despesa específica esbarra no art. 167, IV.",
+      "fundamento": "CF/1988, art. 149-A; Súmula Vinculante 41.",
+      "dificuldade": "facil",
+      "tags": [
+        "cosip",
+        "taxa",
+        "sumula-vinculante-41"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0013",
+      "topico": "9.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que indica tributos de competência comum da União, dos Estados, do Distrito Federal e dos Municípios.",
+      "alternativas": [
+        "Impostos residuais e empréstimos compulsórios.",
+        "Contribuições sociais e contribuições de intervenção no domínio econômico.",
+        "Impostos sobre o patrimônio e sobre a renda.",
+        "Taxas e contribuições de melhoria.",
+        "Contribuições de interesse das categorias profissionais e taxas."
+      ],
+      "correta": 3,
+      "comentario": "Taxas e contribuições de melhoria são de competência comum: cada ente pode instituí-las em relação ao poder de polícia que exerce, aos serviços que presta ou às obras que realiza. Impostos são de competência privativa, conforme a discriminação constitucional; empréstimos compulsórios, residuais e contribuições do art. 149 são da União.",
+      "fundamento": "CF/1988, art. 145, II e III.",
+      "dificuldade": "facil",
+      "tags": [
+        "competencia-comum",
+        "taxas",
+        "contribuicao-de-melhoria"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0014",
+      "topico": "9.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que associa corretamente o imposto ao ente competente para instituí-lo.",
+      "alternativas": [
+        "ITCMD — Estados e Distrito Federal; ITBI — Municípios e Distrito Federal; ITR — União.",
+        "ITCMD — Municípios; ITBI — Estados; ITR — União.",
+        "ITCMD — União; ITBI — Municípios; ITR — Estados.",
+        "IPVA — Municípios; IPTU — Municípios; ITR — Municípios.",
+        "IOF — Estados; ICMS — Estados; ISS — União."
+      ],
+      "correta": 0,
+      "comentario": "O ITCMD (transmissão causa mortis e doação) é estadual; o ITBI (transmissão inter vivos, onerosa, de bens imóveis) é municipal; o ITR é federal, ainda que possa ser fiscalizado e cobrado pelos Municípios que fizerem a opção constitucional. IPVA e ICMS são estaduais; IPTU e ISS, municipais; IOF, federal. O Distrito Federal acumula impostos estaduais e municipais.",
+      "fundamento": "CF/1988, arts. 153, 155 e 156.",
+      "dificuldade": "facil",
+      "tags": [
+        "impostos",
+        "reparticao-de-competencias",
+        "itcmd",
+        "itbi"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0015",
+      "topico": "9.1",
+      "tipo": "multipla",
+      "enunciado": "Um Município celebrou convênio com a União e passou a fiscalizar e cobrar o Imposto sobre a Propriedade Territorial Rural (ITR) relativo aos imóveis situados em seu território.\n\nSobre essa situação, é correto afirmar que:",
+      "alternativas": [
+        "o Município passou a ter competência tributária para legislar sobre o ITR, inclusive fixando alíquotas.",
+        "a opção é inconstitucional, pois a competência tributária é indelegável.",
+        "o Município poderá conceder isenções do ITR, desde que por lei municipal.",
+        "o Município continuará recebendo apenas 50% da arrecadação, cabendo o restante à União.",
+        "trata-se de transferência de capacidade tributária ativa, permitida desde que não implique redução do imposto ou qualquer outra forma de renúncia fiscal, cabendo ao Município a totalidade da arrecadação."
+      ],
+      "correta": 4,
+      "comentario": "O ITR pode ser fiscalizado e cobrado pelos Municípios que assim optarem, desde que isso não implique redução do imposto ou qualquer forma de renúncia fiscal. Nesse caso, o Município fica com a totalidade do produto da arrecadação (sem a opção, recebe 50%). A competência para legislar continua da União: transfere-se apenas a capacidade tributária ativa.",
+      "fundamento": "CF/1988, arts. 153, §4º, III, e 158, II.",
+      "dificuldade": "media",
+      "tags": [
+        "itr",
+        "capacidade-tributaria-ativa",
+        "municipios"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0016",
+      "topico": "9.1",
+      "tipo": "multipla",
+      "enunciado": "O Imposto sobre Produtos Industrializados tem parte de sua arrecadação repartida com Estados e Municípios.\n\nDiante disso, é correto afirmar que:",
+      "alternativas": [
+        "Estados e Municípios podem legislar sobre o IPI na proporção de sua participação na receita.",
+        "a União depende de autorização dos Estados para conceder isenção de IPI.",
+        "a competência legislativa sobre o IPI permanece integralmente com a União, ainda que sua receita seja repartida.",
+        "a repartição de receitas converte a competência privativa da União em competência comum.",
+        "os Estados podem instituir adicional de IPI para compensar eventuais perdas de arrecadação."
+      ],
+      "correta": 2,
+      "comentario": "Pelo parágrafo único do art. 6º do CTN, os tributos cuja receita seja distribuída a outras pessoas jurídicas de direito público continuam pertencendo à competência legislativa do ente ao qual foram atribuídos. A repartição de receitas é tema financeiro, não altera a titularidade da competência tributária.",
+      "fundamento": "CTN, art. 6º, parágrafo único; CF/1988, art. 159.",
+      "dificuldade": "facil",
+      "tags": [
+        "reparticao-de-receitas",
+        "ipi",
+        "competencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0017",
+      "topico": "9.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que distingue corretamente bitributação e bis in idem.",
+      "alternativas": [
+        "Bitributação é a cobrança, pelo mesmo ente, de dois tributos sobre o mesmo fato; bis in idem é a cobrança por entes diversos.",
+        "Bitributação ocorre quando entes políticos diversos tributam o mesmo fato gerador; bis in idem, quando o mesmo ente o tributa mais de uma vez.",
+        "Ambos são sinônimos e são vedados em qualquer hipótese pela Constituição.",
+        "Bitributação é permitida sem restrições; bis in idem é sempre vedado.",
+        "Bis in idem só ocorre entre Estados; bitributação, entre União e Municípios."
+      ],
+      "correta": 1,
+      "comentario": "Bitributação é a incidência de tributos de entes diversos sobre o mesmo fato, em regra vedada pela rígida repartição de competências; a exceção constitucional é o imposto extraordinário de guerra. Bis in idem é a tributação do mesmo fato mais de uma vez pelo mesmo ente, admitida quando autorizada pela Constituição — por exemplo, IRPJ e CSLL, ambos da União, sobre o lucro.",
+      "fundamento": "CF/1988, art. 154, II; doutrina.",
+      "dificuldade": "media",
+      "tags": [
+        "bitributacao",
+        "bis-in-idem"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0018",
+      "topico": "9.1",
+      "tipo": "multipla",
+      "enunciado": "Um Município e um Estado passaram a exigir, respectivamente, ISS e ICMS sobre a mesma operação, cada qual entendendo que ela se insere em sua competência.\n\nSegundo a Constituição, cabe dispor sobre conflitos de competência em matéria tributária entre os entes federativos:",
+      "alternativas": [
+        "a lei ordinária da União.",
+        "resolução do Senado Federal.",
+        "convênio celebrado no âmbito do CONFAZ.",
+        "lei complementar.",
+        "decreto do Presidente da República."
+      ],
+      "correta": 3,
+      "comentario": "Cabe à lei complementar dispor sobre conflitos de competência em matéria tributária entre União, Estados, Distrito Federal e Municípios. É o papel, por exemplo, da LC 116/2003 (lista de serviços do ISS) e da LC 87/1996 (ICMS) na delimitação das hipóteses de incidência.",
+      "fundamento": "CF/1988, art. 146, I.",
+      "dificuldade": "facil",
+      "tags": [
+        "lei-complementar",
+        "conflito-de-competencia",
+        "iss",
+        "icms"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0019",
+      "topico": "9.1",
+      "tipo": "multipla",
+      "enunciado": "Uma autarquia federal pretende editar ato próprio instituindo taxa pelo exercício do poder de polícia que realiza.\n\nEssa pretensão é:",
+      "alternativas": [
+        "inválida, pois a competência tributária pertence apenas aos entes políticos dotados de Poder Legislativo, e tributo só pode ser instituído por lei.",
+        "válida, pois autarquias têm competência tributária própria para instituir taxas.",
+        "válida, desde que o ato seja aprovado pelo ministério supervisor.",
+        "inválida apenas porque taxas de poder de polícia são de competência exclusiva dos Municípios.",
+        "válida, desde que a receita seja aplicada no custeio da própria autarquia."
+      ],
+      "correta": 0,
+      "comentario": "Competência tributária é o poder de instituir tributos por lei e pertence exclusivamente aos entes políticos — União, Estados, Distrito Federal e Municípios. Autarquias podem receber capacidade tributária ativa (arrecadar e fiscalizar), mas não podem criar tributos. A taxa de poder de polícia é de competência comum, cabendo ao ente que exerce o poder de polícia instituí-la por lei.",
+      "fundamento": "CF/1988, arts. 145 e 150, I; CTN, arts. 6º e 7º.",
+      "dificuldade": "media",
+      "tags": [
+        "competencia",
+        "autarquia",
+        "legalidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0020",
+      "topico": "9.1",
+      "tipo": "multipla",
+      "enunciado": "A Emenda Constitucional nº 132/2023 reformulou a tributação sobre o consumo no Brasil.\n\nQuanto à competência dos novos tributos, é correto afirmar que:",
+      "alternativas": [
+        "o Imposto sobre Bens e Serviços (IBS) é de competência da União, e a Contribuição sobre Bens e Serviços (CBS) é de competência compartilhada entre Estados e Municípios.",
+        "o IBS é instituído por lei ordinária de cada Estado e de cada Município, que fixam livremente sua base de cálculo.",
+        "o IBS é de competência compartilhada entre Estados, Distrito Federal e Municípios, e a CBS e o Imposto Seletivo são de competência da União.",
+        "o Imposto Seletivo é de competência dos Estados, incidindo sobre bens prejudiciais à saúde e ao meio ambiente.",
+        "a CBS é de competência comum de todos os entes, a exemplo das taxas."
+      ],
+      "correta": 2,
+      "comentario": "A EC 132/2023 criou o IBS, de competência compartilhada entre Estados, Distrito Federal e Municípios, instituído por lei complementar (art. 156-A); a CBS, contribuição da União sobre bens e serviços (art. 195, V); e o Imposto Seletivo, também federal (art. 153, VIII). Cada ente fixa a alíquota do IBS por lei própria, mas a base e as regras são uniformes, definidas em lei complementar.",
+      "fundamento": "CF/1988, arts. 153, VIII, 156-A e 195, V (EC 132/2023).",
+      "dificuldade": "media",
+      "tags": [
+        "reforma-tributaria",
+        "ibs",
+        "cbs",
+        "imposto-seletivo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0021",
+      "topico": "9.1",
+      "tipo": "multipla",
+      "enunciado": "Pedro, domiciliado em São Paulo, faleceu deixando um imóvel situado no Rio de Janeiro e ações de companhia aberta. O inventário foi processado em Minas Gerais.\n\nConsiderando a redação vigente da Constituição, o ITCMD será devido:",
+      "alternativas": [
+        "a Minas Gerais, sobre todos os bens, por ser o local do inventário.",
+        "ao Rio de Janeiro, sobre todos os bens, por ser a situação do imóvel.",
+        "a São Paulo sobre o imóvel, e a Minas Gerais sobre as ações.",
+        "ao Rio de Janeiro sobre o imóvel, e a Minas Gerais sobre as ações.",
+        "ao Rio de Janeiro sobre o imóvel, e a São Paulo sobre as ações."
+      ],
+      "correta": 4,
+      "comentario": "Quanto a bens imóveis, o ITCMD compete ao Estado da situação do bem. Quanto a bens móveis, títulos e créditos, após a EC 132/2023, compete ao Estado onde era domiciliado o de cujus (ou onde tiver domicílio o doador). A redação anterior apontava o Estado onde se processava o inventário — por isso a opção D é a armadilha para quem estudou pelo texto antigo.",
+      "fundamento": "CF/1988, art. 155, §1º, I e II (redação da EC 132/2023).",
+      "dificuldade": "dificil",
+      "tags": [
+        "itcmd",
+        "competencia-territorial",
+        "reforma-tributaria"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0022",
+      "topico": "9.1",
+      "tipo": "multipla",
+      "enunciado": "Um Município de pequeno porte nunca instituiu o ISS, alegando que a arrecadação seria inferior ao custo de fiscalização.\n\nConsiderando a Lei de Responsabilidade Fiscal, é correto afirmar que:",
+      "alternativas": [
+        "a omissão é irrelevante, pois a competência tributária é facultativa e não gera qualquer consequência.",
+        "o Município fica impedido de receber transferências voluntárias, pois a LRF considera requisito de gestão fiscal responsável a instituição de todos os tributos de sua competência, sancionando a omissão quanto aos impostos.",
+        "o Estado passa a ter competência para instituir o ISS naquele Município.",
+        "o Município perde definitivamente a competência para instituir o ISS.",
+        "o Município deixa de receber as transferências constitucionais obrigatórias, como a cota do Fundo de Participação dos Municípios."
+      ],
+      "correta": 1,
+      "comentario": "A LRF estabelece como requisito de responsabilidade na gestão fiscal a instituição, previsão e efetiva arrecadação de todos os tributos da competência do ente, vedando transferências voluntárias ao ente que não observe essa regra quanto aos impostos. A sanção atinge as transferências voluntárias, não as constitucionais obrigatórias. A competência não se transfere nem caduca.",
+      "fundamento": "LC nº 101/2000, art. 11 e parágrafo único; CTN, art. 8º.",
+      "dificuldade": "media",
+      "tags": [
+        "lrf",
+        "facultatividade",
+        "iss"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0023",
+      "topico": "9.1",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir.\n\nI. A União pode delegar aos Estados, por lei complementar, a competência para instituir o imposto sobre grandes fortunas.\nII. A União pode instituir impostos residuais mediante lei ordinária, desde que não cumulativos.\nIII. Os Estados, o Distrito Federal e os Municípios devem instituir, por meio de lei, contribuição para custeio do regime próprio de previdência de seus servidores.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "II, apenas.",
+        "I e III, apenas.",
+        "II e III, apenas.",
+        "III, apenas."
+      ],
+      "correta": 4,
+      "comentario": "I é falsa: a competência tributária é indelegável. II é falsa: a competência residual exige lei complementar. III é verdadeira: após a EC 103/2019, a Constituição determina que União, Estados, DF e Municípios instituirão, por lei, contribuições para custeio de seus regimes próprios de previdência.",
+      "fundamento": "CF/1988, arts. 149, §1º, e 154, I; CTN, art. 7º.",
+      "dificuldade": "media",
+      "tags": [
+        "competencia",
+        "rpps",
+        "competencia-residual"
+      ],
+      "fonte": "inédita"
+    }
+  ]
 }
