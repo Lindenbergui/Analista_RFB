@@ -1,4 +1,526 @@
 {
   "materia": "dadm",
-  "questoes": []
+  "questoes": [
+    {
+      "id": "dadm-0001",
+      "topico": "8.1",
+      "tipo": "multipla",
+      "enunciado": "A expressão \"Administração Pública\" comporta diferentes sentidos na doutrina.\n\nConsidere as frases:\n\n1. \"A Administração Pública federal é composta pelos órgãos da União, suas autarquias, fundações, empresas públicas e sociedades de economia mista.\"\n2. \"A administração pública abrange as atividades de fomento, polícia administrativa, serviço público e intervenção.\"\n\nAs frases empregam a expressão, respectivamente, nos sentidos:",
+      "alternativas": [
+        "objetivo e subjetivo.",
+        "material e formal.",
+        "subjetivo e objetivo.",
+        "funcional e orgânico.",
+        "político e administrativo."
+      ],
+      "correta": 2,
+      "comentario": "Em sentido subjetivo (também chamado formal ou orgânico), Administração Pública designa os sujeitos que exercem a função administrativa: entidades, órgãos e agentes. Em sentido objetivo (material ou funcional), designa a própria atividade administrativa, que abrange fomento, polícia administrativa, serviço público e intervenção. Por convenção, grafa-se com iniciais maiúsculas no primeiro sentido e minúsculas no segundo.",
+      "fundamento": "Di Pietro, Direito Administrativo.",
+      "dificuldade": "facil",
+      "tags": [
+        "sentidos-da-administracao",
+        "subjetivo",
+        "objetivo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0002",
+      "topico": "8.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre a distinção entre Governo e Administração Pública, assinale a afirmativa correta.",
+      "alternativas": [
+        "Governo e Administração Pública são expressões sinônimas, ambas designando a execução de atividades concretas.",
+        "A Administração Pública formula as políticas públicas, e o Governo apenas as executa, sem margem de escolha.",
+        "O Governo é exercido exclusivamente pelo Poder Executivo, e a Administração, exclusivamente pelo Legislativo.",
+        "A Administração Pública possui natureza política e discricionariedade ampla, sendo insuscetível de controle judicial.",
+        "O Governo relaciona-se à função política de fixar diretrizes e objetivos, enquanto a Administração Pública executa de forma concreta, técnica e subordinada à lei essas decisões."
+      ],
+      "correta": 4,
+      "comentario": "O Governo exerce a função política: comando, iniciativa e fixação de objetivos, com ampla discricionariedade. A Administração Pública é o instrumental de que dispõe o Estado para pôr em prática essas opções, em atividade neutra, técnica, hierarquizada e vinculada à lei. A função administrativa é exercida tipicamente pelo Executivo, mas também, de forma atípica, pelo Legislativo e pelo Judiciário, e se submete a controle judicial.",
+      "fundamento": "Hely Lopes Meirelles, Direito Administrativo Brasileiro.",
+      "dificuldade": "facil",
+      "tags": [
+        "governo",
+        "administracao-publica"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0003",
+      "topico": "8.1",
+      "tipo": "multipla",
+      "enunciado": "Para Celso Antônio Bandeira de Mello, o regime jurídico-administrativo se assenta em dois princípios, que funcionam como suas \"pedras de toque\".\n\nEsses princípios são:",
+      "alternativas": [
+        "legalidade e publicidade.",
+        "supremacia do interesse público sobre o privado e indisponibilidade do interesse público.",
+        "eficiência e continuidade do serviço público.",
+        "moralidade e impessoalidade.",
+        "autotutela e especialidade."
+      ],
+      "correta": 1,
+      "comentario": "A supremacia do interesse público fundamenta as prerrogativas da Administração (poderes especiais, como a desapropriação e as cláusulas exorbitantes). A indisponibilidade do interesse público fundamenta as sujeições (a Administração não é dona do interesse público e, por isso, submete-se à legalidade, ao concurso, à licitação). O equilíbrio entre prerrogativas e sujeições compõe o regime jurídico-administrativo.",
+      "fundamento": "Celso Antônio Bandeira de Mello, Curso de Direito Administrativo.",
+      "dificuldade": "facil",
+      "tags": [
+        "regime-juridico-administrativo",
+        "supremacia",
+        "indisponibilidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0004",
+      "topico": "8.1",
+      "tipo": "multipla",
+      "enunciado": "Condenada em ação judicial a pagar indenização devida a um cidadão, a Fazenda Pública passou a interpor recursos sucessivos, sem fundamento jurídico plausível, com o único objetivo de retardar o pagamento e preservar o caixa.\n\nÀ luz da distinção doutrinária entre interesse público primário e secundário, é correto afirmar que:",
+      "alternativas": [
+        "a conduta é legítima, pois o interesse patrimonial do Estado é sempre o interesse público primário.",
+        "o interesse público secundário prevalece sobre o primário sempre que houver risco ao equilíbrio fiscal.",
+        "a distinção é irrelevante, pois todo interesse do Estado é, por definição, interesse público.",
+        "a Administração perseguiu o interesse público secundário, meramente patrimonial, que só é legítimo quando coincide com o interesse público primário, relativo aos interesses da coletividade.",
+        "a conduta realiza o interesse primário, pois protege a arrecadação destinada a serviços públicos."
+      ],
+      "correta": 3,
+      "comentario": "O interesse público primário corresponde aos interesses da coletividade; o secundário, aos interesses do Estado como pessoa jurídica, sobretudo patrimoniais. O secundário só é legítimo quando coincide com o primário. Protelar pagamento devido, em prejuízo de direito reconhecido, não atende ao interesse da coletividade.",
+      "fundamento": "Renato Alessi; Celso Antônio Bandeira de Mello.",
+      "dificuldade": "media",
+      "tags": [
+        "interesse-publico-primario",
+        "interesse-publico-secundario"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0005",
+      "topico": "8.1",
+      "tipo": "multipla",
+      "enunciado": "O art. 37, caput, da Constituição enumera os princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência.\n\nQuanto à abrangência desses princípios, é correto afirmar que se aplicam:",
+      "alternativas": [
+        "à administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios.",
+        "apenas à administração direta do Poder Executivo federal.",
+        "apenas à administração direta e às autarquias, excluídas as empresas estatais.",
+        "à administração direta de todos os entes, mas não ao Legislativo e ao Judiciário no exercício de funções administrativas.",
+        "apenas aos entes que editarem lei própria adotando esses princípios."
+      ],
+      "correta": 0,
+      "comentario": "O caput do art. 37 é expresso: a administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios que enumera. Alcança, portanto, as empresas públicas e as sociedades de economia mista, assim como o Legislativo e o Judiciário quando exercem função administrativa.",
+      "fundamento": "CF/1988, art. 37, caput.",
+      "dificuldade": "facil",
+      "tags": [
+        "limpe",
+        "art-37",
+        "abrangencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0006",
+      "topico": "8.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre o princípio da legalidade, assinale a afirmativa correta.",
+      "alternativas": [
+        "Tanto a Administração quanto os particulares podem fazer tudo aquilo que a lei não proíbe.",
+        "A Administração pode agir sem previsão legal sempre que a finalidade for de interesse público.",
+        "Enquanto o particular pode fazer tudo o que a lei não proíbe, a Administração só pode fazer o que a lei autoriza ou determina.",
+        "A legalidade administrativa aplica-se apenas aos atos vinculados, não alcançando os discricionários.",
+        "Regulamentos autônomos podem criar obrigações para os particulares em qualquer matéria."
+      ],
+      "correta": 2,
+      "comentario": "Para o particular vigora a autonomia da vontade: tudo o que não é proibido é permitido. Para a Administração, a legalidade é estrita: ela só age quando e como a lei autoriza. Os atos discricionários também se submetem à lei, que define competência, finalidade e limites da escolha. O decreto autônomo tem hipóteses restritas (art. 84, VI) e não cria obrigações a particulares.",
+      "fundamento": "CF/1988, arts. 5º, II, 37, caput, e 84, VI.",
+      "dificuldade": "facil",
+      "tags": [
+        "legalidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0007",
+      "topico": "8.1",
+      "tipo": "multipla",
+      "enunciado": "Um prefeito determinou que todas as placas das obras municipais exibissem sua fotografia e a frase \"Mais uma obra do prefeito João\", custeadas com recursos públicos.\n\nEssa conduta viola, de modo mais direto, o princípio da:",
+      "alternativas": [
+        "eficiência, por aumentar o custo das placas.",
+        "legalidade, pois a lei municipal não previa a fotografia.",
+        "continuidade, pois a obra fica vinculada a um gestor.",
+        "publicidade, pois toda publicidade oficial é vedada.",
+        "impessoalidade, pois a publicidade oficial não pode conter nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores."
+      ],
+      "correta": 4,
+      "comentario": "A publicidade dos atos, programas, obras e serviços deve ter caráter educativo, informativo ou de orientação social, sendo vedados nomes, símbolos ou imagens que caracterizem promoção pessoal (art. 37, §1º). A regra concretiza a impessoalidade: a obra é da Administração, não do agente. A publicidade oficial não é vedada; o que se proíbe é a promoção pessoal.",
+      "fundamento": "CF/1988, art. 37, §1º.",
+      "dificuldade": "facil",
+      "tags": [
+        "impessoalidade",
+        "promocao-pessoal",
+        "publicidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0008",
+      "topico": "8.1",
+      "tipo": "multipla",
+      "enunciado": "Um dos desdobramentos do princípio da impessoalidade relaciona-se à teoria do órgão.\n\nNesse aspecto, a impessoalidade significa que:",
+      "alternativas": [
+        "o agente público responde pessoalmente perante o administrado por todos os atos que pratica.",
+        "os atos praticados pelo agente público não são imputáveis a ele, mas ao órgão ou à entidade em nome do qual atua.",
+        "a Administração deve tratar de forma idêntica todos os administrados, vedada qualquer diferenciação.",
+        "os agentes públicos não podem ser identificados nos atos que praticam.",
+        "o agente pode escolher o destinatário de seus atos conforme critérios pessoais, desde que motivados."
+      ],
+      "correta": 1,
+      "comentario": "Pela teoria do órgão, a atuação do agente é imputada à pessoa jurídica a que pertence: é a Administração que age, não a pessoa física do servidor. Daí a responsabilidade objetiva do Estado perante o particular, com direito de regresso contra o agente culpado (art. 37, §6º). A impessoalidade também significa finalidade pública e isonomia, mas não veda tratamentos diferenciados justificados.",
+      "fundamento": "CF/1988, art. 37, §6º; Di Pietro; José Afonso da Silva.",
+      "dificuldade": "media",
+      "tags": [
+        "impessoalidade",
+        "teoria-do-orgao",
+        "imputacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0009",
+      "topico": "8.1",
+      "tipo": "multipla",
+      "enunciado": "Um prefeito pretende preencher cargos em comissão de assessoramento na prefeitura.\n\nÀ luz da Súmula Vinculante 13, assinale a nomeação que viola a Constituição.",
+      "alternativas": [
+        "Nomeação de seu primo para cargo em comissão.",
+        "Nomeação de seu filho, aprovado em concurso público, para cargo de provimento efetivo.",
+        "Nomeação de seu sobrinho-neto para cargo em comissão.",
+        "Nomeação de seu sobrinho para cargo em comissão.",
+        "Nomeação de pessoa sem parentesco com o prefeito ou com servidores em cargos de direção."
+      ],
+      "correta": 3,
+      "comentario": "A SV 13 veda a nomeação de cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, para cargo em comissão, de confiança ou função gratificada, inclusive mediante designações recíprocas. O sobrinho é parente colateral de terceiro grau. Primo e sobrinho-neto são de quarto grau. A investidura em cargo efetivo por concurso não é alcançada.",
+      "fundamento": "Súmula Vinculante 13.",
+      "dificuldade": "media",
+      "tags": [
+        "nepotismo",
+        "sumula-vinculante-13",
+        "moralidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0010",
+      "topico": "8.1",
+      "tipo": "multipla",
+      "enunciado": "Um governador nomeou seu irmão, profissional com reconhecida formação e experiência na área, para o cargo de Secretário de Estado de Saúde.\n\nSegundo a jurisprudência do STF sobre a Súmula Vinculante 13, essa nomeação:",
+      "alternativas": [
+        "em regra, não configura nepotismo, por se tratar de cargo de natureza política, ressalvadas hipóteses de fraude ou de inequívoca falta de qualificação técnica ou idoneidade moral.",
+        "configura nepotismo em qualquer caso, pois o irmão é parente em segundo grau.",
+        "é válida somente se aprovada pela Assembleia Legislativa.",
+        "configura nepotismo, salvo se o irmão abrir mão da remuneração.",
+        "é válida em qualquer hipótese, inclusive quando praticada mediante designações recíprocas."
+      ],
+      "correta": 0,
+      "comentario": "O STF tem afastado, em regra, a incidência da SV 13 à nomeação para cargos de natureza política, como Ministro ou Secretário de Estado ou Município. A exceção ocorre quando há fraude à lei, nepotismo cruzado ou evidente ausência de qualificação técnica ou idoneidade moral do nomeado. Irmão é colateral de segundo grau, mas o critério decisivo aqui é a natureza do cargo.",
+      "fundamento": "Súmula Vinculante 13; STF, Rcl 6.650 MC-AgR e precedentes posteriores.",
+      "dificuldade": "dificil",
+      "tags": [
+        "nepotismo",
+        "cargos-politicos",
+        "sumula-vinculante-13"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0011",
+      "topico": "8.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre o princípio da moralidade administrativa, assinale a afirmativa correta.",
+      "alternativas": [
+        "A moralidade confunde-se com a legalidade, de modo que todo ato legal é necessariamente moral.",
+        "A moralidade administrativa corresponde à moral comum, de conteúdo subjetivo do agente.",
+        "A moralidade tem conteúdo autônomo em relação à legalidade, de modo que um ato formalmente legal pode ser invalidado por ofensa à moralidade, inclusive por meio de ação popular.",
+        "A violação à moralidade não gera invalidade do ato, apenas responsabilidade política do agente.",
+        "A ação popular não pode ter como fundamento a lesão à moralidade administrativa sem prejuízo ao erário."
+      ],
+      "correta": 2,
+      "comentario": "A moralidade administrativa exige conduta ética, leal e de boa-fé, e é princípio autônomo: o ato pode respeitar a letra da lei e, ainda assim, ser inválido por imoralidade. A Constituição prevê a ação popular para anular ato lesivo à moralidade administrativa, e o STF admite a ação mesmo sem dano material ao erário.",
+      "fundamento": "CF/1988, arts. 5º, LXXIII, e 37, caput.",
+      "dificuldade": "media",
+      "tags": [
+        "moralidade",
+        "acao-popular"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0012",
+      "topico": "8.1",
+      "tipo": "multipla",
+      "enunciado": "Determinado Município passou a divulgar, em seu portal de transparência, o nome de cada servidor e o valor de sua remuneração mensal. Uma associação de servidores ajuizou ação alegando violação à intimidade.\n\nSegundo o entendimento do STF, a divulgação é:",
+      "alternativas": [
+        "ilegítima, pois a remuneração é informação pessoal protegida por sigilo.",
+        "legítima apenas se os servidores autorizarem expressamente.",
+        "legítima apenas se omitidos os nomes, divulgando-se somente o cargo.",
+        "ilegítima, pois a publicidade se restringe aos atos normativos gerais.",
+        "legítima, inclusive em sítio eletrônico, pois concretiza os princípios da publicidade e da transparência."
+      ],
+      "correta": 4,
+      "comentario": "O STF fixou tese de repercussão geral no sentido de ser legítima a publicação, inclusive em sítio eletrônico mantido pela Administração, dos nomes dos servidores e dos valores dos respectivos vencimentos e vantagens. A remuneração paga com recursos públicos é informação de interesse coletivo; a publicidade é a regra, e o sigilo, a exceção.",
+      "fundamento": "STF, ARE 652.777 (Tema 483); CF/1988, art. 37, caput.",
+      "dificuldade": "media",
+      "tags": [
+        "publicidade",
+        "transparencia",
+        "remuneracao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0013",
+      "topico": "8.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre o princípio da publicidade, assinale a afirmativa correta.",
+      "alternativas": [
+        "A publicidade é requisito de existência do ato administrativo, de modo que o ato não publicado é inexistente.",
+        "A publicidade é a regra, admitindo-se sigilo quando imprescindível à segurança da sociedade e do Estado ou para a proteção da intimidade, nos termos da lei.",
+        "A publicidade é absoluta, não admitindo nenhuma hipótese de sigilo.",
+        "A publicidade alcança somente os atos que gerem despesa para a Administração.",
+        "A publicação na imprensa oficial é a única forma admitida de dar publicidade aos atos administrativos."
+      ],
+      "correta": 1,
+      "comentario": "A publicidade é regra, mas não absoluta: a Constituição ressalva as informações cujo sigilo seja imprescindível à segurança da sociedade e do Estado (art. 5º, XXXIII) e a proteção da intimidade e do interesse social (art. 5º, LX), disciplinadas pela Lei de Acesso à Informação. A publicidade é, em regra, condição de eficácia, e não de existência. Admite formas variadas de divulgação, como portais eletrônicos, conforme a lei.",
+      "fundamento": "CF/1988, arts. 5º, XXXIII e LX, e 37, caput; Lei nº 12.527/2011.",
+      "dificuldade": "facil",
+      "tags": [
+        "publicidade",
+        "sigilo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0014",
+      "topico": "8.1",
+      "tipo": "multipla",
+      "enunciado": "O princípio da eficiência foi inserido expressamente no art. 37, caput, da Constituição pela Emenda Constitucional nº 19/1998.\n\nAssinale a opção que apresenta instrumento constitucional relacionado a esse princípio.",
+      "alternativas": [
+        "Garantia de estabilidade imediata ao servidor nomeado por concurso, independentemente de avaliação.",
+        "Vedação à ampliação da autonomia gerencial de órgãos e entidades.",
+        "Proibição de perda do cargo do servidor estável por qualquer motivo que não seja sentença judicial transitada em julgado.",
+        "Perda do cargo do servidor estável mediante procedimento de avaliação periódica de desempenho, na forma de lei complementar, assegurada ampla defesa.",
+        "Dispensa de concurso público para cargos técnicos, a fim de agilizar as contratações."
+      ],
+      "correta": 3,
+      "comentario": "A EC 19/1998 inseriu a eficiência no caput do art. 37 e criou instrumentos ligados a ela: avaliação especial de desempenho como condição para a estabilidade (art. 41, §4º), perda do cargo por insuficiência de desempenho apurada em avaliação periódica (art. 41, §1º, III) e contrato para ampliação da autonomia gerencial, orçamentária e financeira de órgãos e entidades (art. 37, §8º).",
+      "fundamento": "CF/1988, arts. 37, caput e §8º, e 41, §§1º, III, e 4º.",
+      "dificuldade": "media",
+      "tags": [
+        "eficiencia",
+        "ec-19",
+        "avaliacao-de-desempenho"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0015",
+      "topico": "8.1",
+      "tipo": "multipla",
+      "enunciado": "O art. 2º, caput, da Lei nº 9.784/1999 enumera princípios a que a Administração Pública federal deve obedecer.\n\nAssinale a opção que NÃO consta expressamente dessa enumeração.",
+      "alternativas": [
+        "Publicidade.",
+        "Motivação.",
+        "Segurança jurídica.",
+        "Razoabilidade.",
+        "Finalidade."
+      ],
+      "correta": 0,
+      "comentario": "O caput do art. 2º menciona legalidade, finalidade, motivação, razoabilidade, proporcionalidade, moralidade, ampla defesa, contraditório, segurança jurídica, interesse público e eficiência. Publicidade e impessoalidade não aparecem no caput, embora estejam presentes nos critérios do parágrafo único — divulgação oficial dos atos (inciso V) e objetividade no atendimento do interesse público, vedada a promoção pessoal (inciso III).",
+      "fundamento": "Lei nº 9.784/1999, art. 2º.",
+      "dificuldade": "dificil",
+      "tags": [
+        "lei-9784",
+        "principios-infraconstitucionais"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0016",
+      "topico": "8.1",
+      "tipo": "multipla",
+      "enunciado": "Em 2018, um órgão federal concedeu gratificação a um servidor. Em 2025, verificou que a concessão foi ilegal, sem que houvesse má-fé do beneficiário.\n\nÀ luz da Lei nº 9.784/1999, a Administração:",
+      "alternativas": [
+        "deve anular o ato a qualquer tempo, pois atos ilegais não geram direitos.",
+        "pode revogar o ato por conveniência, com efeitos retroativos.",
+        "não pode mais anular o ato, pois decaiu o direito de fazê-lo, uma vez transcorridos cinco anos da data em que foi praticado, sem comprovada má-fé.",
+        "depende de autorização judicial para anular o ato.",
+        "pode anular o ato, desde que o faça em até dez anos, prazo geral do Código Civil."
+      ],
+      "correta": 2,
+      "comentario": "A autotutela permite à Administração anular seus atos ilegais e revogar os inconvenientes (Súmula 473 do STF; art. 53 da Lei 9.784). Mas o direito de anular atos de que decorram efeitos favoráveis ao destinatário decai em cinco anos, contados da prática do ato, salvo comprovada má-fé (art. 54). É expressão do princípio da segurança jurídica. Revogação não se aplica a atos ilegais e opera efeitos prospectivos.",
+      "fundamento": "Lei nº 9.784/1999, arts. 53 e 54; Súmula 473 do STF.",
+      "dificuldade": "media",
+      "tags": [
+        "autotutela",
+        "decadencia",
+        "seguranca-juridica"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0017",
+      "topico": "8.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que distingue corretamente autotutela e tutela administrativa.",
+      "alternativas": [
+        "Autotutela é o controle que a Administração direta exerce sobre as entidades da administração indireta; tutela é o controle da Administração sobre seus próprios atos.",
+        "Autotutela é o poder da Administração de rever seus próprios atos, anulando os ilegais e revogando os inconvenientes; tutela é o controle finalístico que a Administração direta exerce sobre as entidades da indireta, nos limites da lei.",
+        "Autotutela e tutela são sinônimos, ambos pressupondo relação de hierarquia.",
+        "A tutela pressupõe subordinação hierárquica entre a Administração direta e as entidades da indireta.",
+        "A autotutela depende de provocação do interessado, e a tutela é exercida de ofício."
+      ],
+      "correta": 1,
+      "comentario": "Autotutela é o controle que a Administração exerce sobre seus próprios atos, de ofício ou por provocação. Tutela — também chamada supervisão ministerial ou controle finalístico — é o controle da Administração direta sobre as entidades da indireta, que não envolve hierarquia (há vinculação, não subordinação) e só se exerce nos limites previstos em lei.",
+      "fundamento": "Súmula 473 do STF; Decreto-Lei nº 200/1967, arts. 19 a 26.",
+      "dificuldade": "facil",
+      "tags": [
+        "autotutela",
+        "tutela",
+        "controle-finalistico"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0018",
+      "topico": "8.1",
+      "tipo": "multipla",
+      "enunciado": "Um servidor, primário e com bons antecedentes, atrasou em um dia a entrega de um relatório de baixa relevância. A autoridade aplicou-lhe a pena de demissão, sob o argumento de que o descumprimento de prazos compromete a eficiência.\n\nO ato viola sobretudo o princípio da:",
+      "alternativas": [
+        "legalidade estrita, pois a autoridade não poderia aplicar nenhuma sanção.",
+        "publicidade, pois a pena não foi divulgada.",
+        "impessoalidade, pois a pena foi aplicada ao servidor que cometeu a falta.",
+        "proporcionalidade, pois a sanção é excessiva em relação à falta, sendo desnecessária e desproporcional em sentido estrito.",
+        "continuidade do serviço público."
+      ],
+      "correta": 3,
+      "comentario": "A proporcionalidade decompõe-se em adequação (o meio atinge o fim?), necessidade (há meio menos gravoso igualmente eficaz?) e proporcionalidade em sentido estrito (os benefícios compensam o sacrifício?). Demitir por atraso pontual e irrelevante falha na necessidade e no sentido estrito. A Lei 9.784 exige adequação entre meios e fins, vedada a imposição de sanções em medida superior à necessária (art. 2º, parágrafo único, VI).",
+      "fundamento": "Lei nº 9.784/1999, art. 2º, caput e parágrafo único, VI.",
+      "dificuldade": "facil",
+      "tags": [
+        "proporcionalidade",
+        "razoabilidade",
+        "sancao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0019",
+      "topico": "8.1",
+      "tipo": "multipla",
+      "enunciado": "Durante anos, um órgão federal interpretou determinada norma de modo favorável aos administrados. Em 2025, adotou nova interpretação, mais restritiva, e pretendeu aplicá-la para rever situações já consolidadas com base no entendimento anterior.\n\nSegundo a Lei nº 9.784/1999, essa pretensão é:",
+      "alternativas": [
+        "vedada, pois a lei impõe a interpretação da norma que melhor garanta o fim público, vedada a aplicação retroativa de nova interpretação.",
+        "permitida, pois a Administração pode rever seus atos a qualquer tempo.",
+        "permitida, desde que a nova interpretação seja publicada no Diário Oficial.",
+        "vedada apenas se a revisão causar prejuízo ao erário.",
+        "permitida, pois o princípio da legalidade prevalece sobre a segurança jurídica."
+      ],
+      "correta": 0,
+      "comentario": "A Lei 9.784 determina a interpretação da norma administrativa da forma que melhor garanta o atendimento do fim público, vedada a aplicação retroativa de nova interpretação (art. 2º, parágrafo único, XIII). É concretização da segurança jurídica e da proteção da confiança legítima. A LINDB reforça a ideia, ao exigir regime de transição quando nova interpretação impõe novo dever ou condicionamento (art. 23).",
+      "fundamento": "Lei nº 9.784/1999, art. 2º, parágrafo único, XIII; LINDB, arts. 23 e 24.",
+      "dificuldade": "media",
+      "tags": [
+        "seguranca-juridica",
+        "protecao-da-confianca",
+        "lei-9784"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0020",
+      "topico": "8.1",
+      "tipo": "multipla",
+      "enunciado": "A autoridade indeferiu um recurso administrativo limitando-se a declarar que concordava com os fundamentos do parecer jurídico juntado aos autos, que analisava detidamente as alegações do recorrente.\n\nÀ luz da Lei nº 9.784/1999, essa decisão:",
+      "alternativas": [
+        "é nula, pois a motivação deve ser integralmente redigida pela autoridade que decide.",
+        "é válida apenas se o recorrente concordar com o parecer.",
+        "é válida, pois a motivação pode consistir em declaração de concordância com fundamentos de anteriores pareceres, que passam a integrar o ato.",
+        "é nula, pois recursos administrativos dispensam motivação.",
+        "é válida apenas se o parecer for vinculante."
+      ],
+      "correta": 2,
+      "comentario": "A Lei 9.784 admite a motivação aliunde (ou per relationem): a motivação deve ser explícita, clara e congruente, podendo consistir em declaração de concordância com fundamentos de anteriores pareceres, informações, decisões ou propostas, que, nesse caso, integram o ato. A decisão de recursos administrativos está entre os atos que exigem motivação.",
+      "fundamento": "Lei nº 9.784/1999, art. 50, V e §1º.",
+      "dificuldade": "media",
+      "tags": [
+        "motivacao",
+        "motivacao-aliunde",
+        "lei-9784"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0021",
+      "topico": "8.1",
+      "tipo": "multipla",
+      "enunciado": "Um servidor ocupante de cargo em comissão foi exonerado, constando do ato que a exoneração decorria da extinção do cargo por falta de recursos orçamentários. Uma semana depois, a mesma autoridade nomeou outra pessoa para o mesmo cargo.\n\nConsiderando que a exoneração de cargo em comissão é ato de livre exoneração, é correto afirmar que:",
+      "alternativas": [
+        "o ato é válido, pois a exoneração ad nutum dispensa motivação, e eventual motivo declarado é irrelevante.",
+        "o ato é válido, pois cargos em comissão não geram qualquer direito ao ocupante.",
+        "o ato é inválido, pois exonerações de cargos em comissão sempre exigem processo administrativo prévio.",
+        "o ato é inválido apenas se o servidor comprovar perseguição pessoal.",
+        "o ato é inválido, pois, pela teoria dos motivos determinantes, a validade do ato vincula-se aos motivos declarados, e o motivo apresentado se revelou falso."
+      ],
+      "correta": 4,
+      "comentario": "Pela teoria dos motivos determinantes, quando a Administração declara o motivo do ato, ainda que não fosse obrigada a fazê-lo, fica vinculada a ele: se o motivo for falso ou inexistente, o ato é inválido. A exoneração ad nutum dispensa motivação, mas, uma vez motivada com fundamento desmentido pelos fatos (nomeação imediata para o mesmo cargo), torna-se nula.",
+      "fundamento": "Doutrina e jurisprudência do STJ sobre teoria dos motivos determinantes.",
+      "dificuldade": "media",
+      "tags": [
+        "motivos-determinantes",
+        "motivacao",
+        "cargo-em-comissao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0022",
+      "topico": "8.1",
+      "tipo": "multipla",
+      "enunciado": "Uma concessionária de energia elétrica interrompeu o fornecimento a um consumidor residencial inadimplente, após aviso prévio.\n\nConsiderando o princípio da continuidade do serviço público e a Lei nº 8.987/1995, é correto afirmar que:",
+      "alternativas": [
+        "a interrupção viola sempre o princípio da continuidade, pois o serviço público não pode ser interrompido em nenhuma hipótese.",
+        "não se caracteriza descontinuidade a interrupção após prévio aviso motivada por inadimplemento do usuário, considerado o interesse da coletividade.",
+        "a interrupção só é admitida por ordem judicial.",
+        "a interrupção por inadimplemento é admitida sem aviso prévio, desde que o débito supere três meses.",
+        "a concessionária não pode interromper o serviço, mas pode cobrar o débito com acréscimo de 100%."
+      ],
+      "correta": 1,
+      "comentario": "A continuidade do serviço público não é absoluta. A Lei 8.987 dispõe que não se caracteriza como descontinuidade a interrupção em situação de emergência ou após prévio aviso, quando motivada por razões de ordem técnica ou de segurança, ou por inadimplemento do usuário, considerado o interesse da coletividade (art. 6º, §3º). A lei também veda que a interrupção por inadimplemento comece na sexta-feira, no sábado, no domingo, em feriado ou no dia anterior a feriado (art. 6º, §4º).",
+      "fundamento": "Lei nº 8.987/1995, art. 6º, §§1º, 3º e 4º.",
+      "dificuldade": "media",
+      "tags": [
+        "continuidade",
+        "servico-publico",
+        "concessao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0023",
+      "topico": "8.1",
+      "tipo": "multipla",
+      "enunciado": "Uma autarquia criada por lei para fiscalizar o exercício de determinada atividade econômica passou a prestar, por decisão de seu dirigente, serviços de assistência social sem qualquer relação com suas finalidades legais.\n\nA conduta viola, de modo mais direto, o princípio da:",
+      "alternativas": [
+        "hierarquia, pois a autarquia está subordinada ao ministério supervisor.",
+        "publicidade.",
+        "continuidade do serviço público.",
+        "especialidade, segundo o qual as entidades da administração indireta ficam vinculadas às finalidades definidas na lei que as criou ou autorizou sua criação.",
+        "autotutela."
+      ],
+      "correta": 3,
+      "comentario": "O princípio da especialidade decorre da legalidade e da indisponibilidade do interesse público: as entidades da administração indireta não podem se desviar das finalidades para as quais foram criadas por lei. Entre a autarquia e o ministério não há hierarquia, mas vinculação e controle finalístico (tutela).",
+      "fundamento": "CF/1988, art. 37, XIX; Di Pietro, Direito Administrativo.",
+      "dificuldade": "facil",
+      "tags": [
+        "especialidade",
+        "administracao-indireta"
+      ],
+      "fonte": "inédita"
+    }
+  ]
 }
