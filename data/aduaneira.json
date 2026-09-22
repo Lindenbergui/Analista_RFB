@@ -1,4 +1,469 @@
 {
   "materia": "lad",
-  "questoes": []
+  "questoes": [
+    {
+      "id": "lad-0001",
+      "topico": "11.1",
+      "tipo": "multipla",
+      "enunciado": "Nos termos do Regulamento Aduaneiro, o território aduaneiro:",
+      "alternativas": [
+        "compreende apenas as áreas alfandegadas de portos, aeroportos e pontos de fronteira.",
+        "compreende todo o território nacional.",
+        "compreende o território nacional, excluídas a Zona Franca de Manaus e as Áreas de Livre Comércio.",
+        "limita-se à faixa de fronteira e à orla marítima.",
+        "compreende apenas a zona primária e as zonas de vigilância aduaneira."
+      ],
+      "correta": 1,
+      "comentario": "O território aduaneiro compreende todo o território nacional. A Zona Franca de Manaus e as Áreas de Livre Comércio integram o território aduaneiro, apenas com tratamento tributário e aduaneiro especial. A divisão em zona primária e zona secundária é interna ao território aduaneiro e define a extensão da jurisdição, que alcança ambas.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 2º.",
+      "dificuldade": "facil",
+      "tags": [
+        "territorio-aduaneiro"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0002",
+      "topico": "11.1",
+      "tipo": "multipla",
+      "enunciado": "A jurisdição dos serviços aduaneiros se estende por todo o território aduaneiro e abrange a zona primária e a zona secundária.\n\nAssinale a afirmativa correta.",
+      "alternativas": [
+        "As águas territoriais e o espaço aéreo integram a zona primária.",
+        "A zona primária abrange todo o território situado na faixa de fronteira.",
+        "A zona secundária é formada exclusivamente pelos recintos alfandegados situados fora dos portos e aeroportos.",
+        "A zona secundária compreende a parte restante do território aduaneiro, nela incluídas as águas territoriais e o espaço aéreo.",
+        "Nos aeroportos alfandegados, a zona primária compreende a área terrestre e o espaço aéreo sobrejacente."
+      ],
+      "correta": 3,
+      "comentario": "A zona primária é constituída pelas áreas demarcadas pela autoridade aduaneira local: nos portos alfandegados, a área terrestre ou aquática, contínua ou descontínua; nos aeroportos alfandegados, a área terrestre; e a área terrestre dos pontos de fronteira alfandegados. A zona secundária é todo o restante do território aduaneiro, incluídas as águas territoriais e o espaço aéreo — ponto frequentemente explorado em provas.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 3º; Decreto-Lei nº 37/1966, art. 33.",
+      "dificuldade": "facil",
+      "tags": [
+        "zona-primaria",
+        "zona-secundaria"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0003",
+      "topico": "11.1",
+      "tipo": "multipla",
+      "enunciado": "Auditores-Fiscais da Receita Federal realizaram, em rodovia federal localizada a 600 km da fronteira, operação de fiscalização de caminhões que transportavam mercadorias de procedência estrangeira.\n\nSobre essa operação, é correto afirmar que:",
+      "alternativas": [
+        "ocorreu em zona secundária, que também integra a jurisdição dos serviços aduaneiros.",
+        "é ilegal, pois a jurisdição aduaneira se limita à zona primária.",
+        "só seria válida se a rodovia estivesse em zona de vigilância aduaneira.",
+        "só seria válida se a rodovia estivesse na faixa de fronteira de 150 km.",
+        "exigia prévio ato declaratório de alfandegamento da rodovia."
+      ],
+      "correta": 0,
+      "comentario": "A jurisdição aduaneira abrange todo o território aduaneiro, dividido em zona primária e zona secundária. Fora dos portos, aeroportos e pontos de fronteira alfandegados, o local integra a zona secundária, onde a fiscalização aduaneira também pode ser exercida. As zonas de vigilância aduaneira impõem cautelas adicionais, mas não delimitam a jurisdição.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 3º, II.",
+      "dificuldade": "facil",
+      "tags": [
+        "zona-secundaria",
+        "jurisdicao-aduaneira"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0004",
+      "topico": "11.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que indica corretamente a autoridade competente para cada ato.",
+      "alternativas": [
+        "Demarcação da zona primária — Ministro de Estado da Fazenda; demarcação de zona de vigilância aduaneira — autoridade aduaneira local.",
+        "Alfandegamento de porto — lei federal específica; demarcação da zona primária — Presidente da República.",
+        "Demarcação da zona primária — órgão administrador do porto; alfandegamento — Ministro de Estado da Fazenda.",
+        "Demarcação de zona de vigilância aduaneira — Congresso Nacional; alfandegamento — autoridade aduaneira local.",
+        "Demarcação da zona primária — autoridade aduaneira local; demarcação de zona de vigilância aduaneira — Ministro de Estado da Fazenda; alfandegamento — ato declaratório da autoridade aduaneira competente."
+      ],
+      "correta": 4,
+      "comentario": "A zona primária é demarcada pela autoridade aduaneira local, ouvido o órgão ou a empresa que administra o local. As zonas de vigilância aduaneira, na orla marítima ou na faixa de fronteira, podem ser demarcadas pelo Ministro de Estado da Fazenda. Portos, aeroportos e pontos de fronteira são alfandegados por ato declaratório da autoridade aduaneira competente.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 3º, I e §2º, 4º e 5º.",
+      "dificuldade": "media",
+      "tags": [
+        "competencias",
+        "alfandegamento",
+        "zona-de-vigilancia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0005",
+      "topico": "11.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre as zonas de vigilância aduaneira, é correto afirmar que:",
+      "alternativas": [
+        "integram a zona primária e são demarcadas pela autoridade aduaneira local.",
+        "são áreas nas quais é vedada a circulação de quaisquer mercadorias estrangeiras.",
+        "podem ser demarcadas na orla marítima ou na faixa de fronteira, nelas ficando a existência e a circulação de mercadorias sujeitas às cautelas fiscais, proibições e restrições previstas no ato de demarcação.",
+        "correspondem necessariamente a toda a faixa de fronteira de 150 km.",
+        "são criadas por lei complementar e dependem de aprovação do Senado Federal."
+      ],
+      "correta": 2,
+      "comentario": "O Ministro de Estado da Fazenda pode demarcar zonas de vigilância aduaneira na orla marítima ou na faixa de fronteira. Nelas, a existência e a circulação de mercadorias ficam sujeitas às cautelas, proibições e restrições que o ato de demarcação prescrever. Não se confundem com a zona primária, nem abrangem obrigatoriamente toda a faixa de fronteira.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 4º.",
+      "dificuldade": "media",
+      "tags": [
+        "zona-de-vigilancia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0006",
+      "topico": "11.1",
+      "tipo": "multipla",
+      "enunciado": "Portos, aeroportos e pontos de fronteira são alfandegados por ato declaratório da autoridade aduaneira competente.\n\nO alfandegamento tem por objetivo permitir que neles possam, sob controle aduaneiro:",
+      "alternativas": [
+        "estacionar ou transitar veículos procedentes do exterior ou a ele destinados; realizar operações de carga, descarga, armazenagem ou passagem de mercadorias procedentes do exterior ou a ele destinadas; e embarcar, desembarcar ou transitar viajantes procedentes do exterior ou a ele destinados.",
+        "ser cobrados tributos estaduais e municipais incidentes sobre o comércio exterior.",
+        "ser instaladas indústrias com suspensão de tributos, independentemente de regime especial.",
+        "ser realizadas apenas operações de exportação, vedadas as de importação.",
+        "circular mercadorias nacionais sem qualquer controle fiscal."
+      ],
+      "correta": 0,
+      "comentario": "O alfandegamento habilita o local a receber, sob controle aduaneiro, veículos, mercadorias e viajantes procedentes do exterior ou a ele destinados, nas operações previstas no art. 5º. O ato que declara o alfandegamento estabelece as operações autorizadas e os termos, limites e condições para sua realização.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 5º e 7º.",
+      "dificuldade": "facil",
+      "tags": [
+        "alfandegamento",
+        "portos",
+        "aeroportos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0007",
+      "topico": "11.1",
+      "tipo": "multipla",
+      "enunciado": "Uma empresa requereu o alfandegamento de terminal portuário por ela administrado.\n\nAssinale a opção que NÃO constitui condição para o alfandegamento prevista no Regulamento Aduaneiro.",
+      "alternativas": [
+        "Atendimento das condições de instalação do órgão de fiscalização aduaneira e da infraestrutura indispensável à segurança fiscal.",
+        "Regularidade fiscal atestada do interessado.",
+        "Disponibilidade de recursos humanos e materiais.",
+        "Comprovação de movimentação mínima anual de carga estrangeira fixada em lei.",
+        "Assunção, pelo interessado, da condição de fiel depositário da mercadoria sob sua guarda."
+      ],
+      "correta": 3,
+      "comentario": "O alfandegamento só pode ser efetivado depois de atendidas as condições de instalação do órgão de fiscalização e de infraestrutura para a segurança fiscal, atestada a regularidade fiscal do interessado, verificada a disponibilidade de recursos humanos e materiais e assumida pelo interessado a condição de fiel depositário. Não há exigência de volume mínimo de movimentação. Tratando-se de concessão ou permissão de serviço público, exige-se ainda a conclusão da licitação.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 6º.",
+      "dificuldade": "media",
+      "tags": [
+        "alfandegamento",
+        "requisitos",
+        "fiel-depositario"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0008",
+      "topico": "11.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre a abrangência do alfandegamento, assinale a afirmativa correta.",
+      "alternativas": [
+        "O alfandegamento deve abranger obrigatoriamente toda a área do porto ou do aeroporto.",
+        "Silos e tanques de armazenamento de granéis não podem ser alfandegados, por estarem fora do cais.",
+        "O alfandegamento pode abranger a totalidade ou parte da área dos portos e aeroportos, podendo ainda ser alfandegados silos ou tanques para produtos a granel em áreas contíguas a porto organizado ou instalações portuárias, a eles ligados por tubulações, esteiras ou similares de caráter permanente.",
+        "Somente aeroportos internacionais com voos regulares podem ser alfandegados.",
+        "Pontos de fronteira não são passíveis de alfandegamento, pois se localizam em zona secundária."
+      ],
+      "correta": 2,
+      "comentario": "O alfandegamento pode alcançar toda a área ou apenas parte dos portos e aeroportos. O Regulamento admite também o alfandegamento de silos ou tanques de granéis em áreas contíguas ao porto organizado ou às instalações portuárias, desde que ligados a eles por tubulações, esteiras ou similares instalados em caráter permanente. Pontos de fronteira alfandegados integram a zona primária.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 3º, I, 'c', e 6º, §§3º e 4º.",
+      "dificuldade": "dificil",
+      "tags": [
+        "alfandegamento",
+        "abrangencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0009",
+      "topico": "11.1",
+      "tipo": "multipla",
+      "enunciado": "Uma empresa brasileira importa gás natural da Bolívia por meio de gasoduto que cruza a fronteira fora de qualquer ponto de fronteira alfandegado.\n\nSobre essa operação, é correto afirmar que:",
+      "alternativas": [
+        "é vedada, pois a entrada de mercadorias estrangeiras só pode ocorrer por porto, aeroporto ou ponto de fronteira alfandegado.",
+        "exige o prévio alfandegamento de toda a extensão do gasoduto em território nacional.",
+        "configura contrabando, por ingresso da mercadoria fora de local alfandegado.",
+        "só é permitida se o gás for destinado a regime aduaneiro especial.",
+        "é admitida, pois a regra de entrada e saída apenas por locais alfandegados não se aplica a mercadorias conduzidas por linhas de transmissão ou por dutos ligados ao exterior, observadas as regras de controle da Receita Federal."
+      ],
+      "correta": 4,
+      "comentario": "Em regra, a entrada e a saída de mercadorias procedentes do exterior ou a ele destinadas só podem ocorrer em portos, aeroportos e pontos de fronteira alfandegados. A exceção expressa é a importação e a exportação de mercadorias conduzidas por linhas de transmissão (como energia elétrica) ou por dutos ligados ao exterior, observadas as regras de controle da Receita Federal.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 8º e parágrafo único.",
+      "dificuldade": "media",
+      "tags": [
+        "entrada-de-mercadorias",
+        "dutos",
+        "linhas-de-transmissao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0010",
+      "topico": "11.1",
+      "tipo": "multipla",
+      "enunciado": "Recintos alfandegados são assim declarados pela autoridade aduaneira competente, a fim de que neles possam ocorrer, sob controle aduaneiro, movimentação, armazenagem e despacho aduaneiro.\n\nSobre esses recintos, é correto afirmar que:",
+      "alternativas": [
+        "só podem ser declarados na zona primária.",
+        "podem ser declarados na zona primária ou na zona secundária e destinam-se a mercadorias procedentes do exterior ou a ele destinadas, inclusive sob regime aduaneiro especial, bagagem de viajantes e remessas postais internacionais.",
+        "destinam-se exclusivamente a mercadorias de exportação.",
+        "não podem receber bagagem de viajantes, que deve ser despachada fora deles.",
+        "são criados por lei e administrados diretamente pela Receita Federal."
+      ],
+      "correta": 1,
+      "comentario": "Recintos alfandegados podem ser declarados na zona primária ou na secundária e servem à movimentação, armazenagem e despacho aduaneiro de mercadorias procedentes do exterior ou a ele destinadas (inclusive sob regime especial), de bagagem de viajantes e de remessas postais internacionais. São declarados por ato da autoridade aduaneira e, em regra, administrados por particulares, que respondem como depositários.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 9º.",
+      "dificuldade": "facil",
+      "tags": [
+        "recintos-alfandegados"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0011",
+      "topico": "11.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre os portos secos, assinale a afirmativa correta.",
+      "alternativas": [
+        "São recintos alfandegados de uso privativo, instalados obrigatoriamente dentro da zona primária dos portos.",
+        "São terminais alfandegados exclusivos de exportação, vedada a armazenagem de carga de importação.",
+        "Dispensam o controle aduaneiro, por estarem localizados na zona secundária.",
+        "São recintos alfandegados de uso público, nos quais se executam operações de movimentação, armazenagem e despacho aduaneiro de mercadorias e bagagem, e não podem ser instalados na zona primária de portos e aeroportos alfandegados.",
+        "Somente podem ser instalados em Municípios localizados na faixa de fronteira."
+      ],
+      "correta": 3,
+      "comentario": "Portos secos são recintos alfandegados de uso público, em que se realizam movimentação, armazenagem e despacho aduaneiro de mercadorias e bagagem sob controle aduaneiro. Não podem ser instalados na zona primária de portos e aeroportos alfandegados — ficam, portanto, na zona secundária, em geral no interior do país — e podem ser autorizados a operar com carga de importação, de exportação ou ambas. A exploração se dá sob regime de concessão ou permissão de serviço público.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 11; Lei nº 9.074/1995, art. 1º, VI.",
+      "dificuldade": "media",
+      "tags": [
+        "portos-secos",
+        "zona-secundaria"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0012",
+      "topico": "11.1",
+      "tipo": "multipla",
+      "enunciado": "Uma empresa pretende instalar loja franca para venda de mercadorias a viajantes em aeroporto internacional.\n\nSegundo o Regulamento Aduaneiro, poderão ainda ser alfandegados, em zona primária, recintos destinados à instalação de:",
+      "alternativas": [
+        "lojas francas.",
+        "portos secos.",
+        "indústrias sob regime de drawback.",
+        "centros de distribuição de mercadorias nacionais.",
+        "armazéns gerais de mercadorias já nacionalizadas."
+      ],
+      "correta": 0,
+      "comentario": "Além dos recintos para movimentação, armazenagem e despacho de mercadorias, bagagem e remessas postais, podem ser alfandegados, em zona primária, recintos destinados à instalação de lojas francas. Portos secos, ao contrário, não podem ficar na zona primária de portos e aeroportos alfandegados.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 9º, parágrafo único.",
+      "dificuldade": "facil",
+      "tags": [
+        "loja-franca",
+        "recintos-alfandegados"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0013",
+      "topico": "11.1",
+      "tipo": "multipla",
+      "enunciado": "Para efeito de controle aduaneiro, as Zonas de Processamento de Exportação (ZPE):",
+      "alternativas": [
+        "integram a zona secundária, dispensado qualquer controle aduaneiro.",
+        "situam-se fora do território aduaneiro.",
+        "constituem zona primária.",
+        "equiparam-se a zonas de vigilância aduaneira demarcadas pelo Ministro da Fazenda.",
+        "equiparam-se a portos secos."
+      ],
+      "correta": 2,
+      "comentario": "O Regulamento Aduaneiro dispõe que, para efeito de controle aduaneiro, as Zonas de Processamento de Exportação constituem zona primária. As ZPE são áreas de livre comércio com o exterior destinadas à instalação de empresas voltadas à produção de bens a serem comercializados no exterior, integrando o território aduaneiro sob regime especial.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 3º, §1º; Lei nº 11.508/2007.",
+      "dificuldade": "media",
+      "tags": [
+        "zpe",
+        "zona-primaria"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0014",
+      "topico": "11.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre a extensão da jurisdição dos serviços aduaneiros, é correto afirmar que ela:",
+      "alternativas": [
+        "termina rigorosamente na linha de fronteira, não podendo alcançar áreas situadas em outros países.",
+        "abrange apenas a zona primária e as zonas de vigilância aduaneira.",
+        "estende-se ao mar territorial e à zona econômica exclusiva como zona primária.",
+        "limita-se aos locais em que haja unidade da Receita Federal instalada.",
+        "estende-se também às Áreas de Controle Integrado criadas em regiões limítrofes dos países integrantes do Mercosul com o Brasil."
+      ],
+      "correta": 4,
+      "comentario": "A jurisdição aduaneira alcança todo o território aduaneiro e se estende ainda às Áreas de Controle Integrado criadas em regiões limítrofes dos países do Mercosul com o Brasil, onde se realiza o controle conjunto dos países envolvidos. Águas territoriais integram a zona secundária, e não a primária.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 3º, §5º.",
+      "dificuldade": "media",
+      "tags": [
+        "jurisdicao-aduaneira",
+        "mercosul",
+        "area-de-controle-integrado"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0015",
+      "topico": "11.1",
+      "tipo": "multipla",
+      "enunciado": "Nos termos da Constituição e do Regulamento Aduaneiro, o exercício da administração aduaneira:",
+      "alternativas": [
+        "compete aos Estados, nos portos e aeroportos situados em seus territórios.",
+        "compreende a fiscalização e o controle sobre o comércio exterior, essenciais à defesa dos interesses fazendários nacionais, em todo o território aduaneiro, exercidos pelo Ministério da Fazenda.",
+        "restringe-se à arrecadação do Imposto de Importação, cabendo o controle das mercadorias ao Ministério do Desenvolvimento, Indústria, Comércio e Serviços.",
+        "compete à Polícia Federal, com apoio da Receita Federal.",
+        "restringe-se à zona primária, cabendo à Polícia Rodoviária Federal a zona secundária."
+      ],
+      "correta": 1,
+      "comentario": "A Constituição atribui ao Ministério da Fazenda a fiscalização e o controle sobre o comércio exterior, essenciais à defesa dos interesses fazendários nacionais. O Regulamento Aduaneiro reproduz a ideia: a administração aduaneira compreende essa fiscalização e controle em todo o território aduaneiro, e é exercida pela Receita Federal, órgão do Ministério da Fazenda.",
+      "fundamento": "CF/1988, art. 237; Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 15.",
+      "dificuldade": "facil",
+      "tags": [
+        "administracao-aduaneira",
+        "art-237"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0016",
+      "topico": "11.1",
+      "tipo": "multipla",
+      "enunciado": "No pátio de um porto alfandegado, a autoridade aduaneira requisitou à administração portuária a imediata disponibilização de equipamento de movimentação e de pessoal para a verificação de contêineres suspeitos.\n\nConsiderando a precedência da autoridade aduaneira, é correto afirmar que:",
+      "alternativas": [
+        "a requisição é indevida, pois a administração portuária tem precedência dentro do porto organizado.",
+        "a precedência só se aplica em relação a órgãos federais, excluídas as administrações portuárias estaduais ou municipais.",
+        "a requisição depende de prévia autorização judicial.",
+        "a precedência implica a obrigação dos demais órgãos de prestar auxílio imediato, disponibilizando pessoas, equipamentos ou instalações necessários à ação fiscal, e a competência da autoridade aduaneira para disciplinar entrada, permanência, movimentação e saída de pessoas, veículos, unidades de carga e mercadorias no que interessar à Fazenda Nacional.",
+        "a precedência limita-se a assegurar prioridade na fila de atracação das embarcações."
+      ],
+      "correta": 3,
+      "comentario": "A Constituição assegura à administração fazendária e a seus servidores fiscais precedência sobre os demais setores administrativos, dentro de suas áreas de competência e jurisdição. O Regulamento Aduaneiro concretiza isso em portos, aeroportos, pontos de fronteira e recintos alfandegados: os demais órgãos devem prestar auxílio imediato quando requisitados, e a autoridade aduaneira disciplina o acesso e a movimentação de pessoas, veículos, cargas e mercadorias, sem prejuízo das atribuições das outras autoridades.",
+      "fundamento": "CF/1988, art. 37, XVIII; Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 17.",
+      "dificuldade": "media",
+      "tags": [
+        "precedencia",
+        "administracao-aduaneira"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0017",
+      "topico": "11.1",
+      "tipo": "multipla",
+      "enunciado": "Nos portos, aeroportos, pontos de fronteira e recintos alfandegados, a fiscalização aduaneira poderá ser:",
+      "alternativas": [
+        "ininterrupta, em horários determinados, ou eventual.",
+        "exclusivamente ininterrupta, durante as 24 horas do dia.",
+        "exclusivamente em horário comercial, vedado o atendimento fora do expediente.",
+        "realizada apenas mediante agendamento prévio do importador.",
+        "realizada apenas quando houver denúncia de irregularidade."
+      ],
+      "correta": 0,
+      "comentario": "A fiscalização aduaneira pode ser ininterrupta, em horários determinados ou eventual, cabendo à administração aduaneira fixar horários e condições dos serviços em cada local. O atendimento fora do expediente normal da unidade é tratado como serviço extraordinário.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 16.",
+      "dificuldade": "facil",
+      "tags": [
+        "fiscalizacao-aduaneira",
+        "horarios"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0018",
+      "topico": "11.1",
+      "tipo": "multipla",
+      "enunciado": "Durante procedimento fiscal, Auditores-Fiscais da Receita Federal compareceram, às 22 horas, ao depósito de uma empresa importadora que opera em turno noturno e exigiram acesso às mercadorias e aos documentos.\n\nSegundo o Regulamento Aduaneiro, a empresa:",
+      "alternativas": [
+        "pode recusar o acesso, pois a fiscalização só pode ocorrer em horário comercial.",
+        "só está obrigada a permitir o acesso mediante mandado judicial.",
+        "deve franquear seus estabelecimentos, depósitos e dependências e exibir mercadorias, livros e documentos a qualquer hora do dia, ou da noite se à noite estiver funcionando.",
+        "só deve exibir documentos arquivados em papel, não os mantidos em meio eletrônico.",
+        "pode exigir que a fiscalização retorne no dia seguinte, com aviso prévio de 48 horas."
+      ],
+      "correta": 2,
+      "comentario": "As pessoas físicas ou jurídicas devem exibir aos Auditores-Fiscais, sempre que exigidos, mercadorias, livros, documentos (inclusive em meio magnético) e franquear estabelecimentos, depósitos, dependências, veículos, cofres e outros móveis, a qualquer hora do dia, ou da noite se estiverem funcionando nesse período. Não se exige ordem judicial para o acesso a estabelecimento comercial aberto.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 19.",
+      "dificuldade": "media",
+      "tags": [
+        "fiscalizacao-aduaneira",
+        "exibicao-de-documentos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0019",
+      "topico": "11.1",
+      "tipo": "multipla",
+      "enunciado": "O importador, o exportador ou o adquirente de mercadoria importada por sua conta e ordem têm a obrigação de manter em boa guarda e ordem os documentos relativos às transações que realizarem.\n\nEssa obrigação perdura:",
+      "alternativas": [
+        "até o desembaraço aduaneiro da mercadoria.",
+        "por dois anos, contados do registro da declaração de importação.",
+        "por prazo indeterminado, sem qualquer limite.",
+        "até a entrega da mercadoria ao destinatário final.",
+        "pelo prazo decadencial estabelecido na legislação tributária a que estão submetidos, devendo os documentos ser apresentados à fiscalização aduaneira quando exigidos."
+      ],
+      "correta": 4,
+      "comentario": "O Regulamento Aduaneiro vincula o dever de guarda ao prazo decadencial da legislação tributária aplicável, período em que o Fisco ainda pode rever a operação e lançar eventuais diferenças. Durante esse prazo, os documentos devem ser apresentados sempre que exigidos pela fiscalização aduaneira.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 18.",
+      "dificuldade": "facil",
+      "tags": [
+        "guarda-de-documentos",
+        "decadencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0020",
+      "topico": "11.1",
+      "tipo": "multipla",
+      "enunciado": "No intuito de reforçar o controle em área de porto alfandegado, a autoridade aduaneira adotou duas medidas: exigiu que parte da zona primária fosse protegida por obstáculos que impedissem o acesso indiscriminado de veículos, pessoas ou animais; e restringiu a entrada de pessoas que ali não exercessem atividades profissionais.\n\nSobre essas medidas, é correto afirmar que:",
+      "alternativas": [
+        "ambas são ilegais, pois o porto é bem público de uso comum do povo.",
+        "ambas têm previsão expressa no Regulamento Aduaneiro.",
+        "apenas a primeira é válida, pois a restrição de acesso de pessoas depende de lei.",
+        "apenas a segunda é válida, pois a exigência de obstáculos físicos cabe exclusivamente à administração portuária.",
+        "ambas dependem de prévia autorização do Ministro de Estado da Fazenda."
+      ],
+      "correta": 1,
+      "comentario": "O Regulamento Aduaneiro autoriza a autoridade aduaneira a exigir que a zona primária, ou parte dela, seja protegida por obstáculos que impeçam o acesso indiscriminado de veículos, pessoas ou animais. Também permite que, em locais e recintos alfandegados, sejam estabelecidas restrições à entrada de pessoas que ali não exerçam atividades profissionais e de veículos não utilizados em serviço.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 3º, §§3º e 4º.",
+      "dificuldade": "media",
+      "tags": [
+        "zona-primaria",
+        "controle-de-acesso"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0021",
+      "topico": "11.1",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir.\n\nI. O território aduaneiro compreende todo o território nacional.\nII. Na zona primária de porto alfandegado, a área demarcada pode ser terrestre ou aquática, contínua ou descontínua.\nIII. Para a demarcação da zona primária, é dispensável ouvir o órgão ou a empresa responsável pela administração do local a ser alfandegado.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "II, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 2,
+      "comentario": "I e II estão corretas: o território aduaneiro abrange todo o território nacional, e, nos portos alfandegados, a zona primária pode abranger área terrestre ou aquática, contínua ou descontínua. III está errada: o Regulamento exige que, para a demarcação da zona primária, seja ouvido o órgão ou a empresa a que esteja afeta a administração do local.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 2º e 3º, I, 'a', e §2º.",
+      "dificuldade": "media",
+      "tags": [
+        "territorio-aduaneiro",
+        "zona-primaria"
+      ],
+      "fonte": "inédita"
+    }
+  ]
 }
