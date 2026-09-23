@@ -1,4 +1,480 @@
 {
   "materia": "ltrib",
-  "questoes": []
+  "questoes": [
+    {
+      "id": "ltrib-0001",
+      "topico": "10.1",
+      "tipo": "multipla",
+      "enunciado": "O Imposto de Importação tem função predominantemente extrafiscal, servindo de instrumento de política econômica e cambial.\n\nEm razão disso, é correto afirmar que o II:",
+      "alternativas": [
+        "submete-se integralmente aos princípios da legalidade estrita e da anterioridade anual.",
+        "pode ser instituído por ato do Poder Executivo, dispensada a lei.",
+        "constitui exceção à legalidade quanto à alteração de alíquotas, que pode ser feita por ato do Poder Executivo atendidas as condições e os limites da lei, e é exceção tanto à anterioridade anual quanto à nonagesimal.",
+        "é exceção à anterioridade anual, mas se sujeita à anterioridade nonagesimal, como o IPI.",
+        "sujeita-se à anterioridade nonagesimal, mas pode ter alíquota majorada por decreto com efeito imediato."
+      ],
+      "correta": 2,
+      "comentario": "A instituição do imposto depende de lei; o que a Constituição excepciona é a alteração de alíquotas, que o Poder Executivo pode fazer atendidas as condições e os limites legais (art. 153, §1º). O II está entre as exceções à anterioridade de exercício e à noventena (art. 150, §1º), de modo que a majoração pode produzir efeitos imediatos. O IPI, ao contrário, sujeita-se à noventena.",
+      "fundamento": "CF/1988, arts. 150, §1º, e 153, I e §1º.",
+      "dificuldade": "facil",
+      "tags": [
+        "extrafiscalidade",
+        "legalidade",
+        "anterioridade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0002",
+      "topico": "10.1",
+      "tipo": "multipla",
+      "enunciado": "Uma empresa registrou, em 10 de março, a declaração de importação de mercadoria estrangeira submetida a despacho para consumo, embora o navio tivesse atracado no porto em 25 de fevereiro e a mercadoria tenha sido desembaraçada em 15 de março.\n\nPara efeito de cálculo do Imposto de Importação, considera-se ocorrido o fato gerador em:",
+      "alternativas": [
+        "10 de março, data do registro da declaração de importação.",
+        "25 de fevereiro, data da atracação do navio.",
+        "15 de março, data do desembaraço aduaneiro.",
+        "na data da assinatura do contrato de câmbio.",
+        "na data de emissão da fatura comercial pelo exportador."
+      ],
+      "correta": 0,
+      "comentario": "O fato gerador do II é a entrada de mercadoria estrangeira no território aduaneiro. Para efeito de cálculo, a legislação fixa o momento: na data do registro da declaração de importação de mercadoria submetida a despacho para consumo. Essa ficção jurídica define a alíquota e a taxa de câmbio aplicáveis, e não se confunde com a atracação ou com o desembaraço.",
+      "fundamento": "CTN, art. 19; Decreto-Lei nº 37/1966, art. 23; Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 73, I.",
+      "dificuldade": "facil",
+      "tags": [
+        "fato-gerador",
+        "elemento-temporal",
+        "declaracao-de-importacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0003",
+      "topico": "10.1",
+      "tipo": "multipla",
+      "enunciado": "Fora da hipótese de mercadoria despachada para consumo, a legislação fixa outro momento para a ocorrência do fato gerador do Imposto de Importação.\n\nAssinale a opção que apresenta hipótese em que o fato gerador se considera ocorrido no dia do lançamento do correspondente crédito tributário.",
+      "alternativas": [
+        "Mercadoria submetida a despacho para consumo com pagamento antecipado.",
+        "Mercadoria admitida no regime de trânsito aduaneiro com destino a outro país.",
+        "Mercadoria cujo despacho de importação seja processado por canal verde.",
+        "Bens compreendidos no conceito de bagagem, acompanhada ou desacompanhada, e mercadoria constante de manifesto cujo extravio ou avaria seja apurado pela autoridade aduaneira.",
+        "Mercadoria nacional remetida a Zona Franca de Manaus."
+      ],
+      "correta": 3,
+      "comentario": "Considera-se ocorrido o fato gerador no dia do lançamento do crédito tributário quando se tratar de bens de remessa postal internacional não sujeitos ao regime de importação comum, de bagagem acompanhada ou desacompanhada, de mercadoria constante de manifesto cujo extravio ou avaria seja apurado pela autoridade aduaneira, e de mercadoria estrangeira não declarada que tenha sido consumida, revendida ou não localizada.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 73, II.",
+      "dificuldade": "media",
+      "tags": [
+        "fato-gerador",
+        "bagagem",
+        "extravio"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0004",
+      "topico": "10.1",
+      "tipo": "multipla",
+      "enunciado": "Mercadoria estrangeira permaneceu em recinto alfandegado e teve vencido o prazo de permanência, iniciando-se o despacho aduaneiro antes da aplicação da pena de perdimento.\n\nNessa hipótese, considera-se ocorrido o fato gerador do Imposto de Importação:",
+      "alternativas": [
+        "na data da entrada da mercadoria no recinto alfandegado.",
+        "na data do vencimento do prazo de permanência da mercadoria no recinto alfandegado.",
+        "na data da aplicação da pena de perdimento.",
+        "na data da arrematação da mercadoria em leilão.",
+        "não há fato gerador, pois a mercadoria foi considerada abandonada."
+      ],
+      "correta": 1,
+      "comentario": "Quando a mercadoria é considerada abandonada por decurso do prazo de permanência em recinto alfandegado, mas o despacho aduaneiro é iniciado antes de aplicada a pena de perdimento, o fato gerador se considera ocorrido na data do vencimento do prazo de permanência. A regra impede que o importador se beneficie da própria inércia para obter alíquota mais favorável.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 73, III.",
+      "dificuldade": "dificil",
+      "tags": [
+        "fato-gerador",
+        "abandono",
+        "recinto-alfandegado"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0005",
+      "topico": "10.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que apresenta hipótese em que INCIDE o Imposto de Importação.",
+      "alternativas": [
+        "Mercadoria estrangeira destruída sob controle aduaneiro, sem ônus para a Fazenda Nacional, antes de desembaraçada.",
+        "Mercadoria estrangeira em trânsito aduaneiro de passagem, acidentalmente destruída.",
+        "Mercadoria devolvida ao exterior antes do registro da declaração de importação.",
+        "Pescado capturado fora das águas territoriais brasileiras por empresa localizada no País.",
+        "Mercadoria estrangeira objeto de pena de perdimento que tenha sido revendida ou não seja localizada."
+      ],
+      "correta": 4,
+      "comentario": "Não incide o II sobre mercadoria destruída sob controle aduaneiro antes do desembaraço, sobre mercadoria acidentalmente destruída em trânsito de passagem, sobre mercadoria devolvida ao exterior antes do registro da DI e sobre pescado capturado por empresa sediada no País. Quanto à pena de perdimento, a não incidência é a regra, mas ela cede quando a mercadoria tenha sido consumida, revendida ou não seja localizada — hipótese em que o imposto é exigido.",
+      "fundamento": "Decreto-Lei nº 37/1966, art. 1º, §4º; Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 71.",
+      "dificuldade": "media",
+      "tags": [
+        "nao-incidencia",
+        "perdimento"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0006",
+      "topico": "10.1",
+      "tipo": "multipla",
+      "enunciado": "Por erro comprovado do exportador estrangeiro, um contêiner corretamente descrito nos documentos foi embarcado para o Brasil em lugar do país de destino contratado. Identificado o equívoco, a carga foi redestinada ao exterior sob controle aduaneiro.\n\nQuanto ao Imposto de Importação:",
+      "alternativas": [
+        "incide normalmente, pois houve entrada física no território aduaneiro.",
+        "incide, mas com redução de 50% da alíquota.",
+        "não incide, pois a mercadoria chegou ao País por erro inequívoco ou comprovado de expedição e foi redestinada ou devolvida ao exterior.",
+        "incide, cabendo posterior pedido de restituição após a saída da mercadoria.",
+        "não incide apenas se a devolução ocorrer no prazo de 24 horas da atracação."
+      ],
+      "correta": 2,
+      "comentario": "A legislação afasta a incidência sobre mercadoria estrangeira que, corretamente descrita nos documentos de transporte, chegue ao País por erro inequívoco ou comprovado de expedição e seja redestinada ou devolvida ao exterior. Trata-se de hipótese de não incidência, e não de isenção ou restituição posterior.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 71, I.",
+      "dificuldade": "media",
+      "tags": [
+        "nao-incidencia",
+        "erro-de-expedicao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0007",
+      "topico": "10.1",
+      "tipo": "multipla",
+      "enunciado": "Mercadoria nacional foi exportada em consignação e, não tendo sido vendida no prazo autorizado, retornou ao Brasil.\n\nSobre a incidência do Imposto de Importação nesse retorno, é correto afirmar que:",
+      "alternativas": [
+        "não incide, pois a lei ressalva expressamente o retorno de mercadoria enviada em consignação e não vendida no prazo autorizado.",
+        "incide, pois toda mercadoria que retorna ao País é considerada estrangeira, sem exceções.",
+        "incide, salvo se o exportador recolher multa equivalente a 10% do valor aduaneiro.",
+        "não incide em nenhuma hipótese de retorno de mercadoria nacional.",
+        "incide apenas se o retorno ocorrer após dois anos da exportação."
+      ],
+      "correta": 0,
+      "comentario": "Em regra, a mercadoria nacional ou nacionalizada exportada que retorna ao País é considerada estrangeira para fins de incidência do imposto. A lei, porém, ressalva situações alheias à vontade do exportador: envio em consignação sem venda no prazo autorizado; devolução por defeito técnico, para reparo ou substituição; mudança na sistemática de importação do país importador; guerra ou calamidade pública; e outros fatores alheios à vontade do exportador.",
+      "fundamento": "Decreto-Lei nº 37/1966, art. 1º, §1º; Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 70.",
+      "dificuldade": "media",
+      "tags": [
+        "retorno-de-mercadoria",
+        "incidencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0008",
+      "topico": "10.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre a base de cálculo do Imposto de Importação, assinale a afirmativa correta.",
+      "alternativas": [
+        "Quando a alíquota for ad valorem, a base de cálculo é o preço constante da fatura comercial, sem ajustes.",
+        "Quando a alíquota for específica, a base de cálculo é o valor aduaneiro da mercadoria.",
+        "A base de cálculo é sempre o preço de venda da mercadoria no mercado interno brasileiro.",
+        "Quando a alíquota for ad valorem, a base de cálculo é o valor aduaneiro apurado segundo as normas do Artigo VII do GATT 1994; quando for específica, é a quantidade de mercadoria expressa na unidade de medida estabelecida.",
+        "A base de cálculo corresponde ao valor aduaneiro acrescido do IPI e do ICMS devidos na importação."
+      ],
+      "correta": 3,
+      "comentario": "O CTN e o Decreto-Lei 37/1966 definem duas bases, conforme o tipo de alíquota: na alíquota ad valorem, o valor aduaneiro apurado segundo o Acordo de Valoração Aduaneira (Artigo VII do GATT 1994); na alíquota específica, a quantidade de mercadoria expressa na unidade de medida indicada na tarifa. O valor aduaneiro não se confunde com o preço da fatura, que é apenas o ponto de partida do primeiro método de valoração.",
+      "fundamento": "CTN, art. 20; Decreto-Lei nº 37/1966, art. 2º; Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 75.",
+      "dificuldade": "facil",
+      "tags": [
+        "base-de-calculo",
+        "valor-aduaneiro"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0009",
+      "topico": "10.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre os métodos de valoração aduaneira previstos no Acordo de Valoração Aduaneira, assinale a afirmativa correta.",
+      "alternativas": [
+        "A autoridade aduaneira pode escolher livremente o método que resulte no maior valor aduaneiro.",
+        "Os métodos são aplicados sucessivamente, na ordem prevista no Acordo, sendo o primeiro o do valor de transação; admite-se a inversão entre o método dedutivo e o do valor computado, a pedido do importador.",
+        "O método do valor computado é sempre o primeiro a ser aplicado nas importações entre pessoas vinculadas.",
+        "Rejeitado o valor de transação, aplica-se diretamente o método do último recurso.",
+        "O valor aduaneiro pode ser fixado por pauta mínima de valores estabelecida pela administração."
+      ],
+      "correta": 1,
+      "comentario": "Os seis métodos são aplicados em ordem sucessiva e obrigatória: valor de transação; valor de transação de mercadorias idênticas; de mercadorias similares; método dedutivo; método computado; e método do último recurso. A única flexibilidade é a inversão entre o quarto e o quinto métodos, a pedido do importador. O Acordo veda expressamente valores arbitrários, fictícios ou pautas mínimas.",
+      "fundamento": "Acordo de Valoração Aduaneira (GATT 1994), arts. 1º a 7º; Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 76 e seguintes.",
+      "dificuldade": "media",
+      "tags": [
+        "valoracao-aduaneira",
+        "metodos",
+        "ava-gatt"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0010",
+      "topico": "10.1",
+      "tipo": "multipla",
+      "enunciado": "Na apuração do valor aduaneiro de mercadoria importada por via marítima, devem ser considerados, entre outros elementos:",
+      "alternativas": [
+        "apenas o preço pago ou a pagar ao exportador, em condição FOB.",
+        "o preço da mercadoria acrescido dos tributos internos incidentes na revenda.",
+        "o preço da mercadoria, deduzido o frete internacional, quando pago no Brasil.",
+        "o preço de mercado da mercadoria no país de origem, independentemente do preço contratado.",
+        "o valor da mercadoria acrescido do custo de transporte até o porto alfandegado de destino e do custo do seguro relativo a esse transporte."
+      ],
+      "correta": 4,
+      "comentario": "O valor aduaneiro é apurado em base equivalente ao CIF: integra-o o custo de transporte da mercadoria importada até o porto ou aeroporto alfandegado de destino, os gastos relativos a carga, descarga e manuseio associados a esse transporte, e o custo do seguro. Tributos internos incidentes na revenda e o preço de mercado no país de origem não compõem a base.",
+      "fundamento": "Acordo de Valoração Aduaneira, art. 8º; Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 77.",
+      "dificuldade": "media",
+      "tags": [
+        "valor-aduaneiro",
+        "frete",
+        "seguro"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0011",
+      "topico": "10.1",
+      "tipo": "multipla",
+      "enunciado": "Nos termos do Decreto-Lei nº 37/1966, é contribuinte do Imposto de Importação:",
+      "alternativas": [
+        "o transportador que conduz a mercadoria procedente do exterior.",
+        "o depositário do recinto alfandegado em que a mercadoria esteja armazenada.",
+        "o importador, assim considerada qualquer pessoa que promova a entrada de mercadoria estrangeira no território nacional, bem como o destinatário de remessa postal internacional indicado pelo remetente e o adquirente de mercadoria entrepostada.",
+        "o exportador estrangeiro que remete a mercadoria ao Brasil.",
+        "exclusivamente a pessoa jurídica habilitada no Siscomex, excluídas as pessoas físicas."
+      ],
+      "correta": 2,
+      "comentario": "São contribuintes o importador (qualquer pessoa que promova a entrada da mercadoria estrangeira no território nacional), o destinatário de remessa postal internacional indicado pelo respectivo remetente e o adquirente de mercadoria entrepostada. Transportador e depositário figuram como responsáveis, não como contribuintes. Pessoa física também pode ser contribuinte.",
+      "fundamento": "CTN, art. 22; Decreto-Lei nº 37/1966, art. 31; Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 104.",
+      "dificuldade": "facil",
+      "tags": [
+        "contribuinte",
+        "sujeicao-passiva"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0012",
+      "topico": "10.1",
+      "tipo": "multipla",
+      "enunciado": "Uma trading importou mercadorias em nome próprio, mas por conta e ordem de terceiro, que financiou a operação e recebeu os bens.\n\nQuanto à sujeição passiva do Imposto de Importação, é correto afirmar que:",
+      "alternativas": [
+        "o adquirente responde solidariamente com o importador pelo imposto devido.",
+        "o adquirente é o único contribuinte, ficando a trading isenta de responsabilidade.",
+        "a responsabilidade do adquirente é subsidiária e depende de prévia execução da trading.",
+        "não há responsabilidade do adquirente, por ausência de previsão legal.",
+        "o adquirente responde apenas pelas penalidades, nunca pelo imposto."
+      ],
+      "correta": 0,
+      "comentario": "A legislação prevê responsabilidade solidária do adquirente de mercadoria de procedência estrangeira no caso de importação realizada por sua conta e ordem, por intermédio de pessoa jurídica importadora, bem como do encomendante predeterminado que adquire mercadoria importada por pessoa jurídica importadora. A solidariedade não comporta benefício de ordem.",
+      "fundamento": "Decreto-Lei nº 37/1966, art. 32, parágrafo único; CTN, art. 124, parágrafo único.",
+      "dificuldade": "media",
+      "tags": [
+        "conta-e-ordem",
+        "responsabilidade-solidaria"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0013",
+      "topico": "10.1",
+      "tipo": "multipla",
+      "enunciado": "Ao conferir a carga descarregada de um navio, a autoridade aduaneira apurou o extravio de volumes constantes do manifesto de carga.\n\nSobre a responsabilidade tributária nessa hipótese, é correto afirmar que responde pelo imposto:",
+      "alternativas": [
+        "apenas o importador, por ser o contribuinte da operação.",
+        "apenas o exportador estrangeiro.",
+        "o agente marítimo, exclusivamente por multa, jamais pelo imposto.",
+        "o transportador, quanto à mercadoria transportada procedente do exterior ou sob controle aduaneiro, ou o depositário, quanto à mercadoria sob sua custódia.",
+        "a autoridade aduaneira responsável pela conferência, em caso de falha no controle."
+      ],
+      "correta": 3,
+      "comentario": "São responsáveis pelo imposto o transportador, quando transporte mercadoria procedente do exterior ou sob controle aduaneiro, e o depositário, assim considerada qualquer pessoa incumbida da custódia de mercadoria sob controle aduaneiro. Em caso de extravio, respondem pelo tributo correspondente à mercadoria faltante, além das penalidades cabíveis.",
+      "fundamento": "Decreto-Lei nº 37/1966, art. 32; Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 105.",
+      "dificuldade": "media",
+      "tags": [
+        "responsabilidade",
+        "transportador",
+        "depositario",
+        "extravio"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0014",
+      "topico": "10.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre as alíquotas do Imposto de Importação, assinale a afirmativa correta.",
+      "alternativas": [
+        "São fixadas exclusivamente por lei ordinária federal, vedada qualquer alteração por ato do Executivo.",
+        "Constam da Tarifa Externa Comum do Mercosul e podem ser alteradas por ato do Poder Executivo, atendidas as condições e os limites estabelecidos em lei.",
+        "São uniformes para todas as mercadorias, em percentual único de 10%.",
+        "Somente podem ser reduzidas, jamais majoradas, por ato do Poder Executivo.",
+        "São fixadas por resolução do Senado Federal, como ocorre com o ICMS interestadual."
+      ],
+      "correta": 1,
+      "comentario": "As alíquotas do II são as da Tarifa Externa Comum, adotada no âmbito do Mercosul, e podem ser ad valorem, específicas ou mistas. A Constituição faculta ao Poder Executivo alterá-las, atendidas as condições e os limites fixados em lei — competência hoje exercida por órgão do Executivo, com possibilidade de reduções e majorações, inclusive por meio de ex-tarifários.",
+      "fundamento": "CF/1988, art. 153, §1º; Decreto-Lei nº 37/1966, art. 3º.",
+      "dificuldade": "facil",
+      "tags": [
+        "aliquotas",
+        "tec",
+        "mercosul"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0015",
+      "topico": "10.1",
+      "tipo": "multipla",
+      "enunciado": "Em 5 de maio, decreto majorou a alíquota do Imposto de Importação de determinado produto de 14% para 25%, com vigência imediata. Uma empresa havia registrado a declaração de importação em 2 de maio, e a mercadoria foi desembaraçada em 12 de maio.\n\nA alíquota aplicável à operação é:",
+      "alternativas": [
+        "25%, pois a alíquota aplicável é a vigente na data do desembaraço aduaneiro.",
+        "25%, pois o II é exceção à anterioridade e a majoração alcança operações em curso.",
+        "a média entre as duas alíquotas, proporcionalmente aos dias de cada vigência.",
+        "25%, salvo se a empresa comprovar prejuízo econômico.",
+        "14%, pois se aplica a alíquota vigente na data do fato gerador, que, no despacho para consumo, é a do registro da declaração de importação."
+      ],
+      "correta": 4,
+      "comentario": "Aplica-se a legislação vigente na data da ocorrência do fato gerador (CTN, art. 144). Como, no despacho para consumo, o fato gerador se considera ocorrido na data do registro da DI, a alíquota é a de 2 de maio, ou seja, 14%. A circunstância de o II ser exceção à anterioridade permite efeito imediato da majoração, mas apenas para os fatos geradores posteriores.",
+      "fundamento": "CTN, arts. 105 e 144; Decreto-Lei nº 37/1966, art. 23.",
+      "dificuldade": "media",
+      "tags": [
+        "aliquota",
+        "fato-gerador",
+        "irretroatividade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0016",
+      "topico": "10.1",
+      "tipo": "multipla",
+      "enunciado": "Quanto à modalidade de lançamento do Imposto de Importação no despacho aduaneiro de importação, é correto afirmar que se trata de lançamento:",
+      "alternativas": [
+        "de ofício, efetuado privativamente pela autoridade aduaneira antes do registro da declaração.",
+        "por declaração, pois o importador presta informações e aguarda a notificação para pagar.",
+        "por homologação, pois o importador apura e recolhe o imposto antecipadamente, sujeitando-se à posterior verificação pela autoridade aduaneira.",
+        "por arbitramento, em razão da necessidade de valoração aduaneira.",
+        "misto, pois metade do imposto é lançada de ofício e metade por declaração."
+      ],
+      "correta": 2,
+      "comentario": "No despacho de importação, o importador presta as informações, apura o imposto e efetua o pagamento antecipadamente ao exame da autoridade, no próprio registro da declaração — características do lançamento por homologação. Constatada divergência na conferência aduaneira ou em revisão posterior, a diferença é exigida por lançamento de ofício, com os acréscimos legais.",
+      "fundamento": "CTN, art. 150; Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 107 e 108.",
+      "dificuldade": "media",
+      "tags": [
+        "lancamento",
+        "homologacao",
+        "despacho-de-importacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0017",
+      "topico": "10.1",
+      "tipo": "multipla",
+      "enunciado": "Uma editora importou do exterior livros impressos e também máquinas para a sua gráfica.\n\nConsiderando a imunidade cultural, é correto afirmar que:",
+      "alternativas": [
+        "os livros importados são imunes ao Imposto de Importação, mas as máquinas, não.",
+        "tanto os livros quanto as máquinas são imunes, por integrarem a atividade da editora.",
+        "a imunidade cultural não se aplica a operações de importação, alcançando apenas o mercado interno.",
+        "os livros são isentos por ato do Poder Executivo, e não imunes.",
+        "a imunidade depende de prévio reconhecimento por lei complementar."
+      ],
+      "correta": 0,
+      "comentario": "A imunidade dos livros, jornais, periódicos e do papel destinado à sua impressão é objetiva e alcança também a importação, afastando o II. Ela não se estende, porém, aos maquinários e insumos em geral utilizados pela empresa, pois protege o bem, e não a pessoa do editor. O STF admite a extensão a livros eletrônicos e aos suportes próprios para sua leitura.",
+      "fundamento": "CF/1988, art. 150, VI, 'd'; STF, Súmula Vinculante 57.",
+      "dificuldade": "media",
+      "tags": [
+        "imunidade",
+        "livros",
+        "importacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0018",
+      "topico": "10.1",
+      "tipo": "multipla",
+      "enunciado": "Um viajante residente no Brasil retorna do exterior por via aérea trazendo bens de uso pessoal e presentes cujo valor total supera o limite de isenção de bagagem.\n\nSobre a tributação do excedente, é correto afirmar que:",
+      "alternativas": [
+        "o excedente é isento, desde que os bens não se destinem à revenda.",
+        "aplica-se a alíquota da Tarifa Externa Comum correspondente a cada bem, individualmente.",
+        "o viajante deve promover despacho aduaneiro de importação comum, com registro de declaração de importação.",
+        "aplica-se o regime de tributação especial, com incidência de alíquota única de 50% sobre o valor que exceder o limite de isenção.",
+        "o excedente é sempre objeto de pena de perdimento."
+      ],
+      "correta": 3,
+      "comentario": "A bagagem de viajante tem tratamento próprio: há um limite de isenção — atualmente distinto conforme a via de chegada, maior na via aérea e marítima do que na terrestre — e o valor excedente sujeita-se ao regime de tributação especial, com alíquota única de 50% sobre o excesso, em declaração simplificada, sem necessidade de despacho de importação comum. A pena de perdimento fica reservada a hipóteses de ocultação ou fraude.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 155 e seguintes; Portaria MF nº 440/2010.",
+      "dificuldade": "media",
+      "tags": [
+        "bagagem",
+        "regime-de-tributacao-especial"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0019",
+      "topico": "10.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre a arrecadação do Imposto de Importação, é correto afirmar que:",
+      "alternativas": [
+        "50% de seu produto é entregue aos Estados e ao Distrito Federal.",
+        "o produto da arrecadação pertence integralmente à União, não havendo repartição constitucional de sua receita com Estados e Municípios.",
+        "21,5% de seu produto compõem o Fundo de Participação dos Estados.",
+        "22,5% de seu produto compõem o Fundo de Participação dos Municípios.",
+        "o produto é dividido igualmente entre União, Estados e Municípios do local de desembaraço."
+      ],
+      "correta": 1,
+      "comentario": "A Constituição não prevê repartição do produto da arrecadação do Imposto de Importação: a receita fica integralmente com a União. Os fundos de participação são compostos por parcelas do IR e do IPI (art. 159, I), não do II. O mesmo vale para o Imposto de Exportação e o IOF em regra geral.",
+      "fundamento": "CF/1988, arts. 157 a 159.",
+      "dificuldade": "facil",
+      "tags": [
+        "reparticao-de-receitas",
+        "uniao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0020",
+      "topico": "10.1",
+      "tipo": "multipla",
+      "enunciado": "Uma pessoa física, sem qualquer atividade empresarial, importou um veículo do exterior para uso próprio.\n\nQuanto à incidência do Imposto de Importação, é correto afirmar que:",
+      "alternativas": [
+        "não incide, pois a pessoa física não é comerciante nem habitual importadora.",
+        "não incide, por ausência de finalidade comercial na operação.",
+        "incide apenas se o veículo for revendido no prazo de cinco anos.",
+        "incide com alíquota reduzida à metade, por se tratar de pessoa física.",
+        "incide normalmente, pois o imposto alcança a entrada de mercadoria estrangeira no território aduaneiro, independentemente da condição do importador ou da finalidade da importação."
+      ],
+      "correta": 4,
+      "comentario": "O fato gerador é a entrada de mercadoria estrangeira no território aduaneiro, e contribuinte é qualquer pessoa que promova essa entrada. Nem a habitualidade, nem a condição de empresário, nem a destinação comercial são requisitos da incidência. O STF já firmou esse entendimento para o IPI na importação por pessoa física; no II, a incidência nunca foi controvertida.",
+      "fundamento": "CTN, arts. 19 e 22; Decreto-Lei nº 37/1966, art. 31.",
+      "dificuldade": "facil",
+      "tags": [
+        "incidencia",
+        "pessoa-fisica"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0021",
+      "topico": "10.1",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, relativas ao Imposto de Importação.\n\nI. O fato gerador é a entrada de mercadoria estrangeira no território aduaneiro.\nII. Na alíquota específica, a base de cálculo é o valor aduaneiro da mercadoria.\nIII. O imposto é exceção à anterioridade anual e à anterioridade nonagesimal.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "II e III, apenas.",
+        "I e III, apenas.",
+        "I e II, apenas.",
+        "I, II e III."
+      ],
+      "correta": 2,
+      "comentario": "I e III estão corretas. II está errada: na alíquota específica, a base de cálculo é a quantidade de mercadoria expressa na unidade de medida prevista na tarifa; o valor aduaneiro é a base quando a alíquota é ad valorem.",
+      "fundamento": "CTN, arts. 19 e 20; CF/1988, art. 150, §1º.",
+      "dificuldade": "facil",
+      "tags": [
+        "fato-gerador",
+        "base-de-calculo",
+        "anterioridade"
+      ],
+      "fonte": "inédita"
+    }
+  ]
 }
