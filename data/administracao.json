@@ -529,6 +529,460 @@
         "isomorfismo"
       ],
       "fonte": "inédita"
+    },
+    {
+      "id": "adm-0026",
+      "topico": "5.2",
+      "tipo": "multipla",
+      "enunciado": "O processo administrativo, na visão neoclássica, é composto por um conjunto de funções interligadas.\n\nAssinale a opção que apresenta essas funções, na sequência usualmente adotada.",
+      "alternativas": [
+        "Prever, comandar, coordenar e controlar.",
+        "Planejar, executar, verificar e agir.",
+        "Planejar, organizar, dirigir e controlar.",
+        "Planejar, preparar, controlar e executar.",
+        "Organizar, liderar, avaliar e corrigir."
+      ],
+      "correta": 2,
+      "comentario": "A Teoria Neoclássica reformulou as cinco funções de Fayol (prever, organizar, comandar, coordenar e controlar) nas quatro funções do processo administrativo: planejar, organizar, dirigir e controlar. Planejar, executar, verificar e agir corresponde ao ciclo PDCA, ligado à gestão da qualidade; planejamento, preparo, controle e execução são os princípios de Taylor.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração — Teoria Neoclássica.",
+      "dificuldade": "facil",
+      "tags": [
+        "processo-administrativo",
+        "podc",
+        "funcoes-administrativas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0027",
+      "topico": "5.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre as características do processo administrativo, assinale a afirmativa correta.",
+      "alternativas": [
+        "É cíclico e dinâmico: as funções se sucedem e se repetem continuamente, além de serem interativas e interdependentes entre si.",
+        "É linear e finito: encerrado o controle, o processo se esgota e não retorna ao planejamento.",
+        "É privativo do nível estratégico, não se aplicando aos níveis tático e operacional.",
+        "É sequencial rígido: nenhuma função pode ocorrer simultaneamente a outra.",
+        "É exclusivo das organizações privadas, sendo inaplicável à Administração Pública."
+      ],
+      "correta": 0,
+      "comentario": "As quatro funções formam um ciclo: o resultado do controle realimenta o planejamento, reiniciando o processo. São interdependentes e interativas — influenciam-se mutuamente e frequentemente ocorrem de forma simultânea. O processo administrativo é universal: aplica-se a todos os níveis hierárquicos e a qualquer tipo de organização, pública ou privada.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "processo-administrativo",
+        "ciclo",
+        "universalidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0028",
+      "topico": "5.2",
+      "tipo": "multipla",
+      "enunciado": "Ao assumir a direção de uma unidade da Receita Federal, uma gestora definiu os objetivos a serem alcançados nos próximos três anos, analisou o cenário externo e interno e escolheu os cursos de ação necessários para chegar aos resultados pretendidos.\n\nA gestora exerceu a função administrativa de:",
+      "alternativas": [
+        "organização.",
+        "direção.",
+        "controle.",
+        "coordenação.",
+        "planejamento."
+      ],
+      "correta": 4,
+      "comentario": "Planejar é definir antecipadamente objetivos e os meios para alcançá-los, com base na análise de cenários. É a primeira função do processo administrativo e serve de base às demais: organiza-se, dirige-se e controla-se em função do que foi planejado. Coordenação, na visão neoclássica, não é função autônoma, mas atributo presente em todas elas.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "planejamento",
+        "funcoes-administrativas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0029",
+      "topico": "5.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre o planejamento como função administrativa, assinale a afirmativa correta.",
+      "alternativas": [
+        "Elimina a incerteza do futuro, garantindo o alcance dos objetivos previstos.",
+        "É a função que precede as demais, orientando organização, direção e controle, e reduz — mas não elimina — a incerteza.",
+        "É atividade restrita ao nível operacional, por envolver rotinas de curto prazo.",
+        "Confunde-se com a previsão, pois se limita a projetar tendências, sem escolher cursos de ação.",
+        "Deve ser realizado uma única vez, sendo incompatível com revisões periódicas."
+      ],
+      "correta": 1,
+      "comentario": "O princípio da precedência indica que o planejamento vem antes das demais funções: não se organiza, dirige ou controla sem saber o que se pretende alcançar. Ele reduz a incerteza ao antecipar cenários e preparar respostas, mas não a elimina. Diferencia-se da simples previsão porque envolve decisão sobre cursos de ação, e deve ser revisto continuamente.",
+      "fundamento": "Chiavenato; Djalma de Oliveira, Planejamento Estratégico.",
+      "dificuldade": "facil",
+      "tags": [
+        "planejamento",
+        "principios",
+        "precedencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0030",
+      "topico": "5.2",
+      "tipo": "multipla",
+      "enunciado": "O planejamento organizacional desdobra-se em níveis.\n\nAssinale a opção que associa corretamente o nível ao seu conteúdo.",
+      "alternativas": [
+        "Estratégico — detalhamento de tarefas e rotinas de curto prazo, elaborado pela supervisão.",
+        "Tático — definição da missão e dos objetivos globais da organização, no longo prazo.",
+        "Operacional — decisões de médio prazo relativas a uma unidade ou departamento.",
+        "Estratégico — abrange a organização como um todo, no longo prazo; tático — abrange cada unidade ou departamento, no médio prazo; operacional — abrange cada tarefa ou atividade, no curto prazo.",
+        "Os três níveis têm o mesmo horizonte temporal, diferindo apenas quanto ao responsável pela elaboração."
+      ],
+      "correta": 3,
+      "comentario": "O planejamento estratégico é genérico, sistêmico e de longo prazo, elaborado pela alta administração para a organização como um todo. O tático traduz o estratégico para cada unidade, em prazo intermediário. O operacional detalha tarefas e procedimentos específicos, em curto prazo. Quanto mais se desce na hierarquia, menor o horizonte temporal e maior o detalhamento.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "niveis-de-planejamento",
+        "estrategico",
+        "tatico",
+        "operacional"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0031",
+      "topico": "5.2",
+      "tipo": "multipla",
+      "enunciado": "Os planos podem ser classificados conforme sua finalidade.\n\nO plano que estabelece a sequência cronológica de atividades a serem executadas para a realização de um trabalho, orientando o \"como fazer\", é denominado:",
+      "alternativas": [
+        "orçamento.",
+        "regra.",
+        "procedimento.",
+        "programa.",
+        "regulamento."
+      ],
+      "correta": 2,
+      "comentario": "Procedimentos são planos relacionados a métodos: indicam a sequência de passos para executar um trabalho, geralmente representados em fluxogramas. Orçamentos são planos relacionados a dinheiro e a receitas ou despesas de determinado período. Programas relacionam-se ao tempo, correlacionando atividades e cronograma. Regras e regulamentos são planos relacionados a comportamentos, determinando o que se deve ou não fazer.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração — tipos de planos.",
+      "dificuldade": "media",
+      "tags": [
+        "planos",
+        "procedimentos",
+        "orcamentos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0032",
+      "topico": "5.2",
+      "tipo": "multipla",
+      "enunciado": "Após definir os objetivos do próximo exercício, um órgão dividiu o trabalho a ser realizado, agrupou as atividades em unidades especializadas, designou os responsáveis por cada unidade e definiu as relações de autoridade e responsabilidade entre elas.\n\nEssas providências correspondem à função de:",
+      "alternativas": [
+        "organização.",
+        "planejamento.",
+        "direção.",
+        "controle.",
+        "avaliação."
+      ],
+      "correta": 0,
+      "comentario": "Organizar, como função administrativa, é dividir o trabalho, agrupar atividades em órgãos ou unidades, alocar recursos e definir autoridade, responsabilidade e relações hierárquicas. É a função que dá estrutura ao que foi planejado, precedendo a direção, que trata da condução das pessoas.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "organizacao",
+        "funcoes-administrativas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0033",
+      "topico": "5.2",
+      "tipo": "multipla",
+      "enunciado": "A organização, como função administrativa, envolve a divisão do trabalho em dois sentidos.\n\nAssinale a opção que os distingue corretamente.",
+      "alternativas": [
+        "A especialização horizontal cria novos níveis hierárquicos; a vertical cria departamentos no mesmo nível.",
+        "A especialização vertical é sinônimo de departamentalização.",
+        "A especialização horizontal resulta em estrutura mais alta e com maior número de chefias.",
+        "Ambas são sinônimas, referindo-se ao agrupamento de tarefas semelhantes.",
+        "A especialização vertical desdobra a estrutura em níveis hierárquicos, aumentando a cadeia de comando; a horizontal desdobra a estrutura em departamentos no mesmo nível, aumentando a departamentalização."
+      ],
+      "correta": 4,
+      "comentario": "A especialização vertical ocorre com o aumento de níveis hierárquicos, gerando maior cadeia de comando e mais chefias sobrepostas. A especialização horizontal, também chamada departamentalização, desdobra a organização em unidades do mesmo nível, agrupando atividades por critério de semelhança. As duas podem ocorrer simultaneamente.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "media",
+      "tags": [
+        "especializacao-vertical",
+        "especializacao-horizontal",
+        "departamentalizacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0034",
+      "topico": "5.2",
+      "tipo": "multipla",
+      "enunciado": "Um órgão decidiu ampliar significativamente o número de subordinados diretos de cada chefia, reduzindo o número de níveis hierárquicos.\n\nEssa decisão significa:",
+      "alternativas": [
+        "reduzir a amplitude de controle, gerando estrutura mais alta e alongada.",
+        "ampliar a amplitude de controle, gerando estrutura mais achatada, com menos níveis hierárquicos e comunicação mais rápida entre topo e base.",
+        "eliminar a hierarquia, adotando modelo sem autoridade formal.",
+        "ampliar a amplitude de controle, o que necessariamente aumenta o número de chefias.",
+        "adotar a departamentalização funcional em lugar da matricial."
+      ],
+      "correta": 1,
+      "comentario": "Amplitude de controle (ou amplitude administrativa) é o número de subordinados que um chefe pode supervisionar. Amplitude maior produz estrutura achatada, com menos níveis, menos chefias e comunicação mais ágil, mas exige subordinados mais autônomos e supervisão menos próxima. Amplitude menor produz estrutura alta e alongada, com supervisão mais estreita e custo administrativo maior.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "media",
+      "tags": [
+        "amplitude-de-controle",
+        "estrutura-organizacional"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0035",
+      "topico": "5.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre centralização e descentralização como decisões relativas à função de organização, assinale a afirmativa correta.",
+      "alternativas": [
+        "A centralização aproxima a decisão do local dos fatos, aumentando a rapidez das respostas.",
+        "A descentralização elimina a necessidade de controle sobre as unidades.",
+        "A centralização é sempre preferível, por garantir maior qualidade técnica nas decisões.",
+        "A descentralização aproxima as decisões do ponto de execução, tende a aumentar a rapidez e a motivação dos gestores locais, mas pode gerar perda de uniformidade e maior custo de coordenação.",
+        "Descentralização e delegação são conceitos idênticos, ambos relativos a tarefas específicas."
+      ],
+      "correta": 3,
+      "comentario": "Descentralizar é distribuir o poder decisório pelos níveis inferiores da estrutura: ganha-se agilidade, adequação às condições locais e motivação, mas perde-se uniformidade e amplia-se a necessidade de coordenação e controle. Centralizar concentra decisões no topo, garantindo padronização e controle mais estreito, ao custo de lentidão. Delegação difere de descentralização por ser transferência pontual de atribuições de uma pessoa a outra.",
+      "fundamento": "Chiavenato; Di Pietro (para a distinção administrativa).",
+      "dificuldade": "media",
+      "tags": [
+        "centralizacao",
+        "descentralizacao",
+        "delegacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0036",
+      "topico": "5.2",
+      "tipo": "multipla",
+      "enunciado": "A função de direção é exercida em diferentes níveis da organização.\n\nAssinale a opção que associa corretamente o nível ao seu agente e abrangência.",
+      "alternativas": [
+        "Nível intermediário — supervisores; abrange cada operação isolada.",
+        "Nível operacional — diretores; abrange a organização como um todo.",
+        "Nível institucional — direção; abrange a organização como um todo. Nível intermediário — gerência; abrange cada departamento. Nível operacional — supervisão; abrange cada grupo de pessoas ou tarefas.",
+        "Nível institucional — supervisão; abrange as tarefas rotineiras.",
+        "A direção é exercida exclusivamente no nível institucional, não alcançando os demais."
+      ],
+      "correta": 2,
+      "comentario": "A direção é exercida em três níveis: institucional (direção, alcance global), intermediário (gerência, alcance departamental) e operacional (supervisão, alcance sobre grupos de pessoas e tarefas). Em todos eles, dirigir significa conduzir pessoas para que executem o que foi planejado e organizado.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "media",
+      "tags": [
+        "direcao",
+        "niveis",
+        "supervisao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0037",
+      "topico": "5.2",
+      "tipo": "multipla",
+      "enunciado": "Diante da queda de produtividade de sua equipe, um chefe passou a esclarecer expectativas, orientar tecnicamente os servidores, estimular o comprometimento e melhorar os canais de comunicação interna.\n\nEssas ações inserem-se na função administrativa de direção, cujos principais meios são:",
+      "alternativas": [
+        "liderança, motivação, comunicação e coordenação das pessoas.",
+        "definição de objetivos e escolha de cursos de ação.",
+        "divisão do trabalho e definição da estrutura hierárquica.",
+        "estabelecimento de padrões e mensuração de resultados.",
+        "elaboração de orçamentos e alocação de recursos financeiros."
+      ],
+      "correta": 0,
+      "comentario": "Dirigir é a função relacionada às pessoas: envolve liderança, motivação, comunicação e coordenação, para que os colaboradores executem as atividades planejadas. As demais opções descrevem planejamento (objetivos e cursos de ação), organização (divisão do trabalho e estrutura) e controle (padrões e mensuração).",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "direcao",
+        "lideranca",
+        "motivacao",
+        "comunicacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0038",
+      "topico": "5.2",
+      "tipo": "multipla",
+      "enunciado": "A função de controle desenvolve-se em etapas sucessivas.\n\nAssinale a opção que apresenta essas etapas na ordem correta.",
+      "alternativas": [
+        "Ação corretiva, mensuração, comparação e definição de padrões.",
+        "Mensuração do desempenho, definição de padrões, ação corretiva e comparação.",
+        "Definição de padrões, ação corretiva, comparação e mensuração.",
+        "Comparação, definição de padrões, mensuração e ação corretiva.",
+        "Estabelecimento de padrões de desempenho, mensuração do desempenho efetivo, comparação do desempenho com o padrão e ação corretiva."
+      ],
+      "correta": 4,
+      "comentario": "O ciclo de controle começa com o estabelecimento de padrões ou critérios derivados do planejamento, segue com a observação ou mensuração do desempenho real, passa pela comparação entre o desempenho e o padrão — identificando desvios relevantes — e termina com a ação corretiva, que realimenta o planejamento.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "controle",
+        "etapas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0039",
+      "topico": "5.2",
+      "tipo": "multipla",
+      "enunciado": "Antes de autorizar o início da produção, um órgão passou a inspecionar toda a matéria-prima recebida e a verificar a qualificação dos servidores designados para a atividade.\n\nQuanto ao momento de sua realização, trata-se de controle:",
+      "alternativas": [
+        "concomitante, pois ocorre durante a execução.",
+        "prévio ou preventivo, pois antecede a execução e busca evitar a ocorrência de desvios.",
+        "posterior, pois avalia resultados já produzidos.",
+        "por exceção, pois se limita aos desvios relevantes.",
+        "estratégico, pois envolve decisões da alta administração."
+      ],
+      "correta": 1,
+      "comentario": "O controle prévio, preventivo ou de pré-ação ocorre antes da execução e procura impedir que o desvio aconteça, atuando sobre insumos e condições iniciais. O concomitante ou simultâneo é feito durante a execução, permitindo correção imediata. O posterior ou por retroalimentação avalia os resultados já obtidos, subsidiando decisões futuras.",
+      "fundamento": "Chiavenato; Robbins, Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "controle",
+        "controle-preventivo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0040",
+      "topico": "5.2",
+      "tipo": "multipla",
+      "enunciado": "Ao final do exercício, uma secretaria avaliou os resultados alcançados pelos programas executados, comparou-os às metas fixadas e utilizou as conclusões para rever o planejamento do ano seguinte.\n\nEsse controle é classificado como:",
+      "alternativas": [
+        "prévio, pois orienta o planejamento futuro.",
+        "concomitante, pois acompanha a execução dos programas.",
+        "por exceção, pois considera apenas os desvios relevantes.",
+        "posterior ou por retroalimentação, pois incide sobre resultados já produzidos e realimenta o processo administrativo.",
+        "informal, pois não decorre de norma específica."
+      ],
+      "correta": 3,
+      "comentario": "O controle posterior, também chamado corretivo ou de feedback, incide sobre resultados já obtidos. Sua principal utilidade é a retroalimentação: as informações geradas voltam ao planejamento e aperfeiçoam ciclos futuros, evidenciando o caráter cíclico do processo administrativo. Ele não evita o desvio já ocorrido, mas orienta a correção.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "controle",
+        "retroalimentacao",
+        "feedback"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0041",
+      "topico": "5.2",
+      "tipo": "multipla",
+      "enunciado": "Assim como o planejamento, o controle ocorre em três níveis organizacionais.\n\nAssinale a opção que caracteriza corretamente esses níveis.",
+      "alternativas": [
+        "Controle estratégico — genérico e voltado ao longo prazo, abrangendo a organização como um todo; tático — por departamento e no médio prazo; operacional — detalhado, sobre tarefas e no curto prazo.",
+        "Controle estratégico — detalhado e voltado a tarefas específicas do dia a dia.",
+        "Controle operacional — genérico, realizado pela alta administração no longo prazo.",
+        "Controle tático — exercido exclusivamente por órgãos externos de fiscalização.",
+        "Os três níveis de controle são exercidos exclusivamente pelo nível institucional."
+      ],
+      "correta": 0,
+      "comentario": "O controle acompanha os níveis do planejamento: o estratégico, também chamado controle organizacional, é genérico, sintético e de longo prazo; o tático incide sobre cada unidade, em prazo intermediário; o operacional é analítico, detalhado e de curto prazo, voltado a tarefas e operações específicas.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "media",
+      "tags": [
+        "controle",
+        "niveis-de-controle"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0042",
+      "topico": "5.2",
+      "tipo": "multipla",
+      "enunciado": "Para que o controle seja possível, é necessário estabelecer padrões de desempenho.\n\nEsses padrões costumam ser classificados em quatro categorias:",
+      "alternativas": [
+        "legalidade, legitimidade, economicidade e eficiência.",
+        "insumos, processos, produtos e impactos.",
+        "quantidade, qualidade, tempo e custo.",
+        "estratégico, tático, operacional e institucional.",
+        "prévio, concomitante, posterior e permanente."
+      ],
+      "correta": 2,
+      "comentario": "Os padrões de controle costumam ser agrupados em quatro tipos: quantidade (volume de produção, número de atendimentos), qualidade (índice de conformidade, satisfação do usuário), tempo (prazos, ciclos) e custo (custo por unidade, despesa por atendimento). As demais opções descrevem princípios do controle externo, a cadeia de valor da avaliação de programas e classificações do próprio controle.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "media",
+      "tags": [
+        "controle",
+        "padroes"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0043",
+      "topico": "5.2",
+      "tipo": "multipla",
+      "enunciado": "O ciclo PDCA é frequentemente relacionado às funções do processo administrativo.\n\nAssinale a opção que apresenta corretamente essa relação.",
+      "alternativas": [
+        "O PDCA substitui o processo administrativo, eliminando as funções de organização e direção.",
+        "Plan corresponde ao controle, e Check, ao planejamento.",
+        "Do corresponde ao planejamento, e Act, à organização.",
+        "O PDCA aplica-se apenas à produção industrial, sem relação com funções administrativas.",
+        "Plan corresponde ao planejamento; Do às funções de organização e direção, que põem o plano em execução; Check e Act correspondem ao controle e à ação corretiva, que realimentam o ciclo."
+      ],
+      "correta": 4,
+      "comentario": "O PDCA — planejar, executar, verificar e agir — é um ciclo de melhoria contínua associado à gestão da qualidade, mas guarda correspondência direta com o processo administrativo: planejar equivale ao planejamento; executar envolve organizar e dirigir; verificar e agir correspondem ao controle e à correção, que realimentam o planejamento no ciclo seguinte.",
+      "fundamento": "Shewhart e Deming; Chiavenato.",
+      "dificuldade": "media",
+      "tags": [
+        "pdca",
+        "processo-administrativo",
+        "melhoria-continua"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0044",
+      "topico": "5.2",
+      "tipo": "multipla",
+      "enunciado": "Uma autarquia constatou, ao final do controle anual, que determinada meta era tecnicamente inatingível com os recursos disponíveis, e, por isso, revisou os objetivos fixados para o exercício seguinte.\n\nEssa situação evidencia que, no processo administrativo:",
+      "alternativas": [
+        "o controle é função estanque, sem relação com as demais.",
+        "o controle realimenta o planejamento, confirmando a natureza cíclica e interdependente das funções administrativas.",
+        "o planejamento deve ser mantido inalterado, sob pena de violação da eficiência.",
+        "a revisão de objetivos caracteriza falha de direção, e não de planejamento.",
+        "o controle deve ser exercido apenas por órgãos externos à organização."
+      ],
+      "correta": 1,
+      "comentario": "O produto do controle não se esgota na constatação do desvio: as informações retornam ao planejamento, que ajusta objetivos, metas e recursos. Essa retroalimentação é o que torna o processo administrativo cíclico e contínuo, em vez de uma sequência linear que se encerra no controle.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "processo-administrativo",
+        "retroalimentacao",
+        "controle"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0045",
+      "topico": "5.2",
+      "tipo": "multipla",
+      "enunciado": "O termo \"organização\" comporta dois sentidos na Administração.\n\nAssinale a opção que os distingue corretamente.",
+      "alternativas": [
+        "Como função, refere-se à entidade social; como entidade, refere-se ao ato de estruturar.",
+        "Ambos os sentidos são idênticos e designam a estrutura formal de cargos.",
+        "Como entidade, designa o empreendimento humano moldado para atingir objetivos determinados; como função administrativa, designa o ato de organizar, estruturar e alocar os recursos e órgãos necessários à execução dos planos.",
+        "Como função, designa apenas a elaboração do organograma, sem relação com a alocação de recursos.",
+        "Como entidade, aplica-se somente a empresas privadas com fins lucrativos."
+      ],
+      "correta": 2,
+      "comentario": "Organização como entidade é o empreendimento social criado para atingir objetivos — um órgão público, uma empresa, uma associação. Organização como função administrativa é o ato de organizar: dividir o trabalho, agrupar atividades, definir autoridade e alocar os recursos necessários à execução do que foi planejado. A distinção é análoga à que se faz entre Administração Pública em sentido subjetivo e objetivo.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "media",
+      "tags": [
+        "organizacao",
+        "sentidos"
+      ],
+      "fonte": "inédita"
     }
   ]
 }
