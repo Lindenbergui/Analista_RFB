@@ -524,6 +524,574 @@
         "competencia-residual"
       ],
       "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0024",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "A respeito do princípio da legalidade tributária, assinale a afirmativa correta.",
+      "alternativas": [
+        "A fixação da base de cálculo dos tributos pode ser feita por decreto, desde que não haja aumento real da carga.",
+        "A cominação de penalidades para infrações tributárias independe de lei, por não se tratar de tributo.",
+        "A definição do fato gerador da obrigação principal pode ser delegada a ato normativo infralegal.",
+        "Somente a lei pode instituir tributos, definir o fato gerador da obrigação principal, fixar alíquota e base de cálculo e cominar penalidades, não constituindo majoração de tributo a mera atualização monetária da base de cálculo.",
+        "A atualização monetária da base de cálculo equivale a majoração e exige lei em sentido estrito."
+      ],
+      "correta": 3,
+      "comentario": "O art. 97 do CTN reserva à lei a instituição e extinção de tributos, a definição do fato gerador, a fixação de alíquota e base de cálculo, a cominação de penalidades e as hipóteses de exclusão, suspensão e extinção do crédito. O §2º do mesmo artigo esclarece que a atualização monetária da base de cálculo não constitui majoração — daí a Súmula 160 do STJ, que veda ao Município atualizar o IPTU em índice superior ao da inflação oficial por decreto.",
+      "fundamento": "CF/1988, art. 150, I; CTN, art. 97 e §2º; STJ, Súmula 160.",
+      "dificuldade": "facil",
+      "tags": [
+        "legalidade",
+        "art-97",
+        "atualizacao-monetaria"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0025",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "A Constituição admite que, em determinadas hipóteses, as alíquotas de tributos sejam alteradas por ato do Poder Executivo, atendidos os limites legais.\n\nAssinale a opção que apresenta apenas tributos submetidos a essa flexibilização.",
+      "alternativas": [
+        "Imposto de Renda, IPI e ITR.",
+        "Imposto de Importação, Imposto de Exportação, IPI e IOF.",
+        "ICMS, ISS e IPVA.",
+        "Contribuição para o PIS/Pasep, COFINS e CSLL.",
+        "Imposto de Importação, Imposto de Renda e IPTU."
+      ],
+      "correta": 1,
+      "comentario": "O art. 153, §1º, faculta ao Poder Executivo alterar as alíquotas do II, do IE, do IPI e do IOF, atendidas as condições e os limites da lei. Há ainda duas mitigações fora desse rol: a redução e o restabelecimento da alíquota da CIDE-combustíveis por ato do Executivo (art. 177, §4º, I, 'b') e a definição das alíquotas do ICMS-monofásico sobre combustíveis por deliberação dos Estados e do DF (art. 155, §4º, IV).",
+      "fundamento": "CF/1988, arts. 153, §1º, 155, §4º, IV, e 177, §4º, I, 'b'.",
+      "dificuldade": "facil",
+      "tags": [
+        "legalidade",
+        "excecoes",
+        "extrafiscalidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0026",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "Lei publicada em novembro antecipou a data de recolhimento de determinado imposto do dia 20 para o dia 10 de cada mês, com efeitos a partir de dezembro do mesmo ano.\n\nSegundo a jurisprudência do STF, essa alteração:",
+      "alternativas": [
+        "é inconstitucional, por violar a anterioridade anual.",
+        "é inconstitucional, por violar a anterioridade nonagesimal.",
+        "só seria válida se veiculada por lei complementar.",
+        "é inconstitucional, pois toda alteração que onere o contribuinte exige observância da anterioridade.",
+        "é válida, pois a norma que altera o prazo de recolhimento da obrigação tributária não se sujeita ao princípio da anterioridade."
+      ],
+      "correta": 4,
+      "comentario": "A Súmula Vinculante 50 consolidou o entendimento: norma legal que altera o prazo de recolhimento da obrigação tributária não se sujeita ao princípio da anterioridade. O raciocínio é que a antecipação do prazo não institui nem majora tributo. Pela mesma lógica, o STF admite que o prazo de pagamento seja fixado por ato infralegal, por não estar entre as matérias reservadas à lei no art. 97 do CTN.",
+      "fundamento": "STF, Súmula Vinculante 50.",
+      "dificuldade": "media",
+      "tags": [
+        "anterioridade",
+        "prazo-de-recolhimento",
+        "sumula-vinculante-50"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0027",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "Em 15 de outubro, decreto majorou as alíquotas do IOF incidente sobre operações de câmbio, com vigência imediata.\n\nSobre a majoração, é correto afirmar que:",
+      "alternativas": [
+        "é válida, pois o IOF é exceção à legalidade quanto à alteração de alíquotas e às anterioridades anual e nonagesimal.",
+        "é inválida, pois a majoração de alíquota depende sempre de lei em sentido estrito.",
+        "é válida quanto à forma, mas os efeitos só poderiam ocorrer a partir de 1º de janeiro do ano seguinte.",
+        "é válida quanto à forma, mas os efeitos só poderiam ocorrer 90 dias após a publicação.",
+        "é inválida, pois o IOF só pode ter alíquotas alteradas por medida provisória."
+      ],
+      "correta": 0,
+      "comentario": "O IOF integra o grupo dos tributos extrafiscais que são, a um só tempo, exceção à legalidade quanto à alteração de alíquotas (art. 153, §1º) e exceção às duas anterioridades (art. 150, §1º). A majoração por decreto com efeitos imediatos é, portanto, válida. O mesmo vale para o II, o IE, os impostos extraordinários de guerra e os empréstimos compulsórios por calamidade ou guerra.",
+      "fundamento": "CF/1988, arts. 150, §1º, e 153, §1º.",
+      "dificuldade": "facil",
+      "tags": [
+        "anterioridade",
+        "iof",
+        "excecoes"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0028",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "Lei publicada em 28 de dezembro de determinado ano majorou a alíquota do Imposto de Renda da pessoa jurídica.\n\nA nova alíquota poderá ser aplicada:",
+      "alternativas": [
+        "imediatamente, pois o IR é exceção às duas anterioridades.",
+        "90 dias após a publicação, por força da anterioridade nonagesimal.",
+        "a partir de 1º de janeiro do ano seguinte, pois o IR observa a anterioridade anual, mas é exceção à anterioridade nonagesimal.",
+        "apenas no segundo exercício seguinte ao da publicação.",
+        "somente após conversão da lei em lei complementar."
+      ],
+      "correta": 2,
+      "comentario": "O Imposto de Renda é exceção expressa à anterioridade nonagesimal, mas se sujeita à anterioridade de exercício. Por isso, a lei publicada no fim de dezembro produz efeitos já em 1º de janeiro seguinte. A alteração da base de cálculo do IPTU e do IPVA segue a mesma lógica: respeita a anual, mas não a noventena.",
+      "fundamento": "CF/1988, art. 150, III, 'b' e 'c', e §1º.",
+      "dificuldade": "media",
+      "tags": [
+        "anterioridade",
+        "imposto-de-renda",
+        "noventena"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0029",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "Lei ordinária federal publicada em 10 de agosto majorou a alíquota da COFINS.\n\nA exigência da contribuição com a nova alíquota poderá ocorrer:",
+      "alternativas": [
+        "imediatamente à publicação da lei.",
+        "a partir de 1º de janeiro do exercício seguinte, e somente se decorridos 90 dias.",
+        "a partir de 1º de janeiro do exercício seguinte, independentemente de prazo em dias.",
+        "somente após a edição de lei complementar regulamentadora.",
+        "após decorridos 90 dias da publicação da lei, pois as contribuições para a seguridade social observam apenas a anterioridade nonagesimal."
+      ],
+      "correta": 4,
+      "comentario": "As contribuições destinadas à seguridade social têm regra própria: só podem ser exigidas após 90 dias da publicação da lei que as instituiu ou modificou, sem observância da anterioridade de exercício (art. 195, §6º). Trata-se de anterioridade mitigada ou nonagesimal específica, frequentemente cobrada em prova.",
+      "fundamento": "CF/1988, art. 195, §6º.",
+      "dificuldade": "facil",
+      "tags": [
+        "anterioridade",
+        "contribuicoes-sociais",
+        "noventena"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0030",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "Em 20 de dezembro, lei municipal atualizou a planta genérica de valores, majorando a base de cálculo do IPTU para o exercício seguinte.\n\nSobre a cobrança, é correto afirmar que:",
+      "alternativas": [
+        "a majoração só pode produzir efeitos 90 dias após a publicação da lei.",
+        "a majoração pode ser exigida a partir de 1º de janeiro, pois a fixação da base de cálculo do IPTU é exceção à anterioridade nonagesimal, observada a anterioridade anual.",
+        "a majoração é inconstitucional, pois a base de cálculo do IPTU não pode ser alterada por lei municipal.",
+        "a majoração pode ser exigida de imediato, pois o IPTU é exceção às duas anterioridades.",
+        "a majoração só pode produzir efeitos no segundo exercício seguinte."
+      ],
+      "correta": 1,
+      "comentario": "A fixação da base de cálculo do IPTU e do IPVA está expressamente excepcionada da anterioridade nonagesimal, embora se submeta à anterioridade de exercício. Assim, lei publicada no fim de dezembro autoriza a cobrança já em 1º de janeiro. Atenção: a exceção alcança a base de cálculo, não a alíquota, que se sujeita às duas anterioridades.",
+      "fundamento": "CF/1988, art. 150, §1º, parte final.",
+      "dificuldade": "media",
+      "tags": [
+        "anterioridade",
+        "iptu",
+        "base-de-calculo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0031",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "Medida provisória editada em setembro majorou a alíquota de imposto federal que não figura entre as exceções constitucionais à anterioridade. A MP foi convertida em lei em 20 de dezembro do mesmo ano.\n\nA nova alíquota produzirá efeitos:",
+      "alternativas": [
+        "desde a edição da medida provisória.",
+        "60 dias após a edição da medida provisória.",
+        "90 dias após a conversão em lei, independentemente do exercício.",
+        "no exercício financeiro seguinte, pois a MP que institui ou majora impostos só produz efeitos no exercício seguinte se houver sido convertida em lei até o último dia daquele em que foi editada.",
+        "somente dois exercícios após a conversão."
+      ],
+      "correta": 3,
+      "comentario": "O art. 62, §2º, condiciona a eficácia da MP que institui ou majora impostos à conversão em lei até o último dia do exercício em que editada, produzindo efeitos no exercício seguinte. A regra não se aplica ao II, IE, IPI, IOF e impostos extraordinários de guerra. Lembre-se ainda de que matéria reservada a lei complementar não pode ser tratada por medida provisória.",
+      "fundamento": "CF/1988, art. 62, §§1º, III, e 2º.",
+      "dificuldade": "media",
+      "tags": [
+        "medida-provisoria",
+        "anterioridade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0032",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "Em 2023, contribuinte foi autuado e multado em 150% do valor do tributo por determinada infração. Antes do julgamento definitivo do processo administrativo, nova lei reduziu a penalidade para 75%.\n\nSegundo o CTN, a lei nova:",
+      "alternativas": [
+        "aplica-se ao caso, pois a lei se aplica a ato ou fato pretérito, tratando-se de ato não definitivamente julgado, quando comine penalidade menos severa que a prevista à época.",
+        "não se aplica, pois a lei tributária é sempre irretroativa, sem exceções.",
+        "aplica-se apenas se houver expressa previsão de retroatividade na própria lei nova.",
+        "aplica-se inclusive para reduzir o valor do tributo devido, e não apenas a multa.",
+        "não se aplica, pois a retroatividade benigna é exclusiva do Direito Penal."
+      ],
+      "correta": 0,
+      "comentario": "O princípio da irretroatividade veda a cobrança de tributos sobre fatos anteriores à lei que os instituiu ou majorou. O CTN, porém, admite retroatividade em dois casos: lei expressamente interpretativa e, tratando-se de ato não definitivamente julgado, lei que deixe de definir o fato como infração ou comine penalidade menos severa. A retroatividade benigna alcança a penalidade, e não o tributo em si.",
+      "fundamento": "CF/1988, art. 150, III, 'a'; CTN, art. 106.",
+      "dificuldade": "media",
+      "tags": [
+        "irretroatividade",
+        "retroatividade-benigna"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0033",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "A Receita Federal autuou contribuinte que auferia rendimentos provenientes de atividade ilícita, exigindo Imposto de Renda sobre esses valores. O contribuinte alegou que a tributação equivaleria a legitimar o ilícito.\n\nÀ luz do CTN e do princípio da isonomia, a exigência é:",
+      "alternativas": [
+        "indevida, pois a ilicitude do ato exclui a ocorrência do fato gerador.",
+        "indevida, pois só se tributam atividades regularmente registradas.",
+        "devida, pois a definição legal do fato gerador é interpretada abstraindo-se da validade jurídica dos atos praticados e dos efeitos dos fatos ocorridos, aplicando-se o princípio da isonomia entre os contribuintes.",
+        "devida apenas se houver condenação criminal transitada em julgado.",
+        "devida, mas com alíquota reduzida, dada a natureza precária dos rendimentos."
+      ],
+      "correta": 2,
+      "comentario": "O art. 118 do CTN determina que a definição legal do fato gerador seja interpretada abstraindo-se da validade jurídica dos atos praticados e da natureza do objeto. É o chamado princípio do pecunia non olet, extraído também da isonomia (art. 150, II): quem revela a mesma capacidade contributiva deve ser tributado igualmente, sendo irrelevante a origem lícita ou ilícita da renda. A tributação não legitima o ilícito, que segue punível em sua própria esfera.",
+      "fundamento": "CTN, art. 118; CF/1988, art. 150, II; STF, HC 77.530.",
+      "dificuldade": "media",
+      "tags": [
+        "isonomia",
+        "pecunia-non-olet",
+        "art-118"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0034",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre o princípio da capacidade contributiva, assinale a afirmativa correta.",
+      "alternativas": [
+        "Aplica-se exclusivamente às taxas, por serem vinculadas à atuação estatal.",
+        "Impede a instituição de qualquer imposto com alíquota proporcional.",
+        "Veda a progressividade de alíquotas, por ofensa à isonomia.",
+        "Autoriza a Administração a identificar o patrimônio do contribuinte apenas mediante autorização judicial em todos os casos.",
+        "Determina que, sempre que possível, os impostos terão caráter pessoal e serão graduados segundo a capacidade econômica do contribuinte, admitindo o STF a progressividade também em impostos de caráter real, como o ITCMD."
+      ],
+      "correta": 4,
+      "comentario": "O art. 145, §1º, prevê que, sempre que possível, os impostos terão caráter pessoal e serão graduados segundo a capacidade econômica do contribuinte. Superando entendimento anterior, o STF admitiu a progressividade do ITCMD mesmo sem autorização expressa, por entender que a capacidade contributiva se aplica também a impostos reais. No IPTU, a progressividade fiscal foi expressamente autorizada pela EC 29/2000.",
+      "fundamento": "CF/1988, art. 145, §1º; STF, RE 562.045; Súmulas 656 e 668 do STF.",
+      "dificuldade": "media",
+      "tags": [
+        "capacidade-contributiva",
+        "progressividade",
+        "itcmd"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0035",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "A respeito da vedação ao confisco em matéria tributária, assinale a afirmativa correta.",
+      "alternativas": [
+        "Aplica-se apenas aos impostos, não alcançando taxas e contribuições.",
+        "Alcança também as multas tributárias, considerando o STF confiscatória a multa punitiva que supere o valor do tributo devido.",
+        "Não se aplica às multas, que têm natureza sancionatória e não tributária.",
+        "É aferida isoladamente em relação a cada tributo, sendo irrelevante a carga total suportada pelo contribuinte perante o mesmo ente.",
+        "Autoriza o Judiciário a fixar, em abstrato, o percentual máximo admissível para qualquer tributo."
+      ],
+      "correta": 1,
+      "comentario": "Embora o art. 150, IV, se refira a tributo, o STF estende a vedação às multas, por entender que a sanção não pode ter efeito confiscatório: considera abusiva a multa punitiva superior a 100% do valor do tributo e, quanto à multa moratória, admite o patamar de até 20%. A aferição do confisco leva em conta a totalidade da carga tributária imposta pelo mesmo ente, e não cada exação isoladamente.",
+      "fundamento": "CF/1988, art. 150, IV; STF, ADI 551 e RE 833.106.",
+      "dificuldade": "media",
+      "tags": [
+        "confisco",
+        "multas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0036",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre a vedação de limitações ao tráfego de pessoas ou bens por meio de tributos interestaduais ou intermunicipais, é correto afirmar que:",
+      "alternativas": [
+        "impede a cobrança do ICMS nas operações interestaduais.",
+        "é absoluta, não comportando qualquer ressalva constitucional.",
+        "impede que o Município cobre ISS de prestador estabelecido em outro Município.",
+        "ressalva expressamente a cobrança de pedágio pela utilização de vias conservadas pelo Poder Público, entendendo o STF que o pedágio cobrado por concessionária tem natureza de preço público.",
+        "veda a instituição de taxas de fiscalização em pontos de fronteira estadual em qualquer hipótese."
+      ],
+      "correta": 3,
+      "comentario": "O art. 150, V, veda o uso de tributos como barreira ao tráfego interestadual ou intermunicipal, ressalvado o pedágio pela utilização de vias conservadas pelo Poder Público. O STF entende que o pedágio cobrado por concessionárias tem natureza de preço público ou tarifa, não se submetendo ao regime tributário e ao princípio da legalidade estrita. A vedação não afasta o ICMS interestadual, que tem previsão constitucional própria.",
+      "fundamento": "CF/1988, art. 150, V; STF, ADI 800.",
+      "dificuldade": "media",
+      "tags": [
+        "limitacao-ao-trafego",
+        "pedagio"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0037",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "Lei federal concedeu incentivos fiscais de Imposto de Renda exclusivamente a empreendimentos instalados na Região Norte, com o objetivo de reduzir desigualdades regionais.\n\nÀ luz do princípio da uniformidade geográfica, essa lei é:",
+      "alternativas": [
+        "constitucional, pois a vedação à instituição de tributo federal não uniforme ressalva expressamente a concessão de incentivos destinados a promover o equilíbrio do desenvolvimento socioeconômico entre as diferentes regiões do País.",
+        "inconstitucional, pois a União não pode conceder benefícios diferenciados por região.",
+        "constitucional apenas se houver autorização por lei complementar estadual.",
+        "inconstitucional, salvo se aprovada por dois terços do Congresso Nacional.",
+        "constitucional apenas se os incentivos forem estendidos a todas as demais regiões."
+      ],
+      "correta": 0,
+      "comentario": "O art. 151, I, veda à União instituir tributo que não seja uniforme em todo o território nacional ou que implique distinção em relação a Estado, Distrito Federal ou Município. A própria norma, porém, ressalva a concessão de incentivos fiscais destinados a promover o equilíbrio do desenvolvimento socioeconômico entre regiões — fundamento, por exemplo, dos benefícios da Zona Franca de Manaus.",
+      "fundamento": "CF/1988, art. 151, I.",
+      "dificuldade": "facil",
+      "tags": [
+        "uniformidade-geografica",
+        "incentivos-regionais"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0038",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre a vedação às isenções heterônomas, assinale a afirmativa correta.",
+      "alternativas": [
+        "A União pode conceder, por lei ordinária federal, isenção de ICMS e de ISS, desde que haja interesse nacional.",
+        "Os Estados podem conceder isenção de tributos municipais situados em seu território.",
+        "É vedado à União instituir isenções de tributos da competência dos Estados, do Distrito Federal e dos Municípios; o STF, contudo, admite que tratado internacional conceda isenção de tributos estaduais e municipais, pois nesse caso a União atua como representante da República Federativa do Brasil.",
+        "A vedação é absoluta, não se admitindo qualquer exceção, inclusive em tratados internacionais.",
+        "A vedação alcança apenas impostos, permitindo-se isenção heterônoma de taxas e contribuições."
+      ],
+      "correta": 2,
+      "comentario": "O art. 151, III, proíbe a União de conceder isenção de tributos alheios à sua competência. O STF, entretanto, distingue a União-pessoa jurídica de direito público interno da República Federativa do Brasil, sujeito de direito internacional: por isso, tratados internacionais podem conceder isenções de tributos estaduais e municipais sem afronta à vedação. As antigas exceções expressas relativas ao ICMS e ao ISS na exportação foram superadas por imunidade e por lei complementar.",
+      "fundamento": "CF/1988, art. 151, III; STF, RE 229.096.",
+      "dificuldade": "dificil",
+      "tags": [
+        "isencao-heteronoma",
+        "tratados-internacionais"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0039",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "Lei estadual fixou alíquota de IPVA mais elevada para veículos importados do que para veículos nacionais de mesmo valor.\n\nEssa lei é:",
+      "alternativas": [
+        "constitucional, pois a diferenciação estimula a indústria nacional.",
+        "constitucional, pois o IPVA pode ter alíquotas diferenciadas em razão do tipo e da utilização do veículo.",
+        "constitucional, desde que autorizada por convênio no CONFAZ.",
+        "inconstitucional apenas se houver tratado internacional em sentido contrário.",
+        "inconstitucional, pois é vedado aos Estados, ao Distrito Federal e aos Municípios estabelecer diferença tributária entre bens e serviços, de qualquer natureza, em razão de sua procedência ou destino."
+      ],
+      "correta": 4,
+      "comentario": "O art. 152 veda a Estados, DF e Municípios estabelecer diferença tributária entre bens e serviços em razão da procedência ou do destino — a chamada não discriminação tributária, dirigida apenas aos entes subnacionais. O STF já reconheceu a inconstitucionalidade de alíquotas de IPVA mais gravosas para veículos importados. A Constituição autoriza diferenciação de alíquotas de IPVA por tipo e utilização, não por origem.",
+      "fundamento": "CF/1988, arts. 152 e 155, §6º, II; STF, RE 367.785.",
+      "dificuldade": "media",
+      "tags": [
+        "nao-discriminacao",
+        "ipva",
+        "procedencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0040",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "A concessão de subsídio, isenção, redução de base de cálculo, anistia ou remissão relativos a impostos, taxas ou contribuições depende de:",
+      "alternativas": [
+        "decreto do chefe do Poder Executivo, observada a previsão na lei orçamentária.",
+        "lei específica, federal, estadual ou municipal, que regule exclusivamente essas matérias ou o correspondente tributo, sem prejuízo do regime específico do ICMS.",
+        "convênio celebrado entre os entes federativos, em qualquer caso.",
+        "lei complementar nacional, em qualquer hipótese.",
+        "ato administrativo motivado da autoridade fazendária competente."
+      ],
+      "correta": 1,
+      "comentario": "O art. 150, §6º, exige lei específica para a concessão de benefícios fiscais: a norma deve regular exclusivamente a matéria ou o tributo correspondente, evitando que benefícios sejam inseridos em leis sobre assuntos diversos. Para o ICMS, além da lei, exige-se deliberação dos Estados e do DF no âmbito do CONFAZ, por força do art. 155, §2º, XII, 'g'.",
+      "fundamento": "CF/1988, arts. 150, §6º, e 155, §2º, XII, 'g'; LC nº 24/1975.",
+      "dificuldade": "media",
+      "tags": [
+        "beneficios-fiscais",
+        "lei-especifica",
+        "confaz"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0041",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que distingue corretamente imunidade, isenção e não incidência.",
+      "alternativas": [
+        "A imunidade decorre de lei ordinária; a isenção, da Constituição.",
+        "Imunidade e isenção são sinônimas, diferindo apenas quanto à nomenclatura adotada pelo legislador.",
+        "A isenção impede o nascimento da competência tributária; a imunidade exclui o crédito já constituído.",
+        "A imunidade é limitação constitucional ao poder de tributar, que impede o exercício da competência; a isenção é causa de exclusão do crédito tributário, prevista em lei do ente competente; e a não incidência ocorre quando o fato simplesmente não se enquadra na hipótese legal.",
+        "A não incidência depende sempre de previsão expressa em lei complementar."
+      ],
+      "correta": 3,
+      "comentario": "A imunidade está na Constituição e atua no plano da competência: o ente sequer pode tributar. A isenção é benefício concedido por lei do próprio ente competente e, no CTN, é causa de exclusão do crédito tributário — a competência existe e é exercida, mas o pagamento é dispensado. A não incidência pura ocorre quando o fato não se subsome à hipótese descrita na lei. Atenção: a Constituição às vezes usa a palavra 'isenção' para hipóteses que são, tecnicamente, imunidades, como no art. 195, §7º.",
+      "fundamento": "CF/1988, art. 150, VI; CTN, arts. 175 e 176.",
+      "dificuldade": "facil",
+      "tags": [
+        "imunidade",
+        "isencao",
+        "nao-incidencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0042",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre a imunidade tributária recíproca, assinale a afirmativa correta.",
+      "alternativas": [
+        "Alcança o patrimônio, a renda e os serviços dos entes federativos, é extensiva às autarquias e fundações públicas quanto ao que esteja vinculado a suas finalidades essenciais, e refere-se apenas a impostos.",
+        "Alcança todos os tributos, inclusive taxas e contribuições de melhoria.",
+        "Exonera o promitente comprador da obrigação de pagar imposto sobre imóvel adquirido de ente público.",
+        "Aplica-se integralmente à exploração de atividade econômica regida pelas normas aplicáveis a empreendimentos privados.",
+        "Depende de reconhecimento anual pela autoridade fazendária do ente tributante."
+      ],
+      "correta": 0,
+      "comentario": "A imunidade recíproca veda que os entes instituam impostos — e somente impostos — sobre patrimônio, renda ou serviços uns dos outros. É extensiva a autarquias e fundações instituídas e mantidas pelo Poder Público, limitada ao que se vincule às finalidades essenciais ou dela decorrentes. Não se aplica à exploração de atividade econômica em regime privado, nem exonera o promitente comprador do imposto sobre imóvel adquirido de ente imune.",
+      "fundamento": "CF/1988, art. 150, VI, 'a', e §§2º e 3º.",
+      "dificuldade": "facil",
+      "tags": [
+        "imunidade-reciproca",
+        "impostos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0043",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "Determinado Município pretende cobrar IPTU sobre imóveis utilizados pela Empresa Brasileira de Correios e Telégrafos, empresa pública federal prestadora de serviço postal.\n\nSegundo a jurisprudência do STF, a cobrança é:",
+      "alternativas": [
+        "válida, pois a imunidade recíproca não alcança empresas públicas em nenhuma hipótese.",
+        "válida, pois a ECT explora atividade econômica em concorrência com particulares.",
+        "indevida, pois o STF estende a imunidade recíproca às empresas públicas e sociedades de economia mista prestadoras de serviço público em regime não concorrencial, caso da ECT.",
+        "indevida, pois toda empresa estatal é imune a impostos, independentemente da atividade exercida.",
+        "válida, salvo se houver lei municipal concedendo isenção."
+      ],
+      "correta": 2,
+      "comentario": "O STF reconhece a imunidade recíproca da ECT, inclusive quanto às atividades que não são estritamente postais, por se tratar de empresa pública delegatária de serviço público prestado em regime de exclusividade e sem finalidade lucrativa primária. O mesmo raciocínio alcançou a Infraero. Já sociedades de economia mista que exploram atividade econômica com intuito lucrativo e ações negociadas em bolsa não são imunes.",
+      "fundamento": "CF/1988, art. 150, VI, 'a' e §3º; STF, RE 601.392 e ACO 765.",
+      "dificuldade": "media",
+      "tags": [
+        "imunidade-reciproca",
+        "empresas-estatais",
+        "correios"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0044",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "Uma entidade religiosa é proprietária de um imóvel alugado a terceiro, sendo o valor do aluguel integralmente aplicado na manutenção do templo e nas atividades pastorais.\n\nSobre o IPTU incidente sobre esse imóvel, é correto afirmar que:",
+      "alternativas": [
+        "incide normalmente, pois a imunidade só alcança o imóvel em que se realiza o culto.",
+        "incide, pois a locação a terceiros configura exploração de atividade econômica.",
+        "não incide apenas se o locatário também for entidade religiosa.",
+        "incide proporcionalmente à área locada.",
+        "não incide, pois a imunidade dos templos alcança o patrimônio relacionado às finalidades essenciais, entendimento hoje também expresso no texto constitucional quanto ao IPTU sobre templos alugados a terceiros, desde que o valor do aluguel seja aplicado nas atividades essenciais."
+      ],
+      "correta": 4,
+      "comentario": "A imunidade dos templos abrange o patrimônio, a renda e os serviços relacionados às finalidades essenciais da entidade. A jurisprudência já admitia a manutenção da imunidade no caso de imóvel locado cujo aluguel fosse revertido às atividades essenciais, orientação consolidada na Súmula Vinculante 52 para as entidades do art. 150, VI, 'c', e incorporada expressamente ao texto constitucional pela EC 116/2022 quanto ao IPTU sobre templos.",
+      "fundamento": "CF/1988, arts. 150, VI, 'b', e §4º, e 156, §1º-A; STF, Súmula Vinculante 52.",
+      "dificuldade": "media",
+      "tags": [
+        "imunidade",
+        "templos",
+        "iptu"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0045",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "A imunidade prevista no art. 150, VI, 'c', da Constituição alcança partidos políticos e suas fundações, entidades sindicais dos trabalhadores e instituições de educação e de assistência social sem fins lucrativos, atendidos os requisitos da lei.\n\nSobre esses requisitos, previstos no CTN, é correto afirmar que incluem:",
+      "alternativas": [
+        "a vedação à obtenção de superávit em qualquer exercício financeiro.",
+        "a não distribuição de qualquer parcela do patrimônio ou das rendas, a aplicação integral no País dos recursos na manutenção dos objetivos institucionais e a manutenção de escrituração em livros revestidos de formalidades capazes de assegurar sua exatidão.",
+        "a filiação obrigatória a órgão de classe e o registro em cartório de títulos e documentos.",
+        "a gratuidade absoluta de todos os serviços prestados, vedada qualquer cobrança.",
+        "a prestação de contas exclusivamente ao Ministério Público estadual."
+      ],
+      "correta": 1,
+      "comentario": "O art. 14 do CTN estabelece três requisitos: não distribuir patrimônio ou rendas a qualquer título, aplicar integralmente no País os recursos na manutenção dos objetivos institucionais e manter escrituração regular. A obtenção de superávit não descaracteriza a entidade, desde que o resultado seja revertido às finalidades. Note que a imunidade alcança entidades sindicais dos trabalhadores, não as patronais.",
+      "fundamento": "CF/1988, art. 150, VI, 'c'; CTN, art. 14; STF, Súmula 730.",
+      "dificuldade": "media",
+      "tags": [
+        "imunidade",
+        "entidades",
+        "art-14-ctn"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0046",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre a imunidade dos livros, jornais, periódicos e do papel destinado a sua impressão, assinale a afirmativa correta.",
+      "alternativas": [
+        "Alcança todos os insumos utilizados na produção editorial, inclusive tinta e maquinário gráfico.",
+        "Restringe-se ao papel, não abrangendo o livro em si.",
+        "Não se aplica a publicações de conteúdo exclusivamente publicitário ou a livros importados.",
+        "Aplica-se à importação e à comercialização do livro eletrônico e dos suportes exclusivamente utilizados para fixá-lo, como os leitores digitais, ainda que possuam funcionalidades acessórias.",
+        "Exige, para sua fruição, prévio reconhecimento administrativo pela Receita Federal."
+      ],
+      "correta": 3,
+      "comentario": "A imunidade é objetiva: protege o bem, não a pessoa do editor ou do livreiro. O STF firmou, na Súmula Vinculante 57, que ela alcança o livro eletrônico e os suportes próprios para sua leitura, ainda que com funcionalidades acessórias. A Súmula 657 estende a proteção aos filmes e papéis fotográficos necessários à publicação. Por outro lado, tinta, maquinário e outros insumos que não sejam papel ou assemelhados ficam de fora.",
+      "fundamento": "CF/1988, art. 150, VI, 'd'; STF, Súmula Vinculante 57 e Súmula 657.",
+      "dificuldade": "media",
+      "tags": [
+        "imunidade",
+        "livros",
+        "sumula-vinculante-57"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0047",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "A EC 75/2013 acrescentou imunidade relativa a fonogramas e videofonogramas musicais.\n\nSobre essa imunidade, é correto afirmar que alcança:",
+      "alternativas": [
+        "fonogramas e videofonogramas musicais produzidos no Brasil contendo obras musicais ou literomusicais de autores brasileiros, ou obras em geral interpretadas por artistas brasileiros, bem como os suportes materiais que os contenham, salvo na etapa de replicação industrial de mídias ópticas de leitura a laser.",
+        "quaisquer obras musicais, independentemente da nacionalidade dos autores, intérpretes ou do local de produção.",
+        "apenas as apresentações musicais ao vivo realizadas em território nacional.",
+        "os fonogramas estrangeiros importados por empresas brasileiras.",
+        "toda a cadeia produtiva, inclusive a replicação industrial de mídias ópticas de leitura a laser."
+      ],
+      "correta": 0,
+      "comentario": "A chamada imunidade musical protege fonogramas e videofonogramas musicais produzidos no Brasil com obras de autores brasileiros ou interpretadas por artistas brasileiros, além dos suportes que os contenham. A ressalva expressa é a etapa de replicação industrial de mídias ópticas de leitura a laser, que continua tributada — exceção criada para preservar o polo industrial da Zona Franca de Manaus.",
+      "fundamento": "CF/1988, art. 150, VI, 'e' (EC 75/2013).",
+      "dificuldade": "dificil",
+      "tags": [
+        "imunidade",
+        "imunidade-musical",
+        "ec-75"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0048",
+      "topico": "9.2",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que apresenta corretamente uma imunidade prevista fora do rol do art. 150, VI, da Constituição.",
+      "alternativas": [
+        "Incidência do ITBI sobre a transmissão de bens incorporados ao patrimônio de pessoa jurídica em realização de capital, em qualquer hipótese.",
+        "Incidência do ITR sobre pequenas glebas rurais exploradas por proprietário que possua outro imóvel.",
+        "Não incidência de contribuições sociais e de contribuições de intervenção no domínio econômico sobre as receitas decorrentes de exportação.",
+        "Incidência do IPI sobre produtos industrializados destinados ao exterior.",
+        "Incidência de contribuições para a seguridade social sobre entidades beneficentes de assistência social que atendam às exigências legais."
+      ],
+      "correta": 2,
+      "comentario": "O art. 149, §2º, I, afasta a incidência das contribuições sociais e das CIDE sobre receitas de exportação — típica imunidade fora do art. 150, VI. Outros exemplos: não incidência do ITR sobre pequenas glebas exploradas por proprietário que não possua outro imóvel; não incidência do IPI e do ICMS sobre produtos destinados ao exterior; não incidência do ITBI na incorporação de bens ao capital, salvo se a atividade preponderante do adquirente for imobiliária; e a do art. 195, §7º, para entidades beneficentes de assistência social.",
+      "fundamento": "CF/1988, arts. 149, §2º, I, 153, §3º, III e §4º, II, 156, §2º, I, e 195, §7º.",
+      "dificuldade": "media",
+      "tags": [
+        "imunidades",
+        "exportacao",
+        "itbi"
+      ],
+      "fonte": "inédita"
     }
   ]
 }
