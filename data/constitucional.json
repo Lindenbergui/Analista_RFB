@@ -500,6 +500,504 @@
         "conceito-de-estado"
       ],
       "fonte": "inédita"
+    },
+    {
+      "id": "const-0023",
+      "topico": "7.2",
+      "tipo": "multipla",
+      "enunciado": "A teoria da separação dos Poderes tem antecedentes históricos relevantes.\n\nAssinale a afirmativa correta a respeito desses antecedentes.",
+      "alternativas": [
+        "Aristóteles sustentou a necessidade de que as três funções estatais fossem exercidas por órgãos distintos e independentes.",
+        "John Locke concebeu a tripartição entre Legislativo, Executivo e Judiciário tal como adotada hoje.",
+        "Aristóteles já identificava três funções estatais distintas, mas exercidas por um mesmo soberano; Locke trabalhou com funções legislativa, executiva e federativa; e Montesquieu formulou a separação orgânica entre Legislativo, Executivo e Judiciário.",
+        "Montesquieu defendeu a concentração das funções estatais em um único órgão, para evitar conflitos.",
+        "A separação dos Poderes surgiu apenas no século XX, com as constituições sociais."
+      ],
+      "correta": 2,
+      "comentario": "Aristóteles, na Política, identificou três funções do Estado — deliberativa, executiva e judiciária —, mas concentradas em um mesmo soberano. Locke, no Segundo Tratado, distinguiu as funções legislativa, executiva e federativa. Coube a Montesquieu, em O Espírito das Leis, formular a separação orgânica entre Legislativo, Executivo e Judiciário, com a ideia de que o poder deve frear o poder.",
+      "fundamento": "Montesquieu, O Espírito das Leis (1748); Locke, Segundo Tratado sobre o Governo.",
+      "dificuldade": "facil",
+      "tags": [
+        "separacao-de-poderes",
+        "montesquieu",
+        "locke"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0024",
+      "topico": "7.2",
+      "tipo": "multipla",
+      "enunciado": "Nos termos do art. 2º da Constituição de 1988, os Poderes da União são:",
+      "alternativas": [
+        "o Legislativo, o Executivo e o Judiciário, independentes e harmônicos entre si, constituindo a separação dos Poderes cláusula pétrea.",
+        "o Legislativo, o Executivo, o Judiciário e o Ministério Público, todos autônomos e soberanos.",
+        "o Legislativo, o Executivo, o Judiciário e o Moderador.",
+        "o Legislativo e o Executivo, sendo o Judiciário órgão auxiliar.",
+        "o Legislativo, o Executivo e o Judiciário, hierarquicamente subordinados ao primeiro."
+      ],
+      "correta": 0,
+      "comentario": "O art. 2º declara que são Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário. A independência não significa isolamento, e a harmonia se expressa no sistema de freios e contrapesos. A separação dos Poderes é cláusula pétrea: não pode ser abolida sequer por emenda constitucional. O Ministério Público é função essencial à Justiça, não um quarto Poder.",
+      "fundamento": "CF/1988, arts. 2º e 60, §4º, III.",
+      "dificuldade": "facil",
+      "tags": [
+        "art-2",
+        "separacao-de-poderes",
+        "clausula-petrea"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0025",
+      "topico": "7.2",
+      "tipo": "multipla",
+      "enunciado": "Na história constitucional brasileira, houve Constituição que adotou a quadripartição de Poderes, prevendo um Poder exercido privativamente pelo Imperador e considerado a chave de toda a organização política.\n\nTrata-se do Poder Moderador, previsto na Constituição de:",
+      "alternativas": [
+        "1891.",
+        "1934.",
+        "1937.",
+        "1824.",
+        "1946."
+      ],
+      "correta": 3,
+      "comentario": "A Constituição Imperial de 1824, inspirada em Benjamin Constant, previu quatro Poderes: Legislativo, Executivo, Judicial e Moderador, este último exercido privativamente pelo Imperador. A Constituição de 1891, já republicana e federativa, abandonou o Poder Moderador e adotou a tripartição clássica, mantida pelas constituições posteriores.",
+      "fundamento": "Constituição de 1824, art. 98.",
+      "dificuldade": "media",
+      "tags": [
+        "poder-moderador",
+        "historia-constitucional"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0026",
+      "topico": "7.2",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que indica corretamente as funções típicas dos Poderes.",
+      "alternativas": [
+        "Legislativo — administrar; Executivo — legislar; Judiciário — fiscalizar.",
+        "Legislativo — legislar e fiscalizar; Executivo — administrar, praticando atos de chefia de Estado, de governo e administrativos; Judiciário — julgar, aplicando o direito ao caso concreto com definitividade.",
+        "Legislativo — julgar; Executivo — fiscalizar; Judiciário — legislar.",
+        "Todos os Poderes exercem as mesmas funções, variando apenas a intensidade.",
+        "Legislativo — legislar; Executivo — julgar com definitividade; Judiciário — administrar."
+      ],
+      "correta": 1,
+      "comentario": "São funções típicas: do Legislativo, legislar e exercer a fiscalização contábil, financeira e orçamentária; do Executivo, administrar, o que inclui atos de chefia de Estado, de governo e de administração; do Judiciário, julgar, resolvendo conflitos com definitividade. Cada Poder exerce ainda, de forma atípica, funções predominantes dos demais — daí o critério da preponderância.",
+      "fundamento": "CF/1988, arts. 2º, 44, 70, 76 e 92.",
+      "dificuldade": "facil",
+      "tags": [
+        "funcoes-tipicas",
+        "separacao-de-poderes"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0027",
+      "topico": "7.2",
+      "tipo": "multipla",
+      "enunciado": "O Senado Federal processou e julgou o Presidente da República por crime de responsabilidade, aplicando-lhe a perda do cargo com inabilitação para o exercício de função pública.\n\nNesse caso, o Senado exerceu função:",
+      "alternativas": [
+        "típica de fiscalização.",
+        "típica legislativa, pois a decisão foi tomada por meio de resolução.",
+        "atípica administrativa.",
+        "típica de controle externo, com auxílio do Tribunal de Contas da União.",
+        "atípica de natureza jurisdicional, pois julgar é função típica do Poder Judiciário."
+      ],
+      "correta": 4,
+      "comentario": "Julgar é função típica do Judiciário. Quando o Senado processa e julga o Presidente, o Vice, Ministros de Estado em crimes conexos, Ministros do STF, membros do CNJ e do CNMP, o Procurador-Geral da República e o Advogado-Geral da União por crimes de responsabilidade, exerce função atípica de caráter jurisdicional. A condenação depende de dois terços dos votos e limita-se à perda do cargo com inabilitação por oito anos, sem prejuízo das demais sanções judiciais.",
+      "fundamento": "CF/1988, art. 52, I, II e parágrafo único.",
+      "dificuldade": "facil",
+      "tags": [
+        "funcoes-atipicas",
+        "senado",
+        "crime-de-responsabilidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0028",
+      "topico": "7.2",
+      "tipo": "multipla",
+      "enunciado": "O Presidente da República editou medida provisória com força de lei e, em outra ocasião, foi autorizado pelo Congresso Nacional a elaborar lei delegada.\n\nEm ambos os casos, o Chefe do Executivo exerceu função:",
+      "alternativas": [
+        "típica de administração, pois todo ato presidencial é administrativo.",
+        "típica legislativa, pois o Executivo divide com o Legislativo a função de legislar.",
+        "atípica legislativa, pois legislar é função típica do Poder Legislativo.",
+        "atípica jurisdicional.",
+        "típica de chefia de Estado, sem natureza normativa."
+      ],
+      "correta": 2,
+      "comentario": "A função legislativa é típica do Legislativo. Ao editar medidas provisórias, elaborar leis delegadas ou expedir decretos, o Executivo exerce função atípica legislativa. O Executivo também exerce função atípica de caráter jurisdicional ao decidir processos administrativos — decisões que, no sistema brasileiro, não fazem coisa julgada material e podem ser revistas pelo Judiciário.",
+      "fundamento": "CF/1988, arts. 62, 68 e 84, IV e VI.",
+      "dificuldade": "facil",
+      "tags": [
+        "funcoes-atipicas",
+        "medida-provisoria",
+        "lei-delegada"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0029",
+      "topico": "7.2",
+      "tipo": "multipla",
+      "enunciado": "Um tribunal realizou concurso público para provimento de cargos de analista judiciário e, em seguida, aprovou alterações em seu regimento interno.\n\nAo praticar esses atos, o tribunal exerceu, respectivamente, funções:",
+      "alternativas": [
+        "atípicas administrativa e legislativa.",
+        "típicas jurisdicional e administrativa.",
+        "atípica jurisdicional e típica legislativa.",
+        "típicas administrativa e jurisdicional.",
+        "atípica legislativa e típica jurisdicional."
+      ],
+      "correta": 0,
+      "comentario": "A função típica do Judiciário é julgar. Ao organizar seus serviços, realizar concursos, prover cargos e conceder férias e licenças a seus servidores, exerce função atípica administrativa. Ao elaborar seus regimentos internos — competência privativa assegurada pela Constituição —, exerce função atípica legislativa.",
+      "fundamento": "CF/1988, art. 96, I, 'a', 'e' e 'f'.",
+      "dificuldade": "facil",
+      "tags": [
+        "funcoes-atipicas",
+        "judiciario",
+        "regimento-interno"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0030",
+      "topico": "7.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre as leis delegadas, assinale a afirmativa correta.",
+      "alternativas": [
+        "A delegação é feita por decreto legislativo e tem prazo indeterminado.",
+        "Podem versar sobre matéria reservada a lei complementar, desde que haja autorização expressa.",
+        "Podem dispor sobre direitos individuais, nacionalidade e cidadania, por serem matérias de interesse geral.",
+        "A delegação ao Presidente da República é feita por resolução do Congresso Nacional, que especificará o conteúdo e os termos de seu exercício, não podendo recair sobre matéria reservada a lei complementar, atos de competência exclusiva do Congresso ou privativa de suas Casas, nem sobre organização do Judiciário e do Ministério Público, direitos individuais, nacionalidade, cidadania, direitos políticos e eleitorais e matéria orçamentária.",
+        "A lei delegada não se sujeita a qualquer controle do Congresso Nacional após sua edição."
+      ],
+      "correta": 3,
+      "comentario": "A delegação é solicitada pelo Presidente e concedida por resolução do Congresso Nacional, que fixa conteúdo e termos. O art. 68, §1º, lista as matérias indelegáveis. A resolução pode exigir apreciação do projeto pelo Congresso em votação única, vedada emenda. Além disso, o Congresso pode sustar atos normativos do Executivo que exorbitem dos limites da delegação.",
+      "fundamento": "CF/1988, arts. 49, V, e 68.",
+      "dificuldade": "media",
+      "tags": [
+        "lei-delegada",
+        "delegacao-legislativa"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0031",
+      "topico": "7.2",
+      "tipo": "multipla",
+      "enunciado": "A Constituição permite que o Presidente da República delegue determinadas atribuições.\n\nEssas atribuições podem ser delegadas:",
+      "alternativas": [
+        "a qualquer autoridade da administração direta ou indireta, inclusive a dirigentes de autarquias.",
+        "aos Ministros de Estado, ao Procurador-Geral da República e ao Advogado-Geral da União.",
+        "exclusivamente ao Vice-Presidente da República.",
+        "aos presidentes da Câmara dos Deputados e do Senado Federal.",
+        "a nenhuma autoridade, pois as competências do Presidente são todas indelegáveis."
+      ],
+      "correta": 1,
+      "comentario": "O parágrafo único do art. 84 autoriza a delegação de competências específicas — dispor por decreto sobre organização e funcionamento da administração federal quando não houver aumento de despesa nem criação ou extinção de órgãos e sobre extinção de cargos vagos; conceder indulto e comutar penas; e prover cargos públicos federais, na forma da lei — aos Ministros de Estado, ao Procurador-Geral da República e ao Advogado-Geral da União. As demais atribuições são indelegáveis.",
+      "fundamento": "CF/1988, art. 84, VI, XII e XXV, e parágrafo único.",
+      "dificuldade": "media",
+      "tags": [
+        "delegacao",
+        "presidente-da-republica"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0032",
+      "topico": "7.2",
+      "tipo": "multipla",
+      "enunciado": "Aprovado projeto de lei pelo Congresso Nacional, o Presidente da República vetou integralmente o texto por considerá-lo inconstitucional.\n\nSobre o veto, é correto afirmar que:",
+      "alternativas": [
+        "é insuscetível de apreciação pelo Congresso Nacional, encerrando o processo legislativo.",
+        "pode ser rejeitado por maioria simples dos presentes em cada Casa, separadamente.",
+        "quando parcial, pode alcançar palavras isoladas do texto aprovado.",
+        "é ato discricionário insuscetível de qualquer controle, inclusive quanto ao prazo.",
+        "é apreciado em sessão conjunta do Congresso Nacional e só pode ser rejeitado pelo voto da maioria absoluta dos Deputados e Senadores."
+      ],
+      "correta": 4,
+      "comentario": "O veto é exemplo clássico de freio do Executivo sobre o Legislativo, e pode ser jurídico (inconstitucionalidade) ou político (contrariedade ao interesse público). A resposta do Legislativo é a possibilidade de derrubada: o veto é apreciado em sessão conjunta, dentro de trinta dias, e só é rejeitado pelo voto da maioria absoluta dos Deputados e Senadores. O veto parcial deve abranger texto integral de artigo, parágrafo, inciso ou alínea.",
+      "fundamento": "CF/1988, art. 66, §§1º a 6º.",
+      "dificuldade": "media",
+      "tags": [
+        "veto",
+        "freios-e-contrapesos",
+        "processo-legislativo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0033",
+      "topico": "7.2",
+      "tipo": "multipla",
+      "enunciado": "O sistema de freios e contrapesos permite que cada Poder controle os demais.\n\nAssinale a opção que NÃO constitui exemplo desse sistema.",
+      "alternativas": [
+        "Aprovação prévia, pelo Senado Federal, da escolha de Ministros do Supremo Tribunal Federal.",
+        "Declaração de inconstitucionalidade de lei pelo Poder Judiciário.",
+        "Possibilidade de o Poder Executivo anular, de ofício, decisão judicial transitada em julgado que lhe seja desfavorável.",
+        "Sustação, pelo Congresso Nacional, de atos normativos do Executivo que exorbitem do poder regulamentar.",
+        "Nomeação, pelo Presidente da República, de Ministros dos Tribunais Superiores."
+      ],
+      "correta": 2,
+      "comentario": "Nenhum Poder pode desfazer, por ato próprio, decisão judicial acobertada pela coisa julgada: isso violaria a separação dos Poderes e a garantia do art. 5º, XXXVI. As demais opções são exemplos legítimos de freios e contrapesos — sabatina do Senado, controle de constitucionalidade, sustação de atos normativos e nomeações pelo Executivo com participação de outro Poder.",
+      "fundamento": "CF/1988, arts. 5º, XXXVI, 49, V, 52, III, e 101, parágrafo único.",
+      "dificuldade": "facil",
+      "tags": [
+        "freios-e-contrapesos",
+        "coisa-julgada"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0034",
+      "topico": "7.2",
+      "tipo": "multipla",
+      "enunciado": "Contribuinte teve recurso definitivamente indeferido na esfera administrativa e, em seguida, ajuizou ação discutindo a mesma exigência fiscal.\n\nSobre essa situação, à luz do sistema brasileiro de jurisdição, é correto afirmar que:",
+      "alternativas": [
+        "o acesso ao Judiciário é legítimo, pois o Brasil adota a jurisdição una, e a lei não pode excluir da apreciação judicial lesão ou ameaça a direito, não fazendo a decisão administrativa coisa julgada material.",
+        "o acesso ao Judiciário é vedado, pois a decisão administrativa definitiva faz coisa julgada.",
+        "o Brasil adota o contencioso administrativo, de modo que a matéria se exaure na via administrativa.",
+        "o acesso ao Judiciário depende de autorização do órgão administrativo julgador.",
+        "o Judiciário só poderá apreciar a questão se houver prévio depósito integral do valor discutido."
+      ],
+      "correta": 0,
+      "comentario": "O Brasil adota o sistema de jurisdição una ou inglês: somente o Judiciário resolve conflitos com definitividade, e a lei não pode excluir de sua apreciação lesão ou ameaça a direito. Decisões administrativas, mesmo definitivas na via administrativa, não produzem coisa julgada material. Diferente é o sistema francês do contencioso administrativo, com dualidade de jurisdição, não acolhido pela Constituição de 1988.",
+      "fundamento": "CF/1988, art. 5º, XXXV.",
+      "dificuldade": "facil",
+      "tags": [
+        "jurisdicao-una",
+        "inafastabilidade",
+        "contencioso-administrativo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0035",
+      "topico": "7.2",
+      "tipo": "multipla",
+      "enunciado": "Parlamentar impetrou mandado de segurança questionando a interpretação dada pelo presidente de uma Casa Legislativa a dispositivo exclusivamente regimental, relativo à ordem dos trabalhos.\n\nSegundo a jurisprudência do STF, o Judiciário:",
+      "alternativas": [
+        "deve julgar o mérito da questão, pois todo ato estatal é sindicável judicialmente.",
+        "deve determinar a anulação de toda a sessão legislativa.",
+        "pode rever o mérito do ato, desde que haja provocação de um terço dos parlamentares.",
+        "não deve adentrar o mérito de questões interna corporis, limitando-se a controlar eventual ofensa a normas constitucionais, especialmente as do devido processo legislativo.",
+        "só pode apreciar a matéria após o encerramento da legislatura."
+      ],
+      "correta": 3,
+      "comentario": "Atos interna corporis — a interpretação e a aplicação de normas regimentais no funcionamento interno das Casas — ficam, em regra, imunes ao controle judicial de mérito, em respeito à separação dos Poderes. O STF reconhece legitimidade do parlamentar para o mandado de segurança quando houver violação ao devido processo legislativo constitucional, como na tramitação de proposta que ofenda cláusula pétrea.",
+      "fundamento": "STF, MS 22.503 e precedentes sobre atos interna corporis.",
+      "dificuldade": "media",
+      "tags": [
+        "interna-corporis",
+        "controle-judicial",
+        "processo-legislativo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0036",
+      "topico": "7.2",
+      "tipo": "multipla",
+      "enunciado": "Servidores de determinada carreira ajuizaram ação pedindo ao Judiciário a extensão de reajuste concedido por lei a outra carreira, invocando o princípio da isonomia.\n\nSegundo entendimento sumulado do STF, o pedido deve ser:",
+      "alternativas": [
+        "acolhido, pois a isonomia tem aplicação imediata.",
+        "rejeitado, pois não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia.",
+        "acolhido, desde que haja prévia dotação orçamentária.",
+        "acolhido, com efeitos apenas para o futuro.",
+        "rejeitado, por falta de interesse de agir dos servidores."
+      ],
+      "correta": 1,
+      "comentario": "A Súmula Vinculante 37 veda que o Judiciário conceda aumento de vencimentos com base na isonomia, pois isso equivaleria a atuar como legislador positivo, invadindo competência do Legislativo e desrespeitando a reserva legal e a exigência de prévia dotação orçamentária para aumento de despesa com pessoal.",
+      "fundamento": "STF, Súmula Vinculante 37; CF/1988, art. 37, X e XIII, e art. 169.",
+      "dificuldade": "facil",
+      "tags": [
+        "sumula-vinculante-37",
+        "separacao-de-poderes",
+        "legislador-positivo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0037",
+      "topico": "7.2",
+      "tipo": "multipla",
+      "enunciado": "O Ministério Público, a Advocacia Pública, a Defensoria Pública e a advocacia privada são tratados pela Constituição no capítulo das funções essenciais à Justiça.\n\nSobre essas instituições, é correto afirmar que:",
+      "alternativas": [
+        "integram o Poder Judiciário, como órgãos auxiliares subordinados aos tribunais.",
+        "constituem um quarto Poder da República, ao lado do Legislativo, do Executivo e do Judiciário.",
+        "integram o Poder Executivo, sem qualquer autonomia funcional.",
+        "não possuem autonomia administrativa ou financeira, dependendo integralmente do Executivo.",
+        "não integram nenhum dos três Poderes, embora o Ministério Público seja instituição permanente, com autonomia funcional e administrativa e iniciativa de sua proposta orçamentária."
+      ],
+      "correta": 4,
+      "comentario": "As funções essenciais à Justiça não constituem um quarto Poder nem se subordinam a qualquer dos três. O Ministério Público é instituição permanente, essencial à função jurisdicional, com autonomia funcional e administrativa e iniciativa de sua proposta orçamentária dentro dos limites da LDO. A Defensoria Pública teve autonomia reforçada pelas Emendas 45/2004, 74/2013 e 80/2014.",
+      "fundamento": "CF/1988, arts. 127 a 135.",
+      "dificuldade": "media",
+      "tags": [
+        "funcoes-essenciais-a-justica",
+        "ministerio-publico"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0038",
+      "topico": "7.2",
+      "tipo": "multipla",
+      "enunciado": "A independência entre os Poderes manifesta-se também no plano orçamentário.\n\nA esse respeito, é correto afirmar que:",
+      "alternativas": [
+        "o Poder Executivo elabora as propostas orçamentárias de todos os Poderes, que a elas devem se submeter.",
+        "o Judiciário não dispõe de autonomia financeira, por não arrecadar receitas próprias.",
+        "é assegurada ao Judiciário autonomia administrativa e financeira, cabendo aos tribunais elaborar suas propostas orçamentárias dentro dos limites estipulados na lei de diretrizes orçamentárias.",
+        "cada Poder pode executar despesas independentemente de autorização legislativa.",
+        "o Legislativo pode reduzir unilateralmente a dotação já aprovada do Judiciário no curso do exercício, sem qualquer formalidade."
+      ],
+      "correta": 2,
+      "comentario": "O art. 99 assegura ao Judiciário autonomia administrativa e financeira, com elaboração de suas propostas orçamentárias nos limites fixados pela LDO, encaminhadas ao Executivo para consolidação no projeto de lei orçamentária. Garantia semelhante vale para o Ministério Público e a Defensoria. Autonomia financeira não significa dispensa de autorização legislativa para a despesa, que segue o regime orçamentário comum.",
+      "fundamento": "CF/1988, arts. 99, 127, §3º, e 134, §2º.",
+      "dificuldade": "media",
+      "tags": [
+        "autonomia-financeira",
+        "judiciario",
+        "orcamento"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0039",
+      "topico": "7.2",
+      "tipo": "multipla",
+      "enunciado": "Diante da omissão prolongada do Executivo em realizar obras essenciais à garantia de condições mínimas de dignidade em estabelecimentos prisionais, o Judiciário determinou a execução das medidas necessárias.\n\nSegundo a jurisprudência do STF, essa decisão:",
+      "alternativas": [
+        "é compatível com a separação dos Poderes, pois é lícito ao Judiciário determinar, em caráter excepcional, a implementação de políticas públicas quando configurada omissão que comprometa direitos fundamentais, não se podendo opor a reserva do possível como escusa genérica.",
+        "viola a separação dos Poderes, pois políticas públicas são matéria de discricionariedade absoluta.",
+        "só seria válida mediante prévia autorização legislativa específica.",
+        "é incabível, pois o Judiciário não pode apreciar atos do Executivo.",
+        "é válida apenas se houver prévia condenação criminal dos gestores responsáveis."
+      ],
+      "correta": 0,
+      "comentario": "O STF admite, em caráter excepcional, que o Judiciário imponha ao Executivo a realização de medidas concretas quando a omissão administrativa comprometer direitos fundamentais, sem que isso configure ingerência indevida. O tema é discutido sob os rótulos de judicialização e ativismo judicial, e envolve o debate entre o mínimo existencial e a reserva do possível, que não pode ser invocada de forma genérica.",
+      "fundamento": "STF, RE 592.581 e ADPF 45.",
+      "dificuldade": "media",
+      "tags": [
+        "politicas-publicas",
+        "ativismo-judicial",
+        "reserva-do-possivel"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0040",
+      "topico": "7.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre a natureza da separação dos Poderes no constitucionalismo contemporâneo, assinale a afirmativa correta.",
+      "alternativas": [
+        "Cada Poder exerce exclusivamente a função que lhe é típica, sendo vedada qualquer sobreposição.",
+        "A separação é rígida e absoluta, de modo que a interferência recíproca é sempre inconstitucional.",
+        "O poder estatal é divisível em três partes autônomas e soberanas entre si.",
+        "O poder estatal é uno e indivisível; o que se reparte são as funções, atribuídas preponderantemente a cada órgão, de modo que cada Poder exerce também, de forma atípica, funções próprias dos demais.",
+        "A existência de funções atípicas revela inconstitucionalidade a ser corrigida pelo legislador."
+      ],
+      "correta": 3,
+      "comentario": "A doutrina contemporânea prefere falar em separação de funções: o poder soberano é uno e indivisível, e o que a Constituição reparte é o seu exercício. Pelo critério da preponderância, cada órgão exerce uma função predominante e, de forma secundária, funções típicas dos demais. A separação, portanto, é flexível, e as interferências recíprocas previstas na Constituição compõem o sistema de freios e contrapesos.",
+      "fundamento": "CF/1988, art. 2º; doutrina constitucional.",
+      "dificuldade": "media",
+      "tags": [
+        "separacao-de-funcoes",
+        "preponderancia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0041",
+      "topico": "7.2",
+      "tipo": "multipla",
+      "enunciado": "A Constituição exige aprovação prévia do Senado Federal, por voto secreto, após arguição pública, para a escolha de determinadas autoridades.\n\nAssinale a opção que apresenta autoridade sujeita a essa aprovação.",
+      "alternativas": [
+        "Ministros de Estado.",
+        "Ministros do Supremo Tribunal Federal.",
+        "Advogado-Geral da União.",
+        "Comandantes da Marinha, do Exército e da Aeronáutica.",
+        "Secretários estaduais indicados pelos Governadores."
+      ],
+      "correta": 1,
+      "comentario": "Compete privativamente ao Senado aprovar previamente a escolha de magistrados nos casos estabelecidos na Constituição — entre eles os Ministros do STF e dos Tribunais Superiores —, do Procurador-Geral da República, de Ministros do TCU indicados pelo Presidente, do presidente e diretores do Banco Central e dos chefes de missão diplomática permanente. Ministros de Estado, Comandantes das Forças e o Advogado-Geral da União são de livre nomeação.",
+      "fundamento": "CF/1988, arts. 52, III e IV, 84, XIV, e 101, parágrafo único.",
+      "dificuldade": "media",
+      "tags": [
+        "sabatina",
+        "senado",
+        "freios-e-contrapesos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0042",
+      "topico": "7.2",
+      "tipo": "multipla",
+      "enunciado": "O Presidente da República pretende editar decreto para reorganizar o funcionamento de órgãos da administração federal.\n\nNos termos da Constituição, o decreto autônomo é admitido para dispor sobre:",
+      "alternativas": [
+        "criação de novos ministérios e autarquias.",
+        "aumento da remuneração de servidores públicos federais.",
+        "criação de cargos públicos efetivos, desde que haja dotação orçamentária.",
+        "matéria tributária, inclusive instituição de obrigações acessórias e majoração de alíquotas.",
+        "organização e funcionamento da administração federal, quando não implicar aumento de despesa nem criação ou extinção de órgãos públicos, e extinção de funções ou cargos públicos quando vagos."
+      ],
+      "correta": 4,
+      "comentario": "O decreto autônomo tem campo restrito: só cabe para organizar e fazer funcionar a administração federal sem aumento de despesa nem criação ou extinção de órgãos, e para extinguir funções ou cargos vagos. Criação e extinção de órgãos, criação de cargos e aumento de remuneração dependem de lei. É mais um limite do princípio da legalidade sobre a atuação normativa do Executivo.",
+      "fundamento": "CF/1988, arts. 48, X e XI, e 84, VI.",
+      "dificuldade": "media",
+      "tags": [
+        "decreto-autonomo",
+        "poder-regulamentar"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0043",
+      "topico": "7.2",
+      "tipo": "multipla",
+      "enunciado": "Uma comissão parlamentar de inquérito, regularmente instaurada para apurar fato determinado, deliberou determinar a quebra do sigilo bancário dos investigados, a interceptação de suas comunicações telefônicas e a busca e apreensão em seus domicílios.\n\nSegundo a jurisprudência do STF, a CPI:",
+      "alternativas": [
+        "pode adotar as três medidas, pois tem poderes de investigação próprios das autoridades judiciais.",
+        "não pode adotar nenhuma das três medidas, dependendo sempre de autorização judicial.",
+        "pode determinar a quebra do sigilo bancário, mediante decisão fundamentada, mas não pode determinar interceptação telefônica nem busca e apreensão domiciliar, que se submetem à reserva de jurisdição.",
+        "pode determinar a interceptação telefônica e a busca domiciliar, mas não a quebra de sigilo bancário.",
+        "só pode adotar as medidas se houver autorização do Procurador-Geral da República."
+      ],
+      "correta": 2,
+      "comentario": "A CPI tem poderes de investigação próprios das autoridades judiciais, o que lhe permite determinar, por decisão fundamentada, a quebra dos sigilos bancário, fiscal e de dados telefônicos. Submetem-se à reserva de jurisdição, contudo, a interceptação telefônica, a busca e apreensão domiciliar e a decretação de prisão, salvo em flagrante. A CPI investiga; a punição cabe a outras esferas, e suas conclusões são encaminhadas ao Ministério Público.",
+      "fundamento": "CF/1988, arts. 5º, XI e XII, e 58, §3º; STF, MS 23.452 e MS 23.642.",
+      "dificuldade": "media",
+      "tags": [
+        "cpi",
+        "reserva-de-jurisdicao",
+        "fiscalizacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0044",
+      "topico": "7.2",
+      "tipo": "multipla",
+      "enunciado": "Agência reguladora federal editou resolução que, a pretexto de regulamentar a lei, criou obrigações não previstas no texto legal.\n\nNos termos da Constituição, compete ao Congresso Nacional:",
+      "alternativas": [
+        "sustar os atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites de delegação legislativa.",
+        "anular a resolução por meio de decisão judicial.",
+        "convocar o dirigente da agência para julgá-lo por crime de responsabilidade.",
+        "revogar a lei regulamentada, por perda de objeto.",
+        "nada fazer, pois o controle é exclusivo do Poder Judiciário."
+      ],
+      "correta": 0,
+      "comentario": "O art. 49, V, atribui competência exclusiva ao Congresso Nacional para sustar atos normativos do Executivo que exorbitem do poder regulamentar ou dos limites da delegação legislativa, por meio de decreto legislativo. É típico freio do Legislativo sobre o Executivo, que não exclui o controle judicial do mesmo ato, exercido por outra via.",
+      "fundamento": "CF/1988, art. 49, V.",
+      "dificuldade": "facil",
+      "tags": [
+        "sustacao",
+        "poder-regulamentar",
+        "freios-e-contrapesos"
+      ],
+      "fonte": "inédita"
     }
   ]
 }
