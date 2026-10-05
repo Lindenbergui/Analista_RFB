@@ -1,4 +1,487 @@
 {
   "materia": "dados",
-  "questoes": []
+  "questoes": [
+    {
+      "id": "dados-0001",
+      "topico": "6.1",
+      "tipo": "multipla",
+      "enunciado": "Um sistema registra, para cada atendimento, o número do protocolo, a data e o tempo de espera. Ao final do mês, um analista calcula o tempo médio de espera por unidade e conclui que uma delas precisa de reforço de equipe.\n\nConsiderando a cadeia dado–informação–conhecimento, é correto afirmar que:",
+      "alternativas": [
+        "os registros individuais já constituem informação, pois estão organizados em um sistema.",
+        "o tempo médio por unidade é um dado bruto, e os registros individuais são conhecimento.",
+        "os registros individuais são dados; o tempo médio por unidade, contextualizado e com significado, é informação; e a conclusão sobre a necessidade de reforço, fruto da análise e da experiência aplicada, é conhecimento.",
+        "dado, informação e conhecimento são sinônimos na prática analítica.",
+        "a conclusão do analista é um dado, pois decorre de processamento computacional."
+      ],
+      "correta": 2,
+      "comentario": "Dado é o registro bruto, sem contexto. Informação é o dado processado, organizado e contextualizado, dotado de significado. Conhecimento resulta da aplicação de análise, experiência e julgamento à informação, permitindo decidir e agir. A hierarquia costuma ser representada pela pirâmide DIKW, que acrescenta ainda a sabedoria no topo.",
+      "fundamento": "Pirâmide DIKW (dado, informação, conhecimento e sabedoria).",
+      "dificuldade": "facil",
+      "tags": [
+        "dado",
+        "informacao",
+        "conhecimento",
+        "dikw"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0002",
+      "topico": "6.1",
+      "tipo": "multipla",
+      "enunciado": "Uma equipe recebeu três conjuntos de dados: uma tabela de um banco relacional, um conjunto de arquivos JSON com tags identificando os campos, e uma pasta com gravações de áudio de atendimentos.\n\nEsses conjuntos classificam-se, respectivamente, como dados:",
+      "alternativas": [
+        "estruturados, semiestruturados e não estruturados.",
+        "semiestruturados, estruturados e não estruturados.",
+        "estruturados, não estruturados e semiestruturados.",
+        "não estruturados, semiestruturados e estruturados.",
+        "todos estruturados, pois estão armazenados digitalmente."
+      ],
+      "correta": 0,
+      "comentario": "Dados estruturados seguem esquema rígido, com linhas e colunas definidas, típicos de bancos relacionais. Semiestruturados não têm esquema fixo, mas possuem marcadores que organizam o conteúdo, como JSON e XML. Não estruturados não possuem organização predefinida: áudio, vídeo, imagens e textos livres. Estima-se que a maior parte dos dados corporativos seja não estruturada.",
+      "fundamento": "Conceitos de estruturação de dados.",
+      "dificuldade": "facil",
+      "tags": [
+        "dados-estruturados",
+        "semiestruturados",
+        "nao-estruturados"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0003",
+      "topico": "6.1",
+      "tipo": "multipla",
+      "enunciado": "Em um catálogo de dados, cada conjunto é acompanhado de informações sobre sua origem, a data da última atualização, o responsável pela manutenção e a descrição de cada campo.\n\nEssas informações são denominadas:",
+      "alternativas": [
+        "dados brutos.",
+        "dados transacionais.",
+        "dados mestres.",
+        "metadados.",
+        "dados derivados."
+      ],
+      "correta": 3,
+      "comentario": "Metadados são dados sobre dados: descrevem conteúdo, estrutura, origem e condições de uso de um conjunto. Costumam ser classificados em descritivos (identificam e permitem localizar), estruturais (indicam como os elementos se organizam e relacionam) e administrativos (tratam de criação, versões, responsáveis e permissões). São essenciais à governança e à descoberta de dados.",
+      "fundamento": "Conceitos de metadados e catálogo de dados.",
+      "dificuldade": "facil",
+      "tags": [
+        "metadados",
+        "catalogo-de-dados"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0004",
+      "topico": "6.1",
+      "tipo": "multipla",
+      "enunciado": "Em uma base de servidores, há um campo com a unidade de lotação (Norte, Sul, Sudeste) e outro com o nível de satisfação declarada (baixo, médio, alto).\n\nEsses atributos são classificados, respectivamente, como qualitativos:",
+      "alternativas": [
+        "ordinal e nominal.",
+        "nominal e ordinal.",
+        "discreto e contínuo.",
+        "contínuo e discreto.",
+        "ambos nominais."
+      ],
+      "correta": 1,
+      "comentario": "Variáveis qualitativas nominais apenas identificam categorias, sem ordem natural — é o caso da região de lotação. As ordinais possuem ordem entre as categorias, mas sem distância mensurável entre elas — é o caso de baixo, médio e alto. Discreta e contínua são classificações de variáveis quantitativas.",
+      "fundamento": "Classificação de variáveis em estatística descritiva.",
+      "dificuldade": "facil",
+      "tags": [
+        "variaveis",
+        "qualitativa",
+        "nominal",
+        "ordinal"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0005",
+      "topico": "6.1",
+      "tipo": "multipla",
+      "enunciado": "Considere dois atributos de uma base de declarações: o número de dependentes informados e o valor total dos rendimentos tributáveis.\n\nEsses atributos são, respectivamente, quantitativos:",
+      "alternativas": [
+        "nominal e ordinal.",
+        "contínuo e discreto.",
+        "ordinal e nominal.",
+        "ambos discretos.",
+        "discreto e contínuo."
+      ],
+      "correta": 4,
+      "comentario": "Variáveis quantitativas discretas resultam de contagem e assumem valores enumeráveis, como o número de dependentes. Contínuas resultam de mensuração e podem assumir qualquer valor dentro de um intervalo, como valores monetários. A distinção importa porque orienta a escolha de gráficos e de medidas apropriadas.",
+      "fundamento": "Classificação de variáveis em estatística descritiva.",
+      "dificuldade": "facil",
+      "tags": [
+        "variaveis",
+        "discreta",
+        "continua"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0006",
+      "topico": "6.1",
+      "tipo": "multipla",
+      "enunciado": "Na classificação das escalas de mensuração, a temperatura medida em graus Celsius é exemplo de escala:",
+      "alternativas": [
+        "nominal, pois apenas rotula observações.",
+        "ordinal, pois só permite ordenar valores.",
+        "intervalar, pois permite medir diferenças entre valores, mas seu ponto zero é arbitrário, o que impede afirmar que 40 °C é o dobro de 20 °C.",
+        "de razão, pois possui zero absoluto e admite todas as operações aritméticas.",
+        "de razão, pois valores negativos indicam ausência da grandeza."
+      ],
+      "correta": 2,
+      "comentario": "Nas escalas intervalares, os intervalos entre valores são significativos, mas o zero é convencional, e não indica ausência da grandeza — por isso razões não fazem sentido. Em escalas de razão, como peso, renda e temperatura em Kelvin, o zero é absoluto e admite-se afirmar que um valor é o dobro de outro. Nominal apenas classifica; ordinal classifica e ordena.",
+      "fundamento": "Escalas de mensuração de Stevens.",
+      "dificuldade": "media",
+      "tags": [
+        "escalas",
+        "intervalar",
+        "razao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0007",
+      "topico": "6.1",
+      "tipo": "multipla",
+      "enunciado": "Em uma unidade com dez servidores, nove recebem remunerações próximas a R$ 8.000 e um recebe R$ 90.000.\n\nSobre as medidas de tendência central nesse conjunto, é correto afirmar que:",
+      "alternativas": [
+        "a média será fortemente influenciada pelo valor extremo, de modo que a mediana representa melhor o valor típico do conjunto.",
+        "a mediana será mais afetada pelo valor extremo do que a média.",
+        "média e mediana serão necessariamente iguais.",
+        "a moda será o valor mais afetado pelo valor extremo.",
+        "a presença do valor extremo não afeta nenhuma das medidas."
+      ],
+      "correta": 0,
+      "comentario": "A média é sensível a valores extremos, porque considera a magnitude de todas as observações. A mediana depende apenas da posição central e, por isso, é uma medida robusta, mais adequada para descrever o valor típico em distribuições assimétricas ou com outliers — motivo pelo qual se prefere a mediana em dados de renda.",
+      "fundamento": "Medidas de tendência central e robustez.",
+      "dificuldade": "facil",
+      "tags": [
+        "media",
+        "mediana",
+        "outliers"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0008",
+      "topico": "6.1",
+      "tipo": "multipla",
+      "enunciado": "Dois conjuntos de dados têm a mesma média, mas o primeiro apresenta desvio padrão de 2 e o segundo, de 12.\n\nÉ correto afirmar que:",
+      "alternativas": [
+        "o segundo conjunto tem valores mais concentrados em torno da média.",
+        "o desvio padrão não permite qualquer comparação entre conjuntos.",
+        "o primeiro conjunto certamente contém mais observações.",
+        "o segundo conjunto apresenta maior dispersão em torno da média, sendo o desvio padrão a raiz quadrada da variância e expresso na mesma unidade dos dados.",
+        "o desvio padrão de 12 indica que a média do segundo conjunto está incorreta."
+      ],
+      "correta": 3,
+      "comentario": "O desvio padrão mede o grau de dispersão dos valores em torno da média: quanto maior, mais espalhados os dados. É a raiz quadrada da variância e tem a vantagem de ser expresso na mesma unidade dos dados originais, enquanto a variância é expressa em unidade ao quadrado. O número de observações não é inferível a partir da dispersão.",
+      "fundamento": "Medidas de dispersão.",
+      "dificuldade": "facil",
+      "tags": [
+        "desvio-padrao",
+        "variancia",
+        "dispersao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0009",
+      "topico": "6.1",
+      "tipo": "multipla",
+      "enunciado": "Um analista precisa comparar a variabilidade relativa de duas variáveis expressas em unidades diferentes: o valor arrecadado por contribuinte, em reais, e o tempo de análise por processo, em dias.\n\nA medida adequada para essa comparação é:",
+      "alternativas": [
+        "a amplitude total.",
+        "o coeficiente de variação, que expressa o desvio padrão como proporção da média, permitindo comparar dispersões de variáveis em escalas distintas.",
+        "a variância, por ser expressa em unidade ao quadrado.",
+        "a mediana, por ser robusta a valores extremos.",
+        "o desvio padrão de cada variável, comparado diretamente."
+      ],
+      "correta": 1,
+      "comentario": "O coeficiente de variação é a razão entre o desvio padrão e a média, geralmente expresso em percentual. Por ser adimensional, permite comparar a variabilidade de variáveis medidas em unidades diferentes ou com médias muito distintas. A comparação direta de desvios padrão em unidades distintas não é informativa.",
+      "fundamento": "Medidas de dispersão relativa.",
+      "dificuldade": "media",
+      "tags": [
+        "coeficiente-de-variacao",
+        "dispersao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0010",
+      "topico": "6.1",
+      "tipo": "multipla",
+      "enunciado": "Na construção de um boxplot, um analista identificou observações situadas acima do terceiro quartil somado a 1,5 vez a amplitude interquartil.\n\nEssas observações são classificadas como:",
+      "alternativas": [
+        "medianas secundárias.",
+        "valores modais.",
+        "erros de digitação que devem ser sempre excluídos da base.",
+        "quartis superiores.",
+        "outliers, ou valores atípicos, que devem ser investigados antes de qualquer decisão sobre exclusão ou tratamento."
+      ],
+      "correta": 4,
+      "comentario": "A amplitude interquartil é a diferença entre o terceiro e o primeiro quartis. Pelo critério de Tukey, são considerados atípicos os valores abaixo de Q1 menos 1,5·IQR ou acima de Q3 mais 1,5·IQR. Outlier não é sinônimo de erro: pode indicar fraude, evento raro ou característica legítima da distribuição, e a exclusão automática pode destruir justamente a informação mais relevante.",
+      "fundamento": "Critério de Tukey para valores atípicos; boxplot.",
+      "dificuldade": "media",
+      "tags": [
+        "outliers",
+        "quartis",
+        "boxplot"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0011",
+      "topico": "6.1",
+      "tipo": "multipla",
+      "enunciado": "Em uma distribuição de valores de autuações fiscais, verificou-se que a média é superior à mediana, que por sua vez é superior à moda, com cauda alongada à direita.\n\nEssa distribuição é classificada como:",
+      "alternativas": [
+        "simétrica.",
+        "assimétrica à esquerda, ou negativa.",
+        "assimétrica à direita, ou positiva.",
+        "bimodal e simétrica.",
+        "uniforme."
+      ],
+      "correta": 2,
+      "comentario": "Na assimetria positiva, ou à direita, poucos valores muito altos puxam a média para cima, resultando em média maior que a mediana, que é maior que a moda, com cauda alongada à direita. Na assimetria negativa ocorre o inverso. Em distribuições perfeitamente simétricas e unimodais, as três medidas coincidem. Valores monetários costumam apresentar assimetria positiva.",
+      "fundamento": "Medidas de assimetria.",
+      "dificuldade": "media",
+      "tags": [
+        "assimetria",
+        "media",
+        "mediana",
+        "moda"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0012",
+      "topico": "6.1",
+      "tipo": "multipla",
+      "enunciado": "Ao auditar uma base cadastral, uma equipe constatou: 18% dos registros sem o campo de endereço preenchido; CPFs gravados em formatos diferentes conforme o sistema de origem; e endereços que não eram revistos havia oito anos.\n\nEsses problemas referem-se, respectivamente, às dimensões de qualidade de dados:",
+      "alternativas": [
+        "completude, consistência e atualidade.",
+        "acurácia, unicidade e completude.",
+        "unicidade, integridade e acurácia.",
+        "consistência, completude e validade.",
+        "validade, atualidade e unicidade."
+      ],
+      "correta": 0,
+      "comentario": "Completude trata da presença dos valores esperados; consistência, da uniformidade do mesmo dado entre sistemas e formatos; atualidade ou temporalidade, de os dados refletirem a realidade no momento do uso. Outras dimensões usuais são acurácia (correspondência com a realidade), unicidade (ausência de duplicidades), validade (conformidade com regras e domínios) e integridade (manutenção de relações entre dados).",
+      "fundamento": "Dimensões de qualidade de dados (DAMA-DMBOK).",
+      "dificuldade": "media",
+      "tags": [
+        "qualidade-de-dados",
+        "completude",
+        "consistencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0013",
+      "topico": "6.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre as diferenças entre métrica, indicador e KPI, assinale a afirmativa correta.",
+      "alternativas": [
+        "Métrica e indicador são termos que designam exatamente o mesmo conceito.",
+        "KPI é qualquer métrica coletada por um sistema de informação.",
+        "Indicador é a medida bruta, e métrica é a medida contextualizada e associada a uma meta.",
+        "Métrica é a medida quantitativa de um atributo; indicador combina métricas e as relaciona a um objetivo, permitindo avaliar desempenho; e KPI é o subconjunto de indicadores considerados críticos para a estratégia.",
+        "KPI é um indicador que dispensa a definição de meta, fórmula de cálculo e periodicidade."
+      ],
+      "correta": 3,
+      "comentario": "Métrica é a medição direta de um atributo, como o número de atendimentos. Indicador relaciona métricas a um objetivo e permite julgar desempenho, como o percentual de atendimentos resolvidos no prazo. KPI é o indicador-chave, selecionado por sua relevância estratégica. Um bom indicador exige fórmula, fonte de dados, periodicidade, responsável e meta.",
+      "fundamento": "Conceitos de métricas e indicadores de desempenho.",
+      "dificuldade": "media",
+      "tags": [
+        "metricas",
+        "indicadores",
+        "kpi"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0014",
+      "topico": "6.1",
+      "tipo": "multipla",
+      "enunciado": "Uma organização adotava um fluxo em que os dados eram extraídos das fontes, transformados em um servidor intermediário e, só então, carregados no repositório analítico. Com a migração para a nuvem, passou a carregar os dados brutos diretamente no repositório e a transformá-los ali, aproveitando sua capacidade de processamento.\n\nEssa mudança corresponde à transição de:",
+      "alternativas": [
+        "OLAP para OLTP.",
+        "ETL para ELT.",
+        "ELT para ETL.",
+        "data mart para data warehouse.",
+        "processamento em lote para processamento transacional."
+      ],
+      "correta": 1,
+      "comentario": "No ETL, a transformação ocorre antes da carga, em área intermediária — modelo tradicional dos data warehouses. No ELT, os dados brutos são carregados primeiro no destino e transformados nele, aproveitando o poder de processamento de plataformas de nuvem e data lakes. O ELT favorece flexibilidade e volume; o ETL, controle e padronização prévia.",
+      "fundamento": "Conceitos de integração de dados.",
+      "dificuldade": "media",
+      "tags": [
+        "etl",
+        "elt",
+        "transformacao-de-dados"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0015",
+      "topico": "6.1",
+      "tipo": "multipla",
+      "enunciado": "Para preparar variáveis de escalas muito distintas para um algoritmo sensível à magnitude dos valores, um analista avalia duas técnicas.\n\nSobre elas, é correto afirmar que:",
+      "alternativas": [
+        "a normalização min-max transforma os dados para média zero e desvio padrão um.",
+        "a padronização z-score sempre restringe os valores ao intervalo entre 0 e 1.",
+        "ambas eliminam os valores atípicos da base.",
+        "ambas alteram a ordem relativa das observações.",
+        "a normalização min-max reescala os valores para um intervalo fixo, geralmente entre 0 e 1, enquanto a padronização z-score centraliza os dados na média e os expressa em unidades de desvio padrão."
+      ],
+      "correta": 4,
+      "comentario": "A normalização min-max subtrai o mínimo e divide pela amplitude, levando os valores a um intervalo fixo, mas é bastante sensível a outliers, que comprimem os demais valores. A padronização z-score subtrai a média e divide pelo desvio padrão, resultando em média zero e desvio um, sem limite de intervalo. Nenhuma das duas remove outliers nem altera a ordem das observações.",
+      "fundamento": "Técnicas de pré-processamento de dados.",
+      "dificuldade": "media",
+      "tags": [
+        "normalizacao",
+        "padronizacao",
+        "z-score"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0016",
+      "topico": "6.1",
+      "tipo": "multipla",
+      "enunciado": "Uma base apresenta 12% de valores ausentes em uma variável numérica relevante para a análise.\n\nSobre o tratamento desses dados, é correto afirmar que:",
+      "alternativas": [
+        "a exclusão de todos os registros incompletos é sempre a melhor solução, por preservar a integridade.",
+        "valores ausentes devem ser automaticamente substituídos por zero, por ser o valor neutro.",
+        "a imputação por média ou mediana é uma alternativa à exclusão de registros, mas tende a reduzir artificialmente a variabilidade da variável, o que recomenda avaliar antes o padrão de ausência dos dados.",
+        "a ausência de dados nunca compromete os resultados, desde que a amostra seja grande.",
+        "a imputação só pode ser feita por especialistas em estatística inferencial, sendo vedada em bases administrativas."
+      ],
+      "correta": 2,
+      "comentario": "A exclusão de registros reduz a amostra e pode introduzir viés quando a ausência não é aleatória. A imputação por média ou mediana preserva o tamanho da base, mas concentra valores em torno do centro, diminuindo a variância. Substituir por zero é especialmente perigoso, pois confunde ausência com valor real. Por isso a escolha depende do volume e do mecanismo de ausência dos dados.",
+      "fundamento": "Tratamento de dados ausentes no pré-processamento.",
+      "dificuldade": "media",
+      "tags": [
+        "dados-ausentes",
+        "imputacao",
+        "limpeza"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0017",
+      "topico": "6.1",
+      "tipo": "multipla",
+      "enunciado": "Para utilizar a variável categórica \"região\" (Norte, Nordeste, Centro-Oeste, Sudeste e Sul) em um modelo que exige entradas numéricas, um analista criou cinco colunas binárias, cada uma indicando a presença ou ausência de uma região.\n\nEssa técnica é denominada:",
+      "alternativas": [
+        "one-hot encoding, que evita a introdução de uma ordem artificial entre categorias nominais, como ocorreria ao atribuir números sequenciais a cada região.",
+        "normalização min-max.",
+        "discretização por quartis.",
+        "redução de dimensionalidade por componentes principais.",
+        "agregação por grupo."
+      ],
+      "correta": 0,
+      "comentario": "O one-hot encoding transforma cada categoria em uma coluna binária. Sua vantagem sobre o label encoding, que atribui números sequenciais, é não sugerir ordem nem distância entre categorias nominais. A desvantagem é o aumento do número de colunas quando há muitas categorias, o que pode exigir agrupamento prévio.",
+      "fundamento": "Técnicas de codificação de variáveis categóricas.",
+      "dificuldade": "media",
+      "tags": [
+        "one-hot",
+        "codificacao",
+        "variaveis-categoricas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0018",
+      "topico": "6.1",
+      "tipo": "multipla",
+      "enunciado": "Um analista converteu a variável contínua \"idade\" em faixas (até 25, de 26 a 40, de 41 a 60 e acima de 60) para facilitar a leitura de relatórios gerenciais.\n\nEssa operação é denominada:",
+      "alternativas": [
+        "normalização.",
+        "imputação.",
+        "anonimização.",
+        "discretização, ou binning, que converte uma variável contínua em categórica por meio de intervalos, simplificando a análise ao custo de perda de informação.",
+        "amostragem estratificada."
+      ],
+      "correta": 3,
+      "comentario": "A discretização, também chamada binning ou categorização, agrupa valores contínuos em intervalos. Facilita a comunicação e pode reduzir o efeito de pequenas oscilações e de outliers, mas descarta parte da informação original, já que valores distintos dentro da mesma faixa passam a ser tratados como equivalentes. A escolha dos pontos de corte pode, inclusive, alterar conclusões.",
+      "fundamento": "Técnicas de transformação de dados.",
+      "dificuldade": "facil",
+      "tags": [
+        "discretizacao",
+        "binning",
+        "transformacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0019",
+      "topico": "6.1",
+      "tipo": "multipla",
+      "enunciado": "Uma variável de valores monetários apresenta forte assimetria positiva, com poucos valores muito elevados concentrando a cauda da distribuição.\n\nUma transformação comumente empregada para reduzir essa assimetria e aproximar a distribuição da normalidade é:",
+      "alternativas": [
+        "a multiplicação de todos os valores por uma constante.",
+        "a transformação logarítmica dos valores.",
+        "a substituição dos valores pela moda da distribuição.",
+        "a conversão da variável em binária.",
+        "a ordenação crescente dos registros."
+      ],
+      "correta": 1,
+      "comentario": "A transformação logarítmica comprime a escala dos valores altos e expande a dos baixos, atenuando a assimetria à direita típica de variáveis monetárias. Não se aplica diretamente a valores nulos ou negativos, caso em que se usam variantes como log(x+1). Multiplicar por constante não altera a forma da distribuição.",
+      "fundamento": "Técnicas de transformação de variáveis.",
+      "dificuldade": "media",
+      "tags": [
+        "transformacao-logaritmica",
+        "assimetria"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0020",
+      "topico": "6.1",
+      "tipo": "multipla",
+      "enunciado": "Um órgão pretende divulgar uma base para pesquisa acadêmica. Em um cenário, remove definitivamente os identificadores de modo que o titular não possa ser identificado por meios técnicos razoáveis e disponíveis. Em outro, substitui os identificadores por códigos, mantendo em arquivo separado a chave que permite reverter a substituição.\n\nEsses procedimentos correspondem, respectivamente, a:",
+      "alternativas": [
+        "criptografia e compactação.",
+        "pseudonimização e anonimização.",
+        "agregação e normalização.",
+        "mascaramento e criptografia simétrica.",
+        "anonimização e pseudonimização, sendo que o dado pseudonimizado continua sendo dado pessoal, pois a reidentificação é possível mediante informação adicional."
+      ],
+      "correta": 4,
+      "comentario": "Na anonimização, perde-se a possibilidade de associação ao titular, considerando os meios técnicos razoáveis e disponíveis; o dado anonimizado, em regra, deixa de ser dado pessoal e sai do alcance da LGPD, salvo se o processo puder ser revertido. Na pseudonimização, a associação permanece possível mediante informação adicional mantida separadamente, de modo que o dado continua sendo pessoal e protegido.",
+      "fundamento": "Lei nº 13.709/2018 (LGPD), arts. 5º, III e XI, 12 e 13, §4º.",
+      "dificuldade": "media",
+      "tags": [
+        "anonimizacao",
+        "pseudonimizacao",
+        "lgpd"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0021",
+      "topico": "6.1",
+      "tipo": "multipla",
+      "enunciado": "Diante de uma base com dezenas de variáveis fortemente correlacionadas entre si, uma equipe aplicou técnica que gera um número menor de novas variáveis não correlacionadas, capazes de reter a maior parte da variância original.\n\nEssa técnica é:",
+      "alternativas": [
+        "a imputação múltipla.",
+        "a discretização supervisionada.",
+        "a análise de componentes principais (PCA), usada para redução de dimensionalidade.",
+        "a validação cruzada.",
+        "o one-hot encoding."
+      ],
+      "correta": 2,
+      "comentario": "A análise de componentes principais combina linearmente as variáveis originais em componentes ortogonais, ordenados pela variância que explicam. Permite reduzir a dimensionalidade mantendo boa parte da informação, o que diminui redundância e custo computacional. O custo é interpretativo: os componentes não têm significado direto como as variáveis originais.",
+      "fundamento": "Técnicas de redução de dimensionalidade.",
+      "dificuldade": "dificil",
+      "tags": [
+        "pca",
+        "reducao-de-dimensionalidade"
+      ],
+      "fonte": "inédita"
+    }
+  ]
 }
