@@ -983,6 +983,436 @@
         "sentidos"
       ],
       "fonte": "inédita"
+    },
+    {
+      "id": "adm-0046",
+      "topico": "5.3",
+      "tipo": "multipla",
+      "enunciado": "Robert Katz identificou três habilidades necessárias ao administrador.\n\nAssinale a opção que as conceitua corretamente.",
+      "alternativas": [
+        "Técnica: capacidade de compreender a organização como um todo; humana: domínio de métodos e equipamentos; conceitual: capacidade de negociar com fornecedores.",
+        "Técnica: capacidade de liderar equipes; humana: domínio de procedimentos; conceitual: execução de rotinas.",
+        "Técnica: uso de conhecimentos, métodos, técnicas e equipamentos na execução de tarefas; humana: capacidade de trabalhar com pessoas, comunicar-se, liderar e motivar; conceitual: capacidade de compreender a organização como um todo e lidar com ideias e situações complexas.",
+        "Técnica: capacidade de diagnosticar cenários futuros; humana: domínio de softwares de gestão; conceitual: supervisão direta de subordinados.",
+        "As três habilidades são sinônimas, variando apenas conforme o porte da organização."
+      ],
+      "correta": 2,
+      "comentario": "Para Katz, a habilidade técnica envolve o uso de conhecimentos especializados, métodos e equipamentos para realizar tarefas; a humana, a capacidade de trabalhar com e por meio de pessoas, incluindo comunicação, liderança e motivação; a conceitual, a visão sistêmica, que permite compreender a organização em sua totalidade e lidar com ideias abstratas e situações complexas.",
+      "fundamento": "Katz, Skills of an Effective Administrator (1955).",
+      "dificuldade": "facil",
+      "tags": [
+        "katz",
+        "habilidades"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0047",
+      "topico": "5.3",
+      "tipo": "multipla",
+      "enunciado": "Segundo Katz, a importância relativa das habilidades do administrador varia conforme o nível hierárquico ocupado.\n\nAssinale a afirmativa correta.",
+      "alternativas": [
+        "A habilidade conceitual é predominante no nível operacional, e a técnica, no institucional.",
+        "A habilidade humana perde importância à medida que se sobe na hierarquia.",
+        "As três habilidades têm exatamente o mesmo peso em todos os níveis.",
+        "A habilidade técnica é a mais relevante no nível institucional, por envolver decisões estratégicas.",
+        "À medida que se sobe na hierarquia, cresce a importância da habilidade conceitual e diminui a da técnica, permanecendo a habilidade humana relevante em todos os níveis."
+      ],
+      "correta": 4,
+      "comentario": "A habilidade técnica predomina na base, onde se executam e supervisionam tarefas concretas. A conceitual ganha peso no topo, onde se decide sobre estratégia, ambiente e futuro da organização. A habilidade humana é essencial em todos os níveis, pois administrar é sempre trabalhar com pessoas — por isso ela aparece com peso relativamente constante nos esquemas de Katz.",
+      "fundamento": "Katz, Skills of an Effective Administrator.",
+      "dificuldade": "facil",
+      "tags": [
+        "katz",
+        "habilidades",
+        "niveis-hierarquicos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0048",
+      "topico": "5.3",
+      "tipo": "multipla",
+      "enunciado": "Recém-nomeado chefe de uma seção de conferência física de cargas, um servidor precisa dominar os procedimentos de verificação, o manuseio dos equipamentos de inspeção e os sistemas utilizados na operação, para orientar e corrigir sua equipe.\n\nA habilidade predominantemente exigida nessa situação é a:",
+      "alternativas": [
+        "técnica.",
+        "conceitual.",
+        "política.",
+        "estratégica.",
+        "institucional."
+      ],
+      "correta": 0,
+      "comentario": "A habilidade técnica envolve conhecimento especializado, métodos, procedimentos e equipamentos. É a mais demandada no nível operacional e de supervisão, em que o gestor precisa compreender concretamente o trabalho executado pela equipe para orientá-la e avaliá-la.",
+      "fundamento": "Katz, Skills of an Effective Administrator.",
+      "dificuldade": "facil",
+      "tags": [
+        "katz",
+        "habilidade-tecnica",
+        "supervisao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0049",
+      "topico": "5.3",
+      "tipo": "multipla",
+      "enunciado": "Sobre a habilidade humana do administrador, é correto afirmar que:",
+      "alternativas": [
+        "é exigida apenas dos gestores de recursos humanos.",
+        "consiste na capacidade de trabalhar com pessoas, comunicar-se, liderar, motivar e resolver conflitos, sendo relevante em todos os níveis hierárquicos.",
+        "é exigida somente no nível institucional, onde se negocia com atores externos.",
+        "é dispensável em organizações que adotam estruturas altamente formalizadas.",
+        "equivale à habilidade conceitual, pois ambas envolvem compreensão do comportamento humano."
+      ],
+      "correta": 1,
+      "comentario": "A habilidade humana diz respeito à capacidade de trabalhar com e por meio de pessoas: comunicar-se, liderar, motivar, coordenar e administrar conflitos. É transversal a todos os níveis, pois nenhum gestor atinge resultados sozinho. Não se confunde com a conceitual, que trata da visão sistêmica da organização e do ambiente.",
+      "fundamento": "Katz, Skills of an Effective Administrator.",
+      "dificuldade": "facil",
+      "tags": [
+        "katz",
+        "habilidade-humana"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0050",
+      "topico": "5.3",
+      "tipo": "multipla",
+      "enunciado": "Henry Mintzberg, a partir da observação do trabalho real dos executivos, identificou dez papéis gerenciais agrupados em três categorias.\n\nEssas categorias são:",
+      "alternativas": [
+        "normativa, descritiva e prescritiva.",
+        "estratégica, tática e operacional.",
+        "técnica, humana e conceitual.",
+        "interpessoal, informacional e decisorial.",
+        "planejamento, organização e controle."
+      ],
+      "correta": 3,
+      "comentario": "Mintzberg agrupou os dez papéis em três categorias: interpessoais (figura de proa, líder e ligação), informacionais (monitor, disseminador e porta-voz) e decisoriais (empreendedor, solucionador de conflitos, alocador de recursos e negociador). Note que suas categorias não se confundem com as habilidades de Katz nem com as funções do processo administrativo.",
+      "fundamento": "Mintzberg, The Nature of Managerial Work (1973).",
+      "dificuldade": "facil",
+      "tags": [
+        "mintzberg",
+        "papeis-gerenciais"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0051",
+      "topico": "5.3",
+      "tipo": "multipla",
+      "enunciado": "O superintendente de um órgão participou da solenidade de inauguração de uma nova unidade, assinou documentos oficiais de caráter protocolar e recebeu uma comitiva estrangeira em visita institucional.\n\nNessas situações, exerceu o papel de:",
+      "alternativas": [
+        "figura de proa, de natureza interpessoal.",
+        "porta-voz, de natureza informacional.",
+        "negociador, de natureza decisorial.",
+        "monitor, de natureza informacional.",
+        "empreendedor, de natureza decisorial."
+      ],
+      "correta": 0,
+      "comentario": "A figura de proa, ou representação, é o papel interpessoal em que o gestor atua como símbolo da organização em atividades de natureza cerimonial, protocolar e legal. Difere do porta-voz, papel informacional em que o gestor transmite informações da organização ao ambiente externo, como ao conceder entrevista sobre resultados.",
+      "fundamento": "Mintzberg, The Nature of Managerial Work.",
+      "dificuldade": "facil",
+      "tags": [
+        "mintzberg",
+        "figura-de-proa",
+        "papeis-interpessoais"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0052",
+      "topico": "5.3",
+      "tipo": "multipla",
+      "enunciado": "Um gestor mantém e cultiva uma ampla rede de contatos com dirigentes de outros órgãos, entidades de classe e parceiros externos, buscando favores, informações e apoio para sua unidade.\n\nEsse comportamento corresponde ao papel de:",
+      "alternativas": [
+        "líder.",
+        "disseminador.",
+        "ligação.",
+        "alocador de recursos.",
+        "solucionador de conflitos."
+      ],
+      "correta": 2,
+      "comentario": "O papel de ligação consiste em desenvolver e manter uma rede de contatos fora da cadeia hierárquica vertical, permitindo acesso a informações e favores. O papel de líder, também interpessoal, volta-se para dentro: motivar, orientar, treinar e integrar os subordinados. Ambos são interpessoais, mas distinguem-se pela direção da relação.",
+      "fundamento": "Mintzberg, The Nature of Managerial Work.",
+      "dificuldade": "media",
+      "tags": [
+        "mintzberg",
+        "ligacao",
+        "papeis-interpessoais"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0053",
+      "topico": "5.3",
+      "tipo": "multipla",
+      "enunciado": "Após a divulgação de dados sobre a atuação de sua unidade, o gestor concedeu entrevista coletiva à imprensa e apresentou os resultados em audiência pública no Congresso Nacional.\n\nNessas ocasiões, exerceu o papel de:",
+      "alternativas": [
+        "monitor.",
+        "disseminador.",
+        "empreendedor.",
+        "negociador.",
+        "porta-voz, de natureza informacional."
+      ],
+      "correta": 4,
+      "comentario": "O porta-voz transmite informações da organização para o ambiente externo: imprensa, órgãos de controle, sociedade e outras instituições. O monitor busca e recebe informações do ambiente; o disseminador repassa informações externas ou privilegiadas para dentro da organização. Os três compõem os papéis informacionais.",
+      "fundamento": "Mintzberg, The Nature of Managerial Work.",
+      "dificuldade": "facil",
+      "tags": [
+        "mintzberg",
+        "porta-voz",
+        "papeis-informacionais"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0054",
+      "topico": "5.3",
+      "tipo": "multipla",
+      "enunciado": "Ao retornar de um encontro nacional de dirigentes, uma gestora reuniu sua equipe e repassou as novas diretrizes, tendências e informações obtidas, que até então não eram de conhecimento dos servidores.\n\nEsse comportamento corresponde ao papel de:",
+      "alternativas": [
+        "monitor.",
+        "disseminador.",
+        "porta-voz.",
+        "figura de proa.",
+        "alocador de recursos."
+      ],
+      "correta": 1,
+      "comentario": "O disseminador transmite aos membros da organização informações recebidas de fontes externas ou de subordinados, inclusive as que não seriam acessíveis a eles de outro modo. O monitor é quem busca e recebe essas informações; o porta-voz as transmite para fora. A distinção entre os três depende do sentido do fluxo informacional.",
+      "fundamento": "Mintzberg, The Nature of Managerial Work.",
+      "dificuldade": "media",
+      "tags": [
+        "mintzberg",
+        "disseminador",
+        "papeis-informacionais"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0055",
+      "topico": "5.3",
+      "tipo": "multipla",
+      "enunciado": "Identificando uma oportunidade de melhoria, um gestor propôs e iniciou, por iniciativa própria, um projeto de redesenho dos processos de atendimento, com uso de nova tecnologia.\n\nEsse comportamento corresponde ao papel de:",
+      "alternativas": [
+        "solucionador de conflitos.",
+        "negociador.",
+        "monitor.",
+        "empreendedor, de natureza decisorial.",
+        "ligação."
+      ],
+      "correta": 3,
+      "comentario": "O empreendedor, na tipologia de Mintzberg, é o papel decisorial em que o gestor busca oportunidades e inicia, voluntariamente, projetos de mudança e melhoria. Distingue-se do solucionador de conflitos, que atua de forma reativa, diante de distúrbios e crises não previstos.",
+      "fundamento": "Mintzberg, The Nature of Managerial Work.",
+      "dificuldade": "facil",
+      "tags": [
+        "mintzberg",
+        "empreendedor",
+        "papeis-decisoriais"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0056",
+      "topico": "5.3",
+      "tipo": "multipla",
+      "enunciado": "Diante de uma paralisação inesperada de servidores terceirizados, que interrompeu o atendimento ao público, o gestor suspendeu sua agenda e passou a adotar medidas emergenciais para restabelecer a operação.\n\nEsse comportamento corresponde ao papel de:",
+      "alternativas": [
+        "solucionador de conflitos, ou administrador de distúrbios, de natureza decisorial.",
+        "empreendedor, pois promoveu mudanças.",
+        "monitor, pois acompanhou a situação.",
+        "figura de proa, pois representou a organização.",
+        "disseminador, pois comunicou a situação à equipe."
+      ],
+      "correta": 0,
+      "comentario": "O solucionador de conflitos, também chamado administrador de distúrbios ou gerenciador de turbulências, atua de forma reativa diante de crises e eventos imprevistos que exigem resposta imediata. A diferença em relação ao empreendedor está na origem da ação: ali, iniciativa voluntária de mudança; aqui, reação a um distúrbio imposto.",
+      "fundamento": "Mintzberg, The Nature of Managerial Work.",
+      "dificuldade": "facil",
+      "tags": [
+        "mintzberg",
+        "distúrbios",
+        "papeis-decisoriais"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0057",
+      "topico": "5.3",
+      "tipo": "multipla",
+      "enunciado": "Ao decidir como distribuir o orçamento entre as unidades, definir prioridades de investimento e aprovar a escala de pessoal, o gestor exerce o papel de:",
+      "alternativas": [
+        "figura de proa.",
+        "porta-voz.",
+        "alocador de recursos, de natureza decisorial.",
+        "monitor.",
+        "ligação."
+      ],
+      "correta": 2,
+      "comentario": "O alocador de recursos decide sobre a aplicação de recursos organizacionais — financeiros, humanos, materiais e, notadamente, o próprio tempo do gestor. Também é decisorial o papel de negociador, exercido quando o administrador representa a organização em negociações relevantes, como acordos com fornecedores ou com entidades sindicais.",
+      "fundamento": "Mintzberg, The Nature of Managerial Work.",
+      "dificuldade": "facil",
+      "tags": [
+        "mintzberg",
+        "alocador-de-recursos",
+        "papeis-decisoriais"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0058",
+      "topico": "5.3",
+      "tipo": "multipla",
+      "enunciado": "As pesquisas de Mintzberg sobre o trabalho gerencial contrariaram a imagem clássica do administrador como planejador reflexivo e sistemático.\n\nSegundo suas conclusões, o trabalho do gestor caracteriza-se por:",
+      "alternativas": [
+        "atividades longas, contínuas e previamente programadas, com baixa interrupção.",
+        "predomínio absoluto de documentos formais sobre a comunicação oral.",
+        "isolamento do gestor em relação a contatos externos à cadeia hierárquica.",
+        "dedicação integral ao planejamento de longo prazo.",
+        "ritmo intenso, atividades breves, variadas e fragmentadas, com muitas interrupções e forte preferência pela comunicação verbal e por contatos diretos."
+      ],
+      "correta": 4,
+      "comentario": "Mintzberg observou que o trabalho gerencial real é marcado por brevidade, variedade e fragmentação, com interrupções constantes, e que os gestores preferem a comunicação oral — reuniões, telefonemas e conversas informais — aos documentos formais. Essa constatação derrubou o mito do administrador que passa o dia planejando de forma sistemática e isolada.",
+      "fundamento": "Mintzberg, The Nature of Managerial Work.",
+      "dificuldade": "media",
+      "tags": [
+        "mintzberg",
+        "trabalho-gerencial"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0059",
+      "topico": "5.3",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que NÃO corresponde a um dos dez papéis gerenciais identificados por Mintzberg.",
+      "alternativas": [
+        "Monitor.",
+        "Auditor interno.",
+        "Negociador.",
+        "Líder.",
+        "Porta-voz."
+      ],
+      "correta": 1,
+      "comentario": "Os dez papéis são: figura de proa, líder e ligação (interpessoais); monitor, disseminador e porta-voz (informacionais); empreendedor, solucionador de conflitos, alocador de recursos e negociador (decisoriais). Auditor interno é função organizacional específica, e não um papel gerencial da tipologia.",
+      "fundamento": "Mintzberg, The Nature of Managerial Work.",
+      "dificuldade": "facil",
+      "tags": [
+        "mintzberg",
+        "papeis-gerenciais"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0060",
+      "topico": "5.3",
+      "tipo": "multipla",
+      "enunciado": "Para Chiavenato, o sucesso do administrador depende de competências duráveis, que vão além do simples acúmulo de informação.\n\nEssas competências são:",
+      "alternativas": [
+        "autoridade, hierarquia e disciplina.",
+        "conhecimento, perspectiva e atitude.",
+        "planejamento, organização e controle.",
+        "eficiência, eficácia e efetividade.",
+        "técnica, humana e conceitual."
+      ],
+      "correta": 1,
+      "comentario": "Chiavenato aponta três competências duráveis: conhecimento (o saber, que precisa ser constantemente atualizado), perspectiva (a capacidade de colocar o conhecimento em ação, diagnosticando situações e propondo soluções) e atitude (o comportamento ativo e proativo, que leva o administrador a agir, liderar e assumir riscos). A atitude é apontada como a mais importante das três.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "media",
+      "tags": [
+        "competencias",
+        "chiavenato",
+        "atitude"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0061",
+      "topico": "5.3",
+      "tipo": "multipla",
+      "enunciado": "Ao tratar das qualidades necessárias ao administrador, Fayol enumerou um conjunto de atributos exigidos de quem exerce a função administrativa.\n\nAssinale a opção que apresenta corretamente esses atributos.",
+      "alternativas": [
+        "Apenas conhecimentos técnicos sobre o processo produtivo.",
+        "Apenas experiência prática adquirida no exercício do cargo.",
+        "Exclusivamente qualidades morais, como firmeza e lealdade.",
+        "Qualidades físicas, intelectuais e morais, além de cultura geral, conhecimentos especiais relativos à função e experiência.",
+        "Somente a capacidade de liderança carismática sobre os subordinados."
+      ],
+      "correta": 3,
+      "comentario": "Fayol sustentava que o administrador precisa reunir qualidades físicas (saúde e vigor), intelectuais (capacidade de compreender e julgar), morais (firmeza, responsabilidade, iniciativa, lealdade), cultura geral, conhecimentos especiais da função exercida e experiência. Para ele, a capacidade administrativa cresce em importância conforme se sobe na hierarquia, e pode ser ensinada — daí sua defesa do ensino de administração.",
+      "fundamento": "Fayol, Administração Industrial e Geral (1916).",
+      "dificuldade": "media",
+      "tags": [
+        "fayol",
+        "qualidades-do-administrador"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0062",
+      "topico": "5.3",
+      "tipo": "multipla",
+      "enunciado": "A atuação do administrador varia conforme o nível organizacional em que se encontra.\n\nAssinale a opção que caracteriza corretamente essa variação.",
+      "alternativas": [
+        "No nível institucional, o administrador lida com incerteza, ambiente externo e decisões de longo prazo; no intermediário, articula o institucional com o operacional, transformando estratégias em planos e programas; no operacional, supervisiona a execução das tarefas cotidianas.",
+        "No nível operacional, o administrador define a missão e a estratégia organizacional.",
+        "No nível institucional, predominam decisões rotineiras e programadas.",
+        "O nível intermediário não exerce função administrativa, apenas executa ordens.",
+        "Os três níveis atuam exclusivamente sobre o ambiente externo da organização."
+      ],
+      "correta": 0,
+      "comentario": "O nível institucional ou estratégico é o mais exposto à incerteza e ao ambiente externo, e nele predominam decisões não programadas e de longo prazo. O nível intermediário atua como elo, traduzindo diretrizes em planos departamentais e administrando recursos. O nível operacional cuida da execução, com decisões mais programadas e horizonte de curto prazo.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "niveis-organizacionais",
+        "papeis-do-administrador"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0063",
+      "topico": "5.3",
+      "tipo": "multipla",
+      "enunciado": "A literatura costuma distinguir as figuras do gerente e do líder.\n\nSegundo a formulação de John Kotter, é correto afirmar que:",
+      "alternativas": [
+        "gerência e liderança são expressões sinônimas, sendo a distinção irrelevante na prática.",
+        "o líder atua apenas informalmente, não podendo ocupar cargo formal de gerência.",
+        "a gerência lida com a complexidade, por meio de planejamento, orçamento, organização e controle, enquanto a liderança lida com a mudança, definindo direção, alinhando pessoas e motivando-as; ambas são necessárias e complementares.",
+        "a liderança é incompatível com o exercício de funções administrativas formais.",
+        "a gerência é responsável por inspirar mudanças, e a liderança, por garantir a estabilidade dos processos."
+      ],
+      "correta": 2,
+      "comentario": "Para Kotter, gerenciar é lidar com a complexidade, produzindo previsibilidade e ordem por meio de planejamento, orçamentação, organização e controle. Liderar é lidar com a mudança: estabelecer direção, alinhar pessoas e motivá-las. As duas funções são distintas, mas complementares, e a organização moderna precisa das duas no mesmo gestor.",
+      "fundamento": "Kotter, What Leaders Really Do (Harvard Business Review).",
+      "dificuldade": "media",
+      "tags": [
+        "lideranca",
+        "gerencia",
+        "kotter"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0064",
+      "topico": "5.3",
+      "tipo": "multipla",
+      "enunciado": "Estudo clássico de Fred Luthans distinguiu os gerentes bem-sucedidos, medidos pela velocidade de promoção na carreira, dos gerentes eficazes, medidos por desempenho da unidade e satisfação dos subordinados.\n\nSegundo esse estudo:",
+      "alternativas": [
+        "as duas categorias dedicavam exatamente o mesmo tempo a cada tipo de atividade.",
+        "os gerentes bem-sucedidos destacavam-se pela dedicação à gestão de recursos humanos.",
+        "os gerentes eficazes destacavam-se pela atividade de networking.",
+        "nenhuma das categorias dedicava tempo relevante à comunicação.",
+        "os gerentes bem-sucedidos dedicavam mais tempo a atividades de networking e articulação política, enquanto os eficazes dedicavam mais tempo à comunicação e à gestão de recursos humanos."
+      ],
+      "correta": 4,
+      "comentario": "Luthans classificou as atividades gerenciais em administração tradicional, comunicação, gestão de recursos humanos e networking. Encontrou que os gerentes que ascendiam mais rápido investiam fortemente em networking, enquanto os que produziam melhores resultados e equipes mais satisfeitas investiam em comunicação e em pessoas — constatação frequentemente citada para discutir os critérios de promoção nas organizações.",
+      "fundamento": "Luthans, Real Managers (1988).",
+      "dificuldade": "dificil",
+      "tags": [
+        "luthans",
+        "gerentes-eficazes",
+        "networking"
+      ],
+      "fonte": "inédita"
     }
   ]
 }
