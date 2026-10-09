@@ -521,6 +521,525 @@
         "administracao-indireta"
       ],
       "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0024",
+      "topico": "8.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre os poderes administrativos, assinale a afirmativa correta.",
+      "alternativas": [
+        "Constituem faculdades da Administração, que pode optar por não exercê-los quando entender conveniente.",
+        "São poderes políticos, equiparando-se às funções do Legislativo e do Judiciário.",
+        "São instrumentais e irrenunciáveis: configuram verdadeiros poderes-deveres, conferidos à Administração para a consecução do interesse público, não se confundindo com os Poderes do Estado, que são estruturais e orgânicos.",
+        "São poderes absolutos, insuscetíveis de controle pelo Poder Judiciário.",
+        "Podem ser livremente transferidos a particulares mediante contrato."
+      ],
+      "correta": 2,
+      "comentario": "Os poderes administrativos são instrumentais: existem para viabilizar o atendimento do interesse público e, por isso, constituem poderes-deveres de exercício obrigatório e irrenunciável. Não se confundem com os Poderes do Estado (Legislativo, Executivo e Judiciário), que são estruturais e orgânicos. Submetem-se a controle de legalidade pelo Judiciário.",
+      "fundamento": "Hely Lopes Meirelles; Di Pietro, Direito Administrativo.",
+      "dificuldade": "facil",
+      "tags": [
+        "poderes-administrativos",
+        "poder-dever"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0025",
+      "topico": "8.2",
+      "tipo": "multipla",
+      "enunciado": "O poder hierárquico confere à Administração determinadas prerrogativas sobre seus órgãos e agentes.\n\nAssinale a opção que NÃO decorre do poder hierárquico.",
+      "alternativas": [
+        "Dar ordens aos subordinados e fiscalizar o cumprimento.",
+        "Rever os atos dos subordinados, anulando-os ou revogando-os.",
+        "Delegar e avocar atribuições, nos limites da lei.",
+        "Aplicar sanções a particulares que descumpram normas administrativas gerais.",
+        "Coordenar as atividades dos órgãos subordinados, buscando harmonia e unidade de atuação."
+      ],
+      "correta": 3,
+      "comentario": "Do poder hierárquico decorrem as prerrogativas de ordenar, fiscalizar, rever, delegar, avocar e coordenar, todas exercidas internamente, no âmbito da relação de subordinação. A aplicação de sanções a particulares que descumprem normas administrativas decorre do poder de polícia, e não do hierárquico — a distinção depende de quem é o destinatário da medida.",
+      "fundamento": "Di Pietro, Direito Administrativo; Lei nº 9.784/1999, arts. 11 a 17.",
+      "dificuldade": "facil",
+      "tags": [
+        "poder-hierarquico",
+        "prerrogativas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0026",
+      "topico": "8.2",
+      "tipo": "multipla",
+      "enunciado": "Determinada autoridade pretende delegar parte de suas competências a servidor que não lhe é subordinado.\n\nÀ luz da Lei nº 9.784/1999, essa delegação é:",
+      "alternativas": [
+        "possível, pois a lei admite a delegação a órgãos ou titulares ainda que não exista relação de subordinação hierárquica, quando for conveniente em razão de circunstâncias de índole técnica, social, econômica, jurídica ou territorial.",
+        "impossível, pois a delegação pressupõe necessariamente relação de hierarquia.",
+        "possível apenas mediante autorização judicial.",
+        "possível somente se houver previsão expressa em lei específica para aquele cargo.",
+        "possível, desde que a delegação seja definitiva e irrevogável."
+      ],
+      "correta": 0,
+      "comentario": "A Lei 9.784 permite que um órgão administrativo e seu titular deleguem parte de sua competência a outros órgãos ou titulares, ainda que não haja subordinação hierárquica, quando conveniente por razões técnicas, sociais, econômicas, jurídicas ou territoriais. O ato de delegação é revogável a qualquer tempo pela autoridade delegante e deve ser publicado no meio oficial.",
+      "fundamento": "Lei nº 9.784/1999, arts. 12 e 14.",
+      "dificuldade": "media",
+      "tags": [
+        "delegacao",
+        "poder-hierarquico",
+        "lei-9784"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0027",
+      "topico": "8.2",
+      "tipo": "multipla",
+      "enunciado": "Nos termos da Lei nº 9.784/1999, NÃO podem ser objeto de delegação:",
+      "alternativas": [
+        "a edição de atos de caráter normativo, a decisão de recursos administrativos e as matérias de competência exclusiva do órgão ou autoridade.",
+        "os atos de mero expediente e as decisões de rotina.",
+        "a assinatura de ofícios e comunicações internas.",
+        "as decisões em processos administrativos de primeira instância.",
+        "a prática de atos vinculados, em qualquer hipótese."
+      ],
+      "correta": 0,
+      "comentario": "O art. 13 veda a delegação de três matérias: edição de atos de caráter normativo, decisão de recursos administrativos e matérias de competência exclusiva do órgão ou autoridade. Fora dessas hipóteses, a delegação é admitida. Vale lembrar que a decisão delegada é considerada ato do delegado, que por ela responde, conforme a Súmula 510 do STF.",
+      "fundamento": "Lei nº 9.784/1999, art. 13; STF, Súmula 510.",
+      "dificuldade": "media",
+      "tags": [
+        "delegacao",
+        "vedacoes",
+        "lei-9784"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0028",
+      "topico": "8.2",
+      "tipo": "multipla",
+      "enunciado": "Em caráter excepcional e por motivos relevantes devidamente justificados, uma autoridade superior chamou para si a competência que a lei atribuía a órgão hierarquicamente inferior.\n\nEsse instituto é denominado:",
+      "alternativas": [
+        "avocação, admitida temporariamente e em caráter excepcional, por motivos relevantes devidamente justificados, desde que não se trate de competência exclusiva do subordinado.",
+        "delegação.",
+        "substituição.",
+        "subdelegação.",
+        "desconcentração."
+      ],
+      "correta": 0,
+      "comentario": "A avocação é o chamamento, pela autoridade superior, de competência atribuída a órgão inferior. A Lei 9.784 a admite em caráter excepcional, temporário e mediante motivos relevantes justificados, exigindo relação de hierarquia — ao contrário da delegação, que dispensa subordinação. Competência exclusiva do subordinado não pode ser avocada.",
+      "fundamento": "Lei nº 9.784/1999, art. 15.",
+      "dificuldade": "facil",
+      "tags": [
+        "avocacao",
+        "poder-hierarquico"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0029",
+      "topico": "8.2",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que distingue corretamente hierarquia e vinculação.",
+      "alternativas": [
+        "Hierarquia e vinculação são sinônimas, pois ambas pressupõem controle.",
+        "A hierarquia existe entre a Administração direta e as entidades da indireta; a vinculação, entre órgãos de uma mesma pessoa jurídica.",
+        "A hierarquia decorre da desconcentração e existe entre órgãos da mesma pessoa jurídica, admitindo ordens, revisão, delegação e avocação; a vinculação decorre da descentralização e liga a entidade da administração indireta ao ente instituidor, sem subordinação, autorizando apenas o controle finalístico previsto em lei.",
+        "Nas entidades da administração indireta, o ministério supervisor pode avocar competências e dar ordens diretas aos dirigentes.",
+        "Não há hierarquia dentro das autarquias, por serem entidades autônomas."
+      ],
+      "correta": 2,
+      "comentario": "A hierarquia é fruto da desconcentração, interna a uma mesma pessoa jurídica, e autoriza ordens, fiscalização, revisão, delegação e avocação. A vinculação resulta da descentralização: a entidade da indireta tem personalidade própria e não é subordinada, submetendo-se apenas à tutela ou supervisão ministerial, nos limites da lei. Internamente, porém, cada autarquia tem sua própria estrutura hierárquica.",
+      "fundamento": "Di Pietro, Direito Administrativo; Decreto-Lei nº 200/1967, arts. 19 a 26.",
+      "dificuldade": "media",
+      "tags": [
+        "hierarquia",
+        "vinculacao",
+        "tutela"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0030",
+      "topico": "8.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre o poder disciplinar, assinale a afirmativa correta.",
+      "alternativas": [
+        "Alcança qualquer particular que descumpra normas administrativas gerais.",
+        "É exercido independentemente de processo administrativo, dada a supremacia do interesse público.",
+        "Tem natureza integralmente vinculada, não comportando qualquer margem de apreciação da autoridade.",
+        "Recai sobre servidores públicos e sobre particulares sujeitos a vínculo jurídico específico com a Administração, sendo a aplicação da sanção um dever, assegurados o contraditório, a ampla defesa e a motivação.",
+        "Confunde-se com o poder hierárquico, do qual é mera manifestação, não possuindo autonomia conceitual."
+      ],
+      "correta": 3,
+      "comentario": "O poder disciplinar apura infrações e aplica penalidades a servidores e a particulares com vínculo especial com a Administração — como o contratado por licitação. Guarda relação estreita com o hierárquico, mas não se confunde com ele: alcança também quem não é subordinado, desde que haja vínculo específico. Sua aplicação é dever da autoridade, sob pena de responsabilização, e exige processo com contraditório, ampla defesa e decisão motivada.",
+      "fundamento": "CF/1988, art. 5º, LV; Lei nº 8.112/1990, art. 143; Di Pietro.",
+      "dificuldade": "media",
+      "tags": [
+        "poder-disciplinar",
+        "vinculo-especial"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0031",
+      "topico": "8.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre a discricionariedade no poder disciplinar, é correto afirmar que:",
+      "alternativas": [
+        "a autoridade pode optar entre instaurar ou não o processo disciplinar, conforme a conveniência administrativa.",
+        "a aplicação da penalidade é inteiramente discricionária, inclusive quanto ao fato de punir ou não.",
+        "a autoridade dispõe de certa margem de apreciação na escolha e gradação da penalidade, diante de conceitos legais indeterminados, mas a instauração do processo e a punição do ilícito constatado são atos vinculados.",
+        "não há qualquer margem de apreciação, pois a lei prevê penalidade única para cada conduta.",
+        "a motivação da decisão é dispensável quando se aplica a penalidade mais branda."
+      ],
+      "correta": 2,
+      "comentario": "O poder disciplinar tem natureza mista. A autoridade que toma conhecimento de irregularidade é obrigada a promover sua apuração (art. 143 da Lei 8.112), e, comprovado o ilícito, a punição é dever. A margem de apreciação existe na escolha e na dosimetria da sanção, diante de conceitos abertos como a gravidade da falta, os antecedentes e os danos causados, sempre com motivação e proporcionalidade.",
+      "fundamento": "Lei nº 8.112/1990, arts. 128 e 143.",
+      "dificuldade": "media",
+      "tags": [
+        "poder-disciplinar",
+        "discricionariedade",
+        "dosimetria"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0032",
+      "topico": "8.2",
+      "tipo": "multipla",
+      "enunciado": "Uma empresa contratada pela Administração descumpriu cláusulas do contrato administrativo e foi sancionada com multa e impedimento de licitar.\n\nEssa sanção decorre do exercício do poder:",
+      "alternativas": [
+        "de polícia, pois a empresa é um particular.",
+        "regulamentar, pois a sanção está prevista em edital.",
+        "hierárquico, pois a contratada se subordina à Administração.",
+        "normativo, pois decorre de ato geral e abstrato.",
+        "disciplinar, pois há vínculo jurídico específico entre a contratada e a Administração."
+      ],
+      "correta": 4,
+      "comentario": "Quando a Administração sanciona pessoa ligada a ela por vínculo jurídico especial — como o contratado, o concessionário ou o aluno de escola pública —, exerce poder disciplinar. O poder de polícia alcança os particulares em geral, independentemente de vínculo prévio. Não há hierarquia entre a Administração e a contratada, que mantém autonomia como pessoa jurídica distinta.",
+      "fundamento": "Lei nº 14.133/2021, arts. 155 e 156; Di Pietro.",
+      "dificuldade": "media",
+      "tags": [
+        "poder-disciplinar",
+        "contratos",
+        "vinculo-especial"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0033",
+      "topico": "8.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre o poder regulamentar, assinale a afirmativa correta.",
+      "alternativas": [
+        "Permite ao Executivo criar direitos e obrigações não previstos em lei, desde que no interesse público.",
+        "É exercido exclusivamente pelo Presidente da República, por meio de decreto.",
+        "Confunde-se com a função legislativa, pois o regulamento tem a mesma força da lei.",
+        "Autoriza o Executivo a revogar leis que considere inconvenientes.",
+        "Consiste na prerrogativa de editar atos gerais para fiel execução das leis, sendo, em regra, secundário e subordinado à lei, da qual não pode exorbitar."
+      ],
+      "correta": 4,
+      "comentario": "O poder regulamentar tradicional produz o regulamento executivo, de natureza secundária: detalha e viabiliza a aplicação da lei, sem inovar na ordem jurídica criando direitos ou obrigações. A doutrina costuma usar a expressão 'poder normativo' em sentido mais amplo, para abranger resoluções, portarias, instruções normativas e deliberações de outros órgãos e entidades, inclusive das agências reguladoras.",
+      "fundamento": "CF/1988, art. 84, IV; Di Pietro, Direito Administrativo.",
+      "dificuldade": "facil",
+      "tags": [
+        "poder-regulamentar",
+        "regulamento-executivo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0034",
+      "topico": "8.2",
+      "tipo": "multipla",
+      "enunciado": "O Presidente da República pretende editar decreto autônomo.\n\nNos termos da Constituição, essa espécie normativa é admitida para dispor sobre:",
+      "alternativas": [
+        "criação de cargos públicos e fixação de sua remuneração.",
+        "organização e funcionamento da administração federal, quando não implicar aumento de despesa nem criação ou extinção de órgãos públicos, e extinção de funções ou cargos públicos quando vagos.",
+        "qualquer matéria administrativa, desde que não haja lei em sentido contrário.",
+        "criação de obrigações tributárias acessórias.",
+        "regulamentação de direitos fundamentais ainda não disciplinados por lei."
+      ],
+      "correta": 1,
+      "comentario": "O decreto autônomo tem campo restrito às duas hipóteses do art. 84, VI: organização e funcionamento da administração federal, sem aumento de despesa nem criação ou extinção de órgãos; e extinção de funções ou cargos vagos. Criar órgãos e cargos, bem como fixar remuneração, depende de lei. Essa competência pode ser delegada aos Ministros de Estado, ao PGR e ao AGU.",
+      "fundamento": "CF/1988, art. 84, VI e parágrafo único.",
+      "dificuldade": "media",
+      "tags": [
+        "decreto-autonomo",
+        "poder-regulamentar"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0035",
+      "topico": "8.2",
+      "tipo": "multipla",
+      "enunciado": "Instrução normativa editada por órgão federal, a pretexto de regulamentar lei tributária, criou obrigação não prevista no texto legal.\n\nNesse caso, é correto afirmar que:",
+      "alternativas": [
+        "o ato é válido, pois instruções normativas integram o poder regulamentar.",
+        "o ato só pode ser questionado pela via judicial, por meio de ação direta de inconstitucionalidade.",
+        "o ato é inválido por exorbitar do poder regulamentar, cabendo ao Congresso Nacional sustá-lo por decreto legislativo, sem prejuízo do controle judicial de legalidade.",
+        "o ato é válido enquanto não for expressamente revogado pela autoridade que o editou.",
+        "o ato é inválido, mas só pode ser anulado pelo Presidente da República."
+      ],
+      "correta": 2,
+      "comentario": "O regulamento executivo não pode inovar na ordem jurídica. Quando exorbita do poder regulamentar ou dos limites de delegação legislativa, o art. 49, V, autoriza o Congresso Nacional a sustar o ato por decreto legislativo. O controle judicial é cabível, mas, por se tratar de ato secundário que ofende a lei, a via própria costuma ser o controle de legalidade, e não a ADI, salvo em caso de decreto autônomo ou de ofensa direta à Constituição.",
+      "fundamento": "CF/1988, art. 49, V; jurisprudência do STF sobre crise de legalidade.",
+      "dificuldade": "media",
+      "tags": [
+        "poder-regulamentar",
+        "sustacao",
+        "controle"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0036",
+      "topico": "8.2",
+      "tipo": "multipla",
+      "enunciado": "O poder de polícia é definido pelo Código Tributário Nacional.\n\nSegundo esse conceito legal, considera-se poder de polícia a atividade da administração pública que:",
+      "alternativas": [
+        "impõe sanções disciplinares a servidores públicos faltosos.",
+        "organiza internamente os órgãos e serviços da Administração.",
+        "promove a prestação direta de serviços públicos essenciais à coletividade.",
+        "limitando ou disciplinando direito, interesse ou liberdade, regula a prática de ato ou abstenção de fato, em razão de interesse público concernente à segurança, à higiene, à ordem, aos costumes, à disciplina da produção e do mercado, entre outros.",
+        "fomenta a iniciativa privada por meio de incentivos e subvenções."
+      ],
+      "correta": 3,
+      "comentario": "O art. 78 do CTN define o poder de polícia como a atividade que, limitando ou disciplinando direito, interesse ou liberdade, regula a prática de ato ou a abstenção de fato em razão do interesse público, nas matérias que enumera. O conceito é cobrado com frequência porque serve de base ao fato gerador das taxas de polícia.",
+      "fundamento": "CTN, art. 78.",
+      "dificuldade": "facil",
+      "tags": [
+        "poder-de-policia",
+        "ctn",
+        "conceito"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0037",
+      "topico": "8.2",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que apresenta os atributos usualmente reconhecidos ao poder de polícia.",
+      "alternativas": [
+        "Discricionariedade, autoexecutoriedade e coercibilidade.",
+        "Legalidade, impessoalidade e moralidade.",
+        "Presunção de legitimidade, tipicidade e imperatividade.",
+        "Vinculação, onerosidade e definitividade.",
+        "Supremacia, indisponibilidade e continuidade."
+      ],
+      "correta": 0,
+      "comentario": "São atributos do poder de polícia a discricionariedade, a autoexecutoriedade e a coercibilidade. Atenção: nenhum deles é absoluto. A discricionariedade não existe, por exemplo, na licença, que é ato vinculado; e a autoexecutoriedade não está presente em todos os atos, faltando notadamente na cobrança de multa não paga, que exige execução fiscal.",
+      "fundamento": "Di Pietro; Hely Lopes Meirelles.",
+      "dificuldade": "facil",
+      "tags": [
+        "poder-de-policia",
+        "atributos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0038",
+      "topico": "8.2",
+      "tipo": "multipla",
+      "enunciado": "A autoexecutoriedade do poder de polícia:",
+      "alternativas": [
+        "está presente em todos os atos de polícia, sem exceção.",
+        "depende sempre de prévia autorização judicial.",
+        "permite à Administração executar suas decisões por meios próprios, independentemente de ordem judicial, quando houver previsão legal ou situação de urgência, não se aplicando, porém, à cobrança de multa não paga, que exige execução fiscal.",
+        "permite à Administração cobrar coativamente multas diretamente do patrimônio do infrator, sem processo judicial.",
+        "é sinônimo de coercibilidade, não havendo distinção entre os conceitos."
+      ],
+      "correta": 2,
+      "comentario": "A autoexecutoriedade permite à Administração executar materialmente suas decisões sem recorrer previamente ao Judiciário, desde que haja previsão legal ou urgência. Não alcança a cobrança de multa resistida: nesse caso, é necessário inscrever em dívida ativa e ajuizar execução fiscal. A coercibilidade, atributo distinto, é a possibilidade de impor a medida com uso de meios coativos.",
+      "fundamento": "Di Pietro, Direito Administrativo; Lei nº 6.830/1980.",
+      "dificuldade": "media",
+      "tags": [
+        "poder-de-policia",
+        "autoexecutoriedade",
+        "multa"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0039",
+      "topico": "8.2",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que distingue corretamente a polícia administrativa da polícia judiciária.",
+      "alternativas": [
+        "A polícia administrativa apura infrações penais; a judiciária, infrações administrativas.",
+        "A polícia administrativa incide sobre bens, direitos e atividades e é exercida por diversos órgãos administrativos, tendo caráter predominantemente preventivo; a polícia judiciária incide sobre pessoas, é privativa de corporações especializadas e volta-se à apuração de infrações penais.",
+        "Ambas são exercidas exclusivamente pelas polícias civil e federal.",
+        "A polícia administrativa tem caráter exclusivamente repressivo; a judiciária, exclusivamente preventivo.",
+        "A polícia judiciária incide sobre bens e atividades econômicas, e a administrativa, sobre pessoas."
+      ],
+      "correta": 1,
+      "comentario": "A polícia administrativa recai sobre bens, direitos e atividades, é difusa entre vários órgãos — vigilância sanitária, fiscalização ambiental, aduaneira, de trânsito — e tem caráter predominantemente preventivo, embora também atue repressivamente. A polícia judiciária recai sobre pessoas, é exercida por corporações especializadas e serve à persecução penal.",
+      "fundamento": "Di Pietro, Direito Administrativo.",
+      "dificuldade": "facil",
+      "tags": [
+        "poder-de-policia",
+        "policia-judiciaria"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0040",
+      "topico": "8.2",
+      "tipo": "multipla",
+      "enunciado": "A doutrina identifica quatro fases ou ciclos do poder de polícia.\n\nSegundo a jurisprudência do STF sobre a delegação desses ciclos a entidades da administração indireta, é correto afirmar que:",
+      "alternativas": [
+        "todos os ciclos podem ser delegados a pessoas jurídicas de direito privado integrantes da administração indireta.",
+        "nenhum ciclo pode ser delegado, nem mesmo a autarquias.",
+        "a legislação, a fiscalização, a sanção e a coerção podem ser delegadas indistintamente a particulares mediante contrato.",
+        "apenas a ordem de polícia pode ser delegada, sendo vedada a delegação da fiscalização.",
+        "os ciclos de consentimento e fiscalização podem ser delegados a estatais de capital social majoritariamente público, prestadoras de serviço público em regime não concorrencial; a ordem de polícia, por exigir lei, e a sanção são indelegáveis a particulares."
+      ],
+      "correta": 4,
+      "comentario": "Os ciclos são: ordem de polícia (a norma limitadora), consentimento (licenças e autorizações), fiscalização e sanção. No Tema 532, o STF fixou que é constitucional a delegação do poder de polícia, por lei, a pessoas jurídicas de direito privado integrantes da administração indireta de capital social majoritariamente público, prestadoras de serviço público essencial em regime não concorrencial, abrangendo consentimento, fiscalização e também a aplicação de sanções. A ordem de polícia, por depender de lei, permanece indelegável, assim como é vedada a delegação a particulares em geral.",
+      "fundamento": "STF, RE 633.782 (Tema 532).",
+      "dificuldade": "dificil",
+      "tags": [
+        "poder-de-policia",
+        "ciclos",
+        "delegacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0041",
+      "topico": "8.2",
+      "tipo": "multipla",
+      "enunciado": "Um particular requereu alvará para construir em terreno urbano, preenchendo todos os requisitos previstos na legislação municipal. Em outro caso, requereu autorização para uso de bem público para realização de evento temporário.\n\nSobre esses atos, é correto afirmar que:",
+      "alternativas": [
+        "ambos são atos discricionários e precários.",
+        "a licença é ato vinculado, que confere direito subjetivo ao particular que preenche os requisitos legais; a autorização é ato discricionário e precário, que pode ser revogada a qualquer tempo, em regra sem indenização.",
+        "ambos são atos vinculados, gerando direito adquirido.",
+        "a licença é ato discricionário, e a autorização, vinculado.",
+        "a licença pode ser revogada a qualquer tempo sem qualquer consequência indenizatória."
+      ],
+      "correta": 1,
+      "comentario": "A licença é ato vinculado e definitivo: preenchidos os requisitos legais, o particular tem direito subjetivo à sua obtenção. A autorização é ato discricionário e precário, concedido no interesse predominante do particular e revogável a qualquer tempo. A revogação de licença já concedida, quando cabível, pode gerar dever de indenizar, especialmente se a obra já estiver em andamento.",
+      "fundamento": "Di Pietro, Direito Administrativo.",
+      "dificuldade": "facil",
+      "tags": [
+        "poder-de-policia",
+        "licenca",
+        "autorizacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0042",
+      "topico": "8.2",
+      "tipo": "multipla",
+      "enunciado": "Uma lei municipal fixou multa no valor de R$ 500.000,00 para o comerciante que deixar de afixar, na vitrine, cartaz informativo de pequeno porte, sem que do descumprimento resulte risco à saúde ou à segurança.\n\nSobre essa previsão, é correto afirmar que:",
+      "alternativas": [
+        "é válida, pois o poder de polícia é discricionário quanto à fixação de sanções.",
+        "é válida, desde que a multa seja aplicada após processo administrativo.",
+        "é inválida apenas se a lei não previr recurso administrativo.",
+        "é inválida por violação aos princípios da razoabilidade e da proporcionalidade, que funcionam como limites ao exercício do poder de polícia, podendo o Judiciário controlar o excesso sem adentrar o mérito administrativo legítimo.",
+        "é válida, pois o Judiciário não pode examinar o valor de multas administrativas."
+      ],
+      "correta": 3,
+      "comentario": "O poder de polícia encontra limites nos direitos fundamentais e nos princípios da razoabilidade e da proporcionalidade, além da necessidade de competência, finalidade e forma adequadas. Sanção manifestamente desproporcional à gravidade da infração é ilegítima, e o Judiciário pode invalidá-la — o que não significa substituir a Administração no juízo de conveniência quando a atuação se mantém dentro de limites aceitáveis.",
+      "fundamento": "CF/1988, art. 5º; Lei nº 9.784/1999, art. 2º, parágrafo único, VI.",
+      "dificuldade": "facil",
+      "tags": [
+        "poder-de-policia",
+        "proporcionalidade",
+        "limites"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0043",
+      "topico": "8.2",
+      "tipo": "multipla",
+      "enunciado": "Um fiscal, legalmente competente para interditar estabelecimentos insalubres, interditou determinado restaurante não por razões sanitárias, mas para prejudicar o proprietário, de quem era desafeto pessoal.\n\nNessa hipótese, configura-se:",
+      "alternativas": [
+        "excesso de poder, pois o agente extrapolou os limites de sua competência.",
+        "mero vício de forma, sanável por convalidação.",
+        "exercício regular do poder de polícia, pois o agente era competente.",
+        "desvio de poder ou de finalidade, pois o agente, embora competente, praticou o ato visando a fim diverso do interesse público previsto na norma.",
+        "usurpação de função pública."
+      ],
+      "correta": 3,
+      "comentario": "O abuso de poder comporta duas espécies. No excesso de poder, o agente é competente, mas vai além dos limites de sua competência. No desvio de poder ou de finalidade, atua dentro de sua competência, porém com finalidade estranha à prevista na lei — seja um interesse privado, seja outro interesse público diverso do que a norma autorizava. O vício de finalidade é insanável, não comportando convalidação.",
+      "fundamento": "Lei nº 4.717/1965, art. 2º, 'e' e parágrafo único; Di Pietro.",
+      "dificuldade": "facil",
+      "tags": [
+        "abuso-de-poder",
+        "desvio-de-finalidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0044",
+      "topico": "8.2",
+      "tipo": "multipla",
+      "enunciado": "Servidor sem competência para aplicar a penalidade de demissão, mas competente para aplicar advertência, demitiu outro servidor ao final de processo disciplinar.\n\nNessa hipótese, configura-se:",
+      "alternativas": [
+        "desvio de poder, por vício de finalidade.",
+        "excesso de poder, espécie de abuso de poder caracterizada pela atuação do agente além dos limites de sua competência.",
+        "ato inexistente, por usurpação de função.",
+        "mero vício de motivo, insuscetível de invalidação.",
+        "exercício regular de competência implícita."
+      ],
+      "correta": 1,
+      "comentario": "No excesso de poder, o agente público é investido de competência, mas a extrapola, praticando ato que não lhe cabia ou indo além da medida autorizada. Difere da usurpação de função, em que quem pratica o ato não é agente público, e da função de fato, em que há investidura irregular. O vício de competência, quando não exclusivo e não relativo a matéria exclusiva, pode admitir convalidação, o que não ocorre no caso de penalidade aplicada por autoridade absolutamente incompetente.",
+      "fundamento": "Lei nº 4.717/1965, art. 2º; Lei nº 9.784/1999, art. 55.",
+      "dificuldade": "media",
+      "tags": [
+        "abuso-de-poder",
+        "excesso-de-poder",
+        "competencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0045",
+      "topico": "8.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre o controle do abuso de poder, assinale a afirmativa correta.",
+      "alternativas": [
+        "O abuso de poder só pode ser controlado pela própria Administração, em respeito à separação dos Poderes.",
+        "O abuso de poder só se configura por conduta comissiva, não alcançando omissões administrativas.",
+        "O exame judicial do desvio de finalidade implica necessariamente controle de mérito, sendo por isso vedado.",
+        "O reconhecimento do abuso de poder impede a responsabilização pessoal do agente.",
+        "O abuso de poder pode decorrer de conduta comissiva ou omissiva, sujeita-se a controle administrativo e judicial — inclusive por mandado de segurança — e pode gerar responsabilização civil, penal e administrativa do agente."
+      ],
+      "correta": 4,
+      "comentario": "O abuso de poder pode manifestar-se por ação ou por omissão, como no caso da autoridade que se recusa indevidamente a decidir. Submete-se a controle pela própria Administração, em autotutela, e pelo Judiciário, cabendo mandado de segurança contra ato de autoridade praticado com ilegalidade ou abuso de poder. O controle do desvio de finalidade é de legalidade, e não de mérito, pois a finalidade é elemento sempre vinculado do ato.",
+      "fundamento": "CF/1988, art. 5º, LXIX; Lei nº 12.016/2009, art. 1º; Súmula 473 do STF.",
+      "dificuldade": "media",
+      "tags": [
+        "abuso-de-poder",
+        "controle",
+        "mandado-de-seguranca"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0046",
+      "topico": "8.2",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que associa corretamente a situação ao poder administrativo exercido.",
+      "alternativas": [
+        "Vigilância sanitária interdita restaurante por irregularidades — poder disciplinar.",
+        "Ministro de Estado expede instrução normativa detalhando a aplicação de uma lei — poder regulamentar ou normativo.",
+        "Chefe de setor aplica advertência a servidor subordinado — poder de polícia.",
+        "Autoridade avoca competência de órgão subordinado — poder regulamentar.",
+        "Receita Federal aplica multa a importador por infração aduaneira — poder hierárquico."
+      ],
+      "correta": 1,
+      "comentario": "A edição de instruções normativas e portarias para detalhar a aplicação de leis insere-se no poder normativo, de que o poder regulamentar é a manifestação mais conhecida. A interdição sanitária e a multa ao importador decorrem do poder de polícia, pois atingem particulares sem vínculo especial. A advertência a servidor é poder disciplinar, e a avocação, poder hierárquico.",
+      "fundamento": "Di Pietro, Direito Administrativo.",
+      "dificuldade": "facil",
+      "tags": [
+        "poderes-administrativos",
+        "identificacao"
+      ],
+      "fonte": "inédita"
     }
   ]
 }
