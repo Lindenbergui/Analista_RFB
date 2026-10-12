@@ -1413,6 +1413,504 @@
         "networking"
       ],
       "fonte": "inédita"
+    },
+    {
+      "id": "adm-0065",
+      "topico": "1.2.1",
+      "tipo": "multipla",
+      "enunciado": "O planejamento estratégico é o processo pelo qual a organização define sua direção de longo prazo.\n\nSobre esse processo, é correto afirmar que:",
+      "alternativas": [
+        "restringe-se à projeção de tendências passadas, sem envolver escolha entre cursos de ação.",
+        "é elaborado pelo nível operacional, por ser quem conhece melhor as rotinas.",
+        "tem horizonte de curto prazo e caráter analítico e detalhado.",
+        "abrange a organização como um todo, é de responsabilidade do nível institucional, tem horizonte de longo prazo e caráter genérico e sintético, voltado à relação entre a organização e seu ambiente.",
+        "dispensa a análise do ambiente externo, por tratar apenas de objetivos internos."
+      ],
+      "correta": 3,
+      "comentario": "O planejamento estratégico é global, projetado para o longo prazo, genérico e sintético, e cabe ao nível institucional. Sua marca é a preocupação com o ambiente externo: oportunidades, ameaças e posicionamento. O detalhamento analítico e o curto prazo pertencem ao planejamento operacional, e a simples projeção de tendências é previsão, não planejamento.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração; Djalma de Oliveira, Planejamento Estratégico.",
+      "dificuldade": "facil",
+      "tags": [
+        "planejamento-estrategico",
+        "niveis",
+        "conceito"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0066",
+      "topico": "1.2.1",
+      "tipo": "multipla",
+      "enunciado": "Djalma de Oliveira aponta princípios gerais do planejamento.\n\nO princípio segundo o qual o planejamento deve sempre visar aos maiores benefícios da organização como um todo, e não à otimização de uma unidade isolada em prejuízo das demais, é o princípio:",
+      "alternativas": [
+        "da precedência do planejamento.",
+        "da contribuição aos objetivos.",
+        "das maiores influências e abrangência.",
+        "das maiores eficiência, eficácia e efetividade.",
+        "da participação."
+      ],
+      "correta": 1,
+      "comentario": "O princípio da contribuição aos objetivos exige que o planejamento busque sempre os objetivos máximos da organização, hierarquizando-os e procurando alcançá-los em sua totalidade. Precedência significa que o planejamento vem antes das demais funções; maiores influências e abrangência trata das alterações que o planejamento provoca em pessoas, tecnologia e sistemas; e o quarto princípio volta-se a maximizar resultados e minimizar deficiências.",
+      "fundamento": "Djalma de Oliveira, Planejamento Estratégico — princípios gerais.",
+      "dificuldade": "media",
+      "tags": [
+        "principios",
+        "contribuicao-aos-objetivos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0067",
+      "topico": "1.2.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que apresenta corretamente a definição de missão, visão e valores organizacionais.",
+      "alternativas": [
+        "Missão é o estado futuro desejado; visão é a razão de ser da organização; valores são as metas quantificadas.",
+        "Missão e visão são sinônimas; os valores definem os indicadores de desempenho.",
+        "Missão é a razão de ser da organização, respondendo ao que ela faz e para quem; visão é o estado futuro desejado, aquilo que a organização pretende ser; valores são as crenças e os princípios que orientam o comportamento e as decisões.",
+        "Missão é o conjunto de metas de curto prazo; visão é o orçamento plurianual; valores são as normas internas.",
+        "Visão é a declaração que orienta as operações do dia a dia; missão descreve o cenário externo projetado."
+      ],
+      "correta": 2,
+      "comentario": "A missão expressa a razão de existir da organização, seu negócio e seu público. A visão projeta o futuro pretendido e funciona como fator de mobilização. Os valores são as convicções que balizam condutas e escolhas. No setor público, a missão costuma derivar das competências legais do órgão, o que reduz a liberdade de defini-la.",
+      "fundamento": "Chiavenato; Djalma de Oliveira, Planejamento Estratégico.",
+      "dificuldade": "facil",
+      "tags": [
+        "missao",
+        "visao",
+        "valores"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0068",
+      "topico": "1.2.1",
+      "tipo": "multipla",
+      "enunciado": "Durante a elaboração do planejamento estratégico de um órgão, a equipe listou: a existência de uma carreira estruturada e de servidores qualificados; a defasagem dos sistemas de informação; a aprovação de uma nova lei que amplia suas competências; e a redução prevista no orçamento federal.\n\nNa matriz SWOT, esses quatro itens correspondem, respectivamente, a:",
+      "alternativas": [
+        "força, fraqueza, oportunidade e ameaça.",
+        "oportunidade, ameaça, força e fraqueza.",
+        "força, ameaça, fraqueza e oportunidade.",
+        "fraqueza, força, ameaça e oportunidade.",
+        "oportunidade, fraqueza, força e ameaça."
+      ],
+      "correta": 0,
+      "comentario": "Forças e fraquezas são variáveis internas e, em regra, controláveis pela organização: a carreira estruturada é força; a defasagem dos sistemas, fraqueza. Oportunidades e ameaças são externas e não controláveis: a nova lei que amplia competências é oportunidade; o corte orçamentário, ameaça. Confundir o eixo interno com o externo é o erro mais explorado nas questões sobre SWOT.",
+      "fundamento": "Análise SWOT (matriz FOFA).",
+      "dificuldade": "facil",
+      "tags": [
+        "swot",
+        "diagnostico-estrategico"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0069",
+      "topico": "1.2.1",
+      "tipo": "multipla",
+      "enunciado": "A combinação dos quadrantes da matriz SWOT permite identificar posturas estratégicas.\n\nA situação em que a organização apresenta predominância de pontos fracos internos e enfrenta ambiente externo com predominância de ameaças recomenda a postura de:",
+      "alternativas": [
+        "desenvolvimento.",
+        "crescimento.",
+        "sobrevivência.",
+        "manutenção.",
+        "diversificação."
+      ],
+      "correta": 2,
+      "comentario": "No cruzamento entre fraquezas e ameaças, a postura indicada é a de sobrevivência, com medidas como redução de custos, desinvestimento e liquidação. Forças com oportunidades levam ao desenvolvimento; forças com ameaças, à manutenção; fraquezas com oportunidades, ao crescimento. Esse quadro de posturas é a leitura clássica de Djalma de Oliveira.",
+      "fundamento": "Djalma de Oliveira, Planejamento Estratégico — posturas estratégicas.",
+      "dificuldade": "media",
+      "tags": [
+        "swot",
+        "posturas-estrategicas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0070",
+      "topico": "1.2.1",
+      "tipo": "multipla",
+      "enunciado": "Ao analisar o setor em que atua, uma organização avaliou o poder de negociação dos fornecedores, o poder de negociação dos clientes, a ameaça de novos entrantes, a ameaça de produtos substitutos e a rivalidade entre os concorrentes existentes.\n\nEssa análise corresponde ao modelo de:",
+      "alternativas": [
+        "matriz GUT, de Kepner e Tregoe.",
+        "matriz BCG, do Boston Consulting Group.",
+        "cadeia de valor, de Michael Porter.",
+        "balanced scorecard, de Kaplan e Norton.",
+        "cinco forças competitivas, de Michael Porter."
+      ],
+      "correta": 4,
+      "comentario": "As cinco forças de Porter servem à análise da atratividade e da estrutura competitiva de um setor. Não se confundem com a cadeia de valor, também de Porter, que decompõe as atividades internas em primárias e de apoio para identificar onde o valor é criado. A matriz BCG classifica produtos por participação e crescimento de mercado.",
+      "fundamento": "Porter, Estratégia Competitiva (1980).",
+      "dificuldade": "facil",
+      "tags": [
+        "cinco-forcas",
+        "porter",
+        "analise-externa"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0071",
+      "topico": "1.2.1",
+      "tipo": "multipla",
+      "enunciado": "Segundo Michael Porter, as estratégias competitivas genéricas são:",
+      "alternativas": [
+        "penetração de mercado, desenvolvimento de produto, desenvolvimento de mercado e diversificação.",
+        "liderança em custo, diferenciação e enfoque (ou foco).",
+        "sobrevivência, manutenção, crescimento e desenvolvimento.",
+        "prospectora, defensora, analítica e reativa.",
+        "estrela, vaca leiteira, interrogação e abacaxi."
+      ],
+      "correta": 1,
+      "comentario": "Porter identifica três estratégias genéricas: liderança em custo total, diferenciação e enfoque — esta última aplicando custo ou diferenciação a um segmento restrito. A primeira opção descreve a matriz de Ansoff; a terceira, as posturas de Djalma de Oliveira; a quarta, a tipologia de Miles e Snow; a quinta, os quadrantes da matriz BCG.",
+      "fundamento": "Porter, Estratégia Competitiva.",
+      "dificuldade": "media",
+      "tags": [
+        "porter",
+        "estrategias-genericas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0072",
+      "topico": "1.2.1",
+      "tipo": "multipla",
+      "enunciado": "A matriz de Ansoff relaciona produtos e mercados para orientar estratégias de crescimento.\n\nA estratégia que consiste em oferecer produtos já existentes a mercados novos é denominada:",
+      "alternativas": [
+        "penetração de mercado.",
+        "desenvolvimento de produto.",
+        "desenvolvimento de mercado.",
+        "diversificação.",
+        "integração vertical."
+      ],
+      "correta": 2,
+      "comentario": "Na matriz de Ansoff: produto existente em mercado existente é penetração de mercado; produto novo em mercado existente é desenvolvimento de produto; produto existente em mercado novo é desenvolvimento de mercado; e produto novo em mercado novo é diversificação, a alternativa de maior risco.",
+      "fundamento": "Ansoff, matriz produto-mercado.",
+      "dificuldade": "media",
+      "tags": [
+        "ansoff",
+        "estrategias-de-crescimento"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0073",
+      "topico": "1.2.1",
+      "tipo": "multipla",
+      "enunciado": "Na matriz BCG, o produto que detém alta participação relativa em um mercado de baixo crescimento, gerando caixa com pequena necessidade de investimento, é classificado como:",
+      "alternativas": [
+        "estrela.",
+        "interrogação (ou ponto de interrogação).",
+        "abacaxi (ou animal de estimação).",
+        "vaca leiteira.",
+        "carro-chefe."
+      ],
+      "correta": 3,
+      "comentario": "A matriz BCG cruza participação relativa de mercado com taxa de crescimento do mercado. Vaca leiteira tem alta participação e baixo crescimento: financia os demais negócios. Estrela combina alta participação e alto crescimento; interrogação, baixa participação e alto crescimento; abacaxi, baixa participação e baixo crescimento.",
+      "fundamento": "Matriz BCG (Boston Consulting Group).",
+      "dificuldade": "facil",
+      "tags": [
+        "bcg",
+        "portfolio"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0074",
+      "topico": "1.2.1",
+      "tipo": "multipla",
+      "enunciado": "Uma equipe precisa priorizar, entre dezenas de problemas levantados, aqueles que devem ser enfrentados primeiro. Para isso, classificou cada problema segundo sua gravidade, sua urgência e sua tendência de piorar caso nada seja feito.\n\nA ferramenta utilizada foi a matriz:",
+      "alternativas": [
+        "SWOT.",
+        "GUT.",
+        "BCG.",
+        "de Ansoff.",
+        "RACI."
+      ],
+      "correta": 1,
+      "comentario": "A matriz GUT pontua cada problema em gravidade, urgência e tendência, e multiplica os três valores para gerar um índice de prioridade. É ferramenta de priorização, e não de diagnóstico estratégico. A matriz RACI distribui papéis — responsável, aprovador, consultado e informado — em atividades e projetos.",
+      "fundamento": "Matriz GUT (Kepner e Tregoe).",
+      "dificuldade": "facil",
+      "tags": [
+        "matriz-gut",
+        "priorizacao",
+        "ferramentas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0075",
+      "topico": "1.2.1",
+      "tipo": "multipla",
+      "enunciado": "Ao analisar o ambiente externo, um órgão examinou sistematicamente fatores políticos, econômicos, sociais, tecnológicos, ecológicos e legais que podem afetar sua atuação.\n\nEssa ferramenta de análise do macroambiente é conhecida como:",
+      "alternativas": [
+        "análise PESTEL.",
+        "análise das cinco forças.",
+        "benchmarking.",
+        "cadeia de valor.",
+        "análise de stakeholders."
+      ],
+      "correta": 0,
+      "comentario": "A análise PESTEL (ou PEST, em sua versão reduzida) examina os fatores do macroambiente: político, econômico, social, tecnológico, ecológico e legal. Difere das cinco forças de Porter, que tratam do ambiente competitivo setorial, e da análise de stakeholders, voltada aos atores com interesse na organização.",
+      "fundamento": "Análise PESTEL — diagnóstico do macroambiente.",
+      "dificuldade": "facil",
+      "tags": [
+        "pestel",
+        "analise-externa",
+        "macroambiente"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0076",
+      "topico": "1.2.1",
+      "tipo": "multipla",
+      "enunciado": "Uma secretaria definiu como meta \"reduzir em 15% o tempo médio de análise dos processos de restituição, até 31 de dezembro do próximo ano, mediante redesenho do fluxo e capacitação da equipe\".\n\nEssa meta atende aos critérios SMART porque é:",
+      "alternativas": [
+        "genérica, mensurável, ambiciosa, relevante e sem prazo definido.",
+        "simples, moderada, acessível, redundante e temporária.",
+        "específica, mensurável, alcançável, relevante e temporal (com prazo definido).",
+        "sistêmica, múltipla, abrangente, restritiva e técnica.",
+        "subjetiva, monitorável, adaptável, revisável e tempestiva."
+      ],
+      "correta": 2,
+      "comentario": "O acrônimo SMART descreve metas específicas, mensuráveis, alcançáveis (attainable), relevantes e temporais, isto é, com prazo definido. A meta do enunciado traz o indicador (tempo médio de análise), a magnitude (15%), o prazo (31 de dezembro) e os meios. Metas sem número ou sem prazo são as falhas mais comuns no setor público.",
+      "fundamento": "Critérios SMART para definição de metas.",
+      "dificuldade": "facil",
+      "tags": [
+        "smart",
+        "metas",
+        "objetivos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0077",
+      "topico": "1.2.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre a distinção entre objetivos, metas e indicadores no planejamento estratégico, é correto afirmar que:",
+      "alternativas": [
+        "objetivo e meta são sinônimos, variando apenas o nível hierárquico que os define.",
+        "o indicador é o resultado que se pretende alcançar, e a meta é a forma de medi-lo.",
+        "metas são sempre qualitativas, e objetivos, sempre quantitativos.",
+        "indicadores dispensam a definição de fórmula de cálculo e de periodicidade de apuração.",
+        "o objetivo é o resultado que se pretende alcançar, enunciado de forma qualitativa; o indicador é a forma de medir o alcance desse objetivo; e a meta é o valor do indicador a ser atingido em determinado prazo."
+      ],
+      "correta": 4,
+      "comentario": "O objetivo expressa de forma qualitativa o que se quer alcançar; o indicador é a medida que permite verificar esse alcance, com fórmula, fonte e periodicidade definidas; a meta é o patamar do indicador a ser atingido em certo prazo. Confundir indicador com meta é um dos erros mais cobrados em questões de planejamento.",
+      "fundamento": "Chiavenato; manuais de gestão estratégica no setor público.",
+      "dificuldade": "media",
+      "tags": [
+        "objetivos",
+        "metas",
+        "indicadores"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0078",
+      "topico": "1.2.1",
+      "tipo": "multipla",
+      "enunciado": "Henry Mintzberg distingue a estratégia pretendida da estratégia efetivamente realizada.\n\nSegundo o autor, a estratégia emergente é aquela que:",
+      "alternativas": [
+        "é formalmente deliberada pela alta administração e executada integralmente conforme o plano.",
+        "resulta de padrões de ação que se formam ao longo do tempo, sem terem sido previamente intencionados.",
+        "corresponde ao plano documentado e aprovado pelo conselho de administração.",
+        "é copiada de organizações referência por meio de benchmarking.",
+        "decorre exclusivamente de imposição legal ou regulatória."
+      ],
+      "correta": 1,
+      "comentario": "Para Mintzberg, parte da estratégia pretendida não se realiza, e parte da estratégia realizada nunca foi intencionada: surge de padrões de decisões e ações ao longo do tempo. A estratégia realizada combina, assim, a porção deliberada com a emergente. O autor é também conhecido pela crítica ao planejamento estratégico excessivamente formalizado, em A Ascensão e Queda do Planejamento Estratégico.",
+      "fundamento": "Mintzberg, The Rise and Fall of Strategic Planning (1994).",
+      "dificuldade": "media",
+      "tags": [
+        "mintzberg",
+        "estrategia-emergente",
+        "estrategia-deliberada"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0079",
+      "topico": "1.2.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que apresenta, na ordem usual, as etapas do processo de planejamento estratégico.",
+      "alternativas": [
+        "Implementação das ações, definição da missão, diagnóstico do ambiente e controle.",
+        "Diagnóstico do ambiente, controle e avaliação, definição da visão e implementação.",
+        "Definição do negócio, da missão, da visão e dos valores; diagnóstico estratégico (análise interna e externa); definição de objetivos e metas; formulação das estratégias; implementação por meio de planos de ação; e controle e avaliação.",
+        "Controle e avaliação, implementação, formulação de estratégias e diagnóstico.",
+        "Definição de metas operacionais, elaboração do orçamento, execução e prestação de contas."
+      ],
+      "correta": 2,
+      "comentario": "A sequência usual parte da identidade organizacional (negócio, missão, visão e valores), passa pelo diagnóstico estratégico interno e externo, chega aos objetivos e metas, formula as estratégias, desdobra-as em planos de ação e encerra no controle e na avaliação, que realimentam o ciclo. Variações na nomenclatura são frequentes, mas a lógica é sempre identidade, diagnóstico, formulação, implementação e controle.",
+      "fundamento": "Djalma de Oliveira, Planejamento Estratégico.",
+      "dificuldade": "facil",
+      "tags": [
+        "etapas",
+        "processo-de-planejamento"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0080",
+      "topico": "1.2.1",
+      "tipo": "multipla",
+      "enunciado": "Para desdobrar a estratégia em planos de ação, um órgão elaborou documento que responde, para cada iniciativa, às perguntas: o que será feito, por que, onde, quando, quem fará, como e quanto custará.\n\nEssa ferramenta é conhecida como:",
+      "alternativas": [
+        "5W2H.",
+        "ciclo PDCA.",
+        "diagrama de Ishikawa.",
+        "matriz GUT.",
+        "análise SWOT."
+      ],
+      "correta": 0,
+      "comentario": "O 5W2H estrutura planos de ação respondendo a what, why, where, when, who, how e how much. É ferramenta de desdobramento e detalhamento, e não de diagnóstico. O PDCA é o ciclo de melhoria contínua; o diagrama de Ishikawa, também chamado espinha de peixe, serve à análise de causas de um problema.",
+      "fundamento": "Ferramenta 5W2H.",
+      "dificuldade": "facil",
+      "tags": [
+        "5w2h",
+        "plano-de-acao",
+        "ferramentas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0081",
+      "topico": "1.2.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre o Balanced Scorecard como ferramenta de gestão estratégica, assinale a afirmativa correta.",
+      "alternativas": [
+        "Limita-se a um painel de indicadores financeiros de curto prazo.",
+        "Substitui o planejamento estratégico, dispensando a definição de missão e visão.",
+        "Suas perspectivas são independentes entre si, não havendo relação de causa e efeito.",
+        "Traduz a missão e a estratégia em objetivos e indicadores distribuídos em perspectivas equilibradas, articuladas por relações de causa e efeito representadas no mapa estratégico.",
+        "É aplicável apenas a organizações privadas, sendo incompatível com o setor público."
+      ],
+      "correta": 3,
+      "comentario": "O BSC traduz a estratégia em objetivos e indicadores nas perspectivas financeira, de clientes, de processos internos e de aprendizado e crescimento, ligados por relações de causa e efeito explicitadas no mapa estratégico. Equilibra indicadores financeiros e não financeiros, de curto e longo prazo. No setor público, costuma-se reposicionar a perspectiva de clientes ou da sociedade no topo, acima da financeira.",
+      "fundamento": "Kaplan e Norton, A Estratégia em Ação.",
+      "dificuldade": "media",
+      "tags": [
+        "bsc",
+        "mapa-estrategico",
+        "perspectivas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0082",
+      "topico": "1.2.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre a aplicação do planejamento estratégico na Administração Pública, é correto afirmar que:",
+      "alternativas": [
+        "a missão do órgão é livremente definida pelo dirigente, sem vinculação às suas competências legais.",
+        "a ausência de concorrência torna dispensável o diagnóstico do ambiente externo.",
+        "o planejamento estratégico é incompatível com o princípio da legalidade.",
+        "o planejamento estratégico do órgão independe dos instrumentos orçamentários, que seguem lógica própria e desconectada.",
+        "a missão decorre das competências legais do órgão, o ambiente externo inclui atores como órgãos de controle, sociedade e demais entes, e o planejamento deve dialogar com os instrumentos orçamentários, como o plano plurianual."
+      ],
+      "correta": 4,
+      "comentario": "No setor público, a missão não é escolha livre: decorre das competências fixadas em lei. O ambiente externo relevante abrange cidadãos, órgãos de controle, Poder Legislativo e outros entes federativos. E o planejamento precisa convergir com o ciclo orçamentário — PPA, LDO e LOA —, sob pena de virar documento sem execução. O princípio da legalidade delimita, mas não impede, o planejamento.",
+      "fundamento": "CF/1988, art. 165; literatura de gestão estratégica no setor público.",
+      "dificuldade": "media",
+      "tags": [
+        "setor-publico",
+        "ppa",
+        "planejamento-estrategico"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0083",
+      "topico": "1.2.1",
+      "tipo": "multipla",
+      "enunciado": "Uma autarquia comparou seus processos de atendimento com os de organizações reconhecidas como referência na área, a fim de identificar práticas que pudessem ser adaptadas à sua realidade.\n\nEssa prática é denominada:",
+      "alternativas": [
+        "brainstorming.",
+        "downsizing.",
+        "reengenharia.",
+        "terceirização.",
+        "benchmarking."
+      ],
+      "correta": 4,
+      "comentario": "Benchmarking é o processo contínuo de comparação de produtos, serviços e práticas com os de organizações de referência, para identificar oportunidades de melhoria. Pode ser interno, competitivo, funcional ou genérico. Não se confunde com a simples cópia: pressupõe adaptação ao contexto próprio. Downsizing é redução de níveis hierárquicos, e reengenharia é redesenho radical de processos.",
+      "fundamento": "Camp, Benchmarking; literatura de gestão estratégica.",
+      "dificuldade": "facil",
+      "tags": [
+        "benchmarking",
+        "ferramentas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0084",
+      "topico": "1.2.1",
+      "tipo": "multipla",
+      "enunciado": "Um órgão construiu três descrições internamente consistentes de futuros possíveis para os próximos dez anos — um otimista, um tendencial e um de crise fiscal severa — e preparou respostas estratégicas para cada um.\n\nEssa técnica é conhecida como:",
+      "alternativas": [
+        "análise de séries temporais.",
+        "construção de cenários.",
+        "análise custo-benefício.",
+        "método Delphi puro.",
+        "orçamento base zero."
+      ],
+      "correta": 1,
+      "comentario": "A construção de cenários elabora futuros alternativos plausíveis e internamente coerentes, permitindo testar estratégias contra cada um deles. Não pretende prever o futuro, mas preparar a organização para diferentes trajetórias. O método Delphi é uma técnica de consulta a especialistas em rodadas sucessivas, frequentemente usada como insumo na elaboração de cenários.",
+      "fundamento": "Técnicas prospectivas e construção de cenários.",
+      "dificuldade": "media",
+      "tags": [
+        "cenarios",
+        "prospeccao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0085",
+      "topico": "1.2.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que apresenta corretamente a distinção entre os níveis de planejamento quanto a horizonte temporal, amplitude e grau de detalhamento.",
+      "alternativas": [
+        "Estratégico: longo prazo, organização como um todo, genérico e sintético. Tático: médio prazo, cada unidade ou departamento, menos genérico. Operacional: curto prazo, cada tarefa ou atividade, detalhado e analítico.",
+        "Estratégico: curto prazo, cada tarefa, detalhado. Tático: longo prazo, organização toda, genérico. Operacional: médio prazo, departamental.",
+        "Os três níveis têm o mesmo horizonte temporal, diferindo apenas quanto ao responsável.",
+        "Estratégico: médio prazo, departamental. Tático: curto prazo, por tarefa. Operacional: longo prazo, global.",
+        "Apenas o nível estratégico constitui planejamento; os demais são execução."
+      ],
+      "correta": 0,
+      "comentario": "Descendo na hierarquia, o horizonte temporal encurta, a amplitude se estreita e o detalhamento cresce. O estratégico é global, de longo prazo, genérico e sintético; o tático traduz a estratégia para cada unidade em prazo intermediário; o operacional detalha tarefas e procedimentos no curto prazo. Os três são planejamento, e os dois últimos derivam do primeiro.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "niveis-de-planejamento",
+        "estrategico",
+        "tatico",
+        "operacional"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0086",
+      "topico": "1.2.1",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, sobre planejamento estratégico.\n\nI. O planejamento estratégico elimina a incerteza quanto ao futuro, assegurando o alcance dos objetivos fixados.\nII. Forças e fraquezas referem-se ao ambiente interno da organização; oportunidades e ameaças, ao ambiente externo.\nIII. O mapa estratégico do Balanced Scorecard representa graficamente as relações de causa e efeito entre os objetivos estratégicos.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "II, apenas.",
+        "I e III, apenas.",
+        "II e III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 3,
+      "comentario": "I é falsa: o planejamento reduz a incerteza e prepara a organização para lidar com ela, mas não a elimina nem garante resultados. II e III são verdadeiras: a SWOT separa o eixo interno (forças e fraquezas) do externo (oportunidades e ameaças), e o mapa estratégico é justamente a representação gráfica das relações de causa e efeito entre os objetivos nas perspectivas do BSC.",
+      "fundamento": "Chiavenato; Kaplan e Norton; análise SWOT.",
+      "dificuldade": "facil",
+      "tags": [
+        "planejamento-estrategico",
+        "swot",
+        "bsc"
+      ],
+      "fonte": "inédita"
     }
   ]
 }
