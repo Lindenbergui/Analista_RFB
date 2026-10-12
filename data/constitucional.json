@@ -3,7 +3,7 @@
   "questoes": [
     {
       "id": "const-0001",
-      "topico": "7.1",
+      "topico": "4.1.1",
       "tipo": "multipla",
       "enunciado": "A doutrina clássica da Teoria Geral do Estado, com base em Georg Jellinek, aponta os elementos constitutivos do Estado.\n\nAssinale a opção que os apresenta.",
       "alternativas": [
@@ -25,7 +25,7 @@
     },
     {
       "id": "const-0002",
-      "topico": "7.1",
+      "topico": "4.1.1",
       "tipo": "multipla",
       "enunciado": "Em determinado momento, encontram-se no território brasileiro cidadãos brasileiros, turistas estrangeiros e estrangeiros residentes. Paralelamente, milhões de brasileiros vivem no exterior.\n\nConsiderando os conceitos da Teoria Geral do Estado, é correto afirmar que:",
       "alternativas": [
@@ -48,7 +48,7 @@
     },
     {
       "id": "const-0003",
-      "topico": "7.1",
+      "topico": "4.1.1",
       "tipo": "multipla",
       "enunciado": "Sobre a soberania no Estado federal brasileiro, assinale a afirmativa correta.",
       "alternativas": [
@@ -71,7 +71,7 @@
     },
     {
       "id": "const-0004",
-      "topico": "7.1",
+      "topico": "4.1.1",
       "tipo": "multipla",
       "enunciado": "Para Max Weber, o Estado moderno se caracteriza por:",
       "alternativas": [
@@ -93,7 +93,7 @@
     },
     {
       "id": "const-0005",
-      "topico": "7.1",
+      "topico": "4.1.1",
       "tipo": "multipla",
       "enunciado": "Assinale a opção que associa corretamente o pensador contratualista à sua concepção.",
       "alternativas": [
@@ -117,7 +117,7 @@
     },
     {
       "id": "const-0006",
-      "topico": "7.1",
+      "topico": "4.1.1",
       "tipo": "multipla",
       "enunciado": "Um navio estrangeiro foi abordado por autoridades brasileiras a 150 milhas marítimas da costa, em área de exploração de petróleo.\n\nSobre os espaços marítimos brasileiros, nos termos da Lei nº 8.617/1993, é correto afirmar que:",
       "alternativas": [
@@ -140,7 +140,7 @@
     },
     {
       "id": "const-0007",
-      "topico": "7.1",
+      "topico": "4.1.1",
       "tipo": "multipla",
       "enunciado": "Assinale a opção que distingue corretamente confederação e federação.",
       "alternativas": [
@@ -163,7 +163,7 @@
     },
     {
       "id": "const-0008",
-      "topico": "7.1",
+      "topico": "4.1.1",
       "tipo": "multipla",
       "enunciado": "A Assembleia Legislativa de um Estado aprovou a convocação de plebiscito para consultar a população sobre a separação do Estado do restante do Brasil.\n\nÀ luz da Constituição, essa iniciativa é:",
       "alternativas": [
@@ -186,7 +186,7 @@
     },
     {
       "id": "const-0009",
-      "topico": "7.1",
+      "topico": "4.1.1",
       "tipo": "multipla",
       "enunciado": "A doutrina classifica as federações quanto à sua origem.\n\nSobre essa classificação, é correto afirmar que a federação brasileira:",
       "alternativas": [
@@ -209,7 +209,7 @@
     },
     {
       "id": "const-0010",
-      "topico": "7.1",
+      "topico": "4.1.1",
       "tipo": "multipla",
       "enunciado": "A Constituição de 1988 prevê competências administrativas comuns à União, aos Estados, ao Distrito Federal e aos Municípios, bem como competências legislativas concorrentes.\n\nEssas características aproximam o modelo brasileiro do federalismo:",
       "alternativas": [
@@ -231,7 +231,7 @@
     },
     {
       "id": "const-0011",
-      "topico": "7.1",
+      "topico": "4.1.1",
       "tipo": "multipla",
       "enunciado": "Assinale a opção que indica corretamente os entes que compõem a organização político-administrativa da República Federativa do Brasil.",
       "alternativas": [
@@ -254,7 +254,7 @@
     },
     {
       "id": "const-0012",
-      "topico": "7.1",
+      "topico": "4.1.1",
       "tipo": "multipla",
       "enunciado": "Assinale a opção que apresenta características próprias da forma republicana de governo.",
       "alternativas": [
@@ -277,7 +277,7 @@
     },
     {
       "id": "const-0013",
-      "topico": "7.1",
+      "topico": "4.1.1",
       "tipo": "multipla",
       "enunciado": "Assinale a opção que apresenta característica do sistema parlamentarista de governo.",
       "alternativas": [
@@ -299,7 +299,7 @@
     },
     {
       "id": "const-0014",
-      "topico": "7.1",
+      "topico": "4.1.1",
       "tipo": "multipla",
       "enunciado": "Em determinado país, o chefe do Poder Executivo é eleito para mandato fixo, acumula as funções de chefe de Estado e de chefe de governo, nomeia e exonera livremente seus ministros e não pode ser afastado pelo Legislativo por mera discordância política, mas apenas mediante processo por crime de responsabilidade.\n\nEsse país adota:",
       "alternativas": [
@@ -321,7 +321,7 @@
     },
     {
       "id": "const-0015",
-      "topico": "7.1",
+      "topico": "4.1.1",
       "tipo": "multipla",
       "enunciado": "Quanto à forma de Estado, à forma de governo, ao sistema de governo e ao regime político, o Estado brasileiro adota, respectivamente:",
       "alternativas": [
@@ -345,7 +345,7 @@
     },
     {
       "id": "const-0016",
-      "topico": "7.1",
+      "topico": "4.1.1",
       "tipo": "multipla",
       "enunciado": "O parágrafo único do art. 1º da Constituição dispõe que todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente.\n\nCom base nesse dispositivo e no art. 14, o regime adotado pela Constituição é o da democracia:",
       "alternativas": [
@@ -367,7 +367,7 @@
     },
     {
       "id": "const-0017",
-      "topico": "7.1",
+      "topico": "4.1.1",
       "tipo": "multipla",
       "enunciado": "Sobre os instrumentos de democracia direta previstos na Constituição e na Lei nº 9.709/1998, assinale a afirmativa correta.",
       "alternativas": [
@@ -389,7 +389,7 @@
     },
     {
       "id": "const-0018",
-      "topico": "7.1",
+      "topico": "4.1.1",
       "tipo": "multipla",
       "enunciado": "Considerando os limites materiais ao poder de reforma da Constituição de 1988, assinale a afirmativa correta.",
       "alternativas": [
@@ -412,7 +412,7 @@
     },
     {
       "id": "const-0019",
-      "topico": "7.1",
+      "topico": "4.1.1",
       "tipo": "multipla",
       "enunciado": "O Ato das Disposições Constitucionais Transitórias previu a realização, em 1993, de plebiscito sobre:",
       "alternativas": [
@@ -435,7 +435,7 @@
     },
     {
       "id": "const-0020",
-      "topico": "7.1",
+      "topico": "4.1.1",
       "tipo": "multipla",
       "enunciado": "A evolução do Estado moderno costuma ser descrita em fases sucessivas.\n\nAssinale a opção que caracteriza corretamente essas fases.",
       "alternativas": [
@@ -458,7 +458,7 @@
     },
     {
       "id": "const-0021",
-      "topico": "7.1",
+      "topico": "4.1.1",
       "tipo": "multipla",
       "enunciado": "Um estudante sustenta que o Estado não resulta de acordo de vontades, mas decorre da própria natureza humana, pois o homem seria, por natureza, um animal político que só se realiza plenamente na comunidade política.\n\nEssa concepção corresponde à teoria:",
       "alternativas": [
@@ -481,7 +481,7 @@
     },
     {
       "id": "const-0022",
-      "topico": "7.1",
+      "topico": "4.1.1",
       "tipo": "multipla",
       "enunciado": "Para Hans Kelsen, o Estado:",
       "alternativas": [
@@ -503,7 +503,7 @@
     },
     {
       "id": "const-0023",
-      "topico": "7.2",
+      "topico": "4.1.2",
       "tipo": "multipla",
       "enunciado": "A teoria da separação dos Poderes tem antecedentes históricos relevantes.\n\nAssinale a afirmativa correta a respeito desses antecedentes.",
       "alternativas": [
@@ -526,7 +526,7 @@
     },
     {
       "id": "const-0024",
-      "topico": "7.2",
+      "topico": "4.1.2",
       "tipo": "multipla",
       "enunciado": "Nos termos do art. 2º da Constituição de 1988, os Poderes da União são:",
       "alternativas": [
@@ -549,7 +549,7 @@
     },
     {
       "id": "const-0025",
-      "topico": "7.2",
+      "topico": "4.1.2",
       "tipo": "multipla",
       "enunciado": "Na história constitucional brasileira, houve Constituição que adotou a quadripartição de Poderes, prevendo um Poder exercido privativamente pelo Imperador e considerado a chave de toda a organização política.\n\nTrata-se do Poder Moderador, previsto na Constituição de:",
       "alternativas": [
@@ -571,7 +571,7 @@
     },
     {
       "id": "const-0026",
-      "topico": "7.2",
+      "topico": "4.1.2",
       "tipo": "multipla",
       "enunciado": "Assinale a opção que indica corretamente as funções típicas dos Poderes.",
       "alternativas": [
@@ -593,7 +593,7 @@
     },
     {
       "id": "const-0027",
-      "topico": "7.2",
+      "topico": "4.1.2",
       "tipo": "multipla",
       "enunciado": "O Senado Federal processou e julgou o Presidente da República por crime de responsabilidade, aplicando-lhe a perda do cargo com inabilitação para o exercício de função pública.\n\nNesse caso, o Senado exerceu função:",
       "alternativas": [
@@ -616,7 +616,7 @@
     },
     {
       "id": "const-0028",
-      "topico": "7.2",
+      "topico": "4.1.2",
       "tipo": "multipla",
       "enunciado": "O Presidente da República editou medida provisória com força de lei e, em outra ocasião, foi autorizado pelo Congresso Nacional a elaborar lei delegada.\n\nEm ambos os casos, o Chefe do Executivo exerceu função:",
       "alternativas": [
@@ -639,7 +639,7 @@
     },
     {
       "id": "const-0029",
-      "topico": "7.2",
+      "topico": "4.1.2",
       "tipo": "multipla",
       "enunciado": "Um tribunal realizou concurso público para provimento de cargos de analista judiciário e, em seguida, aprovou alterações em seu regimento interno.\n\nAo praticar esses atos, o tribunal exerceu, respectivamente, funções:",
       "alternativas": [
@@ -662,7 +662,7 @@
     },
     {
       "id": "const-0030",
-      "topico": "7.2",
+      "topico": "4.1.2",
       "tipo": "multipla",
       "enunciado": "Sobre as leis delegadas, assinale a afirmativa correta.",
       "alternativas": [
@@ -684,7 +684,7 @@
     },
     {
       "id": "const-0031",
-      "topico": "7.2",
+      "topico": "4.1.2",
       "tipo": "multipla",
       "enunciado": "A Constituição permite que o Presidente da República delegue determinadas atribuições.\n\nEssas atribuições podem ser delegadas:",
       "alternativas": [
@@ -706,7 +706,7 @@
     },
     {
       "id": "const-0032",
-      "topico": "7.2",
+      "topico": "4.1.2",
       "tipo": "multipla",
       "enunciado": "Aprovado projeto de lei pelo Congresso Nacional, o Presidente da República vetou integralmente o texto por considerá-lo inconstitucional.\n\nSobre o veto, é correto afirmar que:",
       "alternativas": [
@@ -729,7 +729,7 @@
     },
     {
       "id": "const-0033",
-      "topico": "7.2",
+      "topico": "4.1.2",
       "tipo": "multipla",
       "enunciado": "O sistema de freios e contrapesos permite que cada Poder controle os demais.\n\nAssinale a opção que NÃO constitui exemplo desse sistema.",
       "alternativas": [
@@ -751,7 +751,7 @@
     },
     {
       "id": "const-0034",
-      "topico": "7.2",
+      "topico": "4.1.2",
       "tipo": "multipla",
       "enunciado": "Contribuinte teve recurso definitivamente indeferido na esfera administrativa e, em seguida, ajuizou ação discutindo a mesma exigência fiscal.\n\nSobre essa situação, à luz do sistema brasileiro de jurisdição, é correto afirmar que:",
       "alternativas": [
@@ -774,7 +774,7 @@
     },
     {
       "id": "const-0035",
-      "topico": "7.2",
+      "topico": "4.1.2",
       "tipo": "multipla",
       "enunciado": "Parlamentar impetrou mandado de segurança questionando a interpretação dada pelo presidente de uma Casa Legislativa a dispositivo exclusivamente regimental, relativo à ordem dos trabalhos.\n\nSegundo a jurisprudência do STF, o Judiciário:",
       "alternativas": [
@@ -797,7 +797,7 @@
     },
     {
       "id": "const-0036",
-      "topico": "7.2",
+      "topico": "4.1.2",
       "tipo": "multipla",
       "enunciado": "Servidores de determinada carreira ajuizaram ação pedindo ao Judiciário a extensão de reajuste concedido por lei a outra carreira, invocando o princípio da isonomia.\n\nSegundo entendimento sumulado do STF, o pedido deve ser:",
       "alternativas": [
@@ -820,7 +820,7 @@
     },
     {
       "id": "const-0037",
-      "topico": "7.2",
+      "topico": "4.1.2",
       "tipo": "multipla",
       "enunciado": "O Ministério Público, a Advocacia Pública, a Defensoria Pública e a advocacia privada são tratados pela Constituição no capítulo das funções essenciais à Justiça.\n\nSobre essas instituições, é correto afirmar que:",
       "alternativas": [
@@ -842,7 +842,7 @@
     },
     {
       "id": "const-0038",
-      "topico": "7.2",
+      "topico": "4.1.2",
       "tipo": "multipla",
       "enunciado": "A independência entre os Poderes manifesta-se também no plano orçamentário.\n\nA esse respeito, é correto afirmar que:",
       "alternativas": [
@@ -865,7 +865,7 @@
     },
     {
       "id": "const-0039",
-      "topico": "7.2",
+      "topico": "4.1.2",
       "tipo": "multipla",
       "enunciado": "Diante da omissão prolongada do Executivo em realizar obras essenciais à garantia de condições mínimas de dignidade em estabelecimentos prisionais, o Judiciário determinou a execução das medidas necessárias.\n\nSegundo a jurisprudência do STF, essa decisão:",
       "alternativas": [
@@ -888,7 +888,7 @@
     },
     {
       "id": "const-0040",
-      "topico": "7.2",
+      "topico": "4.1.2",
       "tipo": "multipla",
       "enunciado": "Sobre a natureza da separação dos Poderes no constitucionalismo contemporâneo, assinale a afirmativa correta.",
       "alternativas": [
@@ -910,7 +910,7 @@
     },
     {
       "id": "const-0041",
-      "topico": "7.2",
+      "topico": "4.1.2",
       "tipo": "multipla",
       "enunciado": "A Constituição exige aprovação prévia do Senado Federal, por voto secreto, após arguição pública, para a escolha de determinadas autoridades.\n\nAssinale a opção que apresenta autoridade sujeita a essa aprovação.",
       "alternativas": [
@@ -933,7 +933,7 @@
     },
     {
       "id": "const-0042",
-      "topico": "7.2",
+      "topico": "4.1.2",
       "tipo": "multipla",
       "enunciado": "O Presidente da República pretende editar decreto para reorganizar o funcionamento de órgãos da administração federal.\n\nNos termos da Constituição, o decreto autônomo é admitido para dispor sobre:",
       "alternativas": [
@@ -955,7 +955,7 @@
     },
     {
       "id": "const-0043",
-      "topico": "7.2",
+      "topico": "4.1.2",
       "tipo": "multipla",
       "enunciado": "Uma comissão parlamentar de inquérito, regularmente instaurada para apurar fato determinado, deliberou determinar a quebra do sigilo bancário dos investigados, a interceptação de suas comunicações telefônicas e a busca e apreensão em seus domicílios.\n\nSegundo a jurisprudência do STF, a CPI:",
       "alternativas": [
@@ -978,7 +978,7 @@
     },
     {
       "id": "const-0044",
-      "topico": "7.2",
+      "topico": "4.1.2",
       "tipo": "multipla",
       "enunciado": "Agência reguladora federal editou resolução que, a pretexto de regulamentar a lei, criou obrigações não previstas no texto legal.\n\nNos termos da Constituição, compete ao Congresso Nacional:",
       "alternativas": [

@@ -3,7 +3,7 @@
   "questoes": [
     {
       "id": "dtrib-0001",
-      "topico": "9.1",
+      "topico": "6.1.1",
       "tipo": "multipla",
       "enunciado": "A Constituição Federal distribui entre os entes políticos o poder de instituir tributos.\n\nSobre as características da competência tributária, assinale a afirmativa correta.",
       "alternativas": [
@@ -25,7 +25,7 @@
     },
     {
       "id": "dtrib-0002",
-      "topico": "9.1",
+      "topico": "6.1.1",
       "tipo": "multipla",
       "enunciado": "Lei federal atribuiu a uma autarquia as funções de fiscalizar e arrecadar determinada contribuição instituída pela União, conferindo-lhe também as garantias e os privilégios processuais da Fazenda Pública.\n\nÀ luz do Código Tributário Nacional, essa atribuição:",
       "alternativas": [
@@ -48,7 +48,7 @@
     },
     {
       "id": "dtrib-0003",
-      "topico": "9.1",
+      "topico": "6.1.1",
       "tipo": "multipla",
       "enunciado": "Um Município firmou contrato com instituição financeira privada para que esta receba, em suas agências, os pagamentos do IPTU efetuados pelos contribuintes.\n\nNos termos do CTN, esse ajuste:",
       "alternativas": [
@@ -70,7 +70,7 @@
     },
     {
       "id": "dtrib-0004",
-      "topico": "9.1",
+      "topico": "6.1.1",
       "tipo": "multipla",
       "enunciado": "Analise as afirmativas a seguir, relativas à competência tributária.\n\nI. A atribuição das funções de fiscalizar e arrecadar tributos, conferida por uma pessoa jurídica de direito público a outra, pode ser revogada a qualquer tempo, por ato unilateral da que a tiver conferido.\nII. A competência tributária compreende a competência legislativa plena, ressalvadas as limitações constitucionais.\nIII. Os tributos cuja receita seja distribuída, no todo ou em parte, a outros entes passam à competência legislativa dos entes beneficiários da repartição.\n\nEstá correto o que se afirma em:",
       "alternativas": [
@@ -92,7 +92,7 @@
     },
     {
       "id": "dtrib-0005",
-      "topico": "9.1",
+      "topico": "6.1.1",
       "tipo": "multipla",
       "enunciado": "A Constituição de 1988 atribuiu à União a competência para instituir o imposto sobre grandes fortunas, que até hoje não foi criado.\n\nDiante dessa situação, é correto afirmar que:",
       "alternativas": [
@@ -115,7 +115,7 @@
     },
     {
       "id": "dtrib-0006",
-      "topico": "9.1",
+      "topico": "6.1.1",
       "tipo": "multipla",
       "enunciado": "A União pretende criar um novo imposto, não previsto na Constituição, com base em sua competência residual.\n\nSão requisitos para o exercício dessa competência:",
       "alternativas": [
@@ -137,7 +137,7 @@
     },
     {
       "id": "dtrib-0007",
-      "topico": "9.1",
+      "topico": "6.1.1",
       "tipo": "multipla",
       "enunciado": "Na iminência de guerra externa, a União instituiu imposto extraordinário cujo fato gerador é a circulação de mercadorias, hipótese já abrangida pela competência dos Estados para o ICMS.\n\nSobre essa situação, é correto afirmar que:",
       "alternativas": [
@@ -160,7 +160,7 @@
     },
     {
       "id": "dtrib-0008",
-      "topico": "9.1",
+      "topico": "6.1.1",
       "tipo": "multipla",
       "enunciado": "Sobre os empréstimos compulsórios, assinale a afirmativa correta.",
       "alternativas": [
@@ -182,7 +182,7 @@
     },
     {
       "id": "dtrib-0009",
-      "topico": "9.1",
+      "topico": "6.1.1",
       "tipo": "multipla",
       "enunciado": "Quanto à competência tributária do Distrito Federal, é correto afirmar que:",
       "alternativas": [
@@ -204,7 +204,7 @@
     },
     {
       "id": "dtrib-0010",
-      "topico": "9.1",
+      "topico": "6.1.1",
       "tipo": "multipla",
       "enunciado": "Suponha a criação de um Território Federal não dividido em Municípios.\n\nNesse caso, a competência para instituir os impostos estaduais e municipais nesse Território caberá:",
       "alternativas": [
@@ -226,7 +226,7 @@
     },
     {
       "id": "dtrib-0011",
-      "topico": "9.1",
+      "topico": "6.1.1",
       "tipo": "multipla",
       "enunciado": "A respeito da competência para instituir contribuições, assinale a afirmativa correta.",
       "alternativas": [
@@ -249,7 +249,7 @@
     },
     {
       "id": "dtrib-0012",
-      "topico": "9.1",
+      "topico": "6.1.1",
       "tipo": "multipla",
       "enunciado": "Um Município pretende custear seu serviço de iluminação pública por meio de tributo cobrado na fatura de energia elétrica.\n\nConsiderando a Constituição e a jurisprudência do STF, o Município deve:",
       "alternativas": [
@@ -272,7 +272,7 @@
     },
     {
       "id": "dtrib-0013",
-      "topico": "9.1",
+      "topico": "6.1.1",
       "tipo": "multipla",
       "enunciado": "Assinale a opção que indica tributos de competência comum da União, dos Estados, do Distrito Federal e dos Municípios.",
       "alternativas": [
@@ -295,7 +295,7 @@
     },
     {
       "id": "dtrib-0014",
-      "topico": "9.1",
+      "topico": "6.1.1",
       "tipo": "multipla",
       "enunciado": "Assinale a opção que associa corretamente o imposto ao ente competente para instituí-lo.",
       "alternativas": [
@@ -319,7 +319,7 @@
     },
     {
       "id": "dtrib-0015",
-      "topico": "9.1",
+      "topico": "6.1.1",
       "tipo": "multipla",
       "enunciado": "Um Município celebrou convênio com a União e passou a fiscalizar e cobrar o Imposto sobre a Propriedade Territorial Rural (ITR) relativo aos imóveis situados em seu território.\n\nSobre essa situação, é correto afirmar que:",
       "alternativas": [
@@ -342,7 +342,7 @@
     },
     {
       "id": "dtrib-0016",
-      "topico": "9.1",
+      "topico": "6.1.1",
       "tipo": "multipla",
       "enunciado": "O Imposto sobre Produtos Industrializados tem parte de sua arrecadação repartida com Estados e Municípios.\n\nDiante disso, é correto afirmar que:",
       "alternativas": [
@@ -365,7 +365,7 @@
     },
     {
       "id": "dtrib-0017",
-      "topico": "9.1",
+      "topico": "6.1.1",
       "tipo": "multipla",
       "enunciado": "Assinale a opção que distingue corretamente bitributação e bis in idem.",
       "alternativas": [
@@ -387,7 +387,7 @@
     },
     {
       "id": "dtrib-0018",
-      "topico": "9.1",
+      "topico": "6.1.1",
       "tipo": "multipla",
       "enunciado": "Um Município e um Estado passaram a exigir, respectivamente, ISS e ICMS sobre a mesma operação, cada qual entendendo que ela se insere em sua competência.\n\nSegundo a Constituição, cabe dispor sobre conflitos de competência em matéria tributária entre os entes federativos:",
       "alternativas": [
@@ -411,7 +411,7 @@
     },
     {
       "id": "dtrib-0019",
-      "topico": "9.1",
+      "topico": "6.1.1",
       "tipo": "multipla",
       "enunciado": "Uma autarquia federal pretende editar ato próprio instituindo taxa pelo exercício do poder de polícia que realiza.\n\nEssa pretensão é:",
       "alternativas": [
@@ -434,7 +434,7 @@
     },
     {
       "id": "dtrib-0020",
-      "topico": "9.1",
+      "topico": "6.1.1",
       "tipo": "multipla",
       "enunciado": "A Emenda Constitucional nº 132/2023 reformulou a tributação sobre o consumo no Brasil.\n\nQuanto à competência dos novos tributos, é correto afirmar que:",
       "alternativas": [
@@ -458,7 +458,7 @@
     },
     {
       "id": "dtrib-0021",
-      "topico": "9.1",
+      "topico": "6.1.1",
       "tipo": "multipla",
       "enunciado": "Pedro, domiciliado em São Paulo, faleceu deixando um imóvel situado no Rio de Janeiro e ações de companhia aberta. O inventário foi processado em Minas Gerais.\n\nConsiderando a redação vigente da Constituição, o ITCMD será devido:",
       "alternativas": [
@@ -481,7 +481,7 @@
     },
     {
       "id": "dtrib-0022",
-      "topico": "9.1",
+      "topico": "6.1.1",
       "tipo": "multipla",
       "enunciado": "Um Município de pequeno porte nunca instituiu o ISS, alegando que a arrecadação seria inferior ao custo de fiscalização.\n\nConsiderando a Lei de Responsabilidade Fiscal, é correto afirmar que:",
       "alternativas": [
@@ -504,7 +504,7 @@
     },
     {
       "id": "dtrib-0023",
-      "topico": "9.1",
+      "topico": "6.1.1",
       "tipo": "multipla",
       "enunciado": "Analise as afirmativas a seguir.\n\nI. A União pode delegar aos Estados, por lei complementar, a competência para instituir o imposto sobre grandes fortunas.\nII. A União pode instituir impostos residuais mediante lei ordinária, desde que não cumulativos.\nIII. Os Estados, o Distrito Federal e os Municípios devem instituir, por meio de lei, contribuição para custeio do regime próprio de previdência de seus servidores.\n\nEstá correto o que se afirma em:",
       "alternativas": [
@@ -527,7 +527,7 @@
     },
     {
       "id": "dtrib-0024",
-      "topico": "9.2",
+      "topico": "6.2.2",
       "tipo": "multipla",
       "enunciado": "A respeito do princípio da legalidade tributária, assinale a afirmativa correta.",
       "alternativas": [
@@ -550,7 +550,7 @@
     },
     {
       "id": "dtrib-0025",
-      "topico": "9.2",
+      "topico": "6.2.2",
       "tipo": "multipla",
       "enunciado": "A Constituição admite que, em determinadas hipóteses, as alíquotas de tributos sejam alteradas por ato do Poder Executivo, atendidos os limites legais.\n\nAssinale a opção que apresenta apenas tributos submetidos a essa flexibilização.",
       "alternativas": [
@@ -573,7 +573,7 @@
     },
     {
       "id": "dtrib-0026",
-      "topico": "9.2",
+      "topico": "6.2.2",
       "tipo": "multipla",
       "enunciado": "Lei publicada em novembro antecipou a data de recolhimento de determinado imposto do dia 20 para o dia 10 de cada mês, com efeitos a partir de dezembro do mesmo ano.\n\nSegundo a jurisprudência do STF, essa alteração:",
       "alternativas": [
@@ -596,7 +596,7 @@
     },
     {
       "id": "dtrib-0027",
-      "topico": "9.2",
+      "topico": "6.2.2",
       "tipo": "multipla",
       "enunciado": "Em 15 de outubro, decreto majorou as alíquotas do IOF incidente sobre operações de câmbio, com vigência imediata.\n\nSobre a majoração, é correto afirmar que:",
       "alternativas": [
@@ -619,7 +619,7 @@
     },
     {
       "id": "dtrib-0028",
-      "topico": "9.2",
+      "topico": "6.2.2",
       "tipo": "multipla",
       "enunciado": "Lei publicada em 28 de dezembro de determinado ano majorou a alíquota do Imposto de Renda da pessoa jurídica.\n\nA nova alíquota poderá ser aplicada:",
       "alternativas": [
@@ -642,7 +642,7 @@
     },
     {
       "id": "dtrib-0029",
-      "topico": "9.2",
+      "topico": "6.2.2",
       "tipo": "multipla",
       "enunciado": "Lei ordinária federal publicada em 10 de agosto majorou a alíquota da COFINS.\n\nA exigência da contribuição com a nova alíquota poderá ocorrer:",
       "alternativas": [
@@ -665,7 +665,7 @@
     },
     {
       "id": "dtrib-0030",
-      "topico": "9.2",
+      "topico": "6.2.2",
       "tipo": "multipla",
       "enunciado": "Em 20 de dezembro, lei municipal atualizou a planta genérica de valores, majorando a base de cálculo do IPTU para o exercício seguinte.\n\nSobre a cobrança, é correto afirmar que:",
       "alternativas": [
@@ -688,7 +688,7 @@
     },
     {
       "id": "dtrib-0031",
-      "topico": "9.2",
+      "topico": "6.2.2",
       "tipo": "multipla",
       "enunciado": "Medida provisória editada em setembro majorou a alíquota de imposto federal que não figura entre as exceções constitucionais à anterioridade. A MP foi convertida em lei em 20 de dezembro do mesmo ano.\n\nA nova alíquota produzirá efeitos:",
       "alternativas": [
@@ -710,7 +710,7 @@
     },
     {
       "id": "dtrib-0032",
-      "topico": "9.2",
+      "topico": "6.2.2",
       "tipo": "multipla",
       "enunciado": "Em 2023, contribuinte foi autuado e multado em 150% do valor do tributo por determinada infração. Antes do julgamento definitivo do processo administrativo, nova lei reduziu a penalidade para 75%.\n\nSegundo o CTN, a lei nova:",
       "alternativas": [
@@ -732,7 +732,7 @@
     },
     {
       "id": "dtrib-0033",
-      "topico": "9.2",
+      "topico": "6.2.2",
       "tipo": "multipla",
       "enunciado": "A Receita Federal autuou contribuinte que auferia rendimentos provenientes de atividade ilícita, exigindo Imposto de Renda sobre esses valores. O contribuinte alegou que a tributação equivaleria a legitimar o ilícito.\n\nÀ luz do CTN e do princípio da isonomia, a exigência é:",
       "alternativas": [
@@ -755,7 +755,7 @@
     },
     {
       "id": "dtrib-0034",
-      "topico": "9.2",
+      "topico": "6.2.2",
       "tipo": "multipla",
       "enunciado": "Sobre o princípio da capacidade contributiva, assinale a afirmativa correta.",
       "alternativas": [
@@ -778,7 +778,7 @@
     },
     {
       "id": "dtrib-0035",
-      "topico": "9.2",
+      "topico": "6.2.2",
       "tipo": "multipla",
       "enunciado": "A respeito da vedação ao confisco em matéria tributária, assinale a afirmativa correta.",
       "alternativas": [
@@ -800,7 +800,7 @@
     },
     {
       "id": "dtrib-0036",
-      "topico": "9.2",
+      "topico": "6.2.2",
       "tipo": "multipla",
       "enunciado": "Sobre a vedação de limitações ao tráfego de pessoas ou bens por meio de tributos interestaduais ou intermunicipais, é correto afirmar que:",
       "alternativas": [
@@ -822,7 +822,7 @@
     },
     {
       "id": "dtrib-0037",
-      "topico": "9.2",
+      "topico": "6.2.2",
       "tipo": "multipla",
       "enunciado": "Lei federal concedeu incentivos fiscais de Imposto de Renda exclusivamente a empreendimentos instalados na Região Norte, com o objetivo de reduzir desigualdades regionais.\n\nÀ luz do princípio da uniformidade geográfica, essa lei é:",
       "alternativas": [
@@ -844,7 +844,7 @@
     },
     {
       "id": "dtrib-0038",
-      "topico": "9.2",
+      "topico": "6.2.2",
       "tipo": "multipla",
       "enunciado": "Sobre a vedação às isenções heterônomas, assinale a afirmativa correta.",
       "alternativas": [
@@ -866,7 +866,7 @@
     },
     {
       "id": "dtrib-0039",
-      "topico": "9.2",
+      "topico": "6.2.2",
       "tipo": "multipla",
       "enunciado": "Lei estadual fixou alíquota de IPVA mais elevada para veículos importados do que para veículos nacionais de mesmo valor.\n\nEssa lei é:",
       "alternativas": [
@@ -889,7 +889,7 @@
     },
     {
       "id": "dtrib-0040",
-      "topico": "9.2",
+      "topico": "6.2.2",
       "tipo": "multipla",
       "enunciado": "A concessão de subsídio, isenção, redução de base de cálculo, anistia ou remissão relativos a impostos, taxas ou contribuições depende de:",
       "alternativas": [
@@ -912,7 +912,7 @@
     },
     {
       "id": "dtrib-0041",
-      "topico": "9.2",
+      "topico": "6.2.1",
       "tipo": "multipla",
       "enunciado": "Assinale a opção que distingue corretamente imunidade, isenção e não incidência.",
       "alternativas": [
@@ -935,7 +935,7 @@
     },
     {
       "id": "dtrib-0042",
-      "topico": "9.2",
+      "topico": "6.2.1",
       "tipo": "multipla",
       "enunciado": "Sobre a imunidade tributária recíproca, assinale a afirmativa correta.",
       "alternativas": [
@@ -957,7 +957,7 @@
     },
     {
       "id": "dtrib-0043",
-      "topico": "9.2",
+      "topico": "6.2.1",
       "tipo": "multipla",
       "enunciado": "Determinado Município pretende cobrar IPTU sobre imóveis utilizados pela Empresa Brasileira de Correios e Telégrafos, empresa pública federal prestadora de serviço postal.\n\nSegundo a jurisprudência do STF, a cobrança é:",
       "alternativas": [
@@ -980,7 +980,7 @@
     },
     {
       "id": "dtrib-0044",
-      "topico": "9.2",
+      "topico": "6.2.1",
       "tipo": "multipla",
       "enunciado": "Uma entidade religiosa é proprietária de um imóvel alugado a terceiro, sendo o valor do aluguel integralmente aplicado na manutenção do templo e nas atividades pastorais.\n\nSobre o IPTU incidente sobre esse imóvel, é correto afirmar que:",
       "alternativas": [
@@ -1003,7 +1003,7 @@
     },
     {
       "id": "dtrib-0045",
-      "topico": "9.2",
+      "topico": "6.2.1",
       "tipo": "multipla",
       "enunciado": "A imunidade prevista no art. 150, VI, 'c', da Constituição alcança partidos políticos e suas fundações, entidades sindicais dos trabalhadores e instituições de educação e de assistência social sem fins lucrativos, atendidos os requisitos da lei.\n\nSobre esses requisitos, previstos no CTN, é correto afirmar que incluem:",
       "alternativas": [
@@ -1026,7 +1026,7 @@
     },
     {
       "id": "dtrib-0046",
-      "topico": "9.2",
+      "topico": "6.2.1",
       "tipo": "multipla",
       "enunciado": "Sobre a imunidade dos livros, jornais, periódicos e do papel destinado a sua impressão, assinale a afirmativa correta.",
       "alternativas": [
@@ -1049,7 +1049,7 @@
     },
     {
       "id": "dtrib-0047",
-      "topico": "9.2",
+      "topico": "6.2.1",
       "tipo": "multipla",
       "enunciado": "A EC 75/2013 acrescentou imunidade relativa a fonogramas e videofonogramas musicais.\n\nSobre essa imunidade, é correto afirmar que alcança:",
       "alternativas": [
@@ -1072,7 +1072,7 @@
     },
     {
       "id": "dtrib-0048",
-      "topico": "9.2",
+      "topico": "6.2.1",
       "tipo": "multipla",
       "enunciado": "Assinale a opção que apresenta corretamente uma imunidade prevista fora do rol do art. 150, VI, da Constituição.",
       "alternativas": [

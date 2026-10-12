@@ -3,7 +3,7 @@
    - Arquivos de data/: network-first, para que questões novas do GitHub
      apareçam assim que houver conexão, com o cache servindo offline. */
 
-const VERSAO = 'v1';
+const VERSAO = 'v2';
 const CACHE_APP = 'rfb-app-' + VERSAO;
 const CACHE_DADOS = 'rfb-dados-' + VERSAO;
 

@@ -3,7 +3,7 @@
   "questoes": [
     {
       "id": "lad-0001",
-      "topico": "11.1",
+      "topico": "9.1.1",
       "tipo": "multipla",
       "enunciado": "Nos termos do Regulamento Aduaneiro, o território aduaneiro:",
       "alternativas": [
@@ -24,7 +24,7 @@
     },
     {
       "id": "lad-0002",
-      "topico": "11.1",
+      "topico": "9.1.1",
       "tipo": "multipla",
       "enunciado": "A jurisdição dos serviços aduaneiros se estende por todo o território aduaneiro e abrange a zona primária e a zona secundária.\n\nAssinale a afirmativa correta.",
       "alternativas": [
@@ -46,7 +46,7 @@
     },
     {
       "id": "lad-0003",
-      "topico": "11.1",
+      "topico": "9.1.1",
       "tipo": "multipla",
       "enunciado": "Auditores-Fiscais da Receita Federal realizaram, em rodovia federal localizada a 600 km da fronteira, operação de fiscalização de caminhões que transportavam mercadorias de procedência estrangeira.\n\nSobre essa operação, é correto afirmar que:",
       "alternativas": [
@@ -68,7 +68,7 @@
     },
     {
       "id": "lad-0004",
-      "topico": "11.1",
+      "topico": "9.1.2",
       "tipo": "multipla",
       "enunciado": "Assinale a opção que indica corretamente a autoridade competente para cada ato.",
       "alternativas": [
@@ -91,7 +91,7 @@
     },
     {
       "id": "lad-0005",
-      "topico": "11.1",
+      "topico": "9.1.1",
       "tipo": "multipla",
       "enunciado": "Sobre as zonas de vigilância aduaneira, é correto afirmar que:",
       "alternativas": [
@@ -112,7 +112,7 @@
     },
     {
       "id": "lad-0006",
-      "topico": "11.1",
+      "topico": "9.1.2",
       "tipo": "multipla",
       "enunciado": "Portos, aeroportos e pontos de fronteira são alfandegados por ato declaratório da autoridade aduaneira competente.\n\nO alfandegamento tem por objetivo permitir que neles possam, sob controle aduaneiro:",
       "alternativas": [
@@ -135,7 +135,7 @@
     },
     {
       "id": "lad-0007",
-      "topico": "11.1",
+      "topico": "9.1.2",
       "tipo": "multipla",
       "enunciado": "Uma empresa requereu o alfandegamento de terminal portuário por ela administrado.\n\nAssinale a opção que NÃO constitui condição para o alfandegamento prevista no Regulamento Aduaneiro.",
       "alternativas": [
@@ -158,7 +158,7 @@
     },
     {
       "id": "lad-0008",
-      "topico": "11.1",
+      "topico": "9.1.2",
       "tipo": "multipla",
       "enunciado": "Sobre a abrangência do alfandegamento, assinale a afirmativa correta.",
       "alternativas": [
@@ -180,7 +180,7 @@
     },
     {
       "id": "lad-0009",
-      "topico": "11.1",
+      "topico": "9.1.2",
       "tipo": "multipla",
       "enunciado": "Uma empresa brasileira importa gás natural da Bolívia por meio de gasoduto que cruza a fronteira fora de qualquer ponto de fronteira alfandegado.\n\nSobre essa operação, é correto afirmar que:",
       "alternativas": [
@@ -203,7 +203,7 @@
     },
     {
       "id": "lad-0010",
-      "topico": "11.1",
+      "topico": "9.1.3",
       "tipo": "multipla",
       "enunciado": "Recintos alfandegados são assim declarados pela autoridade aduaneira competente, a fim de que neles possam ocorrer, sob controle aduaneiro, movimentação, armazenagem e despacho aduaneiro.\n\nSobre esses recintos, é correto afirmar que:",
       "alternativas": [
@@ -224,7 +224,7 @@
     },
     {
       "id": "lad-0011",
-      "topico": "11.1",
+      "topico": "9.1.3",
       "tipo": "multipla",
       "enunciado": "Sobre os portos secos, assinale a afirmativa correta.",
       "alternativas": [
@@ -246,7 +246,7 @@
     },
     {
       "id": "lad-0012",
-      "topico": "11.1",
+      "topico": "9.1.3",
       "tipo": "multipla",
       "enunciado": "Uma empresa pretende instalar loja franca para venda de mercadorias a viajantes em aeroporto internacional.\n\nSegundo o Regulamento Aduaneiro, poderão ainda ser alfandegados, em zona primária, recintos destinados à instalação de:",
       "alternativas": [
@@ -268,7 +268,7 @@
     },
     {
       "id": "lad-0013",
-      "topico": "11.1",
+      "topico": "9.1.3",
       "tipo": "multipla",
       "enunciado": "Para efeito de controle aduaneiro, as Zonas de Processamento de Exportação (ZPE):",
       "alternativas": [
@@ -290,7 +290,7 @@
     },
     {
       "id": "lad-0014",
-      "topico": "11.1",
+      "topico": "9.1.1",
       "tipo": "multipla",
       "enunciado": "Sobre a extensão da jurisdição dos serviços aduaneiros, é correto afirmar que ela:",
       "alternativas": [
@@ -313,7 +313,7 @@
     },
     {
       "id": "lad-0015",
-      "topico": "11.1",
+      "topico": "9.1.4",
       "tipo": "multipla",
       "enunciado": "Nos termos da Constituição e do Regulamento Aduaneiro, o exercício da administração aduaneira:",
       "alternativas": [
@@ -335,7 +335,7 @@
     },
     {
       "id": "lad-0016",
-      "topico": "11.1",
+      "topico": "9.1.4",
       "tipo": "multipla",
       "enunciado": "No pátio de um porto alfandegado, a autoridade aduaneira requisitou à administração portuária a imediata disponibilização de equipamento de movimentação e de pessoal para a verificação de contêineres suspeitos.\n\nConsiderando a precedência da autoridade aduaneira, é correto afirmar que:",
       "alternativas": [
@@ -357,7 +357,7 @@
     },
     {
       "id": "lad-0017",
-      "topico": "11.1",
+      "topico": "9.1.4",
       "tipo": "multipla",
       "enunciado": "Nos portos, aeroportos, pontos de fronteira e recintos alfandegados, a fiscalização aduaneira poderá ser:",
       "alternativas": [
@@ -379,7 +379,7 @@
     },
     {
       "id": "lad-0018",
-      "topico": "11.1",
+      "topico": "9.1.4",
       "tipo": "multipla",
       "enunciado": "Durante procedimento fiscal, Auditores-Fiscais da Receita Federal compareceram, às 22 horas, ao depósito de uma empresa importadora que opera em turno noturno e exigiram acesso às mercadorias e aos documentos.\n\nSegundo o Regulamento Aduaneiro, a empresa:",
       "alternativas": [
@@ -401,7 +401,7 @@
     },
     {
       "id": "lad-0019",
-      "topico": "11.1",
+      "topico": "9.1.4",
       "tipo": "multipla",
       "enunciado": "O importador, o exportador ou o adquirente de mercadoria importada por sua conta e ordem têm a obrigação de manter em boa guarda e ordem os documentos relativos às transações que realizarem.\n\nEssa obrigação perdura:",
       "alternativas": [
@@ -423,7 +423,7 @@
     },
     {
       "id": "lad-0020",
-      "topico": "11.1",
+      "topico": "9.1.2",
       "tipo": "multipla",
       "enunciado": "No intuito de reforçar o controle em área de porto alfandegado, a autoridade aduaneira adotou duas medidas: exigiu que parte da zona primária fosse protegida por obstáculos que impedissem o acesso indiscriminado de veículos, pessoas ou animais; e restringiu a entrada de pessoas que ali não exercessem atividades profissionais.\n\nSobre essas medidas, é correto afirmar que:",
       "alternativas": [
@@ -445,7 +445,7 @@
     },
     {
       "id": "lad-0021",
-      "topico": "11.1",
+      "topico": "9.1.1",
       "tipo": "multipla",
       "enunciado": "Analise as afirmativas a seguir.\n\nI. O território aduaneiro compreende todo o território nacional.\nII. Na zona primária de porto alfandegado, a área demarcada pode ser terrestre ou aquática, contínua ou descontínua.\nIII. Para a demarcação da zona primária, é dispensável ouvir o órgão ou a empresa responsável pela administração do local a ser alfandegado.\n\nEstá correto o que se afirma em:",
       "alternativas": [

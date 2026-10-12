@@ -3,7 +3,7 @@
   "questoes": [
     {
       "id": "adm-0003",
-      "topico": "5.1",
+      "topico": "1.1.1",
       "tipo": "multipla",
       "enunciado": "Frederick Taylor sistematizou a Administração Científica a partir de princípios voltados à racionalização do trabalho operário.\n\nAssinale a opção que apresenta um dos princípios da Administração Científica formulados por Taylor.",
       "alternativas": [
@@ -26,7 +26,7 @@
     },
     {
       "id": "adm-0004",
-      "topico": "5.1",
+      "topico": "1.1.1",
       "tipo": "multipla",
       "enunciado": "O gerente de uma unidade de triagem de encomendas decidiu cronometrar cada etapa do trabalho, decompor as tarefas em movimentos elementares, eliminar os movimentos inúteis, padronizar as ferramentas utilizadas e instituir pagamento adicional por volume processado acima da meta.\n\nAs medidas adotadas pelo gerente alinham-se à:",
       "alternativas": [
@@ -49,7 +49,7 @@
     },
     {
       "id": "adm-0005",
-      "topico": "5.1",
+      "topico": "1.1.1",
       "tipo": "multipla",
       "enunciado": "Henry Ford adotou três princípios básicos para a produção em massa.\n\nO princípio que consiste em reduzir o tempo de produção com o emprego imediato dos equipamentos e da matéria-prima e com a rápida colocação do produto no mercado denomina-se:",
       "alternativas": [
@@ -72,7 +72,7 @@
     },
     {
       "id": "adm-0006",
-      "topico": "5.1",
+      "topico": "1.1.1",
       "tipo": "multipla",
       "enunciado": "Henri Fayol distinguiu seis funções básicas de toda empresa e atribuiu a uma delas o papel de coordenar as demais.\n\nSegundo Fayol, a função administrativa é composta por:",
       "alternativas": [
@@ -95,7 +95,7 @@
     },
     {
       "id": "adm-0007",
-      "topico": "5.1",
+      "topico": "1.1.1",
       "tipo": "multipla",
       "enunciado": "Em uma secretaria, todas as atividades relacionadas ao atendimento ao contribuinte passaram a seguir um único plano de ação, sob a responsabilidade de um único gestor, que responde pelo alcance do objetivo comum desse conjunto de atividades.\n\nO princípio de Fayol aplicado nessa reorganização é o da:",
       "alternativas": [
@@ -118,7 +118,7 @@
     },
     {
       "id": "adm-0008",
-      "topico": "5.1",
+      "topico": "1.1.1",
       "tipo": "multipla",
       "enunciado": "A abordagem clássica da administração, que reúne a Administração Científica e a Teoria Clássica, recebeu diversas críticas das escolas que a sucederam.\n\nAssinale a opção que apresenta uma crítica pertinente a essa abordagem.",
       "alternativas": [
@@ -141,7 +141,7 @@
     },
     {
       "id": "adm-0009",
-      "topico": "5.1",
+      "topico": "1.1.1",
       "tipo": "multipla",
       "enunciado": "A experiência de Hawthorne, conduzida na Western Electric sob a coordenação de Elton Mayo, deu origem à Escola de Relações Humanas.\n\nAssinale a opção que apresenta uma conclusão dessa experiência.",
       "alternativas": [
@@ -164,7 +164,7 @@
     },
     {
       "id": "adm-0010",
-      "topico": "5.1",
+      "topico": "1.1.1",
       "tipo": "multipla",
       "enunciado": "Assinale a opção que apresenta corretamente uma diferença entre a Teoria Clássica e a Teoria das Relações Humanas.",
       "alternativas": [
@@ -187,7 +187,7 @@
     },
     {
       "id": "adm-0011",
-      "topico": "5.1",
+      "topico": "1.1.1",
       "tipo": "multipla",
       "enunciado": "Max Weber descreveu a burocracia como a forma mais racional de organização para alcançar objetivos com eficiência.\n\nAssinale a opção que NÃO corresponde a uma característica do modelo burocrático weberiano.",
       "alternativas": [
@@ -210,7 +210,7 @@
     },
     {
       "id": "adm-0012",
-      "topico": "5.1",
+      "topico": "1.1.1",
       "tipo": "multipla",
       "enunciado": "Em determinado órgão, os servidores cumprem as determinações do diretor não em razão de suas qualidades pessoais ou da tradição, mas porque ele ocupa um cargo cujas atribuições estão definidas em normas legalmente estabelecidas. Se outra pessoa assumir o cargo, a obediência se transfere a ela.\n\nSegundo a tipologia de Weber, esse é um exemplo de dominação:",
       "alternativas": [
@@ -233,7 +233,7 @@
     },
     {
       "id": "adm-0013",
-      "topico": "5.1",
+      "topico": "1.1.1",
       "tipo": "multipla",
       "enunciado": "Um contribuinte teve seu pedido indeferido porque o formulário foi preenchido com caneta azul, e não preta, como exige a norma interna. O servidor reconheceu que a informação estava completa e correta, mas afirmou que \"a regra é a regra\".\n\nNa perspectiva de Robert Merton, a situação ilustra a disfunção burocrática denominada:",
       "alternativas": [
@@ -256,7 +256,7 @@
     },
     {
       "id": "adm-0014",
-      "topico": "5.1",
+      "topico": "1.1.1",
       "tipo": "multipla",
       "enunciado": "A Teoria Estruturalista buscou uma síntese entre a Teoria Clássica e a Teoria das Relações Humanas.\n\nSobre essa teoria, é correto afirmar que:",
       "alternativas": [
@@ -279,7 +279,7 @@
     },
     {
       "id": "adm-0015",
-      "topico": "5.1",
+      "topico": "1.1.1",
       "tipo": "multipla",
       "enunciado": "Amitai Etzioni classificou as organizações segundo o tipo de controle predominante sobre seus participantes.\n\nNessa tipologia, organizações como igrejas, universidades e associações voluntárias, que obtêm a adesão dos membros pelo compromisso com valores e crenças, são classificadas como:",
       "alternativas": [
@@ -302,7 +302,7 @@
     },
     {
       "id": "adm-0016",
-      "topico": "5.1",
+      "topico": "1.1.1",
       "tipo": "multipla",
       "enunciado": "Assinale a opção que apresenta características da Teoria Neoclássica da Administração.",
       "alternativas": [
@@ -325,7 +325,7 @@
     },
     {
       "id": "adm-0017",
-      "topico": "5.1",
+      "topico": "1.1.1",
       "tipo": "multipla",
       "enunciado": "Um programa de qualificação profissional reduziu em 30% o custo por aluno e cumpriu integralmente a meta de 5 mil concluintes. Contudo, avaliação posterior verificou que a taxa de empregabilidade dos egressos não se alterou em relação à de quem não participou.\n\nÀ luz dos conceitos de desempenho, o programa foi:",
       "alternativas": [
@@ -348,7 +348,7 @@
     },
     {
       "id": "adm-0018",
-      "topico": "5.1",
+      "topico": "1.1.1",
       "tipo": "multipla",
       "enunciado": "Um gestor acredita que seus subordinados evitam responsabilidades, preferem ser dirigidos e só trabalham sob controle rígido e ameaça de punição. Por isso, supervisiona de perto todas as atividades e não delega decisões.\n\nSegundo Douglas McGregor, esse gestor adota as premissas da:",
       "alternativas": [
@@ -371,7 +371,7 @@
     },
     {
       "id": "adm-0019",
-      "topico": "5.1",
+      "topico": "1.1.1",
       "tipo": "multipla",
       "enunciado": "Herbert Simon, um dos principais nomes da Teoria Comportamental, criticou o modelo de decisão perfeitamente racional.\n\nSegundo Simon, o tomador de decisão nas organizações:",
       "alternativas": [
@@ -394,7 +394,7 @@
     },
     {
       "id": "adm-0020",
-      "topico": "5.1",
+      "topico": "1.1.1",
       "tipo": "multipla",
       "enunciado": "Duas delegacias partiram de estruturas, equipes e recursos bastante diferentes, mas, ao final de dois anos, atingiram o mesmo patamar de desempenho na recuperação de créditos.\n\nNa Teoria Geral dos Sistemas, essa possibilidade corresponde ao conceito de:",
       "alternativas": [
@@ -417,7 +417,7 @@
     },
     {
       "id": "adm-0021",
-      "topico": "5.1",
+      "topico": "1.1.1",
       "tipo": "multipla",
       "enunciado": "Burns e Stalker compararam empresas inseridas em ambientes estáveis com empresas inseridas em ambientes dinâmicos e sujeitos a inovação constante.\n\nDe acordo com as conclusões desses autores, organizações que atuam em ambiente instável tendem a ser mais bem-sucedidas quando adotam estrutura:",
       "alternativas": [
@@ -440,7 +440,7 @@
     },
     {
       "id": "adm-0022",
-      "topico": "5.1",
+      "topico": "1.1.1",
       "tipo": "multipla",
       "enunciado": "A Teoria da Contingência reúne pesquisas que relacionam a estrutura organizacional a variáveis situacionais.\n\nAssinale a opção que associa corretamente o autor à sua contribuição.",
       "alternativas": [
@@ -464,7 +464,7 @@
     },
     {
       "id": "adm-0023",
-      "topico": "5.1",
+      "topico": "1.1.1",
       "tipo": "multipla",
       "enunciado": "Um órgão pretende implantar um novo modelo de trabalho. Antes de qualquer alteração, a direção promoveu debates para evidenciar a insuficiência das práticas atuais e reduzir a resistência dos servidores. Em seguida, implantou os novos procedimentos e, por fim, instituiu normas e incentivos para consolidá-los.\n\nNo modelo de mudança de Kurt Lewin, as etapas descritas correspondem, respectivamente, a:",
       "alternativas": [
@@ -487,7 +487,7 @@
     },
     {
       "id": "adm-0024",
-      "topico": "5.1",
+      "topico": "1.1.1",
       "tipo": "multipla",
       "enunciado": "Ao analisar o ambiente de uma empresa importadora, um consultor separou os elementos em dois níveis: de um lado, fatores amplos como inflação, mudanças demográficas e evolução tecnológica; de outro, fornecedores, clientes, concorrentes e órgãos reguladores com os quais a empresa interage diretamente.\n\nEsses dois níveis correspondem, respectivamente, ao:",
       "alternativas": [
@@ -510,7 +510,7 @@
     },
     {
       "id": "adm-0025",
-      "topico": "5.1",
+      "topico": "1.1.1",
       "tipo": "multipla",
       "enunciado": "Diversos municípios passaram a adotar o mesmo modelo de escritório de projetos sem avaliar sua adequação local, apenas porque ele havia sido implantado por prefeituras consideradas bem-sucedidas, em um contexto de grande incerteza sobre as melhores práticas de gestão.\n\nSegundo DiMaggio e Powell, trata-se de isomorfismo:",
       "alternativas": [
@@ -532,7 +532,7 @@
     },
     {
       "id": "adm-0026",
-      "topico": "5.2",
+      "topico": "1.1.2",
       "tipo": "multipla",
       "enunciado": "O processo administrativo, na visão neoclássica, é composto por um conjunto de funções interligadas.\n\nAssinale a opção que apresenta essas funções, na sequência usualmente adotada.",
       "alternativas": [
@@ -555,7 +555,7 @@
     },
     {
       "id": "adm-0027",
-      "topico": "5.2",
+      "topico": "1.1.2",
       "tipo": "multipla",
       "enunciado": "Sobre as características do processo administrativo, assinale a afirmativa correta.",
       "alternativas": [
@@ -578,7 +578,7 @@
     },
     {
       "id": "adm-0028",
-      "topico": "5.2",
+      "topico": "1.1.3",
       "tipo": "multipla",
       "enunciado": "Ao assumir a direção de uma unidade da Receita Federal, uma gestora definiu os objetivos a serem alcançados nos próximos três anos, analisou o cenário externo e interno e escolheu os cursos de ação necessários para chegar aos resultados pretendidos.\n\nA gestora exerceu a função administrativa de:",
       "alternativas": [
@@ -600,7 +600,7 @@
     },
     {
       "id": "adm-0029",
-      "topico": "5.2",
+      "topico": "1.1.3",
       "tipo": "multipla",
       "enunciado": "Sobre o planejamento como função administrativa, assinale a afirmativa correta.",
       "alternativas": [
@@ -623,7 +623,7 @@
     },
     {
       "id": "adm-0030",
-      "topico": "5.2",
+      "topico": "1.1.3",
       "tipo": "multipla",
       "enunciado": "O planejamento organizacional desdobra-se em níveis.\n\nAssinale a opção que associa corretamente o nível ao seu conteúdo.",
       "alternativas": [
@@ -647,7 +647,7 @@
     },
     {
       "id": "adm-0031",
-      "topico": "5.2",
+      "topico": "1.1.3",
       "tipo": "multipla",
       "enunciado": "Os planos podem ser classificados conforme sua finalidade.\n\nO plano que estabelece a sequência cronológica de atividades a serem executadas para a realização de um trabalho, orientando o \"como fazer\", é denominado:",
       "alternativas": [
@@ -670,7 +670,7 @@
     },
     {
       "id": "adm-0032",
-      "topico": "5.2",
+      "topico": "1.1.3",
       "tipo": "multipla",
       "enunciado": "Após definir os objetivos do próximo exercício, um órgão dividiu o trabalho a ser realizado, agrupou as atividades em unidades especializadas, designou os responsáveis por cada unidade e definiu as relações de autoridade e responsabilidade entre elas.\n\nEssas providências correspondem à função de:",
       "alternativas": [
@@ -692,7 +692,7 @@
     },
     {
       "id": "adm-0033",
-      "topico": "5.2",
+      "topico": "1.1.3",
       "tipo": "multipla",
       "enunciado": "A organização, como função administrativa, envolve a divisão do trabalho em dois sentidos.\n\nAssinale a opção que os distingue corretamente.",
       "alternativas": [
@@ -715,7 +715,7 @@
     },
     {
       "id": "adm-0034",
-      "topico": "5.2",
+      "topico": "1.1.3",
       "tipo": "multipla",
       "enunciado": "Um órgão decidiu ampliar significativamente o número de subordinados diretos de cada chefia, reduzindo o número de níveis hierárquicos.\n\nEssa decisão significa:",
       "alternativas": [
@@ -737,7 +737,7 @@
     },
     {
       "id": "adm-0035",
-      "topico": "5.2",
+      "topico": "1.1.3",
       "tipo": "multipla",
       "enunciado": "Sobre centralização e descentralização como decisões relativas à função de organização, assinale a afirmativa correta.",
       "alternativas": [
@@ -760,7 +760,7 @@
     },
     {
       "id": "adm-0036",
-      "topico": "5.2",
+      "topico": "1.1.3",
       "tipo": "multipla",
       "enunciado": "A função de direção é exercida em diferentes níveis da organização.\n\nAssinale a opção que associa corretamente o nível ao seu agente e abrangência.",
       "alternativas": [
@@ -783,7 +783,7 @@
     },
     {
       "id": "adm-0037",
-      "topico": "5.2",
+      "topico": "1.1.3",
       "tipo": "multipla",
       "enunciado": "Diante da queda de produtividade de sua equipe, um chefe passou a esclarecer expectativas, orientar tecnicamente os servidores, estimular o comprometimento e melhorar os canais de comunicação interna.\n\nEssas ações inserem-se na função administrativa de direção, cujos principais meios são:",
       "alternativas": [
@@ -807,7 +807,7 @@
     },
     {
       "id": "adm-0038",
-      "topico": "5.2",
+      "topico": "1.1.3",
       "tipo": "multipla",
       "enunciado": "A função de controle desenvolve-se em etapas sucessivas.\n\nAssinale a opção que apresenta essas etapas na ordem correta.",
       "alternativas": [
@@ -829,7 +829,7 @@
     },
     {
       "id": "adm-0039",
-      "topico": "5.2",
+      "topico": "1.1.3",
       "tipo": "multipla",
       "enunciado": "Antes de autorizar o início da produção, um órgão passou a inspecionar toda a matéria-prima recebida e a verificar a qualificação dos servidores designados para a atividade.\n\nQuanto ao momento de sua realização, trata-se de controle:",
       "alternativas": [
@@ -851,7 +851,7 @@
     },
     {
       "id": "adm-0040",
-      "topico": "5.2",
+      "topico": "1.1.3",
       "tipo": "multipla",
       "enunciado": "Ao final do exercício, uma secretaria avaliou os resultados alcançados pelos programas executados, comparou-os às metas fixadas e utilizou as conclusões para rever o planejamento do ano seguinte.\n\nEsse controle é classificado como:",
       "alternativas": [
@@ -874,7 +874,7 @@
     },
     {
       "id": "adm-0041",
-      "topico": "5.2",
+      "topico": "1.1.3",
       "tipo": "multipla",
       "enunciado": "Assim como o planejamento, o controle ocorre em três níveis organizacionais.\n\nAssinale a opção que caracteriza corretamente esses níveis.",
       "alternativas": [
@@ -896,7 +896,7 @@
     },
     {
       "id": "adm-0042",
-      "topico": "5.2",
+      "topico": "1.1.3",
       "tipo": "multipla",
       "enunciado": "Para que o controle seja possível, é necessário estabelecer padrões de desempenho.\n\nEsses padrões costumam ser classificados em quatro categorias:",
       "alternativas": [
@@ -918,7 +918,7 @@
     },
     {
       "id": "adm-0043",
-      "topico": "5.2",
+      "topico": "1.1.2",
       "tipo": "multipla",
       "enunciado": "O ciclo PDCA é frequentemente relacionado às funções do processo administrativo.\n\nAssinale a opção que apresenta corretamente essa relação.",
       "alternativas": [
@@ -941,7 +941,7 @@
     },
     {
       "id": "adm-0044",
-      "topico": "5.2",
+      "topico": "1.1.2",
       "tipo": "multipla",
       "enunciado": "Uma autarquia constatou, ao final do controle anual, que determinada meta era tecnicamente inatingível com os recursos disponíveis, e, por isso, revisou os objetivos fixados para o exercício seguinte.\n\nEssa situação evidencia que, no processo administrativo:",
       "alternativas": [
@@ -964,7 +964,7 @@
     },
     {
       "id": "adm-0045",
-      "topico": "5.2",
+      "topico": "1.1.3",
       "tipo": "multipla",
       "enunciado": "O termo \"organização\" comporta dois sentidos na Administração.\n\nAssinale a opção que os distingue corretamente.",
       "alternativas": [
@@ -986,7 +986,7 @@
     },
     {
       "id": "adm-0046",
-      "topico": "5.3",
+      "topico": "1.1.4",
       "tipo": "multipla",
       "enunciado": "Robert Katz identificou três habilidades necessárias ao administrador.\n\nAssinale a opção que as conceitua corretamente.",
       "alternativas": [
@@ -1008,7 +1008,7 @@
     },
     {
       "id": "adm-0047",
-      "topico": "5.3",
+      "topico": "1.1.4",
       "tipo": "multipla",
       "enunciado": "Segundo Katz, a importância relativa das habilidades do administrador varia conforme o nível hierárquico ocupado.\n\nAssinale a afirmativa correta.",
       "alternativas": [
@@ -1031,7 +1031,7 @@
     },
     {
       "id": "adm-0048",
-      "topico": "5.3",
+      "topico": "1.1.4",
       "tipo": "multipla",
       "enunciado": "Recém-nomeado chefe de uma seção de conferência física de cargas, um servidor precisa dominar os procedimentos de verificação, o manuseio dos equipamentos de inspeção e os sistemas utilizados na operação, para orientar e corrigir sua equipe.\n\nA habilidade predominantemente exigida nessa situação é a:",
       "alternativas": [
@@ -1054,7 +1054,7 @@
     },
     {
       "id": "adm-0049",
-      "topico": "5.3",
+      "topico": "1.1.4",
       "tipo": "multipla",
       "enunciado": "Sobre a habilidade humana do administrador, é correto afirmar que:",
       "alternativas": [
@@ -1076,7 +1076,7 @@
     },
     {
       "id": "adm-0050",
-      "topico": "5.3",
+      "topico": "1.1.4",
       "tipo": "multipla",
       "enunciado": "Henry Mintzberg, a partir da observação do trabalho real dos executivos, identificou dez papéis gerenciais agrupados em três categorias.\n\nEssas categorias são:",
       "alternativas": [
@@ -1098,7 +1098,7 @@
     },
     {
       "id": "adm-0051",
-      "topico": "5.3",
+      "topico": "1.1.4",
       "tipo": "multipla",
       "enunciado": "O superintendente de um órgão participou da solenidade de inauguração de uma nova unidade, assinou documentos oficiais de caráter protocolar e recebeu uma comitiva estrangeira em visita institucional.\n\nNessas situações, exerceu o papel de:",
       "alternativas": [
@@ -1121,7 +1121,7 @@
     },
     {
       "id": "adm-0052",
-      "topico": "5.3",
+      "topico": "1.1.4",
       "tipo": "multipla",
       "enunciado": "Um gestor mantém e cultiva uma ampla rede de contatos com dirigentes de outros órgãos, entidades de classe e parceiros externos, buscando favores, informações e apoio para sua unidade.\n\nEsse comportamento corresponde ao papel de:",
       "alternativas": [
@@ -1144,7 +1144,7 @@
     },
     {
       "id": "adm-0053",
-      "topico": "5.3",
+      "topico": "1.1.4",
       "tipo": "multipla",
       "enunciado": "Após a divulgação de dados sobre a atuação de sua unidade, o gestor concedeu entrevista coletiva à imprensa e apresentou os resultados em audiência pública no Congresso Nacional.\n\nNessas ocasiões, exerceu o papel de:",
       "alternativas": [
@@ -1167,7 +1167,7 @@
     },
     {
       "id": "adm-0054",
-      "topico": "5.3",
+      "topico": "1.1.4",
       "tipo": "multipla",
       "enunciado": "Ao retornar de um encontro nacional de dirigentes, uma gestora reuniu sua equipe e repassou as novas diretrizes, tendências e informações obtidas, que até então não eram de conhecimento dos servidores.\n\nEsse comportamento corresponde ao papel de:",
       "alternativas": [
@@ -1190,7 +1190,7 @@
     },
     {
       "id": "adm-0055",
-      "topico": "5.3",
+      "topico": "1.1.4",
       "tipo": "multipla",
       "enunciado": "Identificando uma oportunidade de melhoria, um gestor propôs e iniciou, por iniciativa própria, um projeto de redesenho dos processos de atendimento, com uso de nova tecnologia.\n\nEsse comportamento corresponde ao papel de:",
       "alternativas": [
@@ -1213,7 +1213,7 @@
     },
     {
       "id": "adm-0056",
-      "topico": "5.3",
+      "topico": "1.1.4",
       "tipo": "multipla",
       "enunciado": "Diante de uma paralisação inesperada de servidores terceirizados, que interrompeu o atendimento ao público, o gestor suspendeu sua agenda e passou a adotar medidas emergenciais para restabelecer a operação.\n\nEsse comportamento corresponde ao papel de:",
       "alternativas": [
@@ -1236,7 +1236,7 @@
     },
     {
       "id": "adm-0057",
-      "topico": "5.3",
+      "topico": "1.1.4",
       "tipo": "multipla",
       "enunciado": "Ao decidir como distribuir o orçamento entre as unidades, definir prioridades de investimento e aprovar a escala de pessoal, o gestor exerce o papel de:",
       "alternativas": [
@@ -1259,7 +1259,7 @@
     },
     {
       "id": "adm-0058",
-      "topico": "5.3",
+      "topico": "1.1.4",
       "tipo": "multipla",
       "enunciado": "As pesquisas de Mintzberg sobre o trabalho gerencial contrariaram a imagem clássica do administrador como planejador reflexivo e sistemático.\n\nSegundo suas conclusões, o trabalho do gestor caracteriza-se por:",
       "alternativas": [
@@ -1281,7 +1281,7 @@
     },
     {
       "id": "adm-0059",
-      "topico": "5.3",
+      "topico": "1.1.4",
       "tipo": "multipla",
       "enunciado": "Assinale a opção que NÃO corresponde a um dos dez papéis gerenciais identificados por Mintzberg.",
       "alternativas": [
@@ -1303,7 +1303,7 @@
     },
     {
       "id": "adm-0060",
-      "topico": "5.3",
+      "topico": "1.1.4",
       "tipo": "multipla",
       "enunciado": "Para Chiavenato, o sucesso do administrador depende de competências duráveis, que vão além do simples acúmulo de informação.\n\nEssas competências são:",
       "alternativas": [
@@ -1326,7 +1326,7 @@
     },
     {
       "id": "adm-0061",
-      "topico": "5.3",
+      "topico": "1.1.4",
       "tipo": "multipla",
       "enunciado": "Ao tratar das qualidades necessárias ao administrador, Fayol enumerou um conjunto de atributos exigidos de quem exerce a função administrativa.\n\nAssinale a opção que apresenta corretamente esses atributos.",
       "alternativas": [
@@ -1348,7 +1348,7 @@
     },
     {
       "id": "adm-0062",
-      "topico": "5.3",
+      "topico": "1.1.4",
       "tipo": "multipla",
       "enunciado": "A atuação do administrador varia conforme o nível organizacional em que se encontra.\n\nAssinale a opção que caracteriza corretamente essa variação.",
       "alternativas": [
@@ -1370,7 +1370,7 @@
     },
     {
       "id": "adm-0063",
-      "topico": "5.3",
+      "topico": "1.1.4",
       "tipo": "multipla",
       "enunciado": "A literatura costuma distinguir as figuras do gerente e do líder.\n\nSegundo a formulação de John Kotter, é correto afirmar que:",
       "alternativas": [
@@ -1393,7 +1393,7 @@
     },
     {
       "id": "adm-0064",
-      "topico": "5.3",
+      "topico": "1.1.4",
       "tipo": "multipla",
       "enunciado": "Estudo clássico de Fred Luthans distinguiu os gerentes bem-sucedidos, medidos pela velocidade de promoção na carreira, dos gerentes eficazes, medidos por desempenho da unidade e satisfação dos subordinados.\n\nSegundo esse estudo:",
       "alternativas": [

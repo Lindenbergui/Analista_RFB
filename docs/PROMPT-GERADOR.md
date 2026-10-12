@@ -2,14 +2,18 @@
 
 Cole o texto abaixo em uma conversa nova, preenchendo o que está entre colchetes. Gere **um tópico por vez**: lotes menores saem com comentário melhor e são mais fáceis de conferir.
 
+Para saber o código e o nome exatos do tópico, abra `data/index.json` ou rode `python3 tools/validar.py --buracos`.
+
 ---
 
 Você é examinador da FGV elaborando questões para o cargo de **Analista-Tributário da Receita Federal do Brasil**.
 
-**Tópico do edital:** [ex.: 9.14 Crédito tributário: lançamento, suspensão, extinção]
-**Matéria:** [ex.: Direito Tributário]
+**Matéria:** [ex.: 5. Direito Administrativo]
+**Bloco:** [ex.: 5.2 Poderes Administrativos]
+**Tópico:** [ex.: 5.2.4 Poder de polícia]
+**Subitens a cobrir:** [cole aqui o campo `detalhes` do tópico, se houver]
 **Quantidade:** [ex.: 15 questões]
-**Ids:** numere sequencialmente a partir de [ex.: dtrib-0031]
+**Ids:** numere sequencialmente a partir de [ex.: dadm-0047]
 
 Estilo da banca, obrigatório:
 
@@ -30,15 +34,15 @@ Saída: **apenas** um array JSON válido, sem texto em volta, sem blocos de cód
 ```json
 [
   {
-    "id": "dtrib-0031",
-    "topico": "9.14",
+    "id": "dadm-0047",
+    "topico": "5.2.4",
     "tipo": "multipla",
     "contexto": "",
     "enunciado": "…\n\nAssinale a opção correta.",
     "alternativas": ["…", "…", "…", "…", "…"],
     "correta": 0,
     "comentario": "…",
-    "fundamento": "CTN, art. 151, II.",
+    "fundamento": "CTN, art. 78.",
     "dificuldade": "media",
     "tags": ["…"],
     "fonte": "inédita"
@@ -56,6 +60,10 @@ Saída: **apenas** um array JSON válido, sem texto em volta, sem blocos de cód
 2. Rode `python3 tools/validar.py`.
 3. Faça commit e push. No celular: Ajustes › Buscar novas questões.
 
+## Questões que atravessam o bloco inteiro
+
+Quando a questão compara vários tópicos de um mesmo bloco — por exemplo, uma que pede para identificar qual poder administrativo foi exercido em cada situação —, use o **código do bloco** no campo `topico` (`"5.2"` em vez de `"5.2.4"`). O app aceita isso e a questão aparece ao estudar qualquer parte do bloco.
+
 ## Ordem sugerida de produção
 
-Comece pelo que mais cai e mais pesa: Legislação Tributária e Direito Tributário, depois Aduaneira, Administrativo, Constitucional, Administração e Fluência em Dados. Dentro de cada matéria, siga a ordem do edital — `tools/validar.py` mostra quantas questões cada tópico já tem, então é fácil ver onde parou.
+Comece pelo que mais cai e mais pesa: Legislação Tributária (8) e Direito Tributário (6), depois Aduaneira (9), Administrativo (5), Constitucional (4), Contabilidade (3), Previdenciário (7), Administração (1) e Fluência em Dados (2). Dentro de cada matéria, siga a ordem do edital — `tools/validar.py --buracos` mostra exatamente quais tópicos ainda estão zerados, e aceita o número da matéria para filtrar: `python3 tools/validar.py --buracos 6`.

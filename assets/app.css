@@ -142,7 +142,58 @@ p { margin: 0 0 10px; }
 }
 .materia:active { background: var(--papel-2); }
 .materia .nome { flex: 1; font-weight: 550; }
-.materia .meta { color: var(--tinta-fraca); font-size: 12.5px; font-weight: 400; display: block; margin-top: 2px; }
+.materia .meta, .bloco .meta, .topico .meta {
+  color: var(--tinta-fraca);
+  font-size: 12.5px;
+  font-weight: 400;
+  display: block;
+  margin-top: 2px;
+}
+/* blocos do edital (details/summary) */
+.bloco { border-bottom: 1px solid var(--linha); }
+.bloco > summary {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  list-style: none;
+  cursor: pointer;
+  padding: 13px 4px 13px 12px;
+  border-left: 3px solid var(--rule, var(--linha));
+  font-weight: 550;
+}
+.bloco > summary::-webkit-details-marker { display: none; }
+.bloco > summary::after {
+  content: '＋';
+  color: var(--tinta-fraca);
+  font-size: 13px;
+  width: 1em;
+  text-align: center;
+}
+.bloco[open] > summary::after { content: '−'; }
+.bloco > summary:active { background: var(--papel-2); }
+.bloco > summary .nome { flex: 1; }
+.bloco .acoes-bloco { margin: 2px 0 8px 15px; }
+.bloco .acoes-bloco .btn { flex: 0 0 auto; }
+.bloco > .lista { padding-bottom: 6px; }
+
+.topico {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  text-align: left;
+  background: none;
+  border: 0;
+  border-left: 2px solid var(--rule, transparent);
+  color: inherit;
+  font: inherit;
+  padding: 9px 4px 9px 15px;
+  margin-left: 14px;
+  cursor: pointer;
+}
+.topico:active { background: var(--papel-2); }
+.topico .nome { flex: 1; font-size: 14.5px; font-weight: 450; }
+
 .contador {
   font-variant-numeric: tabular-nums;
   font-size: 15px;

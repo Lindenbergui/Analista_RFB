@@ -1,194 +1,2895 @@
 {
-  "versao": "2026-09-20",
+  "versao": "2026-10-12",
   "concurso": "Analista-Tributário da Receita Federal do Brasil",
   "banca": "FGV",
-  "repo": "",
   "materias": [
     {
       "id": "adm",
+      "numero": "1",
       "nome": "Administração Geral e Pública",
       "curto": "Administração",
       "arquivo": "administracao.json",
       "cor": "#1F6F5C",
-      "topicos": [
-        { "codigo": "5.1", "nome": "Teoria da administração e das organizações" },
-        { "codigo": "5.2", "nome": "Processo administrativo: planejamento, organização, direção, controle" },
-        { "codigo": "5.3", "nome": "Papéis e habilidades do administrador" },
-        { "codigo": "5.4", "nome": "Planejamento estratégico: conceitos, princípios, etapas, níveis, métodos e ferramentas" },
-        { "codigo": "5.5", "nome": "Planejamento tático" },
-        { "codigo": "5.6", "nome": "Planejamento operacional" },
-        { "codigo": "5.7", "nome": "Administração por objetivos" },
-        { "codigo": "5.8", "nome": "Organização: princípios, estrutura, departamentalização, centralização e descentralização" },
-        { "codigo": "5.9", "nome": "Processo decisório: tipos de decisão, decisão racional, heurísticas, ferramentas de apoio" },
-        { "codigo": "5.10", "nome": "Comportamento organizacional: cultura, motivação, liderança, comunicação, equipes" },
-        { "codigo": "5.11", "nome": "Controle: tipos, sistemas, Balanced Scorecard" },
-        { "codigo": "5.12", "nome": "Gestão de pessoas: evolução, conceitos, abordagem estratégica, indicadores" },
-        { "codigo": "5.13", "nome": "Recrutamento e seleção" },
-        { "codigo": "5.14", "nome": "Análise e descrição de cargos" },
-        { "codigo": "5.15", "nome": "Treinamento e desenvolvimento" },
-        { "codigo": "5.16", "nome": "Gestão do desempenho" },
-        { "codigo": "5.17", "nome": "Gestão por competências" },
-        { "codigo": "5.18", "nome": "Gestão da qualidade e excelência gerencial" },
-        { "codigo": "5.19", "nome": "Gestão de projetos" },
-        { "codigo": "5.20", "nome": "Gestão de processos e BPM" },
-        { "codigo": "5.21", "nome": "Administração financeira e análise de demonstrações" },
-        { "codigo": "5.22", "nome": "Reformas administrativas" },
-        { "codigo": "5.23", "nome": "Administração Pública: modelos de Estado e paradigmas" },
-        { "codigo": "5.24", "nome": "Processos participativos" },
-        { "codigo": "5.25", "nome": "Governo eletrônico, transparência, controle social, accountability" },
-        { "codigo": "5.26", "nome": "Gestão por resultados, comunicação e redes organizacionais" },
-        { "codigo": "5.27", "nome": "Administração de pessoal" },
-        { "codigo": "5.28", "nome": "Compras e materiais; Lei 8.666/1993; Lei 14.133/2021" },
-        { "codigo": "5.29", "nome": "Mudanças institucionais: OS, OSCIP, agências, consórcios" },
-        { "codigo": "5.30", "nome": "Programas e projetos: avaliação, custo-benefício, custo-efetividade" },
-        { "codigo": "5.31", "nome": "Governança Pública" },
-        { "codigo": "5.32", "nome": "Gestão de Riscos" },
-        { "codigo": "5.33", "nome": "Políticas públicas" },
-        { "codigo": "5.34", "nome": "Lei 12.527/2011 — Acesso à Informação" },
-        { "codigo": "5.35", "nome": "LC 131/2009 — Transparência" }
+      "blocos": [
+        {
+          "codigo": "1.1",
+          "nome": "Teoria da Administração e das Organizações",
+          "topicos": [
+            {
+              "codigo": "1.1.1",
+              "nome": "Teoria da administração e das organizações"
+            },
+            {
+              "codigo": "1.1.2",
+              "nome": "Processo administrativo"
+            },
+            {
+              "codigo": "1.1.3",
+              "nome": "Funções da administração: planejamento, organização, direção e controle"
+            },
+            {
+              "codigo": "1.1.4",
+              "nome": "Papéis e habilidades do administrador"
+            }
+          ]
+        },
+        {
+          "codigo": "1.2",
+          "nome": "Planejamento",
+          "topicos": [
+            {
+              "codigo": "1.2.1",
+              "nome": "Planejamento estratégico: conceitos, princípios, etapas, níveis, métodos e ferramentas"
+            },
+            {
+              "codigo": "1.2.2",
+              "nome": "Planejamento tático"
+            },
+            {
+              "codigo": "1.2.3",
+              "nome": "Planejamento operacional"
+            },
+            {
+              "codigo": "1.2.4",
+              "nome": "Administração por objetivos"
+            },
+            {
+              "codigo": "1.2.5",
+              "nome": "Conceitos básicos de planejamento"
+            },
+            {
+              "codigo": "1.2.6",
+              "nome": "Aspectos administrativos, técnicos, econômicos e financeiros"
+            }
+          ]
+        },
+        {
+          "codigo": "1.3",
+          "nome": "Organização",
+          "topicos": [
+            {
+              "codigo": "1.3.1",
+              "nome": "Princípios de organização"
+            },
+            {
+              "codigo": "1.3.2",
+              "nome": "Estrutura organizacional"
+            },
+            {
+              "codigo": "1.3.3",
+              "nome": "Departamentalização"
+            },
+            {
+              "codigo": "1.3.4",
+              "nome": "Centralização e descentralização"
+            }
+          ]
+        },
+        {
+          "codigo": "1.4",
+          "nome": "Processo Decisório",
+          "topicos": [
+            {
+              "codigo": "1.4.1",
+              "nome": "Tipos de decisões"
+            },
+            {
+              "codigo": "1.4.2",
+              "nome": "Decisão racional"
+            },
+            {
+              "codigo": "1.4.3",
+              "nome": "Heurísticas"
+            },
+            {
+              "codigo": "1.4.4",
+              "nome": "Ferramentas de apoio à decisão"
+            }
+          ]
+        },
+        {
+          "codigo": "1.5",
+          "nome": "Comportamento Organizacional",
+          "topicos": [
+            {
+              "codigo": "1.5.1",
+              "nome": "Cultura organizacional"
+            },
+            {
+              "codigo": "1.5.2",
+              "nome": "Motivação"
+            },
+            {
+              "codigo": "1.5.3",
+              "nome": "Liderança"
+            },
+            {
+              "codigo": "1.5.4",
+              "nome": "Comunicação"
+            },
+            {
+              "codigo": "1.5.5",
+              "nome": "Equipes de trabalho"
+            }
+          ]
+        },
+        {
+          "codigo": "1.6",
+          "nome": "Controle",
+          "topicos": [
+            {
+              "codigo": "1.6.1",
+              "nome": "Tipos de controle"
+            },
+            {
+              "codigo": "1.6.2",
+              "nome": "Sistemas de controle"
+            },
+            {
+              "codigo": "1.6.3",
+              "nome": "Balanced Scorecard"
+            }
+          ]
+        },
+        {
+          "codigo": "1.7",
+          "nome": "Gestão de Pessoas",
+          "topicos": [
+            {
+              "codigo": "1.7.1",
+              "nome": "Evolução, conceitos básicos, abordagem estratégica e indicadores de gestão de pessoas"
+            },
+            {
+              "codigo": "1.7.2",
+              "nome": "Recrutamento e seleção de pessoas",
+              "detalhes": [
+                "Visão geral e conceitos básicos",
+                "Relação com os demais processos de gestão de pessoas",
+                "Recrutamento interno e externo",
+                "Técnicas de recrutamento e seleção"
+              ]
+            },
+            {
+              "codigo": "1.7.3",
+              "nome": "Análise e descrição de cargos"
+            },
+            {
+              "codigo": "1.7.4",
+              "nome": "Treinamento e desenvolvimento",
+              "detalhes": [
+                "Visão geral e conceitos básicos",
+                "Relação com os demais processos de gestão de pessoas",
+                "Métodos",
+                "Avaliação de programas de treinamento e desenvolvimento"
+              ]
+            },
+            {
+              "codigo": "1.7.5",
+              "nome": "Gestão do desempenho",
+              "detalhes": [
+                "Visão geral e conceitos básicos",
+                "Relação com os demais processos de gestão de pessoas",
+                "Métodos"
+              ]
+            },
+            {
+              "codigo": "1.7.6",
+              "nome": "Gestão por competências"
+            }
+          ]
+        },
+        {
+          "codigo": "1.8",
+          "nome": "Gestão da Qualidade",
+          "topicos": [
+            {
+              "codigo": "1.8.1",
+              "nome": "Gestão da qualidade e modelo de excelência gerencial"
+            },
+            {
+              "codigo": "1.8.2",
+              "nome": "Principais teóricos e suas contribuições para a gestão da qualidade"
+            },
+            {
+              "codigo": "1.8.3",
+              "nome": "Ferramentas de gestão da qualidade"
+            }
+          ]
+        },
+        {
+          "codigo": "1.9",
+          "nome": "Gestão de Projetos",
+          "topicos": [
+            {
+              "codigo": "1.9.1",
+              "nome": "Modelos"
+            },
+            {
+              "codigo": "1.9.2",
+              "nome": "Etapas"
+            },
+            {
+              "codigo": "1.9.3",
+              "nome": "Elaboração"
+            },
+            {
+              "codigo": "1.9.4",
+              "nome": "Técnicas de análise e avaliação de projetos"
+            }
+          ]
+        },
+        {
+          "codigo": "1.10",
+          "nome": "Gestão de Processos",
+          "topicos": [
+            {
+              "codigo": "1.10.1",
+              "nome": "Conceitos da abordagem por processos"
+            },
+            {
+              "codigo": "1.10.2",
+              "nome": "Técnicas de mapeamento, análise e melhoria de processos"
+            },
+            {
+              "codigo": "1.10.3",
+              "nome": "Noções de estatística aplicada ao controle e à melhoria de processos"
+            },
+            {
+              "codigo": "1.10.4",
+              "nome": "BPM"
+            }
+          ]
+        },
+        {
+          "codigo": "1.11",
+          "nome": "Administração Financeira",
+          "topicos": [
+            {
+              "codigo": "1.11.1",
+              "nome": "Administração financeira"
+            },
+            {
+              "codigo": "1.11.2",
+              "nome": "Indicadores de desempenho"
+            },
+            {
+              "codigo": "1.11.3",
+              "nome": "Tipo"
+            },
+            {
+              "codigo": "1.11.4",
+              "nome": "Variáveis"
+            },
+            {
+              "codigo": "1.11.5",
+              "nome": "Princípios gerais de alavancagem operacional e financeira"
+            },
+            {
+              "codigo": "1.11.6",
+              "nome": "Planejamento financeiro de curto e longo prazo"
+            },
+            {
+              "codigo": "1.11.7",
+              "nome": "Conceitos básicos de análise de balanços e demonstrações financeiras"
+            }
+          ]
+        },
+        {
+          "codigo": "1.12",
+          "nome": "Reformas Administrativas e Papel do Estado",
+          "topicos": [
+            {
+              "codigo": "1.12.1",
+              "nome": "As reformas administrativas e a redefinição do papel do Estado"
+            },
+            {
+              "codigo": "1.12.2",
+              "nome": "Reforma do serviço civil: mérito, flexibilidade e responsabilização"
+            },
+            {
+              "codigo": "1.12.3",
+              "nome": "Reforma do aparelho do Estado"
+            }
+          ]
+        },
+        {
+          "codigo": "1.13",
+          "nome": "Administração Pública",
+          "topicos": [
+            {
+              "codigo": "1.13.1",
+              "nome": "Do modelo racional-legal ao paradigma pós-burocrático"
+            },
+            {
+              "codigo": "1.13.2",
+              "nome": "Estado oligárquico e patrimonial"
+            },
+            {
+              "codigo": "1.13.3",
+              "nome": "Estado autoritário e burocrático"
+            },
+            {
+              "codigo": "1.13.4",
+              "nome": "Estado do bem-estar"
+            },
+            {
+              "codigo": "1.13.5",
+              "nome": "Estado regulador"
+            }
+          ]
+        },
+        {
+          "codigo": "1.14",
+          "nome": "Gestão Pública Participativa",
+          "topicos": [
+            {
+              "codigo": "1.14.1",
+              "nome": "Conselhos de gestão"
+            },
+            {
+              "codigo": "1.14.2",
+              "nome": "Orçamento participativo"
+            },
+            {
+              "codigo": "1.14.3",
+              "nome": "Parceria entre governo e sociedade"
+            }
+          ]
+        },
+        {
+          "codigo": "1.15",
+          "nome": "Governo Eletrônico, Transparência e Controle Social",
+          "topicos": [
+            {
+              "codigo": "1.15.1",
+              "nome": "Governo eletrônico"
+            },
+            {
+              "codigo": "1.15.2",
+              "nome": "Transparência da administração pública"
+            },
+            {
+              "codigo": "1.15.3",
+              "nome": "Controle social e cidadania"
+            },
+            {
+              "codigo": "1.15.4",
+              "nome": "Accountability"
+            }
+          ]
+        },
+        {
+          "codigo": "1.16",
+          "nome": "Gestão por Resultados e Comunicação",
+          "topicos": [
+            {
+              "codigo": "1.16.1",
+              "nome": "Gestão por resultados na produção de serviços públicos"
+            },
+            {
+              "codigo": "1.16.2",
+              "nome": "Comunicação na gestão pública"
+            },
+            {
+              "codigo": "1.16.3",
+              "nome": "Gestão de redes organizacionais"
+            }
+          ]
+        },
+        {
+          "codigo": "1.17",
+          "nome": "Administração de Pessoal",
+          "topicos": [
+            {
+              "codigo": "1.17.1",
+              "nome": "Administração de pessoal"
+            }
+          ]
+        },
+        {
+          "codigo": "1.18",
+          "nome": "Administração de Compras e Materiais",
+          "topicos": [
+            {
+              "codigo": "1.18.1",
+              "nome": "Processos de compras governamentais"
+            },
+            {
+              "codigo": "1.18.2",
+              "nome": "Gerenciamento de materiais e estoques"
+            },
+            {
+              "codigo": "1.18.3",
+              "nome": "Sustentabilidade das contratações"
+            }
+          ]
+        },
+        {
+          "codigo": "1.19",
+          "nome": "Mudanças Institucionais",
+          "topicos": [
+            {
+              "codigo": "1.19.1",
+              "nome": "Conselhos"
+            },
+            {
+              "codigo": "1.19.2",
+              "nome": "Organizações sociais"
+            },
+            {
+              "codigo": "1.19.3",
+              "nome": "Organização da sociedade civil de interesse público (OSCIP)"
+            },
+            {
+              "codigo": "1.19.4",
+              "nome": "Agência reguladora"
+            },
+            {
+              "codigo": "1.19.5",
+              "nome": "Agência executiva"
+            },
+            {
+              "codigo": "1.19.6",
+              "nome": "Consórcios públicos"
+            }
+          ]
+        },
+        {
+          "codigo": "1.20",
+          "nome": "Programas, Projetos e Avaliação",
+          "topicos": [
+            {
+              "codigo": "1.20.1",
+              "nome": "Formulação de programas e projetos"
+            },
+            {
+              "codigo": "1.20.2",
+              "nome": "Avaliação de programas e projetos"
+            },
+            {
+              "codigo": "1.20.3",
+              "nome": "Tipos de avaliação"
+            },
+            {
+              "codigo": "1.20.4",
+              "nome": "Análise custo-benefício"
+            },
+            {
+              "codigo": "1.20.5",
+              "nome": "Análise custo-efetividade"
+            }
+          ]
+        },
+        {
+          "codigo": "1.21",
+          "nome": "Governança Pública",
+          "topicos": [
+            {
+              "codigo": "1.21.1",
+              "nome": "Conceitos fundamentais"
+            },
+            {
+              "codigo": "1.21.2",
+              "nome": "Princípios, diretrizes e níveis de análise"
+            },
+            {
+              "codigo": "1.21.3",
+              "nome": "Sistema de governança"
+            },
+            {
+              "codigo": "1.21.4",
+              "nome": "Práticas de governança"
+            }
+          ]
+        },
+        {
+          "codigo": "1.22",
+          "nome": "Gestão de Riscos",
+          "topicos": [
+            {
+              "codigo": "1.22.1",
+              "nome": "Princípios, objetos, técnicas e modelos nacionais e internacionais"
+            },
+            {
+              "codigo": "1.22.2",
+              "nome": "Integração ao planejamento"
+            },
+            {
+              "codigo": "1.22.3",
+              "nome": "Processo de gestão de riscos",
+              "detalhes": [
+                "Comunicação",
+                "Consulta",
+                "Contextualização",
+                "Identificação",
+                "Análise",
+                "Tratamento",
+                "Monitoramento",
+                "Retroalimentação"
+              ]
+            },
+            {
+              "codigo": "1.22.4",
+              "nome": "Boas práticas de gestão de riscos"
+            }
+          ]
+        },
+        {
+          "codigo": "1.23",
+          "nome": "Políticas Públicas",
+          "topicos": [
+            {
+              "codigo": "1.23.1",
+              "nome": "Processo de formulação e desenvolvimento de políticas"
+            },
+            {
+              "codigo": "1.23.2",
+              "nome": "Construção de agendas"
+            },
+            {
+              "codigo": "1.23.3",
+              "nome": "Formulação de políticas"
+            },
+            {
+              "codigo": "1.23.4",
+              "nome": "Implementação de políticas"
+            },
+            {
+              "codigo": "1.23.5",
+              "nome": "Financiamento de políticas públicas"
+            },
+            {
+              "codigo": "1.23.6",
+              "nome": "Indicadores de desempenho de políticas públicas"
+            },
+            {
+              "codigo": "1.23.7",
+              "nome": "Políticas públicas no Estado brasileiro contemporâneo"
+            },
+            {
+              "codigo": "1.23.8",
+              "nome": "Descentralização e democracia"
+            },
+            {
+              "codigo": "1.23.9",
+              "nome": "Participação, atores sociais e controle social"
+            },
+            {
+              "codigo": "1.23.10",
+              "nome": "Gestão local, cidadania e equidade social"
+            },
+            {
+              "codigo": "1.23.11",
+              "nome": "Planejamento e avaliação nas políticas públicas"
+            }
+          ]
+        },
+        {
+          "codigo": "1.24",
+          "nome": "Legislação",
+          "topicos": [
+            {
+              "codigo": "1.24.1",
+              "nome": "Lei Federal nº 12.527/2011 e suas alterações — Lei de Acesso à Informação"
+            },
+            {
+              "codigo": "1.24.2",
+              "nome": "Lei Complementar nº 131/2009 — Lei da Transparência"
+            }
+          ]
+        }
       ]
     },
     {
       "id": "dados",
+      "numero": "2",
       "nome": "Fluência em Dados",
       "curto": "Dados",
       "arquivo": "dados.json",
       "cor": "#2E5E9E",
-      "topicos": [
-        { "codigo": "6.1", "nome": "Conceitos, atributos, métricas, transformação de dados" },
-        { "codigo": "6.2", "nome": "Análise de dados: agrupamentos, tendências, projeções, Analytics" },
-        { "codigo": "6.3", "nome": "Aprendizado de Máquina, IA e PLN" },
-        { "codigo": "6.4", "nome": "Governança de Dados" },
-        { "codigo": "6.5", "nome": "Ciência de dados, Big Data, ciclo de vida e papéis" },
-        { "codigo": "6.6", "nome": "Computação em nuvem e arquitetura de Big Data" },
-        { "codigo": "6.7", "nome": "Python e R" },
-        { "codigo": "6.8", "nome": "Bancos de dados não relacionais e NoSQL" }
+      "blocos": [
+        {
+          "codigo": "2.1",
+          "nome": "Fundamentos de Dados",
+          "topicos": [
+            {
+              "codigo": "2.1.1",
+              "nome": "Conceitos"
+            },
+            {
+              "codigo": "2.1.2",
+              "nome": "Atributos"
+            },
+            {
+              "codigo": "2.1.3",
+              "nome": "Métricas"
+            },
+            {
+              "codigo": "2.1.4",
+              "nome": "Transformação de dados"
+            }
+          ]
+        },
+        {
+          "codigo": "2.2",
+          "nome": "Análise de Dados",
+          "topicos": [
+            {
+              "codigo": "2.2.1",
+              "nome": "Análise de dados"
+            },
+            {
+              "codigo": "2.2.2",
+              "nome": "Agrupamentos"
+            },
+            {
+              "codigo": "2.2.3",
+              "nome": "Tendências"
+            },
+            {
+              "codigo": "2.2.4",
+              "nome": "Projeções"
+            },
+            {
+              "codigo": "2.2.5",
+              "nome": "Conceitos de Analytics"
+            }
+          ]
+        },
+        {
+          "codigo": "2.3",
+          "nome": "Inteligência Artificial",
+          "topicos": [
+            {
+              "codigo": "2.3.1",
+              "nome": "Aprendizado de Máquina"
+            },
+            {
+              "codigo": "2.3.2",
+              "nome": "Inteligência Artificial"
+            },
+            {
+              "codigo": "2.3.3",
+              "nome": "Processamento de Linguagem Natural"
+            }
+          ]
+        },
+        {
+          "codigo": "2.4",
+          "nome": "Governança de Dados",
+          "topicos": [
+            {
+              "codigo": "2.4.1",
+              "nome": "Conceito"
+            },
+            {
+              "codigo": "2.4.2",
+              "nome": "Tipos: centralizada, compartilhada e colegiada"
+            }
+          ]
+        },
+        {
+          "codigo": "2.5",
+          "nome": "Ciência de Dados e Big Data",
+          "topicos": [
+            {
+              "codigo": "2.5.1",
+              "nome": "Importância da informação"
+            },
+            {
+              "codigo": "2.5.2",
+              "nome": "Big Data"
+            },
+            {
+              "codigo": "2.5.3",
+              "nome": "Big Data em relação a outras disciplinas"
+            },
+            {
+              "codigo": "2.5.4",
+              "nome": "Ciência dos dados"
+            },
+            {
+              "codigo": "2.5.5",
+              "nome": "Ciclo de vida do processo de ciência de dados"
+            },
+            {
+              "codigo": "2.5.6",
+              "nome": "Papéis dos envolvidos em projetos de Ciência de Dados e Big Data"
+            }
+          ]
+        },
+        {
+          "codigo": "2.6",
+          "nome": "Computação em Nuvem",
+          "topicos": [
+            {
+              "codigo": "2.6.1",
+              "nome": "Computação em nuvens"
+            },
+            {
+              "codigo": "2.6.2",
+              "nome": "Arquitetura de Big Data"
+            },
+            {
+              "codigo": "2.6.3",
+              "nome": "Modelos de entrega e distribuição de serviços de Big Data"
+            },
+            {
+              "codigo": "2.6.4",
+              "nome": "Plataformas de computação em nuvem para Big Data"
+            }
+          ]
+        },
+        {
+          "codigo": "2.7",
+          "nome": "Linguagens de Programação",
+          "topicos": [
+            {
+              "codigo": "2.7.1",
+              "nome": "Linguagens de programação para ciência de dados"
+            },
+            {
+              "codigo": "2.7.2",
+              "nome": "Linguagem Python"
+            },
+            {
+              "codigo": "2.7.3",
+              "nome": "Linguagem R"
+            }
+          ]
+        },
+        {
+          "codigo": "2.8",
+          "nome": "Bancos de Dados Não Relacionais",
+          "topicos": [
+            {
+              "codigo": "2.8.1",
+              "nome": "Bancos de dados NoSQL"
+            },
+            {
+              "codigo": "2.8.2",
+              "nome": "Modelos NoSQL"
+            },
+            {
+              "codigo": "2.8.3",
+              "nome": "Principais SGBDs"
+            },
+            {
+              "codigo": "2.8.4",
+              "nome": "Soluções para Big Data"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cont",
+      "numero": "3",
+      "nome": "Contabilidade Geral",
+      "curto": "Contabilidade",
+      "arquivo": "contabilidade.json",
+      "cor": "#5C6B2E",
+      "blocos": [
+        {
+          "codigo": "3.1",
+          "nome": "Fundamentos da Contabilidade",
+          "topicos": [
+            {
+              "codigo": "3.1.1",
+              "nome": "Conceito"
+            },
+            {
+              "codigo": "3.1.2",
+              "nome": "Objeto"
+            },
+            {
+              "codigo": "3.1.3",
+              "nome": "Objetivos"
+            },
+            {
+              "codigo": "3.1.4",
+              "nome": "Campo de atuação"
+            },
+            {
+              "codigo": "3.1.5",
+              "nome": "Usuários da informação contábil"
+            }
+          ]
+        },
+        {
+          "codigo": "3.2",
+          "nome": "Princípios e Normas Contábeis",
+          "topicos": [
+            {
+              "codigo": "3.2.1",
+              "nome": "Princípios e Normas Brasileiras de Contabilidade emanadas pelo Conselho Federal de Contabilidade (CFC)"
+            }
+          ]
+        },
+        {
+          "codigo": "3.3",
+          "nome": "Conceitos e Estrutura Contábil",
+          "topicos": [
+            {
+              "codigo": "3.3.1",
+              "nome": "Conceitos"
+            },
+            {
+              "codigo": "3.3.2",
+              "nome": "Forma de avaliação"
+            },
+            {
+              "codigo": "3.3.3",
+              "nome": "Evidenciação"
+            },
+            {
+              "codigo": "3.3.4",
+              "nome": "Natureza"
+            },
+            {
+              "codigo": "3.3.5",
+              "nome": "Espécie"
+            },
+            {
+              "codigo": "3.3.6",
+              "nome": "Estrutura"
+            }
+          ]
+        },
+        {
+          "codigo": "3.4",
+          "nome": "Atos e Fatos Administrativos",
+          "topicos": [
+            {
+              "codigo": "3.4.1",
+              "nome": "Atos administrativos"
+            },
+            {
+              "codigo": "3.4.2",
+              "nome": "Fatos administrativos"
+            }
+          ]
+        },
+        {
+          "codigo": "3.5",
+          "nome": "Livros e Documentação Contábil",
+          "topicos": [
+            {
+              "codigo": "3.5.1",
+              "nome": "Livros contábeis obrigatórios"
+            },
+            {
+              "codigo": "3.5.2",
+              "nome": "Documentação contábil"
+            }
+          ]
+        },
+        {
+          "codigo": "3.6",
+          "nome": "Variações do Patrimônio Líquido",
+          "topicos": [
+            {
+              "codigo": "3.6.1",
+              "nome": "Receita"
+            },
+            {
+              "codigo": "3.6.2",
+              "nome": "Despesa"
+            },
+            {
+              "codigo": "3.6.3",
+              "nome": "Ganhos"
+            },
+            {
+              "codigo": "3.6.4",
+              "nome": "Perdas"
+            }
+          ]
+        },
+        {
+          "codigo": "3.7",
+          "nome": "Apuração dos Resultados",
+          "topicos": [
+            {
+              "codigo": "3.7.1",
+              "nome": "Apuração dos resultados"
+            },
+            {
+              "codigo": "3.7.2",
+              "nome": "Regimes de apuração"
+            },
+            {
+              "codigo": "3.7.3",
+              "nome": "Regime de caixa"
+            },
+            {
+              "codigo": "3.7.4",
+              "nome": "Regime de competência"
+            }
+          ]
+        },
+        {
+          "codigo": "3.8",
+          "nome": "Escrituração Contábil",
+          "topicos": [
+            {
+              "codigo": "3.8.1",
+              "nome": "Lançamentos contábeis"
+            },
+            {
+              "codigo": "3.8.2",
+              "nome": "Contas patrimoniais"
+            },
+            {
+              "codigo": "3.8.3",
+              "nome": "Contas de resultado"
+            }
+          ]
+        },
+        {
+          "codigo": "3.9",
+          "nome": "Fatos Contábeis",
+          "topicos": [
+            {
+              "codigo": "3.9.1",
+              "nome": "Fatos permutativos"
+            },
+            {
+              "codigo": "3.9.2",
+              "nome": "Fatos modificativos"
+            },
+            {
+              "codigo": "3.9.3",
+              "nome": "Fatos mistos"
+            }
+          ]
+        },
+        {
+          "codigo": "3.10",
+          "nome": "Itens Patrimoniais",
+          "topicos": [
+            {
+              "codigo": "3.10.1",
+              "nome": "Conteúdo e conceitos"
+            },
+            {
+              "codigo": "3.10.2",
+              "nome": "Estrutura"
+            },
+            {
+              "codigo": "3.10.3",
+              "nome": "Formas de avaliação"
+            },
+            {
+              "codigo": "3.10.4",
+              "nome": "Classificação dos itens patrimoniais do ativo, do passivo e do patrimônio líquido"
+            }
+          ]
+        },
+        {
+          "codigo": "3.11",
+          "nome": "Demonstrações Contábeis",
+          "topicos": [
+            {
+              "codigo": "3.11.1",
+              "nome": "Balanço patrimonial"
+            },
+            {
+              "codigo": "3.11.2",
+              "nome": "Demonstração do resultado do exercício"
+            },
+            {
+              "codigo": "3.11.3",
+              "nome": "Demonstração de lucros ou prejuízos acumulados"
+            },
+            {
+              "codigo": "3.11.4",
+              "nome": "Demonstração das mutações do patrimônio líquido"
+            },
+            {
+              "codigo": "3.11.5",
+              "nome": "Demonstração dos fluxos de caixa"
+            },
+            {
+              "codigo": "3.11.6",
+              "nome": "Demonstração do valor adicionado"
+            }
+          ]
+        },
+        {
+          "codigo": "3.12",
+          "nome": "Notas Explicativas",
+          "topicos": [
+            {
+              "codigo": "3.12.1",
+              "nome": "Conteúdo"
+            },
+            {
+              "codigo": "3.12.2",
+              "nome": "Forma de apresentação"
+            },
+            {
+              "codigo": "3.12.3",
+              "nome": "Exigências legais de informações"
+            }
+          ]
+        },
+        {
+          "codigo": "3.13",
+          "nome": "Práticas Contábeis Adotadas no Brasil",
+          "topicos": [
+            {
+              "codigo": "3.13.1",
+              "nome": "Ajustes, classificações e avaliações dos itens patrimoniais exigidos pelas novas práticas contábeis adotadas no Brasil"
+            },
+            {
+              "codigo": "3.13.2",
+              "nome": "Lei Federal nº 11.638/2007 e suas alterações"
+            },
+            {
+              "codigo": "3.13.3",
+              "nome": "Lei Federal nº 11.941/2009 e suas alterações"
+            }
+          ]
+        },
+        {
+          "codigo": "3.14",
+          "nome": "Estoques",
+          "topicos": [
+            {
+              "codigo": "3.14.1",
+              "nome": "Tipos de inventários"
+            },
+            {
+              "codigo": "3.14.2",
+              "nome": "Critérios e métodos de avaliação"
+            }
+          ]
+        },
+        {
+          "codigo": "3.15",
+          "nome": "Custo das Mercadorias Vendidas",
+          "topicos": [
+            {
+              "codigo": "3.15.1",
+              "nome": "Apuração do custo das mercadorias vendidas"
+            },
+            {
+              "codigo": "3.15.2",
+              "nome": "Tratamento contábil dos tributos incidentes em operações de compras e vendas"
+            }
+          ]
+        }
       ]
     },
     {
       "id": "const",
+      "numero": "4",
       "nome": "Direito Constitucional",
       "curto": "Constitucional",
       "arquivo": "constitucional.json",
       "cor": "#7A4B9E",
-      "topicos": [
-        { "codigo": "7.1", "nome": "Teoria Geral do Estado" },
-        { "codigo": "7.2", "nome": "Poderes do Estado e suas funções" },
-        { "codigo": "7.3", "nome": "Teoria geral da Constituição" },
-        { "codigo": "7.4", "nome": "Supremacia da Constituição" },
-        { "codigo": "7.5", "nome": "Tipos de Constituição" },
-        { "codigo": "7.6", "nome": "Poder constituinte" },
-        { "codigo": "7.7", "nome": "Princípios constitucionais" },
-        { "codigo": "7.8", "nome": "Interpretação e controle de constitucionalidade" },
-        { "codigo": "7.9", "nome": "Emenda, reforma e revisão constitucional" },
-        { "codigo": "7.10", "nome": "Hierarquia das normas jurídicas" },
-        { "codigo": "7.11", "nome": "Princípios fundamentais" },
-        { "codigo": "7.12", "nome": "Direitos e garantias fundamentais" },
-        { "codigo": "7.13", "nome": "Organização político-administrativa e servidores públicos" },
-        { "codigo": "7.14", "nome": "Organização dos Poderes; controle externo; TCU; STF; STJ" },
-        { "codigo": "7.15", "nome": "Ministério Público" },
-        { "codigo": "7.16", "nome": "Defesa do Estado e das instituições democráticas" },
-        { "codigo": "7.17", "nome": "Tributação e orçamento; finanças públicas" },
-        { "codigo": "7.18", "nome": "Ordem econômica e financeira" },
-        { "codigo": "7.19", "nome": "Ordem social" },
-        { "codigo": "7.20", "nome": "Disposições gerais e ADCT" }
+      "blocos": [
+        {
+          "codigo": "4.1",
+          "nome": "Teoria Geral do Estado",
+          "topicos": [
+            {
+              "codigo": "4.1.1",
+              "nome": "Teoria Geral do Estado"
+            },
+            {
+              "codigo": "4.1.2",
+              "nome": "Poderes do Estado e respectivas funções"
+            }
+          ]
+        },
+        {
+          "codigo": "4.2",
+          "nome": "Teoria Geral da Constituição",
+          "topicos": [
+            {
+              "codigo": "4.2.1",
+              "nome": "Conceito"
+            },
+            {
+              "codigo": "4.2.2",
+              "nome": "Origens"
+            },
+            {
+              "codigo": "4.2.3",
+              "nome": "Conteúdo"
+            },
+            {
+              "codigo": "4.2.4",
+              "nome": "Estrutura"
+            },
+            {
+              "codigo": "4.2.5",
+              "nome": "Classificação"
+            }
+          ]
+        },
+        {
+          "codigo": "4.3",
+          "nome": "Supremacia da Constituição",
+          "topicos": [
+            {
+              "codigo": "4.3.1",
+              "nome": "Supremacia da Constituição"
+            }
+          ]
+        },
+        {
+          "codigo": "4.4",
+          "nome": "Tipos de Constituição",
+          "topicos": [
+            {
+              "codigo": "4.4.1",
+              "nome": "Tipos de Constituição"
+            }
+          ]
+        },
+        {
+          "codigo": "4.5",
+          "nome": "Poder Constituinte",
+          "topicos": [
+            {
+              "codigo": "4.5.1",
+              "nome": "Poder constituinte"
+            }
+          ]
+        },
+        {
+          "codigo": "4.6",
+          "nome": "Princípios Constitucionais",
+          "topicos": [
+            {
+              "codigo": "4.6.1",
+              "nome": "Princípios constitucionais"
+            }
+          ]
+        },
+        {
+          "codigo": "4.7",
+          "nome": "Interpretação e Controle de Constitucionalidade",
+          "topicos": [
+            {
+              "codigo": "4.7.1",
+              "nome": "Interpretação e controle de constitucionalidade"
+            },
+            {
+              "codigo": "4.7.2",
+              "nome": "Normas constitucionais e inconstitucionais"
+            },
+            {
+              "codigo": "4.7.3",
+              "nome": "Competência dos tribunais"
+            },
+            {
+              "codigo": "4.7.4",
+              "nome": "Efeitos da decisão no controle de constitucionalidade"
+            }
+          ]
+        },
+        {
+          "codigo": "4.8",
+          "nome": "Emenda, Reforma e Revisão Constitucional",
+          "topicos": [
+            {
+              "codigo": "4.8.1",
+              "nome": "Emenda constitucional"
+            },
+            {
+              "codigo": "4.8.2",
+              "nome": "Reforma constitucional"
+            },
+            {
+              "codigo": "4.8.3",
+              "nome": "Revisão constitucional"
+            }
+          ]
+        },
+        {
+          "codigo": "4.9",
+          "nome": "Hierarquia das Normas Jurídicas",
+          "topicos": [
+            {
+              "codigo": "4.9.1",
+              "nome": "Hierarquia das normas jurídicas"
+            }
+          ]
+        },
+        {
+          "codigo": "4.10",
+          "nome": "Princípios Fundamentais",
+          "topicos": [
+            {
+              "codigo": "4.10.1",
+              "nome": "Princípios fundamentais da Constituição da República Federativa do Brasil"
+            }
+          ]
+        },
+        {
+          "codigo": "4.11",
+          "nome": "Direitos e Garantias Fundamentais",
+          "topicos": [
+            {
+              "codigo": "4.11.1",
+              "nome": "Direitos e garantias fundamentais"
+            }
+          ]
+        },
+        {
+          "codigo": "4.12",
+          "nome": "Organização do Estado",
+          "topicos": [
+            {
+              "codigo": "4.12.1",
+              "nome": "Organização político-administrativa"
+            },
+            {
+              "codigo": "4.12.2",
+              "nome": "Administração Pública"
+            },
+            {
+              "codigo": "4.12.3",
+              "nome": "Servidores públicos civis"
+            }
+          ]
+        },
+        {
+          "codigo": "4.13",
+          "nome": "Organização dos Poderes",
+          "topicos": [
+            {
+              "codigo": "4.13.1",
+              "nome": "Poder Legislativo",
+              "detalhes": [
+                "Fiscalização contábil, financeira e orçamentária",
+                "Controle externo e sistemas de controle interno",
+                "Tribunal de Contas da União"
+              ]
+            },
+            {
+              "codigo": "4.13.2",
+              "nome": "Poder Executivo",
+              "detalhes": [
+                "Presidente e Vice-Presidente da República",
+                "Atribuições do Presidente da República",
+                "Responsabilidade do Presidente da República",
+                "Ministros de Estado"
+              ]
+            },
+            {
+              "codigo": "4.13.3",
+              "nome": "Poder Judiciário",
+              "detalhes": [
+                "Disposições gerais",
+                "Supremo Tribunal Federal",
+                "Superior Tribunal de Justiça"
+              ]
+            }
+          ]
+        },
+        {
+          "codigo": "4.14",
+          "nome": "Ministério Público",
+          "topicos": [
+            {
+              "codigo": "4.14.1",
+              "nome": "Ministério Público"
+            }
+          ]
+        },
+        {
+          "codigo": "4.15",
+          "nome": "Defesa do Estado e das Instituições Democráticas",
+          "topicos": [
+            {
+              "codigo": "4.15.1",
+              "nome": "Defesa do Estado e das instituições democráticas"
+            }
+          ]
+        },
+        {
+          "codigo": "4.16",
+          "nome": "Tributação e Orçamento",
+          "topicos": [
+            {
+              "codigo": "4.16.1",
+              "nome": "Sistema Tributário Nacional"
+            },
+            {
+              "codigo": "4.16.2",
+              "nome": "Finanças públicas"
+            },
+            {
+              "codigo": "4.16.3",
+              "nome": "Orçamento"
+            }
+          ]
+        },
+        {
+          "codigo": "4.17",
+          "nome": "Ordem Econômica e Financeira",
+          "topicos": [
+            {
+              "codigo": "4.17.1",
+              "nome": "Ordem econômica e financeira"
+            }
+          ]
+        },
+        {
+          "codigo": "4.18",
+          "nome": "Ordem Social",
+          "topicos": [
+            {
+              "codigo": "4.18.1",
+              "nome": "Ordem social"
+            }
+          ]
+        },
+        {
+          "codigo": "4.19",
+          "nome": "Disposições Gerais e Transitórias",
+          "topicos": [
+            {
+              "codigo": "4.19.1",
+              "nome": "Disposições gerais"
+            },
+            {
+              "codigo": "4.19.2",
+              "nome": "Disposições constitucionais transitórias"
+            }
+          ]
+        }
       ]
     },
     {
       "id": "dadm",
+      "numero": "5",
       "nome": "Direito Administrativo",
       "curto": "Administrativo",
       "arquivo": "administrativo.json",
       "cor": "#B0621B",
-      "topicos": [
-        { "codigo": "8.1", "nome": "Administração Pública: princípios básicos" },
-        { "codigo": "8.2", "nome": "Poderes administrativos; uso e abuso de poder" },
-        { "codigo": "8.3", "nome": "Ato administrativo" },
-        { "codigo": "8.4", "nome": "Organização administrativa: direta e indireta" },
-        { "codigo": "8.5", "nome": "Consórcios públicos; Lei 11.107/2005" },
-        { "codigo": "8.6", "nome": "Órgãos públicos" },
-        { "codigo": "8.7", "nome": "Servidores públicos: cargo, emprego e função" },
-        { "codigo": "8.8", "nome": "Lei 8.112/1990" },
-        { "codigo": "8.9", "nome": "Processo administrativo; Lei 9.784/1999" },
-        { "codigo": "8.10", "nome": "Controle administrativo, judicial e legislativo" },
-        { "codigo": "8.11", "nome": "Responsabilidade extracontratual do Estado" },
-        { "codigo": "8.12", "nome": "Improbidade Administrativa; Lei 8.429/1992" },
-        { "codigo": "8.13", "nome": "Lei 11.416/2006" },
-        { "codigo": "8.14", "nome": "Lei 14.133/2021 — Licitações e contratos" },
-        { "codigo": "8.15", "nome": "Serviços públicos" },
-        { "codigo": "8.16", "nome": "Delegação: autorização, permissão e concessão" },
-        { "codigo": "8.17", "nome": "Bens públicos" },
-        { "codigo": "8.18", "nome": "Intervenção do Estado na propriedade" },
-        { "codigo": "8.19", "nome": "Terceiro Setor e entes paraestatais" }
+      "blocos": [
+        {
+          "codigo": "5.1",
+          "nome": "Administração Pública",
+          "topicos": [
+            {
+              "codigo": "5.1.1",
+              "nome": "Princípios básicos"
+            }
+          ]
+        },
+        {
+          "codigo": "5.2",
+          "nome": "Poderes Administrativos",
+          "topicos": [
+            {
+              "codigo": "5.2.1",
+              "nome": "Poder hierárquico"
+            },
+            {
+              "codigo": "5.2.2",
+              "nome": "Poder disciplinar"
+            },
+            {
+              "codigo": "5.2.3",
+              "nome": "Poder regulamentar"
+            },
+            {
+              "codigo": "5.2.4",
+              "nome": "Poder de polícia"
+            },
+            {
+              "codigo": "5.2.5",
+              "nome": "Uso e abuso do poder"
+            }
+          ]
+        },
+        {
+          "codigo": "5.3",
+          "nome": "Ato Administrativo",
+          "topicos": [
+            {
+              "codigo": "5.3.1",
+              "nome": "Conceito, requisitos e atributos"
+            },
+            {
+              "codigo": "5.3.2",
+              "nome": "Anulação, revogação e convalidação"
+            },
+            {
+              "codigo": "5.3.3",
+              "nome": "Discricionariedade e vinculação"
+            }
+          ]
+        },
+        {
+          "codigo": "5.4",
+          "nome": "Organização Administrativa",
+          "topicos": [
+            {
+              "codigo": "5.4.1",
+              "nome": "Administração direta e indireta"
+            },
+            {
+              "codigo": "5.4.2",
+              "nome": "Administração centralizada e descentralizada"
+            },
+            {
+              "codigo": "5.4.3",
+              "nome": "Autarquias"
+            },
+            {
+              "codigo": "5.4.4",
+              "nome": "Fundações"
+            },
+            {
+              "codigo": "5.4.5",
+              "nome": "Empresas públicas"
+            },
+            {
+              "codigo": "5.4.6",
+              "nome": "Sociedades de economia mista"
+            }
+          ]
+        },
+        {
+          "codigo": "5.5",
+          "nome": "Consórcios Públicos",
+          "topicos": [
+            {
+              "codigo": "5.5.1",
+              "nome": "Lei nº 11.107/2005"
+            }
+          ]
+        },
+        {
+          "codigo": "5.6",
+          "nome": "Órgãos Públicos",
+          "topicos": [
+            {
+              "codigo": "5.6.1",
+              "nome": "Conceito"
+            },
+            {
+              "codigo": "5.6.2",
+              "nome": "Natureza"
+            },
+            {
+              "codigo": "5.6.3",
+              "nome": "Classificação"
+            }
+          ]
+        },
+        {
+          "codigo": "5.7",
+          "nome": "Servidores Públicos",
+          "topicos": [
+            {
+              "codigo": "5.7.1",
+              "nome": "Cargo, emprego e função públicos"
+            }
+          ]
+        },
+        {
+          "codigo": "5.8",
+          "nome": "Lei nº 8.112/1990",
+          "topicos": [
+            {
+              "codigo": "5.8.1",
+              "nome": "Disposições preliminares"
+            },
+            {
+              "codigo": "5.8.2",
+              "nome": "Provimento, vacância, remoção, redistribuição e substituição"
+            },
+            {
+              "codigo": "5.8.3",
+              "nome": "Direitos e vantagens",
+              "detalhes": [
+                "Vencimento e remuneração",
+                "Vantagens",
+                "Férias",
+                "Licenças",
+                "Afastamentos",
+                "Direito de petição"
+              ]
+            },
+            {
+              "codigo": "5.8.4",
+              "nome": "Regime disciplinar",
+              "detalhes": [
+                "Deveres e proibições",
+                "Acumulação",
+                "Responsabilidades",
+                "Penalidades"
+              ]
+            },
+            {
+              "codigo": "5.8.5",
+              "nome": "Processo administrativo disciplinar"
+            }
+          ]
+        },
+        {
+          "codigo": "5.9",
+          "nome": "Processo Administrativo",
+          "topicos": [
+            {
+              "codigo": "5.9.1",
+              "nome": "Lei nº 9.784/1999"
+            }
+          ]
+        },
+        {
+          "codigo": "5.10",
+          "nome": "Controle e Responsabilização da Administração",
+          "topicos": [
+            {
+              "codigo": "5.10.1",
+              "nome": "Controle administrativo"
+            },
+            {
+              "codigo": "5.10.2",
+              "nome": "Controle judicial"
+            },
+            {
+              "codigo": "5.10.3",
+              "nome": "Controle legislativo"
+            }
+          ]
+        },
+        {
+          "codigo": "5.11",
+          "nome": "Responsabilidade Extracontratual do Estado",
+          "topicos": [
+            {
+              "codigo": "5.11.1",
+              "nome": "Responsabilidade extracontratual do Estado"
+            }
+          ]
+        },
+        {
+          "codigo": "5.12",
+          "nome": "Improbidade Administrativa",
+          "topicos": [
+            {
+              "codigo": "5.12.1",
+              "nome": "Lei nº 8.429/1992"
+            }
+          ]
+        },
+        {
+          "codigo": "5.13",
+          "nome": "Licitações e Contratos",
+          "topicos": [
+            {
+              "codigo": "5.13.1",
+              "nome": "Nova Lei de Licitações e Contratos da Administração Pública"
+            },
+            {
+              "codigo": "5.13.2",
+              "nome": "Lei nº 14.133/2021"
+            }
+          ]
+        },
+        {
+          "codigo": "5.14",
+          "nome": "Serviços Públicos",
+          "topicos": [
+            {
+              "codigo": "5.14.1",
+              "nome": "Conceito"
+            },
+            {
+              "codigo": "5.14.2",
+              "nome": "Pressupostos constitucionais"
+            },
+            {
+              "codigo": "5.14.3",
+              "nome": "Regime jurídico"
+            },
+            {
+              "codigo": "5.14.4",
+              "nome": "Princípios do serviço público"
+            },
+            {
+              "codigo": "5.14.5",
+              "nome": "Usuário"
+            },
+            {
+              "codigo": "5.14.6",
+              "nome": "Titularidade"
+            }
+          ]
+        },
+        {
+          "codigo": "5.15",
+          "nome": "Delegação de Serviço Público",
+          "topicos": [
+            {
+              "codigo": "5.15.1",
+              "nome": "Autorização"
+            },
+            {
+              "codigo": "5.15.2",
+              "nome": "Permissão"
+            },
+            {
+              "codigo": "5.15.3",
+              "nome": "Concessão"
+            }
+          ]
+        },
+        {
+          "codigo": "5.16",
+          "nome": "Bens Públicos",
+          "topicos": [
+            {
+              "codigo": "5.16.1",
+              "nome": "Regime jurídico"
+            },
+            {
+              "codigo": "5.16.2",
+              "nome": "Classificação"
+            },
+            {
+              "codigo": "5.16.3",
+              "nome": "Administração"
+            },
+            {
+              "codigo": "5.16.4",
+              "nome": "Aquisição e alienação"
+            },
+            {
+              "codigo": "5.16.5",
+              "nome": "Utilização por terceiros",
+              "detalhes": [
+                "Autorização de uso",
+                "Permissão de uso",
+                "Concessão de uso",
+                "Concessão de direito real de uso",
+                "Cessão de uso"
+              ]
+            }
+          ]
+        },
+        {
+          "codigo": "5.17",
+          "nome": "Intervenção do Estado na Propriedade",
+          "topicos": [
+            {
+              "codigo": "5.17.1",
+              "nome": "Desapropriação"
+            },
+            {
+              "codigo": "5.17.2",
+              "nome": "Servidão administrativa"
+            },
+            {
+              "codigo": "5.17.3",
+              "nome": "Tombamento"
+            },
+            {
+              "codigo": "5.17.4",
+              "nome": "Requisição administrativa"
+            },
+            {
+              "codigo": "5.17.5",
+              "nome": "Ocupação temporária"
+            },
+            {
+              "codigo": "5.17.6",
+              "nome": "Limitação administrativa"
+            }
+          ]
+        },
+        {
+          "codigo": "5.18",
+          "nome": "Terceiro Setor",
+          "topicos": [
+            {
+              "codigo": "5.18.1",
+              "nome": "Entes paraestatais"
+            }
+          ]
+        },
+        {
+          "codigo": "5.19",
+          "nome": "Lei Geral de Proteção de Dados",
+          "topicos": [
+            {
+              "codigo": "5.19.1",
+              "nome": "Lei nº 13.709/2018"
+            }
+          ]
+        }
       ]
     },
     {
       "id": "dtrib",
+      "numero": "6",
       "nome": "Direito Tributário",
       "curto": "Tributário",
       "arquivo": "tributario.json",
       "cor": "#9E2B48",
-      "topicos": [
-        { "codigo": "9.1", "nome": "Competência tributária" },
-        { "codigo": "9.2", "nome": "Limitações ao poder de tributar; imunidades; princípios" },
-        { "codigo": "9.3", "nome": "Conceito e classificação dos tributos" },
-        { "codigo": "9.4", "nome": "Tributos da União" },
-        { "codigo": "9.5", "nome": "Tributos dos Estados" },
-        { "codigo": "9.6", "nome": "Tributos dos Municípios" },
-        { "codigo": "9.7", "nome": "Simples Nacional" },
-        { "codigo": "9.8", "nome": "Legislação tributária: vigência, aplicação, interpretação, integração" },
-        { "codigo": "9.9", "nome": "Obrigação principal e acessória" },
-        { "codigo": "9.10", "nome": "Fato gerador" },
-        { "codigo": "9.11", "nome": "Sujeição ativa e passiva; solidariedade; capacidade" },
-        { "codigo": "9.12", "nome": "Domicílio tributário" },
-        { "codigo": "9.13", "nome": "Responsabilidade tributária" },
-        { "codigo": "9.14", "nome": "Crédito tributário: lançamento, suspensão, extinção" },
-        { "codigo": "9.15", "nome": "Pagamento indevido e repetição de indébito" },
-        { "codigo": "9.16", "nome": "Exclusão do crédito tributário" },
-        { "codigo": "9.17", "nome": "Garantias e privilégios do crédito tributário" },
-        { "codigo": "9.18", "nome": "Administração tributária; dívida ativa; certidões" },
-        { "codigo": "9.19", "nome": "Sigilo fiscal" },
-        { "codigo": "9.20", "nome": "Processo Administrativo Fiscal; Decreto 70.235/1972" },
-        { "codigo": "9.21", "nome": "Crimes contra a ordem tributária" },
-        { "codigo": "9.22", "nome": "Ação cautelar fiscal" },
-        { "codigo": "9.23", "nome": "Lei de Liberdade Econômica; Lei 13.874/2019" },
-        { "codigo": "9.24", "nome": "Tributação no regime falimentar" },
-        { "codigo": "9.25", "nome": "Planejamento tributário e abuso de formas" }
+      "blocos": [
+        {
+          "codigo": "6.1",
+          "nome": "Competência Tributária",
+          "topicos": [
+            {
+              "codigo": "6.1.1",
+              "nome": "Competência tributária"
+            }
+          ]
+        },
+        {
+          "codigo": "6.2",
+          "nome": "Limitações Constitucionais ao Poder de Tributar",
+          "topicos": [
+            {
+              "codigo": "6.2.1",
+              "nome": "Imunidades"
+            },
+            {
+              "codigo": "6.2.2",
+              "nome": "Princípios constitucionais tributários"
+            }
+          ]
+        },
+        {
+          "codigo": "6.3",
+          "nome": "Conceito e Classificação dos Tributos",
+          "topicos": [
+            {
+              "codigo": "6.3.1",
+              "nome": "Conceito"
+            },
+            {
+              "codigo": "6.3.2",
+              "nome": "Classificação"
+            }
+          ]
+        },
+        {
+          "codigo": "6.4",
+          "nome": "Tributos por Ente Federativo",
+          "topicos": [
+            {
+              "codigo": "6.4.1",
+              "nome": "Tributos de competência da União"
+            },
+            {
+              "codigo": "6.4.2",
+              "nome": "Tributos de competência dos Estados"
+            },
+            {
+              "codigo": "6.4.3",
+              "nome": "Tributos de competência dos Municípios"
+            },
+            {
+              "codigo": "6.4.4",
+              "nome": "Simples"
+            }
+          ]
+        },
+        {
+          "codigo": "6.5",
+          "nome": "Legislação Tributária",
+          "topicos": [
+            {
+              "codigo": "6.5.1",
+              "nome": "Fontes do Direito Tributário"
+            },
+            {
+              "codigo": "6.5.2",
+              "nome": "Vigência da legislação tributária"
+            },
+            {
+              "codigo": "6.5.3",
+              "nome": "Aplicação da legislação tributária"
+            },
+            {
+              "codigo": "6.5.4",
+              "nome": "Interpretação e integração da legislação tributária"
+            }
+          ]
+        },
+        {
+          "codigo": "6.6",
+          "nome": "Obrigação Tributária",
+          "topicos": [
+            {
+              "codigo": "6.6.1",
+              "nome": "Obrigação tributária principal"
+            },
+            {
+              "codigo": "6.6.2",
+              "nome": "Obrigação tributária acessória"
+            }
+          ]
+        },
+        {
+          "codigo": "6.7",
+          "nome": "Fato Gerador",
+          "topicos": [
+            {
+              "codigo": "6.7.1",
+              "nome": "Fato gerador da obrigação tributária"
+            }
+          ]
+        },
+        {
+          "codigo": "6.8",
+          "nome": "Sujeição Tributária",
+          "topicos": [
+            {
+              "codigo": "6.8.1",
+              "nome": "Sujeição ativa e passiva"
+            },
+            {
+              "codigo": "6.8.2",
+              "nome": "Solidariedade"
+            },
+            {
+              "codigo": "6.8.3",
+              "nome": "Capacidade tributária"
+            }
+          ]
+        },
+        {
+          "codigo": "6.9",
+          "nome": "Domicílio Tributário",
+          "topicos": [
+            {
+              "codigo": "6.9.1",
+              "nome": "Domicílio tributário"
+            }
+          ]
+        },
+        {
+          "codigo": "6.10",
+          "nome": "Responsabilidade Tributária",
+          "topicos": [
+            {
+              "codigo": "6.10.1",
+              "nome": "Conceito"
+            },
+            {
+              "codigo": "6.10.2",
+              "nome": "Responsabilidade dos sucessores"
+            },
+            {
+              "codigo": "6.10.3",
+              "nome": "Responsabilidade de terceiros"
+            },
+            {
+              "codigo": "6.10.4",
+              "nome": "Responsabilidade por infrações"
+            }
+          ]
+        },
+        {
+          "codigo": "6.11",
+          "nome": "Crédito Tributário",
+          "topicos": [
+            {
+              "codigo": "6.11.1",
+              "nome": "Conceito"
+            },
+            {
+              "codigo": "6.11.2",
+              "nome": "Constituição do crédito tributário"
+            },
+            {
+              "codigo": "6.11.3",
+              "nome": "Lançamento e modalidades de lançamento"
+            },
+            {
+              "codigo": "6.11.4",
+              "nome": "Hipóteses de alteração do lançamento"
+            },
+            {
+              "codigo": "6.11.5",
+              "nome": "Suspensão da exigibilidade do crédito tributário e modalidades"
+            },
+            {
+              "codigo": "6.11.6",
+              "nome": "Extinção do crédito tributário e modalidades"
+            }
+          ]
+        },
+        {
+          "codigo": "6.12",
+          "nome": "Pagamento Indevido",
+          "topicos": [
+            {
+              "codigo": "6.12.1",
+              "nome": "Pagamento indevido"
+            }
+          ]
+        },
+        {
+          "codigo": "6.13",
+          "nome": "Exclusão do Crédito Tributário",
+          "topicos": [
+            {
+              "codigo": "6.13.1",
+              "nome": "Modalidades de exclusão"
+            }
+          ]
+        },
+        {
+          "codigo": "6.14",
+          "nome": "Garantias e Privilégios do Crédito Tributário",
+          "topicos": [
+            {
+              "codigo": "6.14.1",
+              "nome": "Garantias"
+            },
+            {
+              "codigo": "6.14.2",
+              "nome": "Privilégios"
+            }
+          ]
+        },
+        {
+          "codigo": "6.15",
+          "nome": "Administração Tributária",
+          "topicos": [
+            {
+              "codigo": "6.15.1",
+              "nome": "Fiscalização"
+            },
+            {
+              "codigo": "6.15.2",
+              "nome": "Dívida ativa"
+            },
+            {
+              "codigo": "6.15.3",
+              "nome": "Certidões negativas"
+            }
+          ]
+        },
+        {
+          "codigo": "6.16",
+          "nome": "Sigilo Fiscal",
+          "topicos": [
+            {
+              "codigo": "6.16.1",
+              "nome": "Sigilo fiscal"
+            }
+          ]
+        },
+        {
+          "codigo": "6.17",
+          "nome": "Processo Administrativo Fiscal",
+          "topicos": [
+            {
+              "codigo": "6.17.1",
+              "nome": "Decreto nº 70.235, de 6 de março de 1972"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prev",
+      "numero": "7",
+      "nome": "Direito Previdenciário",
+      "curto": "Previdenciário",
+      "arquivo": "previdenciario.json",
+      "cor": "#8C4A7D",
+      "blocos": [
+        {
+          "codigo": "7.1",
+          "nome": "Aspectos Teóricos e Conceituais",
+          "topicos": [
+            {
+              "codigo": "7.1.1",
+              "nome": "Seguridade Social"
+            },
+            {
+              "codigo": "7.1.2",
+              "nome": "Previdência Social"
+            }
+          ]
+        },
+        {
+          "codigo": "7.2",
+          "nome": "Seguridade Social",
+          "topicos": [
+            {
+              "codigo": "7.2.1",
+              "nome": "Origem e evolução legislativa no Brasil"
+            },
+            {
+              "codigo": "7.2.2",
+              "nome": "Conceituação"
+            },
+            {
+              "codigo": "7.2.3",
+              "nome": "Organização e princípios constitucionais"
+            }
+          ]
+        },
+        {
+          "codigo": "7.3",
+          "nome": "Legislação Previdenciária",
+          "topicos": [
+            {
+              "codigo": "7.3.1",
+              "nome": "Conteúdo, fontes e autonomia"
+            },
+            {
+              "codigo": "7.3.2",
+              "nome": "Aplicação das normas previdenciárias"
+            },
+            {
+              "codigo": "7.3.3",
+              "nome": "Vigência, hierarquia, interpretação e integração"
+            },
+            {
+              "codigo": "7.3.4",
+              "nome": "Orientação dos tribunais superiores"
+            }
+          ]
+        },
+        {
+          "codigo": "7.4",
+          "nome": "Regime Geral de Previdência Social",
+          "topicos": [
+            {
+              "codigo": "7.4.1",
+              "nome": "Princípios e objetivos"
+            },
+            {
+              "codigo": "7.4.2",
+              "nome": "Conselho Nacional de Previdência Social (CNPS)"
+            },
+            {
+              "codigo": "7.4.3",
+              "nome": "Lei nº 8.212/1991 — Lei do Custeio"
+            },
+            {
+              "codigo": "7.4.4",
+              "nome": "Segurados obrigatórios"
+            },
+            {
+              "codigo": "7.4.5",
+              "nome": "Filiação e inscrição"
+            }
+          ]
+        },
+        {
+          "codigo": "7.5",
+          "nome": "Segurados e Dependentes",
+          "topicos": [
+            {
+              "codigo": "7.5.1",
+              "nome": "Empregado"
+            },
+            {
+              "codigo": "7.5.2",
+              "nome": "Empregado doméstico"
+            },
+            {
+              "codigo": "7.5.3",
+              "nome": "Empresário"
+            },
+            {
+              "codigo": "7.5.4",
+              "nome": "Contribuinte individual"
+            },
+            {
+              "codigo": "7.5.5",
+              "nome": "Equiparado ao contribuinte individual"
+            },
+            {
+              "codigo": "7.5.6",
+              "nome": "Microempreendedor individual (MEI)"
+            },
+            {
+              "codigo": "7.5.7",
+              "nome": "Trabalhador avulso"
+            },
+            {
+              "codigo": "7.5.8",
+              "nome": "Segurado especial"
+            },
+            {
+              "codigo": "7.5.9",
+              "nome": "Segurado facultativo"
+            },
+            {
+              "codigo": "7.5.10",
+              "nome": "Dependentes: conceito, características, filiação e inscrição"
+            }
+          ]
+        },
+        {
+          "codigo": "7.6",
+          "nome": "Trabalhadores Excluídos do Regime Geral",
+          "topicos": [
+            {
+              "codigo": "7.6.1",
+              "nome": "Trabalhadores excluídos do Regime Geral"
+            }
+          ]
+        },
+        {
+          "codigo": "7.7",
+          "nome": "Empresa e Empregador Doméstico",
+          "topicos": [
+            {
+              "codigo": "7.7.1",
+              "nome": "Conceito previdenciário de empresa"
+            },
+            {
+              "codigo": "7.7.2",
+              "nome": "Conceito previdenciário de empregador doméstico"
+            }
+          ]
+        },
+        {
+          "codigo": "7.8",
+          "nome": "Financiamento da Seguridade Social",
+          "topicos": [
+            {
+              "codigo": "7.8.1",
+              "nome": "Receitas da União"
+            },
+            {
+              "codigo": "7.8.2",
+              "nome": "Receitas das contribuições sociais",
+              "detalhes": [
+                "Dos segurados",
+                "Das empresas",
+                "Do empregador doméstico",
+                "Do produtor rural",
+                "Do clube de futebol profissional",
+                "De concursos de prognósticos",
+                "De outras fontes"
+              ]
+            }
+          ]
+        },
+        {
+          "codigo": "7.9",
+          "nome": "Salário de Contribuição",
+          "topicos": [
+            {
+              "codigo": "7.9.1",
+              "nome": "Conceito"
+            },
+            {
+              "codigo": "7.9.2",
+              "nome": "Parcelas integrantes e não integrantes"
+            },
+            {
+              "codigo": "7.9.3",
+              "nome": "Limites mínimo e máximo"
+            },
+            {
+              "codigo": "7.9.4",
+              "nome": "Salário-base: enquadramento, fracionamento, progressão e regressão"
+            },
+            {
+              "codigo": "7.9.5",
+              "nome": "Proporcionalidade"
+            },
+            {
+              "codigo": "7.9.6",
+              "nome": "Reajustamento"
+            }
+          ]
+        },
+        {
+          "codigo": "7.10",
+          "nome": "Arrecadação e Recolhimento",
+          "topicos": [
+            {
+              "codigo": "7.10.1",
+              "nome": "Arrecadação e recolhimento das contribuições destinadas à seguridade social"
+            },
+            {
+              "codigo": "7.10.2",
+              "nome": "Obrigações da empresa e demais contribuintes"
+            },
+            {
+              "codigo": "7.10.3",
+              "nome": "Prazo de recolhimento"
+            }
+          ]
+        },
+        {
+          "codigo": "7.11",
+          "nome": "Responsabilidade Solidária",
+          "topicos": [
+            {
+              "codigo": "7.11.1",
+              "nome": "Conceito, natureza jurídica e características"
+            },
+            {
+              "codigo": "7.11.2",
+              "nome": "Aplicação na construção civil"
+            },
+            {
+              "codigo": "7.11.3",
+              "nome": "Aplicação na cessão de mão de obra"
+            },
+            {
+              "codigo": "7.11.4",
+              "nome": "Aplicação em grupo econômico"
+            }
+          ]
+        },
+        {
+          "codigo": "7.12",
+          "nome": "Isenções e Parcelamentos",
+          "topicos": [
+            {
+              "codigo": "7.12.1",
+              "nome": "Requisitos"
+            },
+            {
+              "codigo": "7.12.2",
+              "nome": "Manutenção"
+            },
+            {
+              "codigo": "7.12.3",
+              "nome": "Perda"
+            }
+          ]
+        },
+        {
+          "codigo": "7.13",
+          "nome": "Crimes e Infrações",
+          "topicos": [
+            {
+              "codigo": "7.13.1",
+              "nome": "Crimes contra a seguridade social"
+            },
+            {
+              "codigo": "7.13.2",
+              "nome": "Infrações à legislação previdenciária"
+            }
+          ]
+        }
       ]
     },
     {
       "id": "ltrib",
+      "numero": "8",
       "nome": "Legislação Tributária",
       "curto": "Leg. Tributária",
       "arquivo": "legislacao-tributaria.json",
       "cor": "#C0392B",
-      "topicos": [
-        { "codigo": "10.1", "nome": "Imposto sobre a Importação" },
-        { "codigo": "10.2", "nome": "Imposto sobre a Exportação" },
-        { "codigo": "10.3", "nome": "ITR" },
-        { "codigo": "10.4", "nome": "Imposto de Renda (PF e PJ)" },
-        { "codigo": "10.5", "nome": "IPI" },
-        { "codigo": "10.6", "nome": "IOF" },
-        { "codigo": "10.7", "nome": "PIS/Pasep e COFINS" },
-        { "codigo": "10.8", "nome": "CSLL" },
-        { "codigo": "10.9", "nome": "CIDE-Combustíveis; Lei 10.336/2001" },
-        { "codigo": "10.10", "nome": "CIDE Universidade-Empresa; Lei 10.168/2000" }
+      "blocos": [
+        {
+          "codigo": "8.1",
+          "nome": "Imposto sobre a Importação",
+          "topicos": [
+            {
+              "codigo": "8.1.1",
+              "nome": "Princípios e regras constitucionais aplicáveis ao imposto"
+            },
+            {
+              "codigo": "8.1.2",
+              "nome": "Fato gerador"
+            },
+            {
+              "codigo": "8.1.3",
+              "nome": "Contribuinte"
+            },
+            {
+              "codigo": "8.1.4",
+              "nome": "Base de cálculo"
+            },
+            {
+              "codigo": "8.1.5",
+              "nome": "Apuração"
+            }
+          ]
+        },
+        {
+          "codigo": "8.2",
+          "nome": "Imposto sobre a Exportação",
+          "topicos": [
+            {
+              "codigo": "8.2.1",
+              "nome": "Princípios e regras constitucionais aplicáveis ao imposto"
+            },
+            {
+              "codigo": "8.2.2",
+              "nome": "Fato gerador"
+            },
+            {
+              "codigo": "8.2.3",
+              "nome": "Contribuinte"
+            },
+            {
+              "codigo": "8.2.4",
+              "nome": "Base de cálculo"
+            },
+            {
+              "codigo": "8.2.5",
+              "nome": "Apuração"
+            }
+          ]
+        },
+        {
+          "codigo": "8.3",
+          "nome": "Imposto sobre a Propriedade Territorial Rural",
+          "topicos": [
+            {
+              "codigo": "8.3.1",
+              "nome": "Princípios e regras constitucionais aplicáveis ao imposto"
+            },
+            {
+              "codigo": "8.3.2",
+              "nome": "Competência e sujeito ativo"
+            },
+            {
+              "codigo": "8.3.3",
+              "nome": "Fato gerador"
+            },
+            {
+              "codigo": "8.3.4",
+              "nome": "Contribuinte"
+            },
+            {
+              "codigo": "8.3.5",
+              "nome": "Base de cálculo"
+            },
+            {
+              "codigo": "8.3.6",
+              "nome": "Apuração"
+            }
+          ]
+        },
+        {
+          "codigo": "8.4",
+          "nome": "Imposto sobre a Renda e Proventos de Qualquer Natureza",
+          "topicos": [
+            {
+              "codigo": "8.4.1",
+              "nome": "Princípios e regras constitucionais aplicáveis ao imposto"
+            },
+            {
+              "codigo": "8.4.2",
+              "nome": "Critérios orientadores",
+              "detalhes": [
+                "Renda e proventos: conceito",
+                "Disponibilidade econômica ou jurídica",
+                "Acréscimo patrimonial"
+              ]
+            },
+            {
+              "codigo": "8.4.3",
+              "nome": "Tributação das pessoas físicas",
+              "detalhes": [
+                "Fato gerador",
+                "Contribuintes",
+                "Responsáveis",
+                "Base de cálculo",
+                "Deduções",
+                "Tributação exclusiva",
+                "Sistema de bases correntes",
+                "Recolhimento mensal obrigatório (carnê-leão)",
+                "Tributação definitiva",
+                "Ajuste anual"
+              ]
+            },
+            {
+              "codigo": "8.4.4",
+              "nome": "Tributação das pessoas jurídicas",
+              "detalhes": [
+                "Fato gerador",
+                "Contribuintes",
+                "Responsáveis",
+                "Base de cálculo",
+                "Despesas dedutíveis e indedutíveis",
+                "Lucro real",
+                "Lucro presumido",
+                "Lucro arbitrado",
+                "Lucros, rendimentos e ganhos de capital obtidos no exterior",
+                "Preço de transferência",
+                "Investimentos em sociedades coligadas e controladas avaliados pelo método do patrimônio líquido",
+                "Reorganizações societárias",
+                "Tributação na fonte",
+                "Regime de caixa e regime de competência",
+                "Apuração"
+              ]
+            }
+          ]
+        },
+        {
+          "codigo": "8.5",
+          "nome": "Imposto sobre Produtos Industrializados",
+          "topicos": [
+            {
+              "codigo": "8.5.1",
+              "nome": "Princípios e regras constitucionais aplicáveis ao imposto"
+            },
+            {
+              "codigo": "8.5.2",
+              "nome": "Fato gerador"
+            },
+            {
+              "codigo": "8.5.3",
+              "nome": "Contribuinte"
+            },
+            {
+              "codigo": "8.5.4",
+              "nome": "Base de cálculo"
+            }
+          ]
+        },
+        {
+          "codigo": "8.6",
+          "nome": "Imposto sobre Operações de Crédito, Câmbio e Seguro ou relativas a Títulos ou Valores Mobiliários (IOF)",
+          "topicos": [
+            {
+              "codigo": "8.6.1",
+              "nome": "Princípios e regras constitucionais aplicáveis ao imposto"
+            },
+            {
+              "codigo": "8.6.2",
+              "nome": "Fato gerador"
+            },
+            {
+              "codigo": "8.6.3",
+              "nome": "Contribuinte"
+            },
+            {
+              "codigo": "8.6.4",
+              "nome": "Base de cálculo"
+            },
+            {
+              "codigo": "8.6.5",
+              "nome": "Apuração"
+            }
+          ]
+        },
+        {
+          "codigo": "8.7",
+          "nome": "Contribuições Sociais",
+          "topicos": [
+            {
+              "codigo": "8.7.1",
+              "nome": "Princípios e regras constitucionais aplicáveis às contribuições sociais"
+            },
+            {
+              "codigo": "8.7.2",
+              "nome": "PIS/Pasep e COFINS",
+              "detalhes": [
+                "Princípios e regras constitucionais aplicáveis às contribuições",
+                "Regime de apuração cumulativa",
+                "Regime de apuração não cumulativa"
+              ]
+            }
+          ]
+        },
+        {
+          "codigo": "8.8",
+          "nome": "Contribuição Social sobre o Lucro Líquido",
+          "topicos": [
+            {
+              "codigo": "8.8.1",
+              "nome": "Princípios e regras constitucionais aplicáveis à contribuição"
+            },
+            {
+              "codigo": "8.8.2",
+              "nome": "Fato gerador"
+            },
+            {
+              "codigo": "8.8.3",
+              "nome": "Contribuinte"
+            },
+            {
+              "codigo": "8.8.4",
+              "nome": "Base de cálculo"
+            },
+            {
+              "codigo": "8.8.5",
+              "nome": "Apuração"
+            }
+          ]
+        },
+        {
+          "codigo": "8.9",
+          "nome": "CIDE-Combustíveis",
+          "topicos": [
+            {
+              "codigo": "8.9.1",
+              "nome": "Lei nº 10.336/2001"
+            },
+            {
+              "codigo": "8.9.2",
+              "nome": "Princípios e regras constitucionais aplicáveis à contribuição"
+            },
+            {
+              "codigo": "8.9.3",
+              "nome": "Fato gerador"
+            },
+            {
+              "codigo": "8.9.4",
+              "nome": "Contribuinte"
+            },
+            {
+              "codigo": "8.9.5",
+              "nome": "Base de cálculo"
+            },
+            {
+              "codigo": "8.9.6",
+              "nome": "Apuração"
+            }
+          ]
+        },
+        {
+          "codigo": "8.10",
+          "nome": "CIDE destinada ao Programa de Estímulo à Interação Universidade-Empresa",
+          "topicos": [
+            {
+              "codigo": "8.10.1",
+              "nome": "Lei nº 10.168/2000"
+            },
+            {
+              "codigo": "8.10.2",
+              "nome": "Princípios e regras constitucionais aplicáveis à contribuição"
+            },
+            {
+              "codigo": "8.10.3",
+              "nome": "Fato gerador"
+            },
+            {
+              "codigo": "8.10.4",
+              "nome": "Contribuinte"
+            },
+            {
+              "codigo": "8.10.5",
+              "nome": "Base de cálculo"
+            },
+            {
+              "codigo": "8.10.6",
+              "nome": "Apuração"
+            }
+          ]
+        }
       ]
     },
     {
       "id": "lad",
+      "numero": "9",
       "nome": "Legislação Aduaneira",
       "curto": "Aduaneira",
       "arquivo": "aduaneira.json",
       "cor": "#1B6E8C",
-      "topicos": [
-        { "codigo": "11.1", "nome": "Jurisdição aduaneira e recintos alfandegados" },
-        { "codigo": "11.2", "nome": "Controle aduaneiro de veículos" },
-        { "codigo": "11.3", "nome": "Tributos na importação e exportação" },
-        { "codigo": "11.4", "nome": "Regimes aduaneiros especiais e áreas especiais" },
-        { "codigo": "11.5", "nome": "Controle aduaneiro de mercadorias; despacho" },
-        { "codigo": "11.6", "nome": "Infrações e penalidades aduaneiras" },
-        { "codigo": "11.7", "nome": "Crédito tributário, processo fiscal e controle administrativo" }
+      "blocos": [
+        {
+          "codigo": "9.1",
+          "nome": "Jurisdição Aduaneira",
+          "topicos": [
+            {
+              "codigo": "9.1.1",
+              "nome": "Território aduaneiro"
+            },
+            {
+              "codigo": "9.1.2",
+              "nome": "Portos, aeroportos e pontos de fronteira alfandegados",
+              "detalhes": [
+                "Alfandegamento"
+              ]
+            },
+            {
+              "codigo": "9.1.3",
+              "nome": "Recintos alfandegados"
+            },
+            {
+              "codigo": "9.1.4",
+              "nome": "Administração aduaneira"
+            }
+          ]
+        },
+        {
+          "codigo": "9.2",
+          "nome": "Controle Aduaneiro de Veículos",
+          "topicos": [
+            {
+              "codigo": "9.2.1",
+              "nome": "Controle aduaneiro de veículos"
+            }
+          ]
+        },
+        {
+          "codigo": "9.3",
+          "nome": "Impostos, Taxas e Contribuições na Importação e na Exportação",
+          "topicos": [
+            {
+              "codigo": "9.3.1",
+              "nome": "Imposto de Importação",
+              "detalhes": [
+                "Incidência",
+                "Fato gerador",
+                "Base de cálculo",
+                "Cálculo",
+                "Contribuintes e responsáveis",
+                "Pagamento e depósito",
+                "Restituição e compensação",
+                "Isenções e reduções",
+                "Imunidade de livros, jornais e periódicos e do papel destinado à sua impressão"
+              ]
+            },
+            {
+              "codigo": "9.3.2",
+              "nome": "Imposto de Exportação",
+              "detalhes": [
+                "Incidência",
+                "Fato gerador",
+                "Base de cálculo",
+                "Cálculo",
+                "Contribuintes",
+                "Pagamento",
+                "Isenções",
+                "Incentivos fiscais na exportação"
+              ]
+            },
+            {
+              "codigo": "9.3.3",
+              "nome": "IPI Vinculado à Importação",
+              "detalhes": [
+                "Incidência",
+                "Fato gerador",
+                "Base de cálculo",
+                "Cálculo",
+                "Contribuinte",
+                "Prazo de recolhimento",
+                "Isenções",
+                "Imunidades de livros, jornais e periódicos e do papel destinado à sua impressão",
+                "Suspensão do pagamento"
+              ]
+            },
+            {
+              "codigo": "9.3.4",
+              "nome": "PIS/Pasep-Importação e COFINS-Importação",
+              "detalhes": [
+                "Incidência",
+                "Fato gerador",
+                "Base de cálculo",
+                "Contribuintes e responsáveis solidários",
+                "Isenções",
+                "Pagamento",
+                "Suspensão do pagamento",
+                "Contribuição para o PIS/Pasep e COFINS na importação de cigarros"
+              ]
+            },
+            {
+              "codigo": "9.3.5",
+              "nome": "CIDE-Combustíveis",
+              "detalhes": [
+                "Incidência",
+                "Fato gerador",
+                "Contribuinte e responsável solidário",
+                "Base de cálculo",
+                "Alíquota",
+                "Pagamento",
+                "Isenções"
+              ]
+            },
+            {
+              "codigo": "9.3.6",
+              "nome": "Taxa de Utilização do Siscomex",
+              "detalhes": [
+                "Taxa de Utilização do Siscomex"
+              ]
+            }
+          ]
+        },
+        {
+          "codigo": "9.4",
+          "nome": "Regimes Aduaneiros Especiais e Aplicados em Áreas Especiais",
+          "topicos": [
+            {
+              "codigo": "9.4.1",
+              "nome": "Trânsito aduaneiro"
+            },
+            {
+              "codigo": "9.4.2",
+              "nome": "Admissão temporária"
+            },
+            {
+              "codigo": "9.4.3",
+              "nome": "Admissão temporária para aperfeiçoamento ativo"
+            },
+            {
+              "codigo": "9.4.4",
+              "nome": "Drawback"
+            },
+            {
+              "codigo": "9.4.5",
+              "nome": "Entreposto aduaneiro"
+            },
+            {
+              "codigo": "9.4.6",
+              "nome": "Recof — Regime de Entreposto Aduaneiro sob Controle Aduaneiro Informatizado"
+            },
+            {
+              "codigo": "9.4.7",
+              "nome": "Recom — Regime Aduaneiro Especial de Importação de Insumos destinados à industrialização por encomenda de produtos classificados nas posições 8701 a 8705 da NCM"
+            },
+            {
+              "codigo": "9.4.8",
+              "nome": "Exportação temporária"
+            },
+            {
+              "codigo": "9.4.9",
+              "nome": "Exportação temporária para aperfeiçoamento passivo"
+            },
+            {
+              "codigo": "9.4.10",
+              "nome": "Repetro — Regime Aduaneiro Especial de Exportação e de Importação de Bens destinados às atividades de pesquisa e lavra das jazidas de petróleo e gás natural"
+            },
+            {
+              "codigo": "9.4.11",
+              "nome": "Repex — Regime Aduaneiro Especial de Importação de Petróleo Bruto e seus Derivados"
+            },
+            {
+              "codigo": "9.4.12",
+              "nome": "Reporto — Regime Tributário para Incentivo à Modernização e à Ampliação da Estrutura Portuária"
+            },
+            {
+              "codigo": "9.4.13",
+              "nome": "Loja franca"
+            },
+            {
+              "codigo": "9.4.14",
+              "nome": "Depósito especial"
+            },
+            {
+              "codigo": "9.4.15",
+              "nome": "Depósito afiançado"
+            },
+            {
+              "codigo": "9.4.16",
+              "nome": "Depósito alfandegado certificado"
+            },
+            {
+              "codigo": "9.4.17",
+              "nome": "Regimes aduaneiros aplicados em áreas especiais",
+              "detalhes": [
+                "Zona Franca de Manaus",
+                "Áreas de Livre Comércio",
+                "Zonas de Processamento de Exportação (ZPE)"
+              ]
+            }
+          ]
+        },
+        {
+          "codigo": "9.5",
+          "nome": "Controle Aduaneiro de Mercadorias",
+          "topicos": [
+            {
+              "codigo": "9.5.1",
+              "nome": "Despacho aduaneiro",
+              "detalhes": [
+                "Despacho de importação",
+                "Despacho de exportação",
+                "Casos especiais",
+                "Revisão aduaneira"
+              ]
+            },
+            {
+              "codigo": "9.5.2",
+              "nome": "Normas especiais",
+              "detalhes": [
+                "Mercadorias provenientes de naufrágio e outros acidentes",
+                "Abandono de mercadoria ou de veículo",
+                "Avaria, extravio e acréscimo",
+                "Mercadorias presumidas idênticas",
+                "Tráfego postal",
+                "Tráfego de cabotagem"
+              ]
+            }
+          ]
+        },
+        {
+          "codigo": "9.6",
+          "nome": "Infrações e Penalidades Aduaneiras",
+          "topicos": [
+            {
+              "codigo": "9.6.1",
+              "nome": "Pena de perdimento"
+            },
+            {
+              "codigo": "9.6.2",
+              "nome": "Multas"
+            },
+            {
+              "codigo": "9.6.3",
+              "nome": "Sanções administrativas"
+            },
+            {
+              "codigo": "9.6.4",
+              "nome": "Relevação de penalidades"
+            },
+            {
+              "codigo": "9.6.5",
+              "nome": "Representação fiscal para fins penais"
+            },
+            {
+              "codigo": "9.6.6",
+              "nome": "Infrações praticadas pelos órgãos da Administração Pública"
+            }
+          ]
+        },
+        {
+          "codigo": "9.7",
+          "nome": "Crédito Tributário, Processo Fiscal e Controle Administrativo Específico da Área Aduaneira",
+          "topicos": [
+            {
+              "codigo": "9.7.1",
+              "nome": "Crédito tributário",
+              "detalhes": [
+                "Lançamento de ofício",
+                "Acréscimos legais",
+                "Decadência e prescrição",
+                "Termo de responsabilidade"
+              ]
+            },
+            {
+              "codigo": "9.7.2",
+              "nome": "Processo fiscal",
+              "detalhes": [
+                "Processo de determinação e exigência de crédito tributário",
+                "Processo de perdimento",
+                "Processo de aplicação de penalidade pelo transporte rodoviário de mercadoria sujeita a pena de perdimento",
+                "Processo de aplicação de sanções administrativas aos intervenientes nas operações de comércio exterior",
+                "Processos de aplicação e de exigências dos direitos antidumping e compensatórios",
+                "Processos de consulta"
+              ]
+            },
+            {
+              "codigo": "9.7.3",
+              "nome": "Controle administrativo específico",
+              "detalhes": [
+                "Destinação de mercadorias",
+                "Controle de processos e de declarações",
+                "Atividades relacionadas aos serviços aduaneiros"
+              ]
+            },
+            {
+              "codigo": "9.7.4",
+              "nome": "Fundo Especial de Desenvolvimento e Aperfeiçoamento das Atividades de Fiscalização (FUNDAF)"
+            }
+          ]
+        }
       ]
     }
   ]

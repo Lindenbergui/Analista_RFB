@@ -7,7 +7,7 @@
 (function () {
   'use strict';
 
-  var VERSAO_APP = '1.0.0';
+  var VERSAO_APP = '2.0.0';
   var K = {
     prog: 'rfb:progresso:v1',
     ajustes: 'rfb:ajustes:v1',
@@ -156,7 +156,14 @@
     estado.porId = new Map();
     materias.forEach(function (m) {
       m.mapaTopicos = {};
-      (m.topicos || []).forEach(function (t) { m.mapaTopicos[t.codigo] = t.nome; });
+      m.listaTopicos = [];
+      (m.blocos || []).forEach(function (b) {
+        m.mapaTopicos[b.codigo] = b.nome;
+        (b.topicos || []).forEach(function (t) {
+          m.mapaTopicos[t.codigo] = t.nome;
+          m.listaTopicos.push({ codigo: t.codigo, nome: t.nome, bloco: b.codigo });
+        });
+      });
       m.questoes.forEach(function (q) { estado.porId.set(q.id, q); });
     });
     return materias.reduce(function (s, m) { return s + m.questoes.length; }, 0);
@@ -164,6 +171,16 @@
 
   function materiaDe(id) {
     return estado.materias.find(function (m) { return m.id === id; });
+  }
+
+  // Um código cobre a si mesmo e a tudo que está abaixo dele: "5.2" cobre "5.2.4".
+  function cobre(codigo, topicoDaQuestao) {
+    if (!topicoDaQuestao) return false;
+    return topicoDaQuestao === codigo || topicoDaQuestao.indexOf(codigo + '.') === 0;
+  }
+
+  function questoesEm(m, codigo) {
+    return m.questoes.filter(function (q) { return cobre(codigo, q.topico); });
   }
 
   /* ---------- repetição espaçada ---------- */
@@ -253,7 +270,10 @@
     estado.materias.forEach(function (m) {
       if (materias && materias.length && materias.indexOf(m.id) === -1) return;
       m.questoes.forEach(function (q) {
-        if (topicos && topicos.length && topicos.indexOf(q.topico) === -1) return;
+        if (topicos && topicos.length) {
+          var bate = topicos.some(function (c) { return cobre(c, q.topico); });
+          if (!bate) return;
+        }
         saida.push(q);
       });
     });
@@ -398,7 +418,7 @@
       var pendente = c.vencidas + Math.min(c.novas, estado.ajustes.novasPorDia);
       var botao = el('button', { class: 'materia', estilo: '--rule:' + m.cor }, [
         el('span', { class: 'nome' }, [
-          document.createTextNode(m.nome),
+          document.createTextNode((m.numero ? m.numero + '. ' : '') + m.nome),
           el('span', { class: 'meta', texto: c.total + ' questões · ' + c.novas + ' novas · ' + c.consolidadas + ' consolidadas' })
         ]),
         el('span', { class: 'contador ' + (c.vencidas ? 'due' : 'zero'), texto: String(c.vencidas) })
@@ -458,28 +478,57 @@
       })
     ]));
 
-    alvo.appendChild(el('h2', { texto: 'Tópicos do edital' }));
-    var lista = el('ul', { class: 'lista' });
-    (m.topicos || []).forEach(function (t) {
-      var qs = m.questoes.filter(function (q) { return q.topico === t.codigo; });
-      var agora = Date.now();
-      var venc = qs.filter(function (q) { return ehVencida(q, agora); }).length;
-      var linha = el('button', {
-        class: 'materia', estilo: '--rule:' + (qs.length ? m.cor : 'var(--linha)'),
-        onclick: function () {
-          if (!qs.length) { aviso('Sem questões em ' + t.codigo + ' ainda.'); return; }
-          iniciar({ modo: 'srs', materias: [m.id], topicos: [t.codigo], titulo: t.codigo, forcarTudo: true });
-        }
-      }, [
+    alvo.appendChild(el('h2', { texto: 'Programa do edital' }));
+    alvo.appendChild(el('p', { class: 'sub', texto: 'Toque em um bloco para ver seus tópicos.' }));
+
+    var agora = Date.now();
+    (m.blocos || []).forEach(function (b) {
+      var qsBloco = questoesEm(m, b.codigo);
+      var vencBloco = qsBloco.filter(function (q) { return ehVencida(q, agora); }).length;
+
+      var caixa = el('details', { class: 'bloco', estilo: '--rule:' + (qsBloco.length ? m.cor : 'var(--linha)') });
+      if (qsBloco.length) caixa.open = true;
+
+      caixa.appendChild(el('summary', null, [
         el('span', { class: 'nome' }, [
-          document.createTextNode(t.codigo + ' ' + t.nome),
-          el('span', { class: 'meta', texto: qs.length ? qs.length + ' questões' : 'sem questões' })
+          document.createTextNode(b.codigo + ' ' + b.nome),
+          el('span', { class: 'meta', texto: qsBloco.length ? qsBloco.length + ' questões' : 'sem questões' })
         ]),
-        el('span', { class: 'contador ' + (venc ? 'due' : 'zero'), texto: String(venc) })
-      ]);
-      lista.appendChild(linha);
+        el('span', { class: 'contador ' + (vencBloco ? 'due' : 'zero'), texto: String(vencBloco) })
+      ]));
+
+      if (qsBloco.length) {
+        caixa.appendChild(el('div', { class: 'acoes acoes-bloco' }, [
+          el('button', {
+            class: 'btn pequeno', texto: 'Estudar o bloco inteiro',
+            onclick: function () {
+              iniciar({ modo: 'srs', materias: [m.id], topicos: [b.codigo], titulo: b.codigo, forcarTudo: true });
+            }
+          })
+        ]));
+      }
+
+      var lista = el('ul', { class: 'lista' });
+      (b.topicos || []).forEach(function (t) {
+        var qs = questoesEm(m, t.codigo);
+        var venc = qs.filter(function (q) { return ehVencida(q, agora); }).length;
+        lista.appendChild(el('button', {
+          class: 'topico', estilo: '--rule:' + (qs.length ? m.cor : 'transparent'),
+          onclick: function () {
+            if (!qs.length) { aviso('Sem questões em ' + t.codigo + ' ainda.'); return; }
+            iniciar({ modo: 'srs', materias: [m.id], topicos: [t.codigo], titulo: t.codigo, forcarTudo: true });
+          }
+        }, [
+          el('span', { class: 'nome' }, [
+            document.createTextNode(t.codigo + ' ' + t.nome),
+            el('span', { class: 'meta', texto: qs.length ? qs.length + ' questões' : 'sem questões' })
+          ]),
+          el('span', { class: 'contador ' + (venc ? 'due' : 'zero'), texto: String(venc) })
+        ]));
+      });
+      caixa.appendChild(lista);
+      alvo.appendChild(caixa);
     });
-    alvo.appendChild(lista);
   }
 
   /* ---------- sessão de estudo ---------- */
@@ -714,8 +763,13 @@
     ]);
     if (f.materia) {
       var m = materiaDe(f.materia);
-      (m.topicos || []).forEach(function (t) {
-        selTopico.appendChild(el('option', { value: t.codigo, texto: t.codigo + ' ' + t.nome, selected: f.topico === t.codigo }));
+      (m.blocos || []).forEach(function (b) {
+        var grupo = el('optgroup', { label: b.codigo + ' ' + b.nome });
+        grupo.appendChild(el('option', { value: b.codigo, texto: 'Todo o bloco ' + b.codigo, selected: f.topico === b.codigo }));
+        (b.topicos || []).forEach(function (t) {
+          grupo.appendChild(el('option', { value: t.codigo, texto: t.codigo + ' ' + t.nome, selected: f.topico === t.codigo }));
+        });
+        selTopico.appendChild(grupo);
       });
     } else {
       selTopico.disabled = true;

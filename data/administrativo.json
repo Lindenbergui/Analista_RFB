@@ -3,7 +3,7 @@
   "questoes": [
     {
       "id": "dadm-0001",
-      "topico": "8.1",
+      "topico": "5.1.1",
       "tipo": "multipla",
       "enunciado": "A expressão \"Administração Pública\" comporta diferentes sentidos na doutrina.\n\nConsidere as frases:\n\n1. \"A Administração Pública federal é composta pelos órgãos da União, suas autarquias, fundações, empresas públicas e sociedades de economia mista.\"\n2. \"A administração pública abrange as atividades de fomento, polícia administrativa, serviço público e intervenção.\"\n\nAs frases empregam a expressão, respectivamente, nos sentidos:",
       "alternativas": [
@@ -26,7 +26,7 @@
     },
     {
       "id": "dadm-0002",
-      "topico": "8.1",
+      "topico": "5.1.1",
       "tipo": "multipla",
       "enunciado": "Sobre a distinção entre Governo e Administração Pública, assinale a afirmativa correta.",
       "alternativas": [
@@ -48,7 +48,7 @@
     },
     {
       "id": "dadm-0003",
-      "topico": "8.1",
+      "topico": "5.1.1",
       "tipo": "multipla",
       "enunciado": "Para Celso Antônio Bandeira de Mello, o regime jurídico-administrativo se assenta em dois princípios, que funcionam como suas \"pedras de toque\".\n\nEsses princípios são:",
       "alternativas": [
@@ -71,7 +71,7 @@
     },
     {
       "id": "dadm-0004",
-      "topico": "8.1",
+      "topico": "5.1.1",
       "tipo": "multipla",
       "enunciado": "Condenada em ação judicial a pagar indenização devida a um cidadão, a Fazenda Pública passou a interpor recursos sucessivos, sem fundamento jurídico plausível, com o único objetivo de retardar o pagamento e preservar o caixa.\n\nÀ luz da distinção doutrinária entre interesse público primário e secundário, é correto afirmar que:",
       "alternativas": [
@@ -93,7 +93,7 @@
     },
     {
       "id": "dadm-0005",
-      "topico": "8.1",
+      "topico": "5.1.1",
       "tipo": "multipla",
       "enunciado": "O art. 37, caput, da Constituição enumera os princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência.\n\nQuanto à abrangência desses princípios, é correto afirmar que se aplicam:",
       "alternativas": [
@@ -116,7 +116,7 @@
     },
     {
       "id": "dadm-0006",
-      "topico": "8.1",
+      "topico": "5.1.1",
       "tipo": "multipla",
       "enunciado": "Sobre o princípio da legalidade, assinale a afirmativa correta.",
       "alternativas": [
@@ -137,7 +137,7 @@
     },
     {
       "id": "dadm-0007",
-      "topico": "8.1",
+      "topico": "5.1.1",
       "tipo": "multipla",
       "enunciado": "Um prefeito determinou que todas as placas das obras municipais exibissem sua fotografia e a frase \"Mais uma obra do prefeito João\", custeadas com recursos públicos.\n\nEssa conduta viola, de modo mais direto, o princípio da:",
       "alternativas": [
@@ -160,7 +160,7 @@
     },
     {
       "id": "dadm-0008",
-      "topico": "8.1",
+      "topico": "5.1.1",
       "tipo": "multipla",
       "enunciado": "Um dos desdobramentos do princípio da impessoalidade relaciona-se à teoria do órgão.\n\nNesse aspecto, a impessoalidade significa que:",
       "alternativas": [
@@ -183,7 +183,7 @@
     },
     {
       "id": "dadm-0009",
-      "topico": "8.1",
+      "topico": "5.1.1",
       "tipo": "multipla",
       "enunciado": "Um prefeito pretende preencher cargos em comissão de assessoramento na prefeitura.\n\nÀ luz da Súmula Vinculante 13, assinale a nomeação que viola a Constituição.",
       "alternativas": [
@@ -206,7 +206,7 @@
     },
     {
       "id": "dadm-0010",
-      "topico": "8.1",
+      "topico": "5.1.1",
       "tipo": "multipla",
       "enunciado": "Um governador nomeou seu irmão, profissional com reconhecida formação e experiência na área, para o cargo de Secretário de Estado de Saúde.\n\nSegundo a jurisprudência do STF sobre a Súmula Vinculante 13, essa nomeação:",
       "alternativas": [
@@ -229,7 +229,7 @@
     },
     {
       "id": "dadm-0011",
-      "topico": "8.1",
+      "topico": "5.1.1",
       "tipo": "multipla",
       "enunciado": "Sobre o princípio da moralidade administrativa, assinale a afirmativa correta.",
       "alternativas": [
@@ -251,7 +251,7 @@
     },
     {
       "id": "dadm-0012",
-      "topico": "8.1",
+      "topico": "5.1.1",
       "tipo": "multipla",
       "enunciado": "Determinado Município passou a divulgar, em seu portal de transparência, o nome de cada servidor e o valor de sua remuneração mensal. Uma associação de servidores ajuizou ação alegando violação à intimidade.\n\nSegundo o entendimento do STF, a divulgação é:",
       "alternativas": [
@@ -274,7 +274,7 @@
     },
     {
       "id": "dadm-0013",
-      "topico": "8.1",
+      "topico": "5.1.1",
       "tipo": "multipla",
       "enunciado": "Sobre o princípio da publicidade, assinale a afirmativa correta.",
       "alternativas": [
@@ -296,7 +296,7 @@
     },
     {
       "id": "dadm-0014",
-      "topico": "8.1",
+      "topico": "5.1.1",
       "tipo": "multipla",
       "enunciado": "O princípio da eficiência foi inserido expressamente no art. 37, caput, da Constituição pela Emenda Constitucional nº 19/1998.\n\nAssinale a opção que apresenta instrumento constitucional relacionado a esse princípio.",
       "alternativas": [
@@ -319,7 +319,7 @@
     },
     {
       "id": "dadm-0015",
-      "topico": "8.1",
+      "topico": "5.1.1",
       "tipo": "multipla",
       "enunciado": "O art. 2º, caput, da Lei nº 9.784/1999 enumera princípios a que a Administração Pública federal deve obedecer.\n\nAssinale a opção que NÃO consta expressamente dessa enumeração.",
       "alternativas": [
@@ -341,7 +341,7 @@
     },
     {
       "id": "dadm-0016",
-      "topico": "8.1",
+      "topico": "5.1.1",
       "tipo": "multipla",
       "enunciado": "Em 2018, um órgão federal concedeu gratificação a um servidor. Em 2025, verificou que a concessão foi ilegal, sem que houvesse má-fé do beneficiário.\n\nÀ luz da Lei nº 9.784/1999, a Administração:",
       "alternativas": [
@@ -364,7 +364,7 @@
     },
     {
       "id": "dadm-0017",
-      "topico": "8.1",
+      "topico": "5.1.1",
       "tipo": "multipla",
       "enunciado": "Assinale a opção que distingue corretamente autotutela e tutela administrativa.",
       "alternativas": [
@@ -387,7 +387,7 @@
     },
     {
       "id": "dadm-0018",
-      "topico": "8.1",
+      "topico": "5.1.1",
       "tipo": "multipla",
       "enunciado": "Um servidor, primário e com bons antecedentes, atrasou em um dia a entrega de um relatório de baixa relevância. A autoridade aplicou-lhe a pena de demissão, sob o argumento de que o descumprimento de prazos compromete a eficiência.\n\nO ato viola sobretudo o princípio da:",
       "alternativas": [
@@ -410,7 +410,7 @@
     },
     {
       "id": "dadm-0019",
-      "topico": "8.1",
+      "topico": "5.1.1",
       "tipo": "multipla",
       "enunciado": "Durante anos, um órgão federal interpretou determinada norma de modo favorável aos administrados. Em 2025, adotou nova interpretação, mais restritiva, e pretendeu aplicá-la para rever situações já consolidadas com base no entendimento anterior.\n\nSegundo a Lei nº 9.784/1999, essa pretensão é:",
       "alternativas": [
@@ -433,7 +433,7 @@
     },
     {
       "id": "dadm-0020",
-      "topico": "8.1",
+      "topico": "5.1.1",
       "tipo": "multipla",
       "enunciado": "A autoridade indeferiu um recurso administrativo limitando-se a declarar que concordava com os fundamentos do parecer jurídico juntado aos autos, que analisava detidamente as alegações do recorrente.\n\nÀ luz da Lei nº 9.784/1999, essa decisão:",
       "alternativas": [
@@ -456,7 +456,7 @@
     },
     {
       "id": "dadm-0021",
-      "topico": "8.1",
+      "topico": "5.1.1",
       "tipo": "multipla",
       "enunciado": "Um servidor ocupante de cargo em comissão foi exonerado, constando do ato que a exoneração decorria da extinção do cargo por falta de recursos orçamentários. Uma semana depois, a mesma autoridade nomeou outra pessoa para o mesmo cargo.\n\nConsiderando que a exoneração de cargo em comissão é ato de livre exoneração, é correto afirmar que:",
       "alternativas": [
@@ -479,7 +479,7 @@
     },
     {
       "id": "dadm-0022",
-      "topico": "8.1",
+      "topico": "5.1.1",
       "tipo": "multipla",
       "enunciado": "Uma concessionária de energia elétrica interrompeu o fornecimento a um consumidor residencial inadimplente, após aviso prévio.\n\nConsiderando o princípio da continuidade do serviço público e a Lei nº 8.987/1995, é correto afirmar que:",
       "alternativas": [
@@ -502,7 +502,7 @@
     },
     {
       "id": "dadm-0023",
-      "topico": "8.1",
+      "topico": "5.1.1",
       "tipo": "multipla",
       "enunciado": "Uma autarquia criada por lei para fiscalizar o exercício de determinada atividade econômica passou a prestar, por decisão de seu dirigente, serviços de assistência social sem qualquer relação com suas finalidades legais.\n\nA conduta viola, de modo mais direto, o princípio da:",
       "alternativas": [
@@ -524,7 +524,7 @@
     },
     {
       "id": "dadm-0024",
-      "topico": "8.2",
+      "topico": "5.2",
       "tipo": "multipla",
       "enunciado": "Sobre os poderes administrativos, assinale a afirmativa correta.",
       "alternativas": [
@@ -546,7 +546,7 @@
     },
     {
       "id": "dadm-0025",
-      "topico": "8.2",
+      "topico": "5.2.1",
       "tipo": "multipla",
       "enunciado": "O poder hierárquico confere à Administração determinadas prerrogativas sobre seus órgãos e agentes.\n\nAssinale a opção que NÃO decorre do poder hierárquico.",
       "alternativas": [
@@ -568,7 +568,7 @@
     },
     {
       "id": "dadm-0026",
-      "topico": "8.2",
+      "topico": "5.2.1",
       "tipo": "multipla",
       "enunciado": "Determinada autoridade pretende delegar parte de suas competências a servidor que não lhe é subordinado.\n\nÀ luz da Lei nº 9.784/1999, essa delegação é:",
       "alternativas": [
@@ -591,7 +591,7 @@
     },
     {
       "id": "dadm-0027",
-      "topico": "8.2",
+      "topico": "5.2.1",
       "tipo": "multipla",
       "enunciado": "Nos termos da Lei nº 9.784/1999, NÃO podem ser objeto de delegação:",
       "alternativas": [
@@ -614,7 +614,7 @@
     },
     {
       "id": "dadm-0028",
-      "topico": "8.2",
+      "topico": "5.2.1",
       "tipo": "multipla",
       "enunciado": "Em caráter excepcional e por motivos relevantes devidamente justificados, uma autoridade superior chamou para si a competência que a lei atribuía a órgão hierarquicamente inferior.\n\nEsse instituto é denominado:",
       "alternativas": [
@@ -636,7 +636,7 @@
     },
     {
       "id": "dadm-0029",
-      "topico": "8.2",
+      "topico": "5.2.1",
       "tipo": "multipla",
       "enunciado": "Assinale a opção que distingue corretamente hierarquia e vinculação.",
       "alternativas": [
@@ -659,7 +659,7 @@
     },
     {
       "id": "dadm-0030",
-      "topico": "8.2",
+      "topico": "5.2.2",
       "tipo": "multipla",
       "enunciado": "Sobre o poder disciplinar, assinale a afirmativa correta.",
       "alternativas": [
@@ -681,7 +681,7 @@
     },
     {
       "id": "dadm-0031",
-      "topico": "8.2",
+      "topico": "5.2.2",
       "tipo": "multipla",
       "enunciado": "Sobre a discricionariedade no poder disciplinar, é correto afirmar que:",
       "alternativas": [
@@ -704,7 +704,7 @@
     },
     {
       "id": "dadm-0032",
-      "topico": "8.2",
+      "topico": "5.2.2",
       "tipo": "multipla",
       "enunciado": "Uma empresa contratada pela Administração descumpriu cláusulas do contrato administrativo e foi sancionada com multa e impedimento de licitar.\n\nEssa sanção decorre do exercício do poder:",
       "alternativas": [
@@ -727,7 +727,7 @@
     },
     {
       "id": "dadm-0033",
-      "topico": "8.2",
+      "topico": "5.2.3",
       "tipo": "multipla",
       "enunciado": "Sobre o poder regulamentar, assinale a afirmativa correta.",
       "alternativas": [
@@ -749,7 +749,7 @@
     },
     {
       "id": "dadm-0034",
-      "topico": "8.2",
+      "topico": "5.2.3",
       "tipo": "multipla",
       "enunciado": "O Presidente da República pretende editar decreto autônomo.\n\nNos termos da Constituição, essa espécie normativa é admitida para dispor sobre:",
       "alternativas": [
@@ -771,7 +771,7 @@
     },
     {
       "id": "dadm-0035",
-      "topico": "8.2",
+      "topico": "5.2.3",
       "tipo": "multipla",
       "enunciado": "Instrução normativa editada por órgão federal, a pretexto de regulamentar lei tributária, criou obrigação não prevista no texto legal.\n\nNesse caso, é correto afirmar que:",
       "alternativas": [
@@ -794,7 +794,7 @@
     },
     {
       "id": "dadm-0036",
-      "topico": "8.2",
+      "topico": "5.2.4",
       "tipo": "multipla",
       "enunciado": "O poder de polícia é definido pelo Código Tributário Nacional.\n\nSegundo esse conceito legal, considera-se poder de polícia a atividade da administração pública que:",
       "alternativas": [
@@ -817,7 +817,7 @@
     },
     {
       "id": "dadm-0037",
-      "topico": "8.2",
+      "topico": "5.2.4",
       "tipo": "multipla",
       "enunciado": "Assinale a opção que apresenta os atributos usualmente reconhecidos ao poder de polícia.",
       "alternativas": [
@@ -839,7 +839,7 @@
     },
     {
       "id": "dadm-0038",
-      "topico": "8.2",
+      "topico": "5.2.4",
       "tipo": "multipla",
       "enunciado": "A autoexecutoriedade do poder de polícia:",
       "alternativas": [
@@ -862,7 +862,7 @@
     },
     {
       "id": "dadm-0039",
-      "topico": "8.2",
+      "topico": "5.2.4",
       "tipo": "multipla",
       "enunciado": "Assinale a opção que distingue corretamente a polícia administrativa da polícia judiciária.",
       "alternativas": [
@@ -884,7 +884,7 @@
     },
     {
       "id": "dadm-0040",
-      "topico": "8.2",
+      "topico": "5.2.4",
       "tipo": "multipla",
       "enunciado": "A doutrina identifica quatro fases ou ciclos do poder de polícia.\n\nSegundo a jurisprudência do STF sobre a delegação desses ciclos a entidades da administração indireta, é correto afirmar que:",
       "alternativas": [
@@ -907,7 +907,7 @@
     },
     {
       "id": "dadm-0041",
-      "topico": "8.2",
+      "topico": "5.2.4",
       "tipo": "multipla",
       "enunciado": "Um particular requereu alvará para construir em terreno urbano, preenchendo todos os requisitos previstos na legislação municipal. Em outro caso, requereu autorização para uso de bem público para realização de evento temporário.\n\nSobre esses atos, é correto afirmar que:",
       "alternativas": [
@@ -930,7 +930,7 @@
     },
     {
       "id": "dadm-0042",
-      "topico": "8.2",
+      "topico": "5.2.4",
       "tipo": "multipla",
       "enunciado": "Uma lei municipal fixou multa no valor de R$ 500.000,00 para o comerciante que deixar de afixar, na vitrine, cartaz informativo de pequeno porte, sem que do descumprimento resulte risco à saúde ou à segurança.\n\nSobre essa previsão, é correto afirmar que:",
       "alternativas": [
@@ -953,7 +953,7 @@
     },
     {
       "id": "dadm-0043",
-      "topico": "8.2",
+      "topico": "5.2.5",
       "tipo": "multipla",
       "enunciado": "Um fiscal, legalmente competente para interditar estabelecimentos insalubres, interditou determinado restaurante não por razões sanitárias, mas para prejudicar o proprietário, de quem era desafeto pessoal.\n\nNessa hipótese, configura-se:",
       "alternativas": [
@@ -975,7 +975,7 @@
     },
     {
       "id": "dadm-0044",
-      "topico": "8.2",
+      "topico": "5.2.5",
       "tipo": "multipla",
       "enunciado": "Servidor sem competência para aplicar a penalidade de demissão, mas competente para aplicar advertência, demitiu outro servidor ao final de processo disciplinar.\n\nNessa hipótese, configura-se:",
       "alternativas": [
@@ -998,7 +998,7 @@
     },
     {
       "id": "dadm-0045",
-      "topico": "8.2",
+      "topico": "5.2.5",
       "tipo": "multipla",
       "enunciado": "Sobre o controle do abuso de poder, assinale a afirmativa correta.",
       "alternativas": [
@@ -1021,7 +1021,7 @@
     },
     {
       "id": "dadm-0046",
-      "topico": "8.2",
+      "topico": "5.2",
       "tipo": "multipla",
       "enunciado": "Assinale a opção que associa corretamente a situação ao poder administrativo exercido.",
       "alternativas": [

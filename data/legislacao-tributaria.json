@@ -3,7 +3,7 @@
   "questoes": [
     {
       "id": "ltrib-0001",
-      "topico": "10.1",
+      "topico": "8.1.1",
       "tipo": "multipla",
       "enunciado": "O Imposto de Importação tem função predominantemente extrafiscal, servindo de instrumento de política econômica e cambial.\n\nEm razão disso, é correto afirmar que o II:",
       "alternativas": [
@@ -26,7 +26,7 @@
     },
     {
       "id": "ltrib-0002",
-      "topico": "10.1",
+      "topico": "8.1.2",
       "tipo": "multipla",
       "enunciado": "Uma empresa registrou, em 10 de março, a declaração de importação de mercadoria estrangeira submetida a despacho para consumo, embora o navio tivesse atracado no porto em 25 de fevereiro e a mercadoria tenha sido desembaraçada em 15 de março.\n\nPara efeito de cálculo do Imposto de Importação, considera-se ocorrido o fato gerador em:",
       "alternativas": [
@@ -49,7 +49,7 @@
     },
     {
       "id": "ltrib-0003",
-      "topico": "10.1",
+      "topico": "8.1.2",
       "tipo": "multipla",
       "enunciado": "Fora da hipótese de mercadoria despachada para consumo, a legislação fixa outro momento para a ocorrência do fato gerador do Imposto de Importação.\n\nAssinale a opção que apresenta hipótese em que o fato gerador se considera ocorrido no dia do lançamento do correspondente crédito tributário.",
       "alternativas": [
@@ -72,7 +72,7 @@
     },
     {
       "id": "ltrib-0004",
-      "topico": "10.1",
+      "topico": "8.1.2",
       "tipo": "multipla",
       "enunciado": "Mercadoria estrangeira permaneceu em recinto alfandegado e teve vencido o prazo de permanência, iniciando-se o despacho aduaneiro antes da aplicação da pena de perdimento.\n\nNessa hipótese, considera-se ocorrido o fato gerador do Imposto de Importação:",
       "alternativas": [
@@ -95,7 +95,7 @@
     },
     {
       "id": "ltrib-0005",
-      "topico": "10.1",
+      "topico": "8.1.2",
       "tipo": "multipla",
       "enunciado": "Assinale a opção que apresenta hipótese em que INCIDE o Imposto de Importação.",
       "alternativas": [
@@ -117,7 +117,7 @@
     },
     {
       "id": "ltrib-0006",
-      "topico": "10.1",
+      "topico": "8.1.2",
       "tipo": "multipla",
       "enunciado": "Por erro comprovado do exportador estrangeiro, um contêiner corretamente descrito nos documentos foi embarcado para o Brasil em lugar do país de destino contratado. Identificado o equívoco, a carga foi redestinada ao exterior sob controle aduaneiro.\n\nQuanto ao Imposto de Importação:",
       "alternativas": [
@@ -139,7 +139,7 @@
     },
     {
       "id": "ltrib-0007",
-      "topico": "10.1",
+      "topico": "8.1.2",
       "tipo": "multipla",
       "enunciado": "Mercadoria nacional foi exportada em consignação e, não tendo sido vendida no prazo autorizado, retornou ao Brasil.\n\nSobre a incidência do Imposto de Importação nesse retorno, é correto afirmar que:",
       "alternativas": [
@@ -161,7 +161,7 @@
     },
     {
       "id": "ltrib-0008",
-      "topico": "10.1",
+      "topico": "8.1.4",
       "tipo": "multipla",
       "enunciado": "Sobre a base de cálculo do Imposto de Importação, assinale a afirmativa correta.",
       "alternativas": [
@@ -183,7 +183,7 @@
     },
     {
       "id": "ltrib-0009",
-      "topico": "10.1",
+      "topico": "8.1.4",
       "tipo": "multipla",
       "enunciado": "Sobre os métodos de valoração aduaneira previstos no Acordo de Valoração Aduaneira, assinale a afirmativa correta.",
       "alternativas": [
@@ -206,7 +206,7 @@
     },
     {
       "id": "ltrib-0010",
-      "topico": "10.1",
+      "topico": "8.1.4",
       "tipo": "multipla",
       "enunciado": "Na apuração do valor aduaneiro de mercadoria importada por via marítima, devem ser considerados, entre outros elementos:",
       "alternativas": [
@@ -229,7 +229,7 @@
     },
     {
       "id": "ltrib-0011",
-      "topico": "10.1",
+      "topico": "8.1.3",
       "tipo": "multipla",
       "enunciado": "Nos termos do Decreto-Lei nº 37/1966, é contribuinte do Imposto de Importação:",
       "alternativas": [
@@ -251,7 +251,7 @@
     },
     {
       "id": "ltrib-0012",
-      "topico": "10.1",
+      "topico": "8.1.3",
       "tipo": "multipla",
       "enunciado": "Uma trading importou mercadorias em nome próprio, mas por conta e ordem de terceiro, que financiou a operação e recebeu os bens.\n\nQuanto à sujeição passiva do Imposto de Importação, é correto afirmar que:",
       "alternativas": [
@@ -273,7 +273,7 @@
     },
     {
       "id": "ltrib-0013",
-      "topico": "10.1",
+      "topico": "8.1.3",
       "tipo": "multipla",
       "enunciado": "Ao conferir a carga descarregada de um navio, a autoridade aduaneira apurou o extravio de volumes constantes do manifesto de carga.\n\nSobre a responsabilidade tributária nessa hipótese, é correto afirmar que responde pelo imposto:",
       "alternativas": [
@@ -297,7 +297,7 @@
     },
     {
       "id": "ltrib-0014",
-      "topico": "10.1",
+      "topico": "8.1.5",
       "tipo": "multipla",
       "enunciado": "Sobre as alíquotas do Imposto de Importação, assinale a afirmativa correta.",
       "alternativas": [
@@ -320,7 +320,7 @@
     },
     {
       "id": "ltrib-0015",
-      "topico": "10.1",
+      "topico": "8.1.5",
       "tipo": "multipla",
       "enunciado": "Em 5 de maio, decreto majorou a alíquota do Imposto de Importação de determinado produto de 14% para 25%, com vigência imediata. Uma empresa havia registrado a declaração de importação em 2 de maio, e a mercadoria foi desembaraçada em 12 de maio.\n\nA alíquota aplicável à operação é:",
       "alternativas": [
@@ -343,7 +343,7 @@
     },
     {
       "id": "ltrib-0016",
-      "topico": "10.1",
+      "topico": "8.1.5",
       "tipo": "multipla",
       "enunciado": "Quanto à modalidade de lançamento do Imposto de Importação no despacho aduaneiro de importação, é correto afirmar que se trata de lançamento:",
       "alternativas": [
@@ -366,7 +366,7 @@
     },
     {
       "id": "ltrib-0017",
-      "topico": "10.1",
+      "topico": "8.1.1",
       "tipo": "multipla",
       "enunciado": "Uma editora importou do exterior livros impressos e também máquinas para a sua gráfica.\n\nConsiderando a imunidade cultural, é correto afirmar que:",
       "alternativas": [
@@ -389,7 +389,7 @@
     },
     {
       "id": "ltrib-0018",
-      "topico": "10.1",
+      "topico": "8.1.5",
       "tipo": "multipla",
       "enunciado": "Um viajante residente no Brasil retorna do exterior por via aérea trazendo bens de uso pessoal e presentes cujo valor total supera o limite de isenção de bagagem.\n\nSobre a tributação do excedente, é correto afirmar que:",
       "alternativas": [
@@ -411,7 +411,7 @@
     },
     {
       "id": "ltrib-0019",
-      "topico": "10.1",
+      "topico": "8.1.1",
       "tipo": "multipla",
       "enunciado": "Sobre a arrecadação do Imposto de Importação, é correto afirmar que:",
       "alternativas": [
@@ -433,7 +433,7 @@
     },
     {
       "id": "ltrib-0020",
-      "topico": "10.1",
+      "topico": "8.1.2",
       "tipo": "multipla",
       "enunciado": "Uma pessoa física, sem qualquer atividade empresarial, importou um veículo do exterior para uso próprio.\n\nQuanto à incidência do Imposto de Importação, é correto afirmar que:",
       "alternativas": [
@@ -455,7 +455,7 @@
     },
     {
       "id": "ltrib-0021",
-      "topico": "10.1",
+      "topico": "8.1",
       "tipo": "multipla",
       "enunciado": "Analise as afirmativas a seguir, relativas ao Imposto de Importação.\n\nI. O fato gerador é a entrada de mercadoria estrangeira no território aduaneiro.\nII. Na alíquota específica, a base de cálculo é o valor aduaneiro da mercadoria.\nIII. O imposto é exceção à anterioridade anual e à anterioridade nonagesimal.\n\nEstá correto o que se afirma em:",
       "alternativas": [

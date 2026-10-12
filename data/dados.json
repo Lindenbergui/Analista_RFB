@@ -3,7 +3,7 @@
   "questoes": [
     {
       "id": "dados-0001",
-      "topico": "6.1",
+      "topico": "2.1.1",
       "tipo": "multipla",
       "enunciado": "Um sistema registra, para cada atendimento, o número do protocolo, a data e o tempo de espera. Ao final do mês, um analista calcula o tempo médio de espera por unidade e conclui que uma delas precisa de reforço de equipe.\n\nConsiderando a cadeia dado–informação–conhecimento, é correto afirmar que:",
       "alternativas": [
@@ -27,7 +27,7 @@
     },
     {
       "id": "dados-0002",
-      "topico": "6.1",
+      "topico": "2.1.1",
       "tipo": "multipla",
       "enunciado": "Uma equipe recebeu três conjuntos de dados: uma tabela de um banco relacional, um conjunto de arquivos JSON com tags identificando os campos, e uma pasta com gravações de áudio de atendimentos.\n\nEsses conjuntos classificam-se, respectivamente, como dados:",
       "alternativas": [
@@ -50,7 +50,7 @@
     },
     {
       "id": "dados-0003",
-      "topico": "6.1",
+      "topico": "2.1.1",
       "tipo": "multipla",
       "enunciado": "Em um catálogo de dados, cada conjunto é acompanhado de informações sobre sua origem, a data da última atualização, o responsável pela manutenção e a descrição de cada campo.\n\nEssas informações são denominadas:",
       "alternativas": [
@@ -72,7 +72,7 @@
     },
     {
       "id": "dados-0004",
-      "topico": "6.1",
+      "topico": "2.1.2",
       "tipo": "multipla",
       "enunciado": "Em uma base de servidores, há um campo com a unidade de lotação (Norte, Sul, Sudeste) e outro com o nível de satisfação declarada (baixo, médio, alto).\n\nEsses atributos são classificados, respectivamente, como qualitativos:",
       "alternativas": [
@@ -96,7 +96,7 @@
     },
     {
       "id": "dados-0005",
-      "topico": "6.1",
+      "topico": "2.1.2",
       "tipo": "multipla",
       "enunciado": "Considere dois atributos de uma base de declarações: o número de dependentes informados e o valor total dos rendimentos tributáveis.\n\nEsses atributos são, respectivamente, quantitativos:",
       "alternativas": [
@@ -119,7 +119,7 @@
     },
     {
       "id": "dados-0006",
-      "topico": "6.1",
+      "topico": "2.1.2",
       "tipo": "multipla",
       "enunciado": "Na classificação das escalas de mensuração, a temperatura medida em graus Celsius é exemplo de escala:",
       "alternativas": [
@@ -142,7 +142,7 @@
     },
     {
       "id": "dados-0007",
-      "topico": "6.1",
+      "topico": "2.1.3",
       "tipo": "multipla",
       "enunciado": "Em uma unidade com dez servidores, nove recebem remunerações próximas a R$ 8.000 e um recebe R$ 90.000.\n\nSobre as medidas de tendência central nesse conjunto, é correto afirmar que:",
       "alternativas": [
@@ -165,7 +165,7 @@
     },
     {
       "id": "dados-0008",
-      "topico": "6.1",
+      "topico": "2.1.3",
       "tipo": "multipla",
       "enunciado": "Dois conjuntos de dados têm a mesma média, mas o primeiro apresenta desvio padrão de 2 e o segundo, de 12.\n\nÉ correto afirmar que:",
       "alternativas": [
@@ -188,7 +188,7 @@
     },
     {
       "id": "dados-0009",
-      "topico": "6.1",
+      "topico": "2.1.3",
       "tipo": "multipla",
       "enunciado": "Um analista precisa comparar a variabilidade relativa de duas variáveis expressas em unidades diferentes: o valor arrecadado por contribuinte, em reais, e o tempo de análise por processo, em dias.\n\nA medida adequada para essa comparação é:",
       "alternativas": [
@@ -210,7 +210,7 @@
     },
     {
       "id": "dados-0010",
-      "topico": "6.1",
+      "topico": "2.1.3",
       "tipo": "multipla",
       "enunciado": "Na construção de um boxplot, um analista identificou observações situadas acima do terceiro quartil somado a 1,5 vez a amplitude interquartil.\n\nEssas observações são classificadas como:",
       "alternativas": [
@@ -233,7 +233,7 @@
     },
     {
       "id": "dados-0011",
-      "topico": "6.1",
+      "topico": "2.1.3",
       "tipo": "multipla",
       "enunciado": "Em uma distribuição de valores de autuações fiscais, verificou-se que a média é superior à mediana, que por sua vez é superior à moda, com cauda alongada à direita.\n\nEssa distribuição é classificada como:",
       "alternativas": [
@@ -257,7 +257,7 @@
     },
     {
       "id": "dados-0012",
-      "topico": "6.1",
+      "topico": "2.1.3",
       "tipo": "multipla",
       "enunciado": "Ao auditar uma base cadastral, uma equipe constatou: 18% dos registros sem o campo de endereço preenchido; CPFs gravados em formatos diferentes conforme o sistema de origem; e endereços que não eram revistos havia oito anos.\n\nEsses problemas referem-se, respectivamente, às dimensões de qualidade de dados:",
       "alternativas": [
@@ -280,7 +280,7 @@
     },
     {
       "id": "dados-0013",
-      "topico": "6.1",
+      "topico": "2.1.3",
       "tipo": "multipla",
       "enunciado": "Sobre as diferenças entre métrica, indicador e KPI, assinale a afirmativa correta.",
       "alternativas": [
@@ -303,7 +303,7 @@
     },
     {
       "id": "dados-0014",
-      "topico": "6.1",
+      "topico": "2.1.4",
       "tipo": "multipla",
       "enunciado": "Uma organização adotava um fluxo em que os dados eram extraídos das fontes, transformados em um servidor intermediário e, só então, carregados no repositório analítico. Com a migração para a nuvem, passou a carregar os dados brutos diretamente no repositório e a transformá-los ali, aproveitando sua capacidade de processamento.\n\nEssa mudança corresponde à transição de:",
       "alternativas": [
@@ -326,7 +326,7 @@
     },
     {
       "id": "dados-0015",
-      "topico": "6.1",
+      "topico": "2.1.4",
       "tipo": "multipla",
       "enunciado": "Para preparar variáveis de escalas muito distintas para um algoritmo sensível à magnitude dos valores, um analista avalia duas técnicas.\n\nSobre elas, é correto afirmar que:",
       "alternativas": [
@@ -349,7 +349,7 @@
     },
     {
       "id": "dados-0016",
-      "topico": "6.1",
+      "topico": "2.1.4",
       "tipo": "multipla",
       "enunciado": "Uma base apresenta 12% de valores ausentes em uma variável numérica relevante para a análise.\n\nSobre o tratamento desses dados, é correto afirmar que:",
       "alternativas": [
@@ -372,7 +372,7 @@
     },
     {
       "id": "dados-0017",
-      "topico": "6.1",
+      "topico": "2.1.4",
       "tipo": "multipla",
       "enunciado": "Para utilizar a variável categórica \"região\" (Norte, Nordeste, Centro-Oeste, Sudeste e Sul) em um modelo que exige entradas numéricas, um analista criou cinco colunas binárias, cada uma indicando a presença ou ausência de uma região.\n\nEssa técnica é denominada:",
       "alternativas": [
@@ -395,7 +395,7 @@
     },
     {
       "id": "dados-0018",
-      "topico": "6.1",
+      "topico": "2.1.4",
       "tipo": "multipla",
       "enunciado": "Um analista converteu a variável contínua \"idade\" em faixas (até 25, de 26 a 40, de 41 a 60 e acima de 60) para facilitar a leitura de relatórios gerenciais.\n\nEssa operação é denominada:",
       "alternativas": [
@@ -418,7 +418,7 @@
     },
     {
       "id": "dados-0019",
-      "topico": "6.1",
+      "topico": "2.1.4",
       "tipo": "multipla",
       "enunciado": "Uma variável de valores monetários apresenta forte assimetria positiva, com poucos valores muito elevados concentrando a cauda da distribuição.\n\nUma transformação comumente empregada para reduzir essa assimetria e aproximar a distribuição da normalidade é:",
       "alternativas": [
@@ -440,7 +440,7 @@
     },
     {
       "id": "dados-0020",
-      "topico": "6.1",
+      "topico": "2.1.4",
       "tipo": "multipla",
       "enunciado": "Um órgão pretende divulgar uma base para pesquisa acadêmica. Em um cenário, remove definitivamente os identificadores de modo que o titular não possa ser identificado por meios técnicos razoáveis e disponíveis. Em outro, substitui os identificadores por códigos, mantendo em arquivo separado a chave que permite reverter a substituição.\n\nEsses procedimentos correspondem, respectivamente, a:",
       "alternativas": [
@@ -463,7 +463,7 @@
     },
     {
       "id": "dados-0021",
-      "topico": "6.1",
+      "topico": "2.1.4",
       "tipo": "multipla",
       "enunciado": "Diante de uma base com dezenas de variáveis fortemente correlacionadas entre si, uma equipe aplicou técnica que gera um número menor de novas variáveis não correlacionadas, capazes de reter a maior parte da variância original.\n\nEssa técnica é:",
       "alternativas": [
