@@ -1040,6 +1040,555 @@
         "identificacao"
       ],
       "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0047",
+      "topico": "5.2.1",
+      "tipo": "multipla",
+      "enunciado": "Um Secretário delegou a um Diretor a competência para decidir sobre determinado requerimento. Indeferido o pedido, o interessado pretende impetrar mandado de segurança.\n\nSegundo entendimento sumulado do STF, a autoridade coatora é:",
+      "alternativas": [
+        "o Secretário, por ser o titular originário da competência.",
+        "o Diretor, pois, praticado o ato no exercício de competência delegada, contra ele cabe o mandado de segurança.",
+        "o Secretário e o Diretor, em litisconsórcio necessário.",
+        "o chefe do Poder Executivo, por ser o superior hierárquico comum.",
+        "a pessoa jurídica de direito público, e não a autoridade."
+      ],
+      "correta": 1,
+      "comentario": "A Súmula 510 do STF firma que, praticado o ato por autoridade no exercício de competência delegada, contra ela cabe o mandado de segurança ou a medida judicial. A delegação transfere o exercício da competência, e o ato passa a ser considerado do delegado, que por ele responde — daí a legitimidade passiva recair sobre quem decidiu, e não sobre o delegante.",
+      "fundamento": "STF, Súmula 510; Lei nº 9.784/1999, art. 14, §3º.",
+      "dificuldade": "media",
+      "tags": [
+        "delegacao",
+        "sumula-510",
+        "mandado-de-seguranca"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0048",
+      "topico": "5.2.1",
+      "tipo": "multipla",
+      "enunciado": "Nos termos da Lei nº 9.784/1999, o ato de delegação de competência:",
+      "alternativas": [
+        "produz efeitos independentemente de publicação, por ser ato interno da Administração.",
+        "é irrevogável durante o prazo nele fixado.",
+        "pode transferir a totalidade da competência da autoridade delegante.",
+        "deve ser publicado no meio oficial, especificar as matérias e os poderes transferidos, os limites da atuação do delegado, a duração e os objetivos da delegação e o recurso cabível, sendo revogável a qualquer tempo pela autoridade delegante.",
+        "transfere definitivamente a titularidade da competência ao delegado."
+      ],
+      "correta": 3,
+      "comentario": "O art. 14, §1º, exige que o ato de delegação e sua revogação sejam publicados no meio oficial, especificando as matérias e poderes transferidos, os limites da atuação do delegado, a duração, os objetivos e o recurso cabível. O §2º torna a delegação revogável a qualquer tempo. A delegação é sempre parcial e transfere apenas o exercício, não a titularidade da competência, que continua com o delegante.",
+      "fundamento": "Lei nº 9.784/1999, art. 14 e §§1º e 2º.",
+      "dificuldade": "media",
+      "tags": [
+        "delegacao",
+        "requisitos",
+        "lei-9784"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0049",
+      "topico": "5.2.1",
+      "tipo": "multipla",
+      "enunciado": "Uma autoridade recebeu competência por delegação e pretende subdelegá-la a servidor que lhe é subordinado.\n\nSobre essa pretensão, é correto afirmar que:",
+      "alternativas": [
+        "só é admissível se o ato de delegação original a tiver autorizado, pois o delegado não dispõe de competência própria sobre a matéria.",
+        "é vedada em qualquer hipótese, por implicar sucessivas transferências de competência.",
+        "é livre, pois quem recebeu a competência pode redistribuí-la como entender conveniente.",
+        "depende de autorização judicial prévia.",
+        "é admissível apenas quando o delegante for o Presidente da República."
+      ],
+      "correta": 0,
+      "comentario": "A delegação transfere o exercício da competência nos limites fixados no ato. Por isso, a subdelegação só é possível quando expressamente autorizada pelo ato original ou por norma específica: o delegado não recebeu a matéria como competência própria, e sim autorização para exercê-la dentro de certos limites. A regra se liga à indisponibilidade da competência, que é irrenunciável e só se transfere nos termos da lei.",
+      "fundamento": "Lei nº 9.784/1999, arts. 11 a 14; doutrina administrativista.",
+      "dificuldade": "media",
+      "tags": [
+        "subdelegacao",
+        "delegacao",
+        "competencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0050",
+      "topico": "5.2.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que distingue corretamente o recurso hierárquico próprio do impróprio.",
+      "alternativas": [
+        "O próprio é dirigido a órgão de outra pessoa jurídica; o impróprio, à autoridade imediatamente superior no mesmo órgão.",
+        "Ambos dependem de previsão legal expressa, por implicarem revisão de ato administrativo.",
+        "O próprio só cabe contra atos discricionários; o impróprio, apenas contra atos vinculados.",
+        "O impróprio decorre da hierarquia, e o próprio, da vinculação entre entidades.",
+        "O próprio é dirigido à autoridade superior dentro do mesmo órgão ou entidade e decorre da hierarquia, independendo de previsão expressa; o impróprio é dirigido a autoridade ou órgão estranho àquela linha hierárquica e depende de previsão legal expressa."
+      ],
+      "correta": 4,
+      "comentario": "O recurso hierárquico próprio é consequência natural da hierarquia e, por isso, não precisa de previsão legal específica: basta haver superior dentro da mesma estrutura. O impróprio dirige-se a autoridade fora da linha hierárquica — típico do recurso de decisão de entidade da administração indireta para o ministério supervisor — e, como não há subordinação, exige previsão legal expressa.",
+      "fundamento": "Lei nº 9.784/1999, arts. 56 e seguintes; Di Pietro, Direito Administrativo.",
+      "dificuldade": "media",
+      "tags": [
+        "recurso-hierarquico",
+        "hierarquia",
+        "tutela"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0051",
+      "topico": "5.2.1",
+      "tipo": "multipla",
+      "enunciado": "Um servidor recebeu de seu chefe imediato ordem para praticar ato manifestamente ilegal.\n\nÀ luz da Lei nº 8.112/1990, o servidor:",
+      "alternativas": [
+        "tem o dever de cumprir as ordens superiores, exceto quando manifestamente ilegais, de modo que lhe cabe recusar o cumprimento e representar contra a ilegalidade.",
+        "deve cumprir a ordem e, depois, representar contra o superior, ficando isento de responsabilidade.",
+        "só pode recusar-se mediante autorização judicial.",
+        "deve cumprir a ordem, pois a hierarquia impõe obediência irrestrita ao superior.",
+        "pode recusar o cumprimento de qualquer ordem com a qual discorde, ainda que legal, invocando sua convicção pessoal."
+      ],
+      "correta": 0,
+      "comentario": "O art. 116, IV, impõe ao servidor o dever de cumprir as ordens superiores, ressalvadas as manifestamente ilegais. A obediência hierárquica não é absoluta: diante de ordem manifestamente ilegal, o cumprimento não afasta a responsabilidade do subordinado, e o inciso XII do mesmo artigo lhe impõe o dever de representar contra ilegalidade, omissão ou abuso de poder. Discordância quanto à conveniência, porém, não autoriza o descumprimento.",
+      "fundamento": "Lei nº 8.112/1990, art. 116, IV e XII.",
+      "dificuldade": "facil",
+      "tags": [
+        "hierarquia",
+        "ordem-ilegal",
+        "deveres"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0052",
+      "topico": "5.2.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre o controle hierárquico exercido no âmbito da Administração Pública, é correto afirmar que:",
+      "alternativas": [
+        "depende de previsão legal expressa para cada hipótese de revisão de ato do subordinado.",
+        "é permanente e automático, abrange os aspectos de legalidade e de mérito dos atos praticados pelos subordinados e independe de norma que o autorize caso a caso.",
+        "limita-se ao exame da legalidade, sendo vedado ao superior rever o mérito do ato do subordinado.",
+        "só pode ser exercido mediante provocação do interessado.",
+        "alcança igualmente as entidades da administração indireta, sobre as quais o ministério supervisor exerce poder hierárquico."
+      ],
+      "correta": 1,
+      "comentario": "O controle hierárquico é inerente à organização administrativa: decorre da própria estrutura escalonada e, por isso, é permanente, automático e independe de previsão específica. Alcança legalidade e mérito, podendo o superior anular o ato ilegal e revogar o inconveniente. Sobre as entidades da indireta não há hierarquia, mas tutela ou supervisão, exercida nos limites da lei.",
+      "fundamento": "Di Pietro, Direito Administrativo; Decreto-Lei nº 200/1967, arts. 19 a 26.",
+      "dificuldade": "media",
+      "tags": [
+        "controle-hierarquico",
+        "legalidade",
+        "merito"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0053",
+      "topico": "5.2.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre os limites do poder hierárquico, assinale a afirmativa correta.",
+      "alternativas": [
+        "Não há hierarquia no exercício das funções típicas jurisdicional e legislativa, embora exista hierarquia na organização administrativa interna do Judiciário e do Legislativo.",
+        "Existe hierarquia entre os parlamentares e a Mesa da Casa Legislativa no exercício da função legislativa.",
+        "Existe hierarquia entre o juiz de primeiro grau e o tribunal no exercício da função jurisdicional.",
+        "O poder hierárquico é exclusivo do Poder Executivo, não se manifestando nos demais Poderes em qualquer hipótese.",
+        "Há hierarquia entre os membros do Ministério Público no exercício de suas funções institucionais."
+      ],
+      "correta": 0,
+      "comentario": "A hierarquia é típica da função administrativa. No exercício da jurisdição, o juiz não é subordinado ao tribunal: a revisão se dá pelo sistema recursal, não por ordem hierárquica. No exercício da função legislativa, os parlamentares também não se subordinam. Mas os três Poderes possuem estrutura administrativa interna hierarquizada. Entre membros do Ministério Público vigora a independência funcional, com hierarquia apenas administrativa.",
+      "fundamento": "CF/1988, arts. 2º e 127, §1º; Di Pietro, Direito Administrativo.",
+      "dificuldade": "media",
+      "tags": [
+        "hierarquia",
+        "limites",
+        "independencia-funcional"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0054",
+      "topico": "5.2.1",
+      "tipo": "multipla",
+      "enunciado": "Um Secretário editou portaria disciplinando, para os servidores de sua pasta, a forma de preenchimento de formulários internos e a rotina de tramitação de processos.\n\nSobre esse ato, é correto afirmar que:",
+      "alternativas": [
+        "é manifestação do poder regulamentar, pois veicula norma geral e abstrata.",
+        "é inválido, pois apenas o chefe do Executivo pode editar atos normativos.",
+        "é manifestação do poder de polícia, por limitar a atuação de seus destinatários.",
+        "é manifestação do poder hierárquico, por meio de ato normativo interno que organiza o trabalho dos subordinados, sem criar direitos ou obrigações para particulares.",
+        "exige prévia autorização legislativa específica, por veicular comando obrigatório."
+      ],
+      "correta": 3,
+      "comentario": "Portarias, ordens de serviço, circulares e instruções de caráter interno são expressão do poder hierárquico: ordenam o trabalho dos subordinados e vinculam apenas quem integra a estrutura. Não se confundem com o poder regulamentar, voltado a dar fiel execução à lei e cujos efeitos alcançam os administrados em geral. O critério decisivo é o destinatário do comando.",
+      "fundamento": "Di Pietro, Direito Administrativo; Hely Lopes Meirelles.",
+      "dificuldade": "media",
+      "tags": [
+        "hierarquia",
+        "atos-normativos-internos",
+        "portaria"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0055",
+      "topico": "5.2.2",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que NÃO corresponde a uma penalidade disciplinar prevista na Lei nº 8.112/1990.",
+      "alternativas": [
+        "Advertência.",
+        "Suspensão.",
+        "Transferência compulsória para outra unidade da Federação.",
+        "Cassação de aposentadoria ou disponibilidade.",
+        "Destituição de cargo em comissão."
+      ],
+      "correta": 2,
+      "comentario": "O art. 127 enumera seis penalidades: advertência, suspensão, demissão, cassação de aposentadoria ou disponibilidade, destituição de cargo em comissão e destituição de função comissionada. Transferência compulsória não é penalidade disciplinar no regime da Lei 8.112 — a remoção, inclusive, não pode ser usada como punição disfarçada, sob pena de desvio de finalidade.",
+      "fundamento": "Lei nº 8.112/1990, art. 127.",
+      "dificuldade": "facil",
+      "tags": [
+        "penalidades",
+        "8112"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0056",
+      "topico": "5.2.2",
+      "tipo": "multipla",
+      "enunciado": "Quanto à competência para aplicar penalidades disciplinares no regime da Lei nº 8.112/1990, é correto afirmar que:",
+      "alternativas": [
+        "qualquer chefia imediata pode aplicar a pena de demissão, desde que concluído o processo disciplinar.",
+        "a advertência e a suspensão de até trinta dias competem exclusivamente ao Ministro de Estado.",
+        "toda penalidade disciplinar depende de homologação judicial.",
+        "a competência para aplicar a penalidade independe de sua natureza, cabendo sempre à autoridade instauradora do processo.",
+        "a demissão e a cassação de aposentadoria competem, em regra, ao Presidente da República e às demais autoridades indicadas em lei; a suspensão superior a trinta dias, às autoridades de hierarquia imediatamente inferior; e a advertência ou suspensão de até trinta dias, ao chefe da repartição."
+      ],
+      "correta": 4,
+      "comentario": "O art. 141 escalona a competência conforme a gravidade da pena: demissão, cassação de aposentadoria ou disponibilidade e destituição de cargo em comissão de servidores do Executivo federal cabem ao Presidente da República, aos Presidentes das Casas do Congresso, dos Tribunais Federais e ao Procurador-Geral da República; suspensão acima de trinta dias, às autoridades de hierarquia imediatamente inferior; advertência e suspensão de até trinta dias, ao chefe da repartição. Aplicar pena por autoridade incompetente é excesso de poder.",
+      "fundamento": "Lei nº 8.112/1990, art. 141.",
+      "dificuldade": "media",
+      "tags": [
+        "competencia",
+        "penalidades",
+        "8112"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0057",
+      "topico": "5.2.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre a prescrição da ação disciplinar na Lei nº 8.112/1990, assinale a afirmativa correta.",
+      "alternativas": [
+        "Prescreve em 5 anos quanto às infrações puníveis com demissão, cassação de aposentadoria ou disponibilidade e destituição de cargo em comissão; em 2 anos quanto à suspensão; e em 180 dias quanto à advertência, contados da data em que o fato se tornou conhecido.",
+        "O prazo é sempre de 5 anos, qualquer que seja a penalidade cabível.",
+        "O prazo começa a correr da data em que a infração foi cometida, ainda que desconhecida da Administração.",
+        "A instauração de processo disciplinar não produz qualquer efeito sobre o curso da prescrição.",
+        "As infrações disciplinares também capituladas como crime prescrevem nos prazos da própria Lei nº 8.112/1990, afastada a lei penal."
+      ],
+      "correta": 0,
+      "comentario": "O art. 142 fixa prazos conforme a penalidade cabível: 5 anos, 2 anos e 180 dias. O §1º estabelece que o prazo corre da data em que o fato se tornou conhecido pela autoridade competente. O §2º manda aplicar os prazos da lei penal às infrações também tipificadas como crime, e o §3º prevê que a abertura de sindicância ou a instauração de processo disciplinar interrompe a prescrição até a decisão final.",
+      "fundamento": "Lei nº 8.112/1990, art. 142 e §§1º a 3º.",
+      "dificuldade": "media",
+      "tags": [
+        "prescricao",
+        "8112",
+        "penalidades"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0058",
+      "topico": "5.2.2",
+      "tipo": "multipla",
+      "enunciado": "Um servidor respondeu a processo administrativo disciplinar e, pelos mesmos fatos, a ação penal.\n\nSobre a relação entre as instâncias, é correto afirmar que:",
+      "alternativas": [
+        "a absolvição criminal por insuficiência de provas impede a aplicação de penalidade administrativa.",
+        "a condenação criminal acarreta automaticamente a demissão, independentemente de processo administrativo.",
+        "as esferas civil, penal e administrativa são independentes entre si e as sanções podem cumular-se, afastando-se a responsabilidade administrativa apenas quando a absolvição criminal negar a existência do fato ou sua autoria.",
+        "a instância administrativa fica suspensa até o trânsito em julgado da ação penal.",
+        "a decisão administrativa condicionada ao resultado da ação penal é nula por violação da independência das instâncias."
+      ],
+      "correta": 2,
+      "comentario": "O art. 125 consagra a independência das instâncias e a possibilidade de cumulação das sanções. O art. 126 traz a exceção: a responsabilidade administrativa é afastada quando a absolvição criminal negar a existência do fato ou sua autoria. Absolvição por falta de provas, por não gerar essa certeza, não repercute na esfera administrativa, onde os standards probatórios são distintos.",
+      "fundamento": "Lei nº 8.112/1990, arts. 125 e 126.",
+      "dificuldade": "media",
+      "tags": [
+        "independencia-das-instancias",
+        "8112"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0059",
+      "topico": "5.2.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre a sindicância e o processo administrativo disciplinar na Lei nº 8.112/1990, é correto afirmar que:",
+      "alternativas": [
+        "da sindicância só pode resultar o arquivamento ou a instauração de processo disciplinar, sendo vedada a aplicação de qualquer penalidade.",
+        "da sindicância pode resultar arquivamento, aplicação de advertência ou suspensão de até trinta dias, ou instauração de processo disciplinar, cujo prazo de conclusão não excederá sessenta dias, admitida prorrogação por igual período.",
+        "a sindicância é sempre facultativa e o processo disciplinar, sempre obrigatório, qualquer que seja a infração.",
+        "o prazo para conclusão da sindicância é de cento e vinte dias, improrrogáveis.",
+        "o processo disciplinar dispensa a observância do contraditório quando a infração for confessada pelo servidor."
+      ],
+      "correta": 1,
+      "comentario": "O art. 145 prevê três desfechos possíveis para a sindicância: arquivamento, aplicação de advertência ou suspensão de até trinta dias, ou instauração de PAD quando a infração for mais grave. O prazo da sindicância é de trinta dias, prorrogável por igual período; o do PAD, de sessenta dias, também prorrogável uma vez por igual prazo. O contraditório e a ampla defesa são indispensáveis, ainda que haja confissão.",
+      "fundamento": "Lei nº 8.112/1990, arts. 143, 145 e 152; CF/1988, art. 5º, LV.",
+      "dificuldade": "media",
+      "tags": [
+        "sindicancia",
+        "pad",
+        "prazos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0060",
+      "topico": "5.2.2",
+      "tipo": "multipla",
+      "enunciado": "Ao aplicar penalidade disciplinar, a autoridade deve observar os critérios legais de dosimetria.\n\nSegundo a Lei nº 8.112/1990, consideram-se:",
+      "alternativas": [
+        "exclusivamente os antecedentes funcionais do servidor.",
+        "apenas a natureza e a gravidade da infração cometida.",
+        "a natureza e a gravidade da infração, os danos que dela provierem para o serviço público, as circunstâncias agravantes ou atenuantes e os antecedentes funcionais, devendo o ato punitivo mencionar sempre o fundamento legal e a causa da sanção.",
+        "somente o grau de reincidência do servidor nos últimos cinco anos.",
+        "a repercussão do fato na imprensa e a opinião dos demais servidores da unidade."
+      ],
+      "correta": 2,
+      "comentario": "O art. 128 lista os critérios de dosimetria e seu parágrafo único exige que o ato de imposição da penalidade mencione sempre o fundamento legal e a causa da sanção disciplinar. A motivação é condição de validade: permite o controle da proporcionalidade entre a falta e a pena, e sua ausência vicia o ato.",
+      "fundamento": "Lei nº 8.112/1990, art. 128 e parágrafo único.",
+      "dificuldade": "facil",
+      "tags": [
+        "dosimetria",
+        "motivacao",
+        "8112"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0061",
+      "topico": "5.2.2",
+      "tipo": "multipla",
+      "enunciado": "Um servidor foi demitido ao final de processo administrativo disciplinar em que se defendeu pessoalmente, sem constituir advogado, embora tenha tido ciência de todos os atos e oportunidade de produzir provas e apresentar razões.\n\nSegundo entendimento sumulado vinculante do STF:",
+      "alternativas": [
+        "a falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição.",
+        "o processo é nulo apenas se a penalidade aplicada for a demissão.",
+        "o processo é válido somente se o servidor tiver renunciado expressamente à assistência de advogado.",
+        "o processo é nulo, pois a defesa técnica por advogado é obrigatória em processo administrativo disciplinar.",
+        "a defesa técnica é dispensável apenas nos processos de rito sumário."
+      ],
+      "correta": 0,
+      "comentario": "A Súmula Vinculante 5 estabelece que a falta de defesa técnica por advogado no PAD não ofende a Constituição, superando a orientação anterior do STJ. O que a Constituição assegura é o contraditório e a ampla defesa, com os meios e recursos a ela inerentes: ciência dos atos, possibilidade de produzir provas, de acompanhar a instrução e de apresentar razões. A ausência de defesa efetiva, essa sim, vicia o processo.",
+      "fundamento": "STF, Súmula Vinculante 5; CF/1988, art. 5º, LV.",
+      "dificuldade": "facil",
+      "tags": [
+        "sumula-vinculante-5",
+        "pad",
+        "ampla-defesa"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0062",
+      "topico": "5.2.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre as hipóteses de demissão previstas na Lei nº 8.112/1990, assinale a afirmativa correta.",
+      "alternativas": [
+        "A demissão só é cabível quando a conduta também configurar crime, com condenação transitada em julgado.",
+        "O abandono de cargo e a inassiduidade habitual não ensejam demissão, por configurarem mera falta ao serviço.",
+        "A acumulação ilegal de cargos, empregos ou funções públicas não constitui causa de demissão.",
+        "A demissão independe de processo administrativo disciplinar quando a falta for notória.",
+        "São causas de demissão, entre outras, improbidade administrativa, abandono de cargo, inassiduidade habitual, corrupção e acumulação ilegal de cargos, e a demissão por determinadas hipóteses impede o retorno do servidor ao serviço público federal."
+      ],
+      "correta": 4,
+      "comentario": "O art. 132 lista treze hipóteses de demissão, entre elas crime contra a administração pública, abandono de cargo, inassiduidade habitual, improbidade administrativa, corrupção e acumulação ilegal de cargos. O parágrafo único do art. 137 veda o retorno ao serviço público federal ao servidor demitido por infringência dos incisos I, IV, VIII, X e XI do art. 132. A demissão sempre exige processo disciplinar com contraditório e ampla defesa.",
+      "fundamento": "Lei nº 8.112/1990, arts. 132 e 137, parágrafo único.",
+      "dificuldade": "media",
+      "tags": [
+        "demissao",
+        "8112",
+        "efeitos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0063",
+      "topico": "5.2.3",
+      "tipo": "multipla",
+      "enunciado": "O Presidente da República pretende delegar a um Ministro de Estado a competência para expedir decreto regulamentar destinado à fiel execução de determinada lei.\n\nSobre essa pretensão, é correto afirmar que:",
+      "alternativas": [
+        "é possível, pois o parágrafo único do art. 84 autoriza a delegação de todas as competências normativas do Presidente.",
+        "é possível, desde que o decreto seja posteriormente ratificado pelo Presidente.",
+        "é impossível, pois a expedição de decretos e regulamentos para a fiel execução das leis é competência privativa e indelegável do chefe do Poder Executivo.",
+        "é possível apenas se a lei a ser regulamentada expressamente o autorizar.",
+        "é impossível, pois a competência regulamentar pertence ao Poder Legislativo."
+      ],
+      "correta": 2,
+      "comentario": "O art. 84, IV, atribui privativamente ao Presidente expedir decretos e regulamentos para a fiel execução das leis. O parágrafo único do mesmo artigo autoriza a delegação apenas das competências dos incisos VI, XII e XXV — e não do inciso IV. Ministros podem editar instruções e portarias para executar leis, decretos e regulamentos (art. 87, parágrafo único, II), mas isso não se confunde com o decreto regulamentar.",
+      "fundamento": "CF/1988, arts. 84, IV e parágrafo único, e 87, parágrafo único, II.",
+      "dificuldade": "media",
+      "tags": [
+        "poder-regulamentar",
+        "delegacao",
+        "decreto"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0064",
+      "topico": "5.2.3",
+      "tipo": "multipla",
+      "enunciado": "Sobre a relação entre poder normativo e poder regulamentar, é correto afirmar que:",
+      "alternativas": [
+        "são expressões sinônimas, designando a competência exclusiva do chefe do Executivo para editar decretos.",
+        "o poder normativo é espécie do poder regulamentar, restrito à edição de portarias ministeriais.",
+        "o poder regulamentar é exercido por qualquer autoridade administrativa, independentemente de sua posição na estrutura.",
+        "o poder normativo é gênero mais amplo, que abrange a edição de atos gerais e abstratos por diversos órgãos e entidades — resoluções, portarias, instruções normativas e deliberações —, sendo o poder regulamentar, em sentido estrito, a competência do chefe do Executivo para expedir decretos e regulamentos.",
+        "ambos autorizam a inovação originária na ordem jurídica, criando direitos e obrigações."
+      ],
+      "correta": 3,
+      "comentario": "A doutrina moderna prefere falar em poder normativo como gênero: abrange os atos gerais e abstratos editados por órgãos e entidades diversos, como resoluções de agências, instruções normativas e deliberações de conselhos. O poder regulamentar em sentido estrito é a competência do chefe do Executivo para expedir decretos e regulamentos. Nenhum deles autoriza inovação originária na ordem jurídica.",
+      "fundamento": "Di Pietro, Direito Administrativo; CF/1988, art. 84, IV.",
+      "dificuldade": "media",
+      "tags": [
+        "poder-normativo",
+        "poder-regulamentar"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0065",
+      "topico": "5.2.3",
+      "tipo": "multipla",
+      "enunciado": "Lei federal atribuiu a determinada agência reguladora a competência para editar normas técnicas sobre o setor que fiscaliza, fixando os parâmetros, as finalidades e os limites dessa atuação.\n\nSegundo a jurisprudência do STF, essa atribuição:",
+      "alternativas": [
+        "é inconstitucional, por violar o princípio da separação dos Poderes.",
+        "é inconstitucional, pois somente o chefe do Executivo pode editar atos normativos.",
+        "é válida e configura delegação legislativa ampla, autorizando a agência a criar obrigações sobre qualquer matéria.",
+        "só seria válida se veiculada por emenda constitucional.",
+        "é válida, pois o poder normativo técnico das agências reguladoras encontra fundamento na própria lei instituidora, que lhes fixa standards e limites, sem que haja delegação legislativa inconstitucional."
+      ],
+      "correta": 4,
+      "comentario": "O STF admite o poder normativo técnico das agências, desde que a lei fixe os parâmetros, as finalidades e os limites de sua atuação — o chamado fenômeno da deslegalização ou delegificação, em que o legislador rebaixa o patamar normativo de certa matéria técnica. A norma da agência permanece subordinada à lei e não pode inovar além dos standards legais, sob pena de invalidade.",
+      "fundamento": "STF, ADI 4.874 e precedentes sobre poder normativo das agências.",
+      "dificuldade": "dificil",
+      "tags": [
+        "agencias-reguladoras",
+        "deslegalizacao",
+        "poder-normativo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0066",
+      "topico": "5.2.3",
+      "tipo": "multipla",
+      "enunciado": "Decreto editado para regulamentar lei federal criou exigência documental não prevista no texto legal, condicionando a concessão de um benefício ao seu cumprimento.\n\nSobre esse decreto, é correto afirmar que:",
+      "alternativas": [
+        "é válido, pois o regulamento pode detalhar a lei inclusive criando requisitos adicionais.",
+        "é inválido, pois o regulamento executivo não pode inovar na ordem jurídica criando direitos ou obrigações não previstos na lei que regulamenta.",
+        "é válido, desde que o requisito seja razoável e proporcional.",
+        "é válido, pois o decreto tem a mesma hierarquia da lei que regulamenta.",
+        "é inválido apenas se o interessado demonstrar prejuízo concreto."
+      ],
+      "correta": 1,
+      "comentario": "O regulamento executivo é ato secundário: explicita e viabiliza a aplicação da lei, mas não cria direitos nem obrigações. A Constituição reserva à lei a imposição de obrigações aos particulares (art. 5º, II), de modo que requisito não previsto legalmente extrapola o poder regulamentar. A razoabilidade do requisito não supre a ausência de base legal.",
+      "fundamento": "CF/1988, arts. 5º, II, e 84, IV.",
+      "dificuldade": "facil",
+      "tags": [
+        "poder-regulamentar",
+        "limites",
+        "inovacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0067",
+      "topico": "5.2.3",
+      "tipo": "multipla",
+      "enunciado": "Sobre o controle judicial dos atos editados no exercício do poder regulamentar, assinale a afirmativa correta.",
+      "alternativas": [
+        "Cabe ação direta de inconstitucionalidade contra decreto meramente regulamentar que exorbite dos limites da lei.",
+        "O decreto que exorbita do poder regulamentar configura crise de legalidade e é controlado, em regra, pela via do controle de legalidade; já o decreto autônomo, por ser ato normativo primário, pode ser objeto de ação direta de inconstitucionalidade.",
+        "Nenhum decreto pode ser objeto de ação direta de inconstitucionalidade.",
+        "O decreto de efeitos concretos é o objeto típico da ação direta de inconstitucionalidade.",
+        "O controle judicial do regulamento é vedado, por implicar invasão do mérito administrativo."
+      ],
+      "correta": 1,
+      "comentario": "O STF distingue duas situações. O decreto meramente regulamentar que extrapola a lei ofende diretamente a lei, e só reflexamente a Constituição — é crise de legalidade, controlada pela via ordinária, sem ADI. Já o decreto autônomo retira fundamento diretamente da Constituição e, por ser ato normativo primário, admite ADI. Decreto de efeitos concretos não é ato normativo e, por isso, não é objeto idôneo de ADI, cabendo mandado de segurança.",
+      "fundamento": "STF, jurisprudência sobre crise de legalidade e cabimento de ADI; CF/1988, arts. 49, V, e 84, IV e VI.",
+      "dificuldade": "dificil",
+      "tags": [
+        "controle",
+        "adi",
+        "crise-de-legalidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0068",
+      "topico": "5.2.3",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que caracteriza corretamente as espécies de regulamento tratadas pela doutrina.",
+      "alternativas": [
+        "O regulamento executivo independe de lei anterior e cria direitos originários.",
+        "O regulamento autônomo é a regra no direito brasileiro, admitido em qualquer matéria não disciplinada por lei.",
+        "O regulamento autorizado é aquele editado sem qualquer referência a parâmetros legais.",
+        "O regulamento executivo pressupõe lei anterior e destina-se a sua fiel execução; o regulamento autônomo retira fundamento diretamente da Constituição e, no Brasil, tem hipóteses restritas; e o regulamento autorizado ou delegado desenvolve matéria dentro dos parâmetros expressamente fixados em lei.",
+        "No direito brasileiro, as três espécies são livremente intercambiáveis."
+      ],
+      "correta": 3,
+      "comentario": "O regulamento executivo pressupõe a lei e serve à sua fiel execução. O regulamento autônomo não depende de lei prévia, retirando fundamento direto da Constituição — no Brasil, restrito às hipóteses do art. 84, VI. O regulamento autorizado ou delegado é o que, com base em autorização legal expressa e dentro dos standards que a lei fixa, desenvolve matéria técnica, figura associada ao poder normativo das agências reguladoras.",
+      "fundamento": "Di Pietro, Direito Administrativo; CF/1988, art. 84, IV e VI.",
+      "dificuldade": "media",
+      "tags": [
+        "especies-de-regulamento",
+        "autonomo",
+        "autorizado"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0069",
+      "topico": "5.2.3",
+      "tipo": "multipla",
+      "enunciado": "Lei federal publicada com cláusula de vigência imediata previu que seria regulamentada pelo Poder Executivo. Passados meses, o regulamento não foi editado, e a lei contém dispositivos autoaplicáveis.\n\nSobre essa situação, é correto afirmar que:",
+      "alternativas": [
+        "a ausência de regulamento suspende integralmente a vigência da lei, que só produz efeitos após o decreto.",
+        "o Poder Executivo pode, por decreto, revogar a lei que considere inconveniente de regulamentar.",
+        "a omissão regulamentar transfere ao Judiciário a competência para editar o regulamento no lugar do Executivo.",
+        "os dispositivos autoaplicáveis produzem efeitos desde logo, pois a vigência da lei não depende do regulamento, salvo quando a própria lei a ele condicione sua aplicação; a omissão em regulamentar pode ser combatida pelos instrumentos próprios contra a omissão normativa.",
+        "o prazo para regulamentação é de noventa dias, findos os quais a lei perde eficácia."
+      ],
+      "correta": 3,
+      "comentario": "A lei vigente produz efeitos independentemente de regulamento, salvo quando ela própria condicionar sua aplicação à edição do ato. O regulamento não cria nem suspende a vigência da lei, e o Executivo jamais pode revogá-la por decreto. Diante da omissão em regulamentar norma que dependa do ato, cabem os instrumentos próprios contra a omissão, como o mandado de injunção e a ação direta de inconstitucionalidade por omissão.",
+      "fundamento": "CF/1988, arts. 5º, LXXI, e 103, §2º; LINDB, art. 1º.",
+      "dificuldade": "media",
+      "tags": [
+        "poder-regulamentar",
+        "omissao",
+        "vigencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0070",
+      "topico": "5.2.3",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que apresenta corretamente uma relação entre o poder regulamentar e o princípio da legalidade.",
+      "alternativas": [
+        "O regulamento pode suprir lacunas da lei criando obrigações, desde que no interesse público.",
+        "O regulamento revoga a lei anterior com ela incompatível.",
+        "O regulamento tem a mesma hierarquia da lei, prevalecendo o mais recente.",
+        "O regulamento pode restringir direitos assegurados em lei quando a restrição for mais eficiente.",
+        "O regulamento é ato infralegal e subordinado à lei: não pode contrariá-la, ampliá-la, restringi-la ou suprir suas omissões criando obrigações, e perde seu fundamento de validade com a revogação da lei que regulamenta."
+      ],
+      "correta": 4,
+      "comentario": "A subordinação do regulamento à lei é consequência direta da legalidade administrativa. Ele não contraria, não amplia, não restringe e não inova. Como é ato de execução, depende da lei para existir: revogada a lei regulamentada, o regulamento perde seu fundamento de validade. Essa relação explica por que o controle do regulamento que extrapola a lei é, em regra, controle de legalidade.",
+      "fundamento": "CF/1988, arts. 5º, II, 37, caput, e 84, IV.",
+      "dificuldade": "facil",
+      "tags": [
+        "poder-regulamentar",
+        "legalidade",
+        "hierarquia"
+      ],
+      "fonte": "inédita"
     }
   ]
 }
