@@ -998,6 +998,575 @@
         "freios-e-contrapesos"
       ],
       "fonte": "inédita"
+    },
+    {
+      "id": "const-0045",
+      "topico": "4.2.1",
+      "tipo": "multipla",
+      "enunciado": "Determinado autor sustenta que a Constituição real e efetiva de um país é a soma dos fatores reais de poder que nele vigoram, de modo que a Constituição escrita, quando não corresponde a esses fatores, não passa de uma folha de papel.\n\nEssa concepção corresponde ao sentido:",
+      "alternativas": [
+        "sociológico, formulado por Ferdinand Lassalle.",
+        "jurídico, formulado por Hans Kelsen.",
+        "político, formulado por Carl Schmitt.",
+        "culturalista, formulado por Meirelles Teixeira.",
+        "normativo, formulado por Konrad Hesse."
+      ],
+      "correta": 0,
+      "comentario": "O sentido sociológico é de Ferdinand Lassalle, em A Essência da Constituição: a Constituição real é a soma dos fatores reais de poder, e a escrita que os contrarie é mera folha de papel. É justamente contra essa redução que Konrad Hesse escreve A Força Normativa da Constituição, sustentando que o texto tem pretensão de eficácia própria e condiciona a realidade, além de ser por ela condicionado.",
+      "fundamento": "Lassalle, A Essência da Constituição (1863).",
+      "dificuldade": "facil",
+      "tags": [
+        "sentido-sociologico",
+        "lassalle"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0046",
+      "topico": "4.2.1",
+      "tipo": "multipla",
+      "enunciado": "Para Carl Schmitt, a Constituição em sentido político:",
+      "alternativas": [
+        "identifica-se com a norma hipotética fundamental, pressuposta e não posta.",
+        "corresponde à soma dos fatores reais de poder vigentes na sociedade.",
+        "é a decisão política fundamental do titular do poder constituinte, distinguindo-se das leis constitucionais, que são os demais dispositivos inseridos no texto sem veicular essa decisão fundamental.",
+        "equivale ao produto da cultura de determinado povo, em visão totalizante.",
+        "é o conjunto de normas que apenas organizam a repartição de competências tributárias."
+      ],
+      "correta": 2,
+      "comentario": "Schmitt distingue Constituição, que é a decisão política fundamental sobre a forma e o modo de existência da unidade política, das leis constitucionais, que são os demais preceitos do texto. Essa distinção dialoga com a diferença entre normas materialmente e formalmente constitucionais. A norma hipotética fundamental é de Kelsen; a soma dos fatores reais de poder, de Lassalle.",
+      "fundamento": "Schmitt, Teoria da Constituição.",
+      "dificuldade": "media",
+      "tags": [
+        "sentido-politico",
+        "schmitt",
+        "decisao-politica"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0047",
+      "topico": "4.2.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre o sentido jurídico de Constituição em Hans Kelsen, é correto afirmar que:",
+      "alternativas": [
+        "a Constituição retira seu fundamento de validade dos fatores reais de poder da sociedade.",
+        "a validade da Constituição depende de sua correspondência com valores morais suprapositivos.",
+        "a Constituição é mera decisão política, desprovida de caráter normativo.",
+        "no sentido lógico-jurídico, corresponde à norma hipotética fundamental, pressuposta e não posta; no sentido jurídico-positivo, é a norma positiva suprema, fundamento de validade de todo o ordenamento.",
+        "a Constituição se confunde com o conjunto das leis ordinárias do país, sem relação de hierarquia entre elas."
+      ],
+      "correta": 3,
+      "comentario": "Kelsen trabalha em dois planos. No lógico-jurídico, a Constituição é a norma hipotética fundamental: pressuposta, não posta, e que impõe obedecer ao constituinte originário. No jurídico-positivo, é a norma positiva suprema do ordenamento, que confere validade às demais e ocupa o topo da pirâmide normativa. A visão é marcada pelo positivismo: a validade não depende de conteúdo moral ou de fatos sociais.",
+      "fundamento": "Kelsen, Teoria Pura do Direito.",
+      "dificuldade": "media",
+      "tags": [
+        "sentido-juridico",
+        "kelsen",
+        "norma-hipotetica-fundamental"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0048",
+      "topico": "4.2.1",
+      "tipo": "multipla",
+      "enunciado": "Konrad Hesse, ao tratar da força normativa da Constituição, sustenta que:",
+      "alternativas": [
+        "a Constituição possui pretensão de eficácia própria e, embora condicionada pela realidade, também a conforma, dependendo sua efetividade da chamada vontade de Constituição.",
+        "a Constituição escrita é sempre impotente diante dos fatores reais de poder, devendo ceder a eles.",
+        "a Constituição deve ser interpretada exclusivamente segundo a vontade histórica do constituinte.",
+        "a força normativa decorre apenas da quantidade de dispositivos analíticos do texto.",
+        "a Constituição somente adquire força normativa após sua integral regulamentação por lei."
+      ],
+      "correta": 0,
+      "comentario": "Hesse responde a Lassalle: a Constituição não é mera folha de papel, pois possui pretensão de eficácia e capacidade de conformar a realidade, numa relação de coordenação e condicionamento recíproco. Sua efetividade depende da vontade de Constituição — a disposição de respeitá-la e realizá-la — e de que o texto não se divorcie das condições concretas de seu tempo.",
+      "fundamento": "Hesse, A Força Normativa da Constituição (1959).",
+      "dificuldade": "media",
+      "tags": [
+        "forca-normativa",
+        "hesse",
+        "vontade-de-constituicao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0049",
+      "topico": "4.2.1",
+      "tipo": "multipla",
+      "enunciado": "A concepção culturalista de Constituição, desenvolvida no Brasil por autores como Meirelles Teixeira e acolhida por José Afonso da Silva, sustenta que a Constituição:",
+      "alternativas": [
+        "é fruto exclusivo da razão, desvinculada do contexto histórico e social.",
+        "reduz-se à decisão política fundamental do titular do poder constituinte.",
+        "é mera folha de papel, sem qualquer aptidão para conformar a realidade.",
+        "equivale à norma hipotética fundamental pressuposta pelo intérprete.",
+        "resulta da cultura de determinado povo, sendo ao mesmo tempo condicionada por ela e condicionante dela, o que conduz ao conceito de Constituição total, com dimensões jurídica, sociológica, política e econômica."
+      ],
+      "correta": 4,
+      "comentario": "O culturalismo compreende a Constituição como produto da cultura, num processo de condicionamento recíproco entre texto e realidade. Daí o conceito de Constituição total, que integra as perspectivas jurídica, sociológica, política e econômica, superando a visão isolada de cada um dos sentidos clássicos.",
+      "fundamento": "Meirelles Teixeira, Curso de Direito Constitucional; José Afonso da Silva.",
+      "dificuldade": "media",
+      "tags": [
+        "culturalista",
+        "constituicao-total"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0050",
+      "topico": "4.2.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre as origens do constitucionalismo, assinale a afirmativa correta.",
+      "alternativas": [
+        "O constitucionalismo surgiu apenas no século XX, com as constituições sociais.",
+        "A Magna Carta de 1215 é considerada a primeira Constituição escrita em sentido moderno.",
+        "O constitucionalismo antigo é inexistente, pois pressupõe Constituição escrita e rígida.",
+        "Fala-se em constitucionalismo antigo, com referências ao Estado teocrático hebreu e à experiência grega; em constitucionalismo medieval, com marco na Magna Carta de 1215; e em constitucionalismo moderno, inaugurado pelas constituições escritas dos Estados Unidos, de 1787, e da França, de 1791.",
+        "A Constituição francesa de 1791 precedeu historicamente a norte-americana de 1787."
+      ],
+      "correta": 3,
+      "comentario": "A doutrina costuma dividir o constitucionalismo em antigo (hebreus, com a limitação do poder pela lei divina, e Grécia, com a democracia direta), medieval (Magna Carta de 1215, que limitou o poder do monarca inglês) e moderno (constituições escritas dos EUA, de 1787, e da França, de 1791). A Magna Carta não é Constituição escrita em sentido moderno, e a norte-americana antecede a francesa.",
+      "fundamento": "História do constitucionalismo; Canotilho, Direito Constitucional.",
+      "dificuldade": "facil",
+      "tags": [
+        "constitucionalismo",
+        "origens",
+        "magna-carta"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0051",
+      "topico": "4.2.2",
+      "tipo": "multipla",
+      "enunciado": "A Declaração dos Direitos do Homem e do Cidadão, de 1789, dispõe em seu art. 16 que a sociedade em que não esteja assegurada a garantia dos direitos nem estabelecida a separação dos poderes não possui Constituição.\n\nEsse dispositivo revela que o constitucionalismo moderno associa a existência de Constituição:",
+      "alternativas": [
+        "à mera existência de um documento escrito e solene, qualquer que seja seu conteúdo.",
+        "à previsão de ampla intervenção do Estado na ordem econômica.",
+        "à adoção obrigatória da forma federativa de Estado.",
+        "ao reconhecimento da soberania absoluta do monarca.",
+        "a um conteúdo mínimo: a garantia de direitos e a separação dos poderes, de modo que o constitucionalismo nasce como técnica de limitação do poder em favor da liberdade."
+      ],
+      "correta": 4,
+      "comentario": "O art. 16 exprime a ideia de Constituição em sentido material no constitucionalismo liberal: não basta um texto solene, é preciso que haja limitação do poder pela separação de funções e proteção de direitos. O constitucionalismo moderno nasce, portanto, como técnica jurídica de contenção do arbítrio. A preocupação com a intervenção no domínio econômico é posterior, própria do constitucionalismo social.",
+      "fundamento": "Declaração dos Direitos do Homem e do Cidadão (1789), art. 16.",
+      "dificuldade": "facil",
+      "tags": [
+        "constitucionalismo-moderno",
+        "limitacao-do-poder"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0052",
+      "topico": "4.2.2",
+      "tipo": "multipla",
+      "enunciado": "O constitucionalismo social caracteriza-se pela previsão de direitos prestacionais e pela intervenção do Estado na ordem econômica e social.\n\nSão apontadas como marcos desse movimento as Constituições:",
+      "alternativas": [
+        "do México, de 1917, e de Weimar, de 1919.",
+        "dos Estados Unidos, de 1787, e da França, de 1791.",
+        "da Inglaterra, de 1215, e dos Estados Unidos, de 1787.",
+        "de Portugal, de 1976, e da Espanha, de 1978.",
+        "do Brasil, de 1891, e da Argentina, de 1853."
+      ],
+      "correta": 0,
+      "comentario": "O constitucionalismo social tem como marcos a Constituição mexicana de 1917 e a Constituição de Weimar, de 1919, pioneiras na positivação de direitos sociais e trabalhistas. No Brasil, a primeira Constituição com nítida feição social é a de 1934, influenciada por Weimar. As constituições norte-americana e francesa pertencem ao constitucionalismo liberal.",
+      "fundamento": "História do constitucionalismo social.",
+      "dificuldade": "facil",
+      "tags": [
+        "constitucionalismo-social",
+        "mexico-1917",
+        "weimar"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0053",
+      "topico": "4.2.2",
+      "tipo": "multipla",
+      "enunciado": "O neoconstitucionalismo, difundido a partir da segunda metade do século XX, caracteriza-se, entre outros aspectos, por:",
+      "alternativas": [
+        "reduzir a Constituição a um documento de organização política, sem conteúdo material vinculante.",
+        "negar força normativa aos princípios, considerando-os meras recomendações ao legislador.",
+        "restringir a atuação do Judiciário à aplicação literal da lei, vedada a interpretação constitucional.",
+        "reconhecer força normativa aos princípios constitucionais, colocar os direitos fundamentais no centro do ordenamento, promover a constitucionalização do direito e fortalecer a jurisdição constitucional, em perspectiva pós-positivista.",
+        "restabelecer a supremacia do Parlamento sobre a Constituição, afastando o controle de constitucionalidade."
+      ],
+      "correta": 3,
+      "comentario": "O neoconstitucionalismo, de matriz pós-positivista, reconhece normatividade aos princípios, coloca a dignidade da pessoa humana e os direitos fundamentais no centro do sistema, irradia a Constituição sobre todos os ramos do direito — a chamada constitucionalização do direito — e amplia a jurisdição constitucional. Com isso vêm também os debates sobre judicialização da política e ativismo judicial.",
+      "fundamento": "Barroso, Neoconstitucionalismo e Constitucionalização do Direito.",
+      "dificuldade": "media",
+      "tags": [
+        "neoconstitucionalismo",
+        "pos-positivismo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0054",
+      "topico": "4.2.2",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que associa corretamente a Constituição brasileira ao seu traço histórico característico.",
+      "alternativas": [
+        "Constituição de 1824 — promulgada por Assembleia Constituinte, de caráter republicano e federativo.",
+        "Constituição de 1891 — manteve o Poder Moderador e o regime monárquico.",
+        "Constituição de 1934 — inaugurou no Brasil o constitucionalismo social, com influência da Constituição de Weimar.",
+        "Constituição de 1937 — promulgada democraticamente, ampliou as garantias individuais.",
+        "Constituição de 1988 — outorgada pelo Presidente da República em contexto de exceção."
+      ],
+      "correta": 2,
+      "comentario": "A Constituição de 1934 marca a entrada do constitucionalismo social no Brasil, com normas sobre ordem econômica e social, família, educação e direitos trabalhistas, sob influência de Weimar. A de 1824 foi outorgada e previa o Poder Moderador; a de 1891 instaurou a república federativa e extinguiu o Moderador; a de 1937 foi outorgada no Estado Novo; a de 1988 foi promulgada.",
+      "fundamento": "História constitucional brasileira.",
+      "dificuldade": "media",
+      "tags": [
+        "historia-constitucional",
+        "1934",
+        "constitucionalismo-social"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0055",
+      "topico": "4.2.3",
+      "tipo": "multipla",
+      "enunciado": "A Constituição de 1988 dispõe, no art. 242, §2º, que o Colégio Pedro II, localizado na cidade do Rio de Janeiro, será mantido na órbita federal.\n\nEssa norma é classificada como:",
+      "alternativas": [
+        "apenas formalmente constitucional, pois, embora integre o texto da Constituição e com ele compartilhe a mesma hierarquia e rigidez, seu conteúdo não diz respeito à estruturação do Estado, à organização dos Poderes ou aos direitos fundamentais.",
+        "norma infraconstitucional recepcionada pela Constituição.",
+        "materialmente constitucional, por tratar de direitos fundamentais.",
+        "norma de eficácia exaurida, sem qualquer efeito jurídico.",
+        "norma de hierarquia inferior às demais disposições constitucionais, por seu conteúdo específico."
+      ],
+      "correta": 0,
+      "comentario": "Normas materialmente constitucionais tratam da estrutura do Estado, da organização dos Poderes e dos direitos fundamentais. Normas apenas formalmente constitucionais são as que, independentemente do conteúdo, integram o texto da Constituição — e por isso têm a mesma hierarquia e exigem o mesmo procedimento qualificado para alteração. O exemplo do Colégio Pedro II é o mais citado na doutrina.",
+      "fundamento": "CF/1988, art. 242, §2º; doutrina constitucional.",
+      "dificuldade": "media",
+      "tags": [
+        "materialmente-constitucional",
+        "formalmente-constitucional"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0056",
+      "topico": "4.2.3",
+      "tipo": "multipla",
+      "enunciado": "José Afonso da Silva classifica as normas constitucionais segundo os elementos que compõem a Constituição.\n\nAs normas que disciplinam a nacionalidade, os direitos políticos e os partidos políticos, bem como as garantias constitucionais, integram os elementos:",
+      "alternativas": [
+        "orgânicos.",
+        "limitativos.",
+        "socioideológicos.",
+        "de estabilização constitucional.",
+        "formais de aplicabilidade."
+      ],
+      "correta": 1,
+      "comentario": "Os elementos limitativos manifestam-se nas normas que compõem o elenco dos direitos e garantias fundamentais, limitando a ação do poder estatal — incluindo direitos individuais, coletivos, de nacionalidade, políticos e democráticos. Os orgânicos tratam da estrutura do Estado e dos Poderes; os socioideológicos, do compromisso entre o Estado liberal e o social; os de estabilização, da solução de conflitos e defesa da Constituição; e os formais de aplicabilidade, de regras sobre a própria aplicação do texto.",
+      "fundamento": "José Afonso da Silva, Curso de Direito Constitucional Positivo.",
+      "dificuldade": "dificil",
+      "tags": [
+        "elementos-da-constituicao",
+        "jose-afonso",
+        "limitativos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0057",
+      "topico": "4.2.3",
+      "tipo": "multipla",
+      "enunciado": "Ainda segundo a classificação dos elementos da Constituição, as normas que disciplinam a intervenção federal, o estado de defesa, o estado de sítio e o processo de emenda constitucional integram os elementos:",
+      "alternativas": [
+        "socioideológicos.",
+        "orgânicos.",
+        "de estabilização constitucional.",
+        "formais de aplicabilidade.",
+        "limitativos."
+      ],
+      "correta": 2,
+      "comentario": "Os elementos de estabilização constitucional reúnem as normas destinadas a solucionar conflitos constitucionais, defender a Constituição, o Estado e as instituições democráticas, e assegurar a paz social — caso da intervenção, do estado de defesa, do estado de sítio e do próprio processo de emenda. Os elementos formais de aplicabilidade compreendem o preâmbulo, o ADCT e o art. 5º, §1º, que trata da aplicação imediata das normas definidoras de direitos fundamentais.",
+      "fundamento": "José Afonso da Silva, Curso de Direito Constitucional Positivo.",
+      "dificuldade": "dificil",
+      "tags": [
+        "elementos-da-constituicao",
+        "estabilizacao-constitucional"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0058",
+      "topico": "4.2.3",
+      "tipo": "multipla",
+      "enunciado": "Sobre a relação entre conteúdo e hierarquia das normas constitucionais, assinale a afirmativa correta, considerando a jurisprudência do STF.",
+      "alternativas": [
+        "As normas apenas formalmente constitucionais podem ser revogadas por lei ordinária, dado seu conteúdo não essencial.",
+        "Existe hierarquia entre normas originárias da Constituição, de modo que as materialmente constitucionais prevalecem sobre as formalmente constitucionais.",
+        "Normas constitucionais originárias podem ser declaradas inconstitucionais quando contrariarem princípios fundamentais do próprio texto.",
+        "As normas do ADCT têm hierarquia inferior às do corpo permanente da Constituição.",
+        "Não há hierarquia entre normas constitucionais originárias, não se admitindo a tese das normas constitucionais inconstitucionais quanto a elas, devendo eventuais antinomias ser resolvidas pelo princípio da unidade da Constituição."
+      ],
+      "correta": 4,
+      "comentario": "O STF rejeita a tese das normas constitucionais inconstitucionais em relação ao poder constituinte originário: não há hierarquia entre normas originárias, e aparentes contradições se resolvem pela interpretação sistemática, à luz do princípio da unidade da Constituição. Normas produzidas pelo poder constituinte derivado, ao contrário, podem ser declaradas inconstitucionais por violarem limites materiais ou formais.",
+      "fundamento": "STF, ADI 815; princípio da unidade da Constituição.",
+      "dificuldade": "media",
+      "tags": [
+        "unidade-da-constituicao",
+        "normas-originarias",
+        "hierarquia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0059",
+      "topico": "4.2.4",
+      "tipo": "multipla",
+      "enunciado": "A Constituição de 1988 estrutura-se em preâmbulo, parte dogmática (corpo permanente) e Ato das Disposições Constitucionais Transitórias.\n\nSobre essa estrutura, é correto afirmar que:",
+      "alternativas": [
+        "o preâmbulo integra o corpo normativo da Constituição e serve de parâmetro para o controle de constitucionalidade.",
+        "o ADCT não possui natureza de norma constitucional, equiparando-se a lei ordinária.",
+        "o preâmbulo, segundo o STF, não tem força normativa nem constitui norma de reprodução obrigatória pelas constituições estaduais, enquanto o ADCT possui natureza de norma constitucional, com a mesma hierarquia do corpo permanente.",
+        "o ADCT só pode ser alterado por nova Assembleia Constituinte.",
+        "a invocação da proteção de Deus no preâmbulo torna o Estado brasileiro confessional."
+      ],
+      "correta": 2,
+      "comentario": "O STF firmou que o preâmbulo não tem força normativa: situa-se no domínio da política, não cria direitos nem obrigações, não serve de parâmetro de controle e não é de reprodução obrigatória nas constituições estaduais — daí a invocação a Deus não afetar a laicidade do Estado. O ADCT, por sua vez, é norma constitucional em sentido pleno, com igual hierarquia e alterável por emenda.",
+      "fundamento": "STF, ADI 2.076; CF/1988, preâmbulo e ADCT.",
+      "dificuldade": "media",
+      "tags": [
+        "preambulo",
+        "adct",
+        "estrutura"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0060",
+      "topico": "4.2.4",
+      "tipo": "multipla",
+      "enunciado": "Determinada norma do Ato das Disposições Constitucionais Transitórias previu providência a ser adotada no prazo de dois anos contados da promulgação da Constituição, prazo há muito expirado sem que outra providência fosse necessária.\n\nSobre essa norma, é correto afirmar que:",
+      "alternativas": [
+        "teve natureza de norma constitucional e, cumprida sua finalidade ou exaurido seu prazo, tornou-se norma de eficácia exaurida ou esvaída, embora permaneça formalmente no texto.",
+        "nunca teve natureza constitucional, por integrar disposições transitórias.",
+        "pode ser revogada por lei ordinária, dada a perda de sua atualidade.",
+        "continua plenamente eficaz, pois toda norma constitucional é permanente.",
+        "é inconstitucional por incompatibilidade superveniente com o corpo permanente."
+      ],
+      "correta": 0,
+      "comentario": "As normas do ADCT são constitucionais, mas de vocação transitória: destinam-se a disciplinar a passagem da ordem anterior para a nova. Cumprido o objetivo ou vencido o prazo, tornam-se normas de eficácia exaurida ou esvaída, permanecendo no texto apenas historicamente. Isso não as torna inconstitucionais nem as rebaixa a lei ordinária.",
+      "fundamento": "CF/1988, ADCT; doutrina sobre eficácia das normas constitucionais.",
+      "dificuldade": "media",
+      "tags": [
+        "adct",
+        "eficacia-exaurida"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0061",
+      "topico": "4.2.4",
+      "tipo": "multipla",
+      "enunciado": "Sobre a sistematização do texto da Constituição de 1988, é correto afirmar que:",
+      "alternativas": [
+        "o texto permanente divide-se em nove títulos, sendo o primeiro dedicado à organização do Estado.",
+        "a Constituição inicia-se pela organização dos Poderes e somente ao final trata dos direitos fundamentais, a exemplo da Constituição de 1967.",
+        "os direitos e garantias fundamentais estão topograficamente situados no Título II, antes da organização do Estado e dos Poderes, inversão de posição em relação às constituições anteriores que reforça a centralidade da pessoa humana no texto de 1988.",
+        "o Título I trata da tributação e do orçamento, em razão da relevância das finanças públicas.",
+        "a ordem social foi suprimida do texto permanente e deslocada integralmente para o ADCT."
+      ],
+      "correta": 2,
+      "comentario": "O texto de 1988 começa pelos princípios fundamentais (Título I) e, em seguida, trata dos direitos e garantias fundamentais (Título II), antes da organização do Estado (Título III) e da organização dos Poderes (Título IV). Esse deslocamento topográfico, em contraste com as constituições anteriores, é lido pela doutrina como afirmação da centralidade da dignidade da pessoa humana e dos direitos fundamentais.",
+      "fundamento": "CF/1988, Títulos I a IX.",
+      "dificuldade": "media",
+      "tags": [
+        "estrutura",
+        "topografia",
+        "direitos-fundamentais"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0062",
+      "topico": "4.2.4",
+      "tipo": "multipla",
+      "enunciado": "Quanto ao preâmbulo da Constituição de 1988, assinale a afirmativa correta.",
+      "alternativas": [
+        "Sua eventual contrariedade por lei autoriza a declaração de inconstitucionalidade por ofensa direta à Constituição.",
+        "Constitui norma de reprodução obrigatória pelos Estados-membros em suas constituições.",
+        "Tem natureza de norma jurídica dotada de imperatividade, equiparando-se às cláusulas pétreas.",
+        "Situa-se no domínio da política e reflete a posição ideológica do constituinte, tendo relevância interpretativa, mas sem força normativa própria e sem servir de parâmetro autônomo para o controle de constitucionalidade.",
+        "Sua supressão por emenda constitucional é vedada, por configurar cláusula pétrea implícita."
+      ],
+      "correta": 3,
+      "comentario": "No julgamento da ADI 2.076, o STF assentou que o preâmbulo não constitui norma central da Constituição, não tem força normativa e não é de reprodução obrigatória pelos Estados. Isso não o torna irrelevante: ele indica os valores e a diretriz ideológica do constituinte e pode auxiliar na interpretação do texto, mas não serve, sozinho, de parâmetro para o controle de constitucionalidade.",
+      "fundamento": "STF, ADI 2.076.",
+      "dificuldade": "facil",
+      "tags": [
+        "preambulo",
+        "adi-2076",
+        "forca-normativa"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0063",
+      "topico": "4.2.5",
+      "tipo": "multipla",
+      "enunciado": "Quanto à origem, as Constituições classificam-se em promulgadas, outorgadas, cesaristas e pactuadas.\n\nA Constituição cesarista, ou bonapartista, caracteriza-se por:",
+      "alternativas": [
+        "resultar da deliberação de uma Assembleia Nacional Constituinte eleita pelo povo.",
+        "decorrer de um pacto entre o monarca e a representação nacional.",
+        "ser imposta unilateralmente pelo governante, sem qualquer participação popular.",
+        "ser elaborada sem texto escrito, formando-se pelos costumes.",
+        "ser elaborada unilateralmente pelo governante e submetida a referendo popular, que apenas ratifica a vontade do detentor do poder, conferindo-lhe aparência de legitimidade democrática."
+      ],
+      "correta": 4,
+      "comentario": "A Constituição cesarista não é promulgada: o texto é elaborado pelo governante e depois submetido a consulta popular, que serve apenas para ratificar a decisão já tomada. A participação é meramente homologatória, o que a distingue das promulgadas. As pactuadas, ou dualistas, nascem de compromisso entre duas forças políticas, como a francesa de 1830.",
+      "fundamento": "Classificação das Constituições quanto à origem.",
+      "dificuldade": "media",
+      "tags": [
+        "classificacao",
+        "origem",
+        "cesarista"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0064",
+      "topico": "4.2.5",
+      "tipo": "multipla",
+      "enunciado": "A Constituição do Império do Brasil, de 1824, previa que somente era constitucional o que dissesse respeito aos limites e atribuições respectivos dos poderes políticos e aos direitos políticos e individuais dos cidadãos, podendo o restante ser alterado por lei ordinária, sem as formalidades de reforma constitucional.\n\nQuanto à estabilidade, essa Constituição classifica-se como:",
+      "alternativas": [
+        "rígida.",
+        "flexível.",
+        "imutável.",
+        "semirrígida (ou semiflexível).",
+        "super-rígida."
+      ],
+      "correta": 3,
+      "comentario": "A Constituição semirrígida, ou semiflexível, é aquela em que parte das normas exige processo especial de alteração e outra parte pode ser modificada pelo processo legislativo comum — exatamente o regime do art. 178 da Constituição de 1824, único exemplo brasileiro. Nas rígidas, toda alteração exige processo mais solene; nas flexíveis, o processo é o mesmo das leis comuns.",
+      "fundamento": "Constituição de 1824, art. 178; classificação quanto à estabilidade.",
+      "dificuldade": "media",
+      "tags": [
+        "classificacao",
+        "semirrigida",
+        "1824"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0065",
+      "topico": "4.2.5",
+      "tipo": "multipla",
+      "enunciado": "Karl Loewenstein propôs uma classificação ontológica das Constituições, fundada na correspondência entre o texto e a realidade do processo de poder.\n\nSegundo essa classificação, a Constituição nominal é aquela que:",
+      "alternativas": [
+        "é efetivamente observada por todos os destinatários, havendo plena coincidência entre norma e realidade política.",
+        "é juridicamente válida, mas ainda não encontra condições sociais e políticas para sua plena concretização, tendo função educativa e a pretensão de, no futuro, tornar-se normativa.",
+        "serve apenas para formalizar e legitimar o poder já existente, em benefício de seus detentores.",
+        "não possui texto escrito, formando-se a partir dos costumes políticos.",
+        "proíbe qualquer modificação de seu texto, ainda que por processo agravado."
+      ],
+      "correta": 1,
+      "comentario": "Para Loewenstein, a Constituição normativa é a que efetivamente regula o processo de poder, com coincidência entre norma e realidade. A nominal é válida, mas ainda não concretizada, cumprindo função pedagógica e aspirando a se tornar normativa. A semântica é a utilizada como instrumento de formalização do poder existente, em proveito de seus detentores — típica de regimes autoritários.",
+      "fundamento": "Loewenstein, Teoria de la Constitución — classificação ontológica.",
+      "dificuldade": "media",
+      "tags": [
+        "classificacao",
+        "ontologica",
+        "loewenstein"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0066",
+      "topico": "4.2.5",
+      "tipo": "multipla",
+      "enunciado": "Quanto à finalidade, a Constituição dirigente caracteriza-se por:",
+      "alternativas": [
+        "limitar-se a garantir as liberdades individuais contra a atuação do Estado, em feição negativa.",
+        "registrar o estágio atual das relações de poder em determinada sociedade, a exemplo das constituições soviéticas.",
+        "não prever qualquer programa de ação estatal, restringindo-se à organização dos Poderes.",
+        "vedar ao legislador ordinário a definição de políticas públicas.",
+        "estabelecer, por meio de normas programáticas, um projeto de transformação social que vincula a atuação futura dos Poderes Públicos, concepção associada a Canotilho."
+      ],
+      "correta": 4,
+      "comentario": "A Constituição-garantia tem feição negativa, limitando-se a proteger liberdades contra o Estado. A Constituição-balanço registra o estágio das relações de poder. A dirigente, desenvolvida por Canotilho, traça um programa de transformação social por meio de normas programáticas que vinculam a atuação dos Poderes — concepção que o próprio autor depois relativizou, sem abandonar a ideia de vinculação constitucional do legislador.",
+      "fundamento": "Canotilho, Constituição Dirigente e Vinculação do Legislador.",
+      "dificuldade": "media",
+      "tags": [
+        "classificacao",
+        "finalidade",
+        "dirigente"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0067",
+      "topico": "4.2.5",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que classifica corretamente a Constituição de 1988.",
+      "alternativas": [
+        "Outorgada, não escrita, sintética, histórica e flexível.",
+        "Promulgada, escrita, analítica, dogmática e rígida.",
+        "Cesarista, escrita, sintética, dogmática e semirrígida.",
+        "Promulgada, escrita, sintética, histórica e flexível.",
+        "Pactuada, escrita, analítica, dogmática e imutável."
+      ],
+      "correta": 1,
+      "comentario": "A Constituição de 1988 é promulgada (origem democrática), escrita, analítica ou prolixa (pela extensão do texto), formal, dogmática (elaborada de uma vez por assembleia, a partir dos dogmas do momento) e rígida, por exigir processo especial de alteração. Alexandre de Moraes a qualifica como super-rígida, por existirem cláusulas pétreas imodificáveis; a maior parte da doutrina a classifica simplesmente como rígida.",
+      "fundamento": "CF/1988, art. 60; classificação das Constituições.",
+      "dificuldade": "facil",
+      "tags": [
+        "classificacao",
+        "cf-1988",
+        "rigida"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0068",
+      "topico": "4.2.5",
+      "tipo": "multipla",
+      "enunciado": "Quanto ao modo de elaboração, as Constituições classificam-se em dogmáticas e históricas.\n\nA Constituição histórica é aquela que:",
+      "alternativas": [
+        "é elaborada de uma só vez por um órgão constituinte, refletindo os dogmas predominantes naquele momento.",
+        "resulta de lenta e contínua formação ao longo do tempo, pela síntese de tradições, costumes e textos esparsos, a exemplo da Constituição inglesa.",
+        "tem seu texto necessariamente dividido em partes dogmática e transitória.",
+        "é aquela cujo conteúdo trata exclusivamente de matéria materialmente constitucional.",
+        "é imposta pelo governante e posteriormente ratificada por referendo popular."
+      ],
+      "correta": 1,
+      "comentario": "A Constituição dogmática é escrita e elaborada de uma só vez por um órgão constituinte, sistematizando os dogmas e valores dominantes à época — caso da brasileira de 1988. A histórica resulta de formação lenta e contínua, consolidando tradições, costumes, convenções e documentos esparsos, como ocorre no Reino Unido, cuja Constituição costuma ser classificada também como não escrita e flexível.",
+      "fundamento": "Classificação das Constituições quanto ao modo de elaboração.",
+      "dificuldade": "facil",
+      "tags": [
+        "classificacao",
+        "dogmatica",
+        "historica"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0069",
+      "topico": "4.2.5",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, sobre a classificação das Constituições.\n\nI. Quanto à extensão, as Constituições classificam-se em sintéticas (concisas) e analíticas (prolixas).\nII. A Constituição rígida é pressuposto do controle de constitucionalidade e da supremacia formal da Constituição.\nIII. Quanto ao conteúdo, a Constituição formal é a que reúne apenas as normas relativas à organização do Estado e aos direitos fundamentais, independentemente do documento em que se encontrem.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "I e III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 1,
+      "comentario": "I e II estão corretas: a extensão distingue constituições sintéticas de analíticas, e a rigidez é o pressuposto da supremacia formal e, por consequência, do controle de constitucionalidade. III está incorreta porque inverte os conceitos: Constituição formal é o conjunto de normas que integram o documento solene, qualquer que seja seu conteúdo; a definida pelo critério material é a Constituição material.",
+      "fundamento": "Classificação das Constituições; supremacia formal e rigidez.",
+      "dificuldade": "media",
+      "tags": [
+        "classificacao",
+        "extensao",
+        "rigidez",
+        "material-formal"
+      ],
+      "fonte": "inédita"
     }
   ]
 }
