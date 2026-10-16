@@ -1092,6 +1092,510 @@
         "itbi"
       ],
       "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0049",
+      "topico": "6.2.2",
+      "tipo": "multipla",
+      "enunciado": "Lei federal instituiu taxa pelo exercício do poder de polícia, fixou o teto do valor a ser cobrado e autorizou que ato infralegal do conselho fiscalizador definisse o montante exato, em proporção razoável com os custos da atuação estatal.\n\nSegundo a jurisprudência do STF, essa técnica:",
+      "alternativas": [
+        "viola a legalidade tributária, pois o valor do tributo é matéria reservada à lei em sentido estrito, sem qualquer flexibilização.",
+        "é válida, pois a taxa não é tributo e, portanto, não se submete à legalidade.",
+        "é válida apenas se o ato infralegal for editado por decreto do Presidente da República.",
+        "não viola a legalidade tributária, pois a lei fixou o teto e os parâmetros, cabendo ao ato infralegal apenas a graduação do valor dentro dos limites legais, em proporção com os custos da atuação estatal.",
+        "é válida e autoriza o conselho a atualizar o valor em percentual superior aos índices oficiais de correção monetária."
+      ],
+      "correta": 3,
+      "comentario": "No Tema 829, o STF admitiu a chamada legalidade suficiente: não ofende a legalidade tributária a lei que prescreve o teto e os parâmetros e deixa ao ato infralegal a fixação do valor da taxa, desde que haja proporção razoável com os custos da atuação estatal. O Tribunal ressalvou, porém, que a atualização pelo próprio conselho não pode superar os índices oficiais de correção monetária.",
+      "fundamento": "STF, RE 838.284 (Tema 829); CF/1988, art. 150, I.",
+      "dificuldade": "dificil",
+      "tags": [
+        "legalidade",
+        "taxas",
+        "legalidade-suficiente"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0050",
+      "topico": "6.2.2",
+      "tipo": "multipla",
+      "enunciado": "Instrução normativa da Receita Federal criou obrigação de prestar informações em declaração eletrônica, sem que lei em sentido estrito previsse esse dever instrumental.\n\nÀ luz do CTN e da jurisprudência, essa exigência é:",
+      "alternativas": [
+        "inválida, pois toda obrigação tributária, principal ou acessória, submete-se à reserva de lei em sentido estrito.",
+        "válida, pois a obrigação acessória decorre da legislação tributária, expressão que abrange decretos e normas complementares, não se exigindo lei em sentido estrito para sua instituição.",
+        "inválida, pois obrigações acessórias só podem ser criadas por lei complementar.",
+        "válida apenas se o contribuinte aderir voluntariamente ao regime especial.",
+        "inválida, pois a instrução normativa não integra o conceito de legislação tributária."
+      ],
+      "correta": 1,
+      "comentario": "O art. 113, §2º, do CTN dispõe que a obrigação acessória decorre da legislação tributária — conceito que, pelo art. 96, abrange leis, tratados, decretos e normas complementares. Por isso, deveres instrumentais podem ser instituídos por atos infralegais, desde que não extrapolem a lei nem criem, por via oblíqua, obrigação principal. A reserva legal estrita do art. 97 alcança a instituição e majoração do tributo e as penalidades.",
+      "fundamento": "CTN, arts. 96, 97 e 113, §2º.",
+      "dificuldade": "media",
+      "tags": [
+        "legalidade",
+        "obrigacao-acessoria"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0051",
+      "topico": "6.2.2",
+      "tipo": "multipla",
+      "enunciado": "Emenda constitucional afastou a aplicação do princípio da anterioridade a determinado imposto federal recém-criado.\n\nSegundo a jurisprudência do STF, essa emenda é:",
+      "alternativas": [
+        "inconstitucional, pois a anterioridade constitui garantia individual do contribuinte e, como tal, é protegida por cláusula pétrea, não podendo ser abolida por emenda.",
+        "constitucional, desde que aprovada por três quintos dos membros de cada Casa, em dois turnos.",
+        "constitucional, pois o poder constituinte derivado pode livremente dispor sobre limitações ao poder de tributar.",
+        "constitucional, pois a anterioridade é princípio meramente orçamentário, alheio aos direitos fundamentais.",
+        "inconstitucional apenas se o imposto tiver natureza fiscal, e não extrafiscal."
+      ],
+      "correta": 0,
+      "comentario": "No julgamento da ADI 939, que examinou o IPMF, o STF assentou que o princípio da anterioridade é garantia individual do contribuinte e, portanto, integra o núcleo protegido pelo art. 60, §4º, IV. Emenda que o suprima é tendente a abolir direito e garantia individual, sendo inconstitucional. O raciocínio se estende às demais limitações constitucionais ao poder de tributar que configurem garantias do contribuinte.",
+      "fundamento": "STF, ADI 939; CF/1988, art. 60, §4º, IV.",
+      "dificuldade": "media",
+      "tags": [
+        "anterioridade",
+        "clausula-petrea",
+        "adi-939"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0052",
+      "topico": "6.2.2",
+      "tipo": "multipla",
+      "enunciado": "Lei estadual revogou benefício fiscal de ICMS que reduzia a carga tributária de determinado setor, sem alterar formalmente a alíquota ou a base de cálculo do imposto.\n\nSegundo a jurisprudência do STF, a produção de efeitos dessa revogação:",
+      "alternativas": [
+        "é imediata, pois não houve majoração formal de alíquota ou de base de cálculo.",
+        "é imediata, pois a anterioridade só se aplica à criação de tributos, e não à revogação de benefícios.",
+        "depende apenas da anterioridade nonagesimal, sendo dispensada a anterioridade anual.",
+        "depende de autorização prévia do CONFAZ, mas não se sujeita à anterioridade.",
+        "sujeita-se à anterioridade anual e à nonagesimal, pois a revogação de benefício fiscal configura majoração indireta do tributo, atraindo a proteção da não surpresa."
+      ],
+      "correta": 4,
+      "comentario": "O STF firmou que a revogação ou a redução de benefício fiscal promove aumento indireto do tributo e, por isso, atrai a observância das anterioridades anual e nonagesimal. O fundamento é a proteção da não surpresa: o que importa é o efeito econômico de agravamento da carga sobre o contribuinte, e não a técnica legislativa empregada. A orientação superou a leitura puramente formal da antiga Súmula 615.",
+      "fundamento": "STF, RE 564.225 AgR e precedentes posteriores; CF/1988, art. 150, III, 'b' e 'c'.",
+      "dificuldade": "media",
+      "tags": [
+        "anterioridade",
+        "beneficio-fiscal",
+        "majoracao-indireta"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0053",
+      "topico": "6.2.2",
+      "tipo": "multipla",
+      "enunciado": "Lei estadual publicada em dezembro prorrogou, para o exercício seguinte, a vigência de alíquota de ICMS já majorada e aplicada ao longo do ano corrente, sem alterar seu percentual.\n\nSegundo a jurisprudência do STF, essa prorrogação:",
+      "alternativas": [
+        "sujeita-se à anterioridade nonagesimal, por configurar nova majoração.",
+        "não se sujeita à anterioridade nonagesimal, pois a simples prorrogação de alíquota já aplicada não configura majoração nem surpreende o contribuinte.",
+        "sujeita-se à anterioridade anual, mas não à nonagesimal.",
+        "é inconstitucional, pois alíquota majorada não pode ser prorrogada.",
+        "depende de lei complementar federal para produzir efeitos."
+      ],
+      "correta": 1,
+      "comentario": "No Tema 91, o STF decidiu que a prorrogação de alíquota já majorada e em aplicação não se submete à anterioridade nonagesimal, porque o contribuinte não é surpreendido: a carga permanece a mesma que já vinha suportando. A anterioridade protege contra a alteração inesperada, e não contra a manutenção do cenário vigente — raciocínio que se diferencia do caso da revogação de benefício, em que há efetivo agravamento.",
+      "fundamento": "STF, RE 584.100 (Tema 91).",
+      "dificuldade": "dificil",
+      "tags": [
+        "anterioridade",
+        "prorrogacao",
+        "nao-surpresa"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0054",
+      "topico": "6.2.2",
+      "tipo": "multipla",
+      "enunciado": "Lei publicada em 10 de novembro reduziu a alíquota de determinado imposto estadual de 18% para 12%, com cláusula de vigência imediata.\n\nSobre a produção de efeitos dessa redução, é correto afirmar que:",
+      "alternativas": [
+        "só pode ocorrer no exercício seguinte, por força da anterioridade anual.",
+        "só pode ocorrer após 90 dias, por força da anterioridade nonagesimal.",
+        "só pode ocorrer no exercício seguinte e após 90 dias, cumulativamente.",
+        "pode ocorrer de imediato, pois a anterioridade é garantia do contribuinte contra a surpresa onerosa, não se aplicando a normas que extinguem ou reduzem tributos.",
+        "depende de convênio entre os Estados e o Distrito Federal."
+      ],
+      "correta": 3,
+      "comentario": "A anterioridade existe para proteger o contribuinte da surpresa que agrave sua carga, permitindo-lhe planejar-se. Normas que reduzem ou extinguem tributos, por serem benéficas, produzem efeitos imediatamente, salvo disposição em contrário da própria lei. É o mesmo fundamento que explica por que a revogação de benefício, por onerar, atrai a anterioridade, enquanto sua concessão, não.",
+      "fundamento": "CF/1988, art. 150, III, 'b' e 'c'; doutrina e jurisprudência do STF.",
+      "dificuldade": "facil",
+      "tags": [
+        "anterioridade",
+        "reducao-de-tributo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0055",
+      "topico": "6.2.2",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que apresenta tributo que NÃO constitui exceção à anterioridade anual.",
+      "alternativas": [
+        "Imposto sobre Produtos Industrializados.",
+        "Imposto de Exportação.",
+        "Imposto sobre a Propriedade Territorial Rural.",
+        "Imposto extraordinário de guerra.",
+        "Empréstimo compulsório instituído para atender a despesas extraordinárias decorrentes de calamidade pública."
+      ],
+      "correta": 2,
+      "comentario": "O ITR sujeita-se normalmente às duas anterioridades. São exceções à anterioridade anual: II, IE, IPI, IOF, impostos extraordinários de guerra, empréstimos compulsórios por calamidade ou guerra, contribuições para a seguridade social (que observam só a noventena), a redução e o restabelecimento da CIDE-combustíveis e do ICMS-combustíveis. O IPI é exceção à anual, mas se submete à nonagesimal.",
+      "fundamento": "CF/1988, arts. 148, I, 150, §1º, 155, §4º, IV, 177, §4º, I, 'b', e 195, §6º.",
+      "dificuldade": "media",
+      "tags": [
+        "anterioridade",
+        "excecoes",
+        "itr"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0056",
+      "topico": "6.2.2",
+      "tipo": "multipla",
+      "enunciado": "Município instituiu, por lei publicada em 20 de dezembro, nova taxa de fiscalização de funcionamento de estabelecimentos.\n\nA exigência da taxa poderá ocorrer:",
+      "alternativas": [
+        "a partir do primeiro dia do exercício seguinte e desde que decorridos 90 dias da publicação, pois as taxas e as contribuições de melhoria sujeitam-se às duas anterioridades.",
+        "imediatamente, pois somente os impostos se sujeitam às anterioridades.",
+        "a partir de 1º de janeiro seguinte, pois as taxas são exceção à anterioridade nonagesimal.",
+        "após 90 dias da publicação, sem necessidade de aguardar o exercício seguinte.",
+        "somente após dois exercícios financeiros, dada a natureza vinculada do tributo."
+      ],
+      "correta": 0,
+      "comentario": "As anterioridades anual e nonagesimal alcançam os tributos em geral, e não apenas os impostos: taxas e contribuições de melhoria submetem-se às duas, pois não figuram entre as exceções do art. 150, §1º. Publicada a lei em 20 de dezembro, a cobrança só pode ocorrer no exercício seguinte e após decorridos noventa dias — na prática, a partir do fim de março.",
+      "fundamento": "CF/1988, art. 150, III, 'b' e 'c', e §1º.",
+      "dificuldade": "media",
+      "tags": [
+        "anterioridade",
+        "taxas",
+        "contribuicao-de-melhoria"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0057",
+      "topico": "6.2.2",
+      "tipo": "multipla",
+      "enunciado": "Lei publicada em dezembro de determinado ano majorou a alíquota aplicável ao lucro decorrente de operações realizadas ao longo daquele mesmo ano-calendário, pretendendo alcançá-las.\n\nSegundo a jurisprudência do STF, essa aplicação é:",
+      "alternativas": [
+        "válida, pois o fato gerador do Imposto de Renda só se completa em 31 de dezembro.",
+        "válida, pois a lei foi publicada antes do encerramento do exercício financeiro.",
+        "inválida, pois a majoração não pode alcançar operações já ocorridas antes de sua vigência, ainda que no mesmo ano-calendário, sob pena de ofensa à irretroatividade.",
+        "válida, desde que observada apenas a anterioridade nonagesimal.",
+        "inválida apenas se o contribuinte tiver recolhido antecipadamente o tributo."
+      ],
+      "correta": 2,
+      "comentario": "O STF declarou inconstitucional a aplicação retroativa de lei que majora a alíquota incidente sobre lucro proveniente de operações já realizadas, ainda que dentro do mesmo ano-calendário, por ofensa à irretroatividade e à segurança jurídica. A orientação enfraqueceu a leitura tradicional da Súmula 584, construída sobre a ideia de fato gerador complexivo que só se completaria ao final do período.",
+      "fundamento": "STF, RE 592.396 (Tema 168); CF/1988, art. 150, III, 'a'.",
+      "dificuldade": "dificil",
+      "tags": [
+        "irretroatividade",
+        "imposto-de-renda",
+        "fato-gerador-complexivo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0058",
+      "topico": "6.2.2",
+      "tipo": "multipla",
+      "enunciado": "Lei complementar instituiu regime único de arrecadação com tratamento diferenciado e favorecido para microempresas e empresas de pequeno porte, com alíquotas reduzidas e obrigações acessórias simplificadas.\n\nÀ luz do princípio da isonomia tributária, esse tratamento é:",
+      "alternativas": [
+        "inconstitucional, pois a isonomia veda qualquer distinção entre contribuintes.",
+        "inconstitucional, salvo se estendido a todas as pessoas jurídicas.",
+        "constitucional apenas quanto às obrigações acessórias, sendo vedada a redução de alíquotas.",
+        "constitucional, pois a isonomia impõe tratar desigualmente os desiguais na medida de sua desigualdade, e a própria Constituição determina tratamento favorecido às microempresas e empresas de pequeno porte.",
+        "constitucional somente se autorizado por convênio no CONFAZ."
+      ],
+      "correta": 3,
+      "comentario": "A isonomia tributária veda tratamento desigual entre contribuintes em situação equivalente, mas não proíbe a diferenciação fundada em desigualdade real e em finalidade constitucionalmente legítima. A própria Constituição determina tratamento jurídico diferenciado às microempresas e empresas de pequeno porte e prevê o regime único de arrecadação por lei complementar, o que afasta qualquer antinomia com a isonomia.",
+      "fundamento": "CF/1988, arts. 146, III, 'd', 150, II, 170, IX, e 179.",
+      "dificuldade": "facil",
+      "tags": [
+        "isonomia",
+        "simples-nacional",
+        "tratamento-favorecido"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0059",
+      "topico": "6.2.2",
+      "tipo": "multipla",
+      "enunciado": "O art. 145, §1º, da Constituição determina que, sempre que possível, os impostos terão caráter pessoal e serão graduados segundo a capacidade econômica do contribuinte.\n\nSobre o alcance desse dispositivo, é correto afirmar que:",
+      "alternativas": [
+        "aplica-se exclusivamente aos impostos, sendo vedado ao legislador considerar a capacidade econômica na graduação de outras espécies tributárias.",
+        "aplica-se a todos os tributos de forma obrigatória, inclusive às contribuições de melhoria.",
+        "foi revogado pela Emenda Constitucional nº 132/2023.",
+        "autoriza a Administração a identificar o patrimônio e os rendimentos do contribuinte somente mediante autorização judicial em qualquer hipótese.",
+        "refere-se expressamente aos impostos, mas o STF admite que a capacidade contributiva seja considerada em outras espécies tributárias quando compatível com sua estrutura, como já reconheceu em relação a determinadas taxas."
+      ],
+      "correta": 4,
+      "comentario": "O texto menciona impostos, por serem tributos não vinculados e, portanto, campo natural da graduação por capacidade econômica. O STF, contudo, já admitiu sua aplicação a outras espécies quando a estrutura do tributo o permita — caso de taxas graduadas conforme o porte econômico do contribuinte. A expressão 'sempre que possível' refere-se tanto à pessoalidade quanto à graduação, reconhecendo que nem todo imposto comporta ambas.",
+      "fundamento": "CF/1988, art. 145, §1º; STF, RE 177.835.",
+      "dificuldade": "media",
+      "tags": [
+        "capacidade-contributiva",
+        "taxas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0060",
+      "topico": "6.2.2",
+      "tipo": "multipla",
+      "enunciado": "Segundo a Constituição, o Imposto de Renda será informado pelos critérios da generalidade, da universalidade e da progressividade.\n\nAssinale a opção que os define corretamente.",
+      "alternativas": [
+        "Generalidade: incidência sobre todas as pessoas que realizem o fato gerador. Universalidade: incidência sobre a totalidade dos rendimentos e proventos, independentemente de denominação ou origem. Progressividade: alíquotas maiores à medida que cresce a base tributável.",
+        "Generalidade: incidência sobre todas as espécies de rendimentos. Universalidade: incidência sobre todas as pessoas. Progressividade: alíquota única para todos.",
+        "Generalidade: vedação a qualquer isenção. Universalidade: tributação apenas de rendimentos auferidos no exterior. Progressividade: redução da alíquota conforme aumenta a renda.",
+        "Os três critérios são sinônimos e expressam a mesma exigência de isonomia.",
+        "Generalidade e universalidade aplicam-se apenas às pessoas jurídicas, e a progressividade, apenas às pessoas físicas."
+      ],
+      "correta": 0,
+      "comentario": "A generalidade é critério subjetivo: alcança todas as pessoas que realizem o fato gerador. A universalidade é objetivo: alcança a totalidade dos rendimentos e proventos, qualquer que seja a denominação, a origem ou a forma de percepção. A progressividade impõe alíquotas crescentes conforme aumenta a base, concretizando a capacidade contributiva. Nenhum deles impede isenções constitucionalmente legítimas.",
+      "fundamento": "CF/1988, art. 153, §2º, I; CTN, art. 43, §1º.",
+      "dificuldade": "facil",
+      "tags": [
+        "imposto-de-renda",
+        "generalidade",
+        "universalidade",
+        "progressividade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0061",
+      "topico": "6.2.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre a progressividade de alíquotas na jurisprudência sumulada do STF, assinale a afirmativa correta.",
+      "alternativas": [
+        "É constitucional a lei que estabelece alíquotas progressivas para o ITBI com base no valor venal do imóvel.",
+        "A progressividade do IPTU sempre foi admitida, independentemente da Emenda Constitucional nº 29/2000.",
+        "A progressividade é vedada a todos os impostos reais, sem exceção.",
+        "É inconstitucional a lei municipal que, antes da Emenda Constitucional nº 29/2000, estabeleceu alíquotas progressivas de IPTU, salvo se destinada a assegurar o cumprimento da função social da propriedade urbana; quanto ao ITBI, é inconstitucional a progressividade com base no valor venal do imóvel.",
+        "A progressividade do IPTU em razão do valor do imóvel depende de lei complementar federal."
+      ],
+      "correta": 3,
+      "comentario": "A Súmula 668 considera inconstitucional a progressividade fiscal do IPTU anterior à EC 29/2000, ressalvada a progressividade extrafiscal destinada a assegurar a função social da propriedade urbana, já prevista no art. 182, §4º, II. A Súmula 656 veda a progressividade do ITBI com base no valor venal. Note o contraste com o ITCMD, cuja progressividade o STF passou a admitir mesmo sem previsão expressa.",
+      "fundamento": "STF, Súmulas 656 e 668; CF/1988, arts. 156, §1º, e 182, §4º, II.",
+      "dificuldade": "media",
+      "tags": [
+        "progressividade",
+        "iptu",
+        "itbi",
+        "sumulas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0062",
+      "topico": "6.2.2",
+      "tipo": "multipla",
+      "enunciado": "Quanto ao princípio da seletividade, é correto afirmar que:",
+      "alternativas": [
+        "é obrigatório para o ICMS e facultativo para o IPI.",
+        "é obrigatório tanto para o IPI quanto para o ICMS.",
+        "é facultativo para ambos, cabendo ao legislador ordinário optar por adotá-lo.",
+        "determina que as alíquotas sejam maiores quanto mais essencial for o produto ou serviço.",
+        "é obrigatório para o IPI, que será seletivo em função da essencialidade do produto, e facultativo para o ICMS, que poderá ser seletivo em função da essencialidade das mercadorias e dos serviços."
+      ],
+      "correta": 4,
+      "comentario": "A diferença está no verbo empregado pela Constituição: o IPI será seletivo (art. 153, §3º, I), o que torna a seletividade obrigatória; o ICMS poderá ser seletivo (art. 155, §2º, III), tornando-a facultativa. A lógica da seletividade é inversa à sugerida na opção D: quanto mais essencial o bem, menor deve ser a alíquota, de modo a onerar menos o consumo de itens indispensáveis.",
+      "fundamento": "CF/1988, arts. 153, §3º, I, e 155, §2º, III.",
+      "dificuldade": "facil",
+      "tags": [
+        "seletividade",
+        "ipi",
+        "icms"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0063",
+      "topico": "6.2.2",
+      "tipo": "multipla",
+      "enunciado": "Determinada indústria adquiriu insumos sujeitos à alíquota zero de IPI e pretende escriturar crédito presumido do imposto, invocando a não cumulatividade.\n\nSegundo entendimento sumulado vinculante do STF, essa pretensão:",
+      "alternativas": [
+        "é legítima, pois a não cumulatividade garante crédito em todas as etapas da cadeia.",
+        "é legítima apenas quanto aos insumos não tributados.",
+        "não encontra amparo, pois inexiste direito a crédito presumido de IPI relativamente à entrada de insumos isentos, sujeitos à alíquota zero ou não tributáveis, o que não contraria a não cumulatividade.",
+        "depende de autorização em convênio celebrado no âmbito do CONFAZ.",
+        "é legítima, por força do princípio da seletividade."
+      ],
+      "correta": 2,
+      "comentario": "A Súmula Vinculante 58 firmou que inexiste direito a crédito presumido de IPI na entrada de insumos isentos, sujeitos à alíquota zero ou não tributáveis, sem ofensa à não cumulatividade. A razão é simples: a não cumulatividade opera pela compensação do que foi efetivamente cobrado nas etapas anteriores, e nada foi cobrado quando a entrada não sofreu incidência.",
+      "fundamento": "STF, Súmula Vinculante 58; CF/1988, art. 153, §3º, II.",
+      "dificuldade": "media",
+      "tags": [
+        "nao-cumulatividade",
+        "ipi",
+        "sumula-vinculante-58"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0064",
+      "topico": "6.2.2",
+      "tipo": "multipla",
+      "enunciado": "O art. 150, §5º, da Constituição determina que a lei adotará medidas para que os consumidores sejam esclarecidos acerca dos impostos que incidam sobre mercadorias e serviços.\n\nEsse dispositivo consagra o princípio da:",
+      "alternativas": [
+        "transparência tributária.",
+        "capacidade contributiva.",
+        "vedação ao confisco.",
+        "anterioridade tributária.",
+        "uniformidade geográfica."
+      ],
+      "correta": 0,
+      "comentario": "O §5º do art. 150 positiva o princípio da transparência tributária, voltado a tornar visível ao consumidor a carga embutida no preço de mercadorias e serviços. Sua principal concretização legislativa é a Lei nº 12.741/2012, que impõe a informação do valor aproximado dos tributos nos documentos fiscais. A Emenda Constitucional nº 132/2023 reforçou a transparência entre os princípios orientadores do Sistema Tributário Nacional.",
+      "fundamento": "CF/1988, art. 150, §5º; Lei nº 12.741/2012.",
+      "dificuldade": "facil",
+      "tags": [
+        "transparencia",
+        "art-150-par-5"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0065",
+      "topico": "6.2.2",
+      "tipo": "multipla",
+      "enunciado": "Lei federal fixou alíquota de Imposto de Renda mais elevada para a renda das obrigações da dívida pública estadual do que a aplicável aos títulos emitidos pela própria União.\n\nEssa lei viola a vedação constitucional dirigida à União de:",
+      "alternativas": [
+        "tributar a renda das obrigações da dívida pública dos Estados, do Distrito Federal e dos Municípios, bem como a remuneração e os proventos dos respectivos agentes públicos, em níveis superiores aos que fixar para suas obrigações e para seus agentes.",
+        "instituir isenções de tributos da competência dos Estados, do Distrito Federal e dos Municípios.",
+        "instituir tributo que não seja uniforme em todo o território nacional.",
+        "estabelecer diferença tributária entre bens e serviços em razão de sua procedência ou destino.",
+        "cobrar tributos em relação a fatos geradores ocorridos antes do início da vigência da lei que os instituiu."
+      ],
+      "correta": 0,
+      "comentario": "O art. 151, II, protege o pacto federativo: a União não pode penalizar os títulos da dívida pública dos demais entes nem a remuneração de seus agentes, tributando-os mais gravosamente do que os seus próprios. Trata-se de limitação específica, distinta da uniformidade geográfica do inciso I e da vedação às isenções heterônomas do inciso III, que a banca costuma apresentar como distratores.",
+      "fundamento": "CF/1988, art. 151, II.",
+      "dificuldade": "media",
+      "tags": [
+        "art-151",
+        "federacao",
+        "divida-publica"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0066",
+      "topico": "6.2.2",
+      "tipo": "multipla",
+      "enunciado": "Município instituiu taxa de licenciamento cujo valor, fixado em montante único elevado, supera em várias vezes o custo da atividade de fiscalização correspondente.\n\nÀ luz do princípio da vedação ao confisco, é correto afirmar que:",
+      "alternativas": [
+        "a vedação ao confisco não alcança as taxas, por serem tributos vinculados.",
+        "a taxa é válida, pois seu valor é matéria de conveniência do legislador municipal.",
+        "a taxa é inválida, pois o valor cobrado deve guardar razoável proporção com o custo da atividade estatal que a justifica, sendo confiscatória a exação manifestamente desproporcional.",
+        "a taxa só seria inválida se o valor superasse o de um imposto incidente sobre o mesmo contribuinte.",
+        "a aferição do confisco considera isoladamente cada tributo, sendo irrelevante a carga total suportada pelo contribuinte perante o mesmo ente."
+      ],
+      "correta": 2,
+      "comentario": "A vedação ao confisco alcança todos os tributos, inclusive as taxas. Como a taxa é contraprestacional, seu valor deve manter correlação razoável com o custo da atuação estatal: o excesso manifesto a torna confiscatória. Vale lembrar ainda que o STF afere o efeito confiscatório considerando a totalidade da carga imposta pelo mesmo ente, e não cada exação isoladamente.",
+      "fundamento": "CF/1988, art. 150, IV; STF, ADI 2.551 MC-QO.",
+      "dificuldade": "media",
+      "tags": [
+        "confisco",
+        "taxas",
+        "proporcionalidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0067",
+      "topico": "6.2.2",
+      "tipo": "multipla",
+      "enunciado": "A Emenda Constitucional nº 132/2023 acrescentou ao art. 145 da Constituição dispositivo enunciando princípios que o Sistema Tributário Nacional deve observar.\n\nAssinale a opção que apresenta esses princípios.",
+      "alternativas": [
+        "Anterioridade, legalidade, isonomia, irretroatividade e vedação ao confisco.",
+        "Simplicidade, transparência, justiça tributária, cooperação e defesa do meio ambiente.",
+        "Generalidade, universalidade, progressividade, seletividade e não cumulatividade.",
+        "Supremacia do interesse público, indisponibilidade, eficiência, moralidade e publicidade.",
+        "Neutralidade, uniformidade, territorialidade, reciprocidade e subsidiariedade."
+      ],
+      "correta": 1,
+      "comentario": "O §3º do art. 145, incluído pela EC 132/2023, determina que o Sistema Tributário Nacional observe os princípios da simplicidade, da transparência, da justiça tributária, da cooperação e da defesa do meio ambiente. O §4º acrescenta que as alterações na legislação tributária buscarão atenuar efeitos regressivos. São princípios novos, que convivem com as limitações clássicas do art. 150.",
+      "fundamento": "CF/1988, art. 145, §§3º e 4º (EC 132/2023).",
+      "dificuldade": "media",
+      "tags": [
+        "ec-132",
+        "principios",
+        "reforma-tributaria"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0068",
+      "topico": "6.2.2",
+      "tipo": "multipla",
+      "enunciado": "Entre as diretrizes introduzidas pela Emenda Constitucional nº 132/2023, o Imposto sobre Bens e Serviços é expressamente informado pelo princípio da neutralidade.\n\nEsse princípio significa que a tributação deve:",
+      "alternativas": [
+        "ser idêntica em todos os Estados, vedada qualquer variação de alíquota.",
+        "privilegiar setores estratégicos da economia mediante benefícios fiscais amplos.",
+        "recair exclusivamente sobre o consumidor final, vedada a tributação de empresas.",
+        "ser suportada igualmente por todos os contribuintes, independentemente de sua capacidade econômica.",
+        "interferir o mínimo possível nas decisões de consumo e de organização da atividade econômica, evitando que a carga tributária distorça escolhas dos agentes ou favoreça arbitrariamente determinada forma de produzir ou circular bens e serviços."
+      ],
+      "correta": 4,
+      "comentario": "A neutralidade busca que o tributo não seja fator de distorção das decisões econômicas: a escolha entre produzir, terceirizar, importar ou mudar de Estado não deve ser determinada pela carga tributária. É uma das justificativas centrais da não cumulatividade plena adotada para o IBS e a CBS. Não se confunde com uniformidade de alíquotas, já que cada ente pode fixar a sua.",
+      "fundamento": "CF/1988, art. 156-A, §1º (EC 132/2023).",
+      "dificuldade": "media",
+      "tags": [
+        "ec-132",
+        "neutralidade",
+        "ibs"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0069",
+      "topico": "6.2.2",
+      "tipo": "multipla",
+      "enunciado": "O princípio da não surpresa funciona como fundamento comum de diversas limitações constitucionais ao poder de tributar.\n\nSão desdobramentos diretos desse fundamento:",
+      "alternativas": [
+        "a isonomia, a capacidade contributiva e a seletividade.",
+        "a irretroatividade, a anterioridade anual e a anterioridade nonagesimal.",
+        "a uniformidade geográfica, a não discriminação e a vedação às isenções heterônomas.",
+        "a legalidade, a transparência e a neutralidade.",
+        "a vedação ao confisco, a liberdade de tráfego e a imunidade recíproca."
+      ],
+      "correta": 1,
+      "comentario": "A não surpresa, extraída da segurança jurídica, protege a previsibilidade e a confiança do contribuinte, permitindo-lhe planejar-se. Concretiza-se na irretroatividade, que impede alcançar fatos pretéritos, e nas anterioridades anual e nonagesimal, que diferem a eficácia da lei que institui ou majora tributos. Os demais princípios listados protegem outros valores, como igualdade, pacto federativo e capacidade econômica.",
+      "fundamento": "CF/1988, art. 150, III, 'a', 'b' e 'c'.",
+      "dificuldade": "facil",
+      "tags": [
+        "nao-surpresa",
+        "seguranca-juridica",
+        "anterioridade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0070",
+      "topico": "6.2.2",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, relativas às limitações constitucionais ao poder de tributar.\n\nI. A anterioridade nonagesimal e a anterioridade anual, quando ambas aplicáveis, são cumulativas, prevalecendo a data que for mais favorável ao contribuinte.\nII. A revogação de isenção concedida por prazo certo e sob condição onerosa pode ocorrer a qualquer tempo, por se tratar de benefício fiscal.\nIII. As limitações constitucionais ao poder de tributar não excluem outras garantias asseguradas ao contribuinte, podendo lei complementar regular as limitações constitucionais.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "I e III, apenas.",
+        "II e III, apenas.",
+        "III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 1,
+      "comentario": "I está correta: as anterioridades se somam, de modo que a cobrança só é possível quando atendidos os dois prazos. III está correta: o art. 150, caput, ressalva outras garantias, e o art. 146, II, atribui à lei complementar regular as limitações constitucionais ao poder de tributar. II está errada: a isenção concedida por prazo certo e sob condição onerosa não pode ser livremente revogada, conforme o art. 178 do CTN e a Súmula 544 do STF.",
+      "fundamento": "CF/1988, arts. 146, II, e 150; CTN, art. 178; STF, Súmula 544.",
+      "dificuldade": "media",
+      "tags": [
+        "anterioridade",
+        "isencao-onerosa",
+        "lei-complementar"
+      ],
+      "fonte": "inédita"
     }
   ]
 }
