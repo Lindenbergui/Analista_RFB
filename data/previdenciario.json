@@ -1,4 +1,536 @@
 {
   "materia": "prev",
-  "questoes": []
+  "questoes": [
+    {
+      "id": "prev-0001",
+      "topico": "7.1.1",
+      "tipo": "multipla",
+      "enunciado": "Nos termos do art. 194 da Constituição, a seguridade social compreende:",
+      "alternativas": [
+        "um conjunto integrado de ações de iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à previdência e à assistência social.",
+        "apenas as ações de iniciativa dos Poderes Públicos destinadas a assegurar o direito à previdência social.",
+        "o conjunto de benefícios pagos pelo Instituto Nacional do Seguro Social aos segurados e dependentes.",
+        "as políticas de saúde, educação e assistência social financiadas pelo orçamento fiscal da União.",
+        "as ações de iniciativa exclusiva da sociedade civil organizada voltadas ao amparo dos necessitados."
+      ],
+      "correta": 0,
+      "comentario": "O art. 194 define a seguridade social como conjunto integrado de ações de iniciativa dos Poderes Públicos e da sociedade — o que afasta a ideia de iniciativa exclusivamente estatal ou exclusivamente privada. Seu objeto é o tripé saúde, previdência e assistência social. Educação, embora direito social, não integra a seguridade.",
+      "fundamento": "CF/1988, art. 194, caput.",
+      "dificuldade": "facil",
+      "tags": [
+        "conceito",
+        "seguridade-social",
+        "tripe"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0002",
+      "topico": "7.1.1",
+      "tipo": "multipla",
+      "enunciado": "A seguridade social estrutura-se sobre três áreas, cada qual com lógica de acesso própria.\n\nAssinale a opção que as caracteriza corretamente.",
+      "alternativas": [
+        "Saúde: contributiva e de filiação obrigatória. Previdência: universal e gratuita. Assistência: contributiva e facultativa.",
+        "As três áreas exigem contribuição prévia do beneficiário, variando apenas a alíquota aplicável.",
+        "Saúde: direito de todos e dever do Estado, com acesso universal e igualitário, independentemente de contribuição. Previdência: contributiva e de filiação obrigatória no regime geral. Assistência social: prestada a quem dela necessitar, independentemente de contribuição.",
+        "Saúde e assistência são contributivas; apenas a previdência é universal e gratuita.",
+        "Apenas a saúde integra a seguridade social, sendo previdência e assistência políticas autônomas."
+      ],
+      "correta": 2,
+      "comentario": "A distinção é o eixo da matéria. A saúde é universal e não contributiva (art. 196). A assistência é prestada a quem dela necessitar, também sem exigir contribuição, mas de forma seletiva, dirigida a quem se encontre em situação de necessidade (art. 203). A previdência, ao contrário, tem caráter contributivo e filiação obrigatória no RGPS (art. 201), funcionando como seguro social.",
+      "fundamento": "CF/1988, arts. 196, 201 e 203.",
+      "dificuldade": "facil",
+      "tags": [
+        "saude",
+        "previdencia",
+        "assistencia",
+        "tripe"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0003",
+      "topico": "7.1.1",
+      "tipo": "multipla",
+      "enunciado": "Um trabalhador recém-filiado ao Regime Geral de Previdência Social questiona por que suas contribuições custeiam benefícios de pessoas que já estão aposentadas e com as quais não tem qualquer vínculo.\n\nA resposta encontra fundamento no princípio da:",
+      "alternativas": [
+        "seletividade na prestação dos benefícios.",
+        "solidariedade, que estrutura o sistema em regime de repartição, no qual a contribuição da geração ativa custeia os benefícios dos atuais beneficiários, sem correspondência individual entre o que se paga e o que se recebe.",
+        "irredutibilidade do valor dos benefícios.",
+        "capitalização individual, pela qual cada segurado acumula reservas próprias.",
+        "uniformidade e equivalência entre as populações urbanas e rurais."
+      ],
+      "correta": 1,
+      "comentario": "A solidariedade é o fundamento do sistema: no regime de repartição simples adotado pelo RGPS, as contribuições dos segurados em atividade financiam os benefícios de quem já os recebe. Daí não haver correspondência individual entre contribuição e prestação, e daí também a exigência de contribuição de quem talvez nunca venha a receber determinado benefício. A capitalização individual é a lógica da previdência complementar.",
+      "fundamento": "CF/1988, arts. 194 e 195; princípio da solidariedade.",
+      "dificuldade": "facil",
+      "tags": [
+        "solidariedade",
+        "repartição-simples"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0004",
+      "topico": "7.1.1",
+      "tipo": "multipla",
+      "enunciado": "Nos termos do art. 195 da Constituição, a seguridade social será financiada:",
+      "alternativas": [
+        "exclusivamente pelas contribuições dos trabalhadores e dos empregadores.",
+        "exclusivamente por recursos dos orçamentos da União, dos Estados, do Distrito Federal e dos Municípios.",
+        "por contribuições voluntárias dos beneficiários e por doações de entidades privadas.",
+        "pelo orçamento fiscal da União, vedada a vinculação de contribuições sociais.",
+        "por toda a sociedade, de forma direta e indireta, mediante recursos dos orçamentos da União, dos Estados, do Distrito Federal e dos Municípios e das contribuições sociais previstas na Constituição."
+      ],
+      "correta": 4,
+      "comentario": "O art. 195 consagra o financiamento por toda a sociedade, de forma direta e indireta: direta, pelas contribuições sociais; indireta, pelos recursos orçamentários dos entes federativos. Entre as contribuições estão as do empregador sobre folha, receita ou faturamento e lucro, as do trabalhador, as incidentes sobre a receita de concursos de prognósticos e as do importador.",
+      "fundamento": "CF/1988, art. 195, caput e incisos.",
+      "dificuldade": "facil",
+      "tags": [
+        "financiamento",
+        "custeio",
+        "art-195"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0005",
+      "topico": "7.1.1",
+      "tipo": "multipla",
+      "enunciado": "Projeto de lei pretende criar novo benefício previdenciário sem indicar a respectiva fonte de receita.\n\nÀ luz da Constituição, essa iniciativa esbarra na:",
+      "alternativas": [
+        "regra da contrapartida, segundo a qual nenhum benefício ou serviço da seguridade social poderá ser criado, majorado ou estendido sem a correspondente fonte de custeio total.",
+        "vedação à vinculação de receita de impostos a órgão, fundo ou despesa.",
+        "exigência de lei complementar para a criação de qualquer benefício previdenciário.",
+        "regra da anterioridade nonagesimal aplicável às contribuições sociais.",
+        "proibição de déficit primário prevista na Lei de Responsabilidade Fiscal."
+      ],
+      "correta": 0,
+      "comentario": "O art. 195, §5º, consagra a regra da contrapartida, também chamada princípio da precedência da fonte de custeio: criar, majorar ou estender benefício ou serviço da seguridade exige a indicação prévia da fonte de custeio total. É mecanismo de preservação do equilíbrio do sistema e já fundamentou a declaração de inconstitucionalidade de leis que ampliaram prestações sem lastro.",
+      "fundamento": "CF/1988, art. 195, §5º.",
+      "dificuldade": "facil",
+      "tags": [
+        "contrapartida",
+        "fonte-de-custeio",
+        "equilibrio"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0006",
+      "topico": "7.1.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que distingue corretamente seguro social e seguridade social.",
+      "alternativas": [
+        "São expressões sinônimas, ambas designando o conjunto de ações de saúde, previdência e assistência.",
+        "O seguro social é gênero, do qual a seguridade social é espécie restrita à previdência.",
+        "O seguro social abrange a proteção universal e não contributiva, e a seguridade social, a proteção contributiva.",
+        "O seguro social corresponde ao modelo contributivo, de filiação obrigatória e proteção limitada aos segurados e seus dependentes, enquanto a seguridade social é noção mais ampla, que agrega à previdência a saúde e a assistência social, com vocação de proteção universal.",
+        "A seguridade social é conceito de direito privado, e o seguro social, de direito público."
+      ],
+      "correta": 3,
+      "comentario": "O seguro social, de matriz bismarckiana, protege quem contribui e seus dependentes, numa lógica de seguro. A seguridade social, inspirada no modelo beveridgiano, é mais ampla: soma à previdência contributiva a saúde universal e a assistência a quem necessite, com pretensão de proteção de toda a população. A Constituição de 1988 adotou o modelo de seguridade, mantendo a previdência com feição de seguro social.",
+      "fundamento": "CF/1988, art. 194; doutrina previdenciária.",
+      "dificuldade": "media",
+      "tags": [
+        "seguro-social",
+        "seguridade-social",
+        "bismarck",
+        "beveridge"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0007",
+      "topico": "7.1.1",
+      "tipo": "multipla",
+      "enunciado": "Entre os objetivos da seguridade social elencados no parágrafo único do art. 194 da Constituição, a seletividade e a distributividade na prestação dos benefícios e serviços significam que:",
+      "alternativas": [
+        "todos os benefícios devem ser concedidos indistintamente a toda a população.",
+        "os benefícios devem ter o mesmo valor para todos os beneficiários.",
+        "cabe ao legislador escolher, diante dos recursos disponíveis, quais contingências serão protegidas e quais prestações serão oferecidas, direcionando-as a quem mais delas necessita, com efeito redistributivo.",
+        "a seguridade deve ser custeada apenas por quem efetivamente usufrui de seus benefícios.",
+        "os benefícios devem ser concedidos exclusivamente mediante contribuição prévia do beneficiário."
+      ],
+      "correta": 2,
+      "comentario": "A seletividade autoriza o legislador a eleger as contingências cobertas e as prestações devidas, diante da limitação de recursos. A distributividade orienta essa escolha para quem mais precisa, dando ao sistema caráter redistributivo. O princípio convive em tensão com a universalidade da cobertura e do atendimento, que é meta a ser perseguida progressivamente.",
+      "fundamento": "CF/1988, art. 194, parágrafo único, III.",
+      "dificuldade": "media",
+      "tags": [
+        "seletividade",
+        "distributividade",
+        "objetivos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0008",
+      "topico": "7.1.1",
+      "tipo": "multipla",
+      "enunciado": "O parágrafo único do art. 194 da Constituição prevê o caráter democrático e descentralizado da administração da seguridade social, mediante gestão quadripartite.\n\nParticipam dessa gestão, nos órgãos colegiados:",
+      "alternativas": [
+        "apenas o Governo e os trabalhadores.",
+        "o Governo, os trabalhadores, os empregadores e os aposentados.",
+        "o Governo, os trabalhadores, os empregadores e as entidades beneficentes.",
+        "o Governo, o Ministério Público, os trabalhadores e os empregadores.",
+        "o Governo, os Estados, os Municípios e os trabalhadores."
+      ],
+      "correta": 1,
+      "comentario": "A gestão quadripartite reúne trabalhadores, empregadores, aposentados e Governo nos órgãos colegiados — composição que dá concretude ao caráter democrático e descentralizado da administração da seguridade. O Conselho Nacional de Previdência Social é o principal exemplo dessa estrutura no âmbito do RGPS.",
+      "fundamento": "CF/1988, art. 194, parágrafo único, VII.",
+      "dificuldade": "media",
+      "tags": [
+        "gestao-quadripartite",
+        "objetivos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0009",
+      "topico": "7.1.1",
+      "tipo": "multipla",
+      "enunciado": "Lei estabeleceu alíquotas de contribuição previdenciária diferenciadas em razão da atividade econômica desenvolvida pela empresa, do porte do empreendimento e da utilização intensiva de mão de obra.\n\nEssa diferenciação encontra fundamento no objetivo da:",
+      "alternativas": [
+        "irredutibilidade do valor dos benefícios.",
+        "universalidade da cobertura e do atendimento.",
+        "seletividade e distributividade na prestação dos benefícios.",
+        "uniformidade e equivalência dos benefícios às populações urbanas e rurais.",
+        "equidade na forma de participação no custeio, expressamente admitida pela Constituição, que autoriza contribuições com alíquotas ou bases de cálculo diferenciadas."
+      ],
+      "correta": 4,
+      "comentario": "A equidade na forma de participação no custeio impõe que cada um contribua conforme sua capacidade: quem tem maior capacidade econômica ou gera maior risco ao sistema contribui mais. A Constituição autoriza expressamente contribuições com alíquotas ou bases diferenciadas em razão da atividade econômica, da utilização intensiva de mão de obra, do porte da empresa ou da condição estrutural do mercado de trabalho.",
+      "fundamento": "CF/1988, arts. 194, parágrafo único, V, e 195, §9º.",
+      "dificuldade": "media",
+      "tags": [
+        "equidade-no-custeio",
+        "aliquotas-diferenciadas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0010",
+      "topico": "7.1.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre a diversidade da base de financiamento como objetivo da seguridade social, é correto afirmar que:",
+      "alternativas": [
+        "impõe que a seguridade seja custeada por fonte única, para simplificar a arrecadação.",
+        "veda a instituição de novas contribuições sociais além das previstas no texto original da Constituição.",
+        "significa que a seguridade deve contar com múltiplas fontes de custeio, devendo-se identificar, em rubricas contábeis específicas para cada área, as receitas e despesas vinculadas a ações de saúde, previdência e assistência social, preservado o caráter contributivo da previdência.",
+        "autoriza a livre transferência de recursos entre as três áreas da seguridade, sem qualquer segregação contábil.",
+        "aplica-se apenas à saúde, por ser a área de maior demanda orçamentária."
+      ],
+      "correta": 2,
+      "comentario": "A diversidade da base busca reduzir a vulnerabilidade do sistema a oscilações de uma única fonte, distribuindo o custeio entre folha, faturamento, lucro, importação e outras bases. A Emenda Constitucional nº 103/2019 acrescentou a exigência de segregação contábil por área, com identificação das receitas e despesas de saúde, previdência e assistência, e a ressalva expressa ao caráter contributivo da previdência.",
+      "fundamento": "CF/1988, art. 194, parágrafo único, VI (redação da EC 103/2019).",
+      "dificuldade": "dificil",
+      "tags": [
+        "diversidade-da-base",
+        "ec-103",
+        "segregacao-contabil"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0011",
+      "topico": "7.1.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre a competência legislativa em matéria de seguridade social, assinale a afirmativa correta.",
+      "alternativas": [
+        "Compete privativamente à União legislar sobre seguridade social, cabendo competência concorrente à União, aos Estados e ao Distrito Federal para legislar sobre previdência social, proteção e defesa da saúde.",
+        "A competência é concorrente quanto a toda a seguridade social, inclusive quanto às contribuições sociais.",
+        "Compete exclusivamente aos Estados legislar sobre previdência social dos seus servidores e dos trabalhadores em geral.",
+        "A competência para legislar sobre saúde é privativa da União, sem possibilidade de suplementação pelos Estados.",
+        "Municípios não possuem qualquer competência legislativa relacionada à seguridade social."
+      ],
+      "correta": 0,
+      "comentario": "Há duas regras que a banca gosta de confrontar. O art. 22, XXIII, atribui à União competência privativa para legislar sobre seguridade social. Já o art. 24, XII, estabelece competência concorrente da União, dos Estados e do Distrito Federal para legislar sobre previdência social, proteção e defesa da saúde — hipótese em que a União fixa normas gerais e os demais entes suplementam.",
+      "fundamento": "CF/1988, arts. 22, XXIII, e 24, XII.",
+      "dificuldade": "media",
+      "tags": [
+        "competencia-legislativa",
+        "art-22",
+        "art-24"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0012",
+      "topico": "7.1.1",
+      "tipo": "multipla",
+      "enunciado": "O objetivo da irredutibilidade do valor dos benefícios, previsto no art. 194, parágrafo único, IV, da Constituição, segundo a interpretação consolidada:",
+      "alternativas": [
+        "assegura a irredutibilidade apenas nominal do valor do benefício, sem garantir, por si só, a manutenção do poder aquisitivo, que no âmbito do RGPS é tutelada pela regra específica de reajustamento destinada a preservar o valor real.",
+        "garante a correção automática dos benefícios pelo índice de maior variação disponível no mercado.",
+        "autoriza a redução do valor do benefício sempre que houver déficit atuarial no sistema.",
+        "assegura a irredutibilidade real de todos os benefícios da seguridade social, inclusive os assistenciais.",
+        "permite a redução do valor nominal mediante lei específica, desde que observada a anterioridade nonagesimal."
+      ],
+      "correta": 0,
+      "comentario": "A irredutibilidade do art. 194 é entendida como garantia do valor nominal: impede a diminuição do montante já concedido. A preservação do poder aquisitivo decorre de regra própria do regime geral, que assegura o reajustamento destinado a manter, em caráter permanente, o valor real do benefício, nos critérios definidos em lei.",
+      "fundamento": "CF/1988, arts. 194, parágrafo único, IV, e 201, §4º.",
+      "dificuldade": "media",
+      "tags": [
+        "irredutibilidade",
+        "valor-real",
+        "reajustamento"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0013",
+      "topico": "7.1.2",
+      "tipo": "multipla",
+      "enunciado": "Nos termos do art. 201 da Constituição, a previdência social será organizada sob a forma de Regime Geral de Previdência Social, de caráter:",
+      "alternativas": [
+        "não contributivo e de filiação facultativa, observados critérios de seletividade.",
+        "contributivo e de filiação facultativa, observada a capacidade econômica do segurado.",
+        "não contributivo e de filiação obrigatória, custeado pelo orçamento fiscal da União.",
+        "contributivo e de filiação obrigatória, observados critérios que preservem o equilíbrio financeiro e atuarial.",
+        "misto, facultando-se ao segurado optar entre o regime de repartição e o de capitalização."
+      ],
+      "correta": 3,
+      "comentario": "O caput do art. 201 reúne três notas essenciais do RGPS: caráter contributivo, filiação obrigatória e observância de critérios que preservem o equilíbrio financeiro e atuarial. O equilíbrio financeiro diz respeito ao confronto entre receitas e despesas no curto prazo; o atuarial, à sustentabilidade do sistema no longo prazo, considerando projeções demográficas e de contribuição.",
+      "fundamento": "CF/1988, art. 201, caput.",
+      "dificuldade": "facil",
+      "tags": [
+        "rgps",
+        "contributivo",
+        "filiacao-obrigatoria",
+        "equilibrio"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0014",
+      "topico": "7.1.2",
+      "tipo": "multipla",
+      "enunciado": "Após a Emenda Constitucional nº 103/2019, o art. 201, I, da Constituição determina que a previdência social atenderá à cobertura dos eventos de:",
+      "alternativas": [
+        "doença, invalidez, morte e idade avançada.",
+        "incapacidade temporária ou permanente para o trabalho e idade avançada.",
+        "desemprego voluntário e redução da capacidade laborativa.",
+        "acidente de trabalho e doença ocupacional, exclusivamente.",
+        "velhice, orfandade e abandono familiar."
+      ],
+      "correta": 1,
+      "comentario": "A redação originária referia-se a doença, invalidez, morte e idade avançada. A EC 103/2019 substituiu as duas primeiras expressões por incapacidade temporária ou permanente para o trabalho, alinhando o texto à mudança de nomenclatura dos benefícios — o auxílio-doença passou a auxílio por incapacidade temporária, e a aposentadoria por invalidez, aposentadoria por incapacidade permanente. A morte segue coberta, pela pensão por morte do inciso V.",
+      "fundamento": "CF/1988, art. 201, I (redação da EC 103/2019).",
+      "dificuldade": "media",
+      "tags": [
+        "riscos-cobertos",
+        "ec-103",
+        "incapacidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0015",
+      "topico": "7.1.2",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que NÃO corresponde a evento ou situação expressamente coberta pela previdência social, nos termos do art. 201 da Constituição.",
+      "alternativas": [
+        "Proteção à maternidade, especialmente à gestante.",
+        "Proteção ao trabalhador em situação de desemprego involuntário.",
+        "Salário-família e auxílio-reclusão para os dependentes dos segurados de baixa renda.",
+        "Pensão por morte do segurado, homem ou mulher, ao cônjuge ou companheiro e dependentes.",
+        "Prestação de assistência social a quem dela necessitar, independentemente de contribuição."
+      ],
+      "correta": 4,
+      "comentario": "A assistência social não integra a previdência: é a terceira área da seguridade, prestada a quem dela necessitar e independentemente de contribuição, com fundamento no art. 203. Os demais itens constam expressamente dos incisos do art. 201. Note que o salário-família e o auxílio-reclusão são devidos apenas aos dependentes de segurados de baixa renda.",
+      "fundamento": "CF/1988, arts. 201, I a V, e 203.",
+      "dificuldade": "facil",
+      "tags": [
+        "riscos-cobertos",
+        "previdencia",
+        "assistencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0016",
+      "topico": "7.1.2",
+      "tipo": "multipla",
+      "enunciado": "Segurado do RGPS teve seu benefício de aposentadoria calculado em valor inferior ao salário mínimo vigente, por força da média de seus salários de contribuição.\n\nSobre essa situação, é correto afirmar que:",
+      "alternativas": [
+        "o valor é válido, pois o piso do salário mínimo aplica-se apenas aos benefícios assistenciais.",
+        "o valor é válido, desde que o segurado tenha contribuído sobre base inferior ao salário mínimo.",
+        "o valor é inválido, pois todo e qualquer benefício previdenciário tem piso de um salário mínimo, inclusive os de natureza indenizatória ou complementar.",
+        "o valor é inválido, pois nenhum benefício que substitua o salário de contribuição ou o rendimento do trabalho do segurado terá valor mensal inferior ao salário mínimo.",
+        "o valor é válido, cabendo ao segurado complementar a diferença mediante contribuição adicional."
+      ],
+      "correta": 3,
+      "comentario": "O art. 201, §2º, garante o piso de um salário mínimo aos benefícios que substituam o salário de contribuição ou o rendimento do trabalho do segurado — caso das aposentadorias, do auxílio por incapacidade e da pensão por morte. A garantia não alcança benefícios que não têm natureza substitutiva, como o salário-família e o auxílio-acidente, que podem ter valor inferior ao mínimo.",
+      "fundamento": "CF/1988, art. 201, §2º.",
+      "dificuldade": "media",
+      "tags": [
+        "piso",
+        "salario-minimo",
+        "beneficios-substitutivos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0017",
+      "topico": "7.1.2",
+      "tipo": "multipla",
+      "enunciado": "O sistema previdenciário brasileiro estrutura-se em regimes distintos.\n\nAssinale a opção que os identifica corretamente.",
+      "alternativas": [
+        "Regime Geral de Previdência Social, Regime Próprio de Previdência Social e Regime de Previdência Complementar.",
+        "Regime Geral de Previdência Social e Regime de Assistência Social, apenas.",
+        "Regime público obrigatório e regime privado obrigatório, apenas.",
+        "Regime contributivo, regime não contributivo e regime misto.",
+        "Regime urbano, regime rural e regime especial de inclusão."
+      ],
+      "correta": 0,
+      "comentario": "São três os regimes: o Regime Geral de Previdência Social, administrado pelo INSS e aplicável aos trabalhadores da iniciativa privada e aos servidores sem regime próprio; os Regimes Próprios de Previdência Social, dos servidores titulares de cargo efetivo de cada ente federativo; e o Regime de Previdência Complementar, facultativo e organizado de forma autônoma. A assistência social não é regime previdenciário.",
+      "fundamento": "CF/1988, arts. 40, 201 e 202.",
+      "dificuldade": "facil",
+      "tags": [
+        "regimes",
+        "rgps",
+        "rpps",
+        "rpc"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0018",
+      "topico": "7.1.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre o regime de previdência complementar previsto no art. 202 da Constituição, é correto afirmar que:",
+      "alternativas": [
+        "tem filiação obrigatória para todos os segurados do Regime Geral de Previdência Social.",
+        "é organizado em regime de repartição simples, à semelhança do Regime Geral.",
+        "integra o contrato de trabalho dos participantes, para todos os efeitos legais.",
+        "é facultativo, organizado de forma autônoma em relação ao Regime Geral, baseado na constituição de reservas que garantam o benefício contratado e regulado por lei complementar.",
+        "é custeado exclusivamente pelo empregador, vedada a contribuição do participante."
+      ],
+      "correta": 3,
+      "comentario": "O art. 202 define o regime complementar como facultativo, autônomo em relação ao RGPS, baseado na constituição de reservas — portanto em capitalização, e não em repartição — e disciplinado por lei complementar, hoje a LC 109/2001. O §2º do mesmo artigo é expresso ao afastar a integração das contribuições e benefícios ao contrato de trabalho dos participantes.",
+      "fundamento": "CF/1988, art. 202, caput e §2º; LC nº 109/2001.",
+      "dificuldade": "media",
+      "tags": [
+        "previdencia-complementar",
+        "capitalizacao",
+        "facultativo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0019",
+      "topico": "7.1.2",
+      "tipo": "multipla",
+      "enunciado": "Lei estadual pretendeu computar, para fins de aposentadoria de servidores, período em que não houve efetiva contribuição nem prestação de serviço, a título de tempo ficto.\n\nÀ luz da Constituição, após a Emenda Constitucional nº 103/2019, essa previsão é:",
+      "alternativas": [
+        "válida, desde que o período não ultrapasse cinco anos.",
+        "válida, pois a contagem de tempo fictício é matéria de competência estadual.",
+        "inválida, pois é vedada a contagem de tempo de contribuição fictício para efeito de concessão dos benefícios previdenciários e de contagem recíproca.",
+        "válida, desde que haja prévia autorização do Tribunal de Contas do Estado.",
+        "inválida apenas quanto aos servidores federais, sendo permitida aos Estados e Municípios."
+      ],
+      "correta": 2,
+      "comentario": "A vedação ao tempo ficto é expressa no art. 201, §14, e decorre do caráter contributivo e do equilíbrio financeiro e atuarial: só se computa o período em que houve efetiva contribuição. A regra alcança tanto o RGPS quanto os regimes próprios, por força do art. 40, §9º, e também a contagem recíproca entre regimes.",
+      "fundamento": "CF/1988, arts. 40, §9º, e 201, §14 (EC 103/2019).",
+      "dificuldade": "media",
+      "tags": [
+        "tempo-ficticio",
+        "ec-103",
+        "contagem-reciproca"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0020",
+      "topico": "7.1.2",
+      "tipo": "multipla",
+      "enunciado": "A Constituição prevê sistema especial de inclusão previdenciária, com alíquotas diferenciadas, destinado a:",
+      "alternativas": [
+        "todos os servidores públicos titulares de cargo efetivo.",
+        "empregados de empresas de grande porte, para estimular a formalização.",
+        "estrangeiros residentes no exterior que pretendam contribuir para o sistema brasileiro.",
+        "aposentados que desejem majorar o valor de seus benefícios.",
+        "atender aos trabalhadores de baixa renda e àqueles sem renda própria que se dediquem exclusivamente ao trabalho doméstico no âmbito de sua residência, desde que pertencentes a famílias de baixa renda, garantindo-lhes acesso a benefícios de valor igual a um salário mínimo."
+      ],
+      "correta": 4,
+      "comentario": "O sistema especial de inclusão previdenciária busca ampliar a cobertura a quem tem dificuldade de arcar com a contribuição ordinária, mediante alíquotas e carências favorecidas. Os destinatários são os trabalhadores de baixa renda e quem, sem renda própria, se dedica exclusivamente ao trabalho doméstico na própria residência, em família de baixa renda, com benefícios no valor de um salário mínimo.",
+      "fundamento": "CF/1988, art. 201, §§12 e 13.",
+      "dificuldade": "media",
+      "tags": [
+        "inclusao-previdenciaria",
+        "baixa-renda"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0021",
+      "topico": "7.1.2",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que distingue corretamente a previdência social da assistência social.",
+      "alternativas": [
+        "Ambas exigem contribuição prévia, diferindo apenas quanto ao órgão gestor.",
+        "A previdência é prestada a quem dela necessitar, e a assistência, somente a quem contribui.",
+        "A previdência exige filiação e contribuição, protegendo o segurado e seus dependentes contra riscos sociais predeterminados; a assistência é prestada a quem dela necessitar, independentemente de contribuição, mediante comprovação da situação de necessidade.",
+        "A assistência social integra o Regime Geral de Previdência Social, sendo administrada pelo INSS.",
+        "Ambas são universais e independem de qualquer requisito, bastando o requerimento do interessado."
+      ],
+      "correta": 2,
+      "comentario": "A previdência é seguro: pressupõe filiação e contribuição, e protege contra riscos predefinidos. A assistência independe de contribuição e se dirige a quem está em situação de necessidade, exigindo a comprovação dessa condição — é seletiva, e não universal. O fato de o INSS operacionalizar o Benefício de Prestação Continuada não transforma esse benefício em previdenciário: sua natureza permanece assistencial.",
+      "fundamento": "CF/1988, arts. 201 e 203; Lei nº 8.742/1993.",
+      "dificuldade": "facil",
+      "tags": [
+        "previdencia",
+        "assistencia",
+        "bpc"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0022",
+      "topico": "7.1.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre o Regime Próprio de Previdência Social dos servidores titulares de cargo efetivo, após a Emenda Constitucional nº 103/2019, é correto afirmar que:",
+      "alternativas": [
+        "tem caráter não contributivo, sendo custeado integralmente pelo ente federativo.",
+        "tem caráter contributivo e solidário, mediante contribuição do respectivo ente federativo, dos servidores ativos, dos aposentados e dos pensionistas, observados critérios que preservem o equilíbrio financeiro e atuarial.",
+        "abrange todos os servidores públicos, inclusive os ocupantes exclusivamente de cargo em comissão.",
+        "é facultativo, podendo o servidor optar pela filiação ao Regime Geral.",
+        "dispensa a observância do equilíbrio financeiro e atuarial, por ser custeado por ente público."
+      ],
+      "correta": 1,
+      "comentario": "O art. 40 define o RPPS como contributivo e solidário, com contribuição do ente, dos servidores ativos e também dos aposentados e pensionistas, sempre observado o equilíbrio financeiro e atuarial. O regime alcança apenas os titulares de cargo efetivo: os ocupantes exclusivamente de cargo em comissão, de cargo temporário ou de emprego público são segurados obrigatórios do RGPS.",
+      "fundamento": "CF/1988, art. 40, caput e §13.",
+      "dificuldade": "media",
+      "tags": [
+        "rpps",
+        "contributivo",
+        "solidario",
+        "ec-103"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0023",
+      "topico": "7.1.2",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, relativas à previdência social.\n\nI. O Regime Geral de Previdência Social adota, como regra, o regime financeiro de repartição simples, fundado na solidariedade entre gerações.\nII. A filiação ao Regime Geral de Previdência Social decorre automaticamente do exercício de atividade remunerada que gere vinculação obrigatória, independentemente de inscrição formal.\nIII. O equilíbrio financeiro e atuarial é critério meramente programático, sem repercussão sobre a concessão de benefícios.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "I e III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 1,
+      "comentario": "I está correta: o RGPS opera em repartição simples, no qual as contribuições atuais custeiam os benefícios em manutenção. II está correta: a filiação é automática e decorre do exercício da atividade remunerada, não se confundindo com a inscrição, que é o ato formal de cadastramento. III está errada: o equilíbrio financeiro e atuarial é critério constitucional expresso, que condiciona a estruturação do regime e a criação de benefícios.",
+      "fundamento": "CF/1988, art. 201, caput; Decreto nº 3.048/1999 (Regulamento da Previdência Social).",
+      "dificuldade": "media",
+      "tags": [
+        "repartição-simples",
+        "filiacao",
+        "inscricao",
+        "equilibrio"
+      ],
+      "fonte": "inédita"
+    }
+  ]
 }
