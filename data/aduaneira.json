@@ -464,6 +464,514 @@
         "zona-primaria"
       ],
       "fonte": "inédita"
+    },
+    {
+      "id": "lad-0022",
+      "topico": "9.1.2",
+      "tipo": "multipla",
+      "enunciado": "A legislação aduaneira trata do alfandegamento de locais e do alfandegamento de recintos.\n\nAssinale a opção que distingue corretamente as duas figuras.",
+      "alternativas": [
+        "São expressões sinônimas, pois todo recinto alfandegado é também um local alfandegado.",
+        "O alfandegamento de locais alcança apenas os recintos situados na zona secundária, e o de recintos, os da zona primária.",
+        "O alfandegamento de locais depende de lei federal específica, e o de recintos, de ato da autoridade aduaneira.",
+        "São alfandegados como locais os portos, os aeroportos e os pontos de fronteira, cuja habilitação delimita a zona primária; são declarados recintos alfandegados os espaços, na zona primária ou na secundária, em que se realizam movimentação, armazenagem e despacho aduaneiro de mercadorias, de bagagem e de remessas postais internacionais.",
+        "O alfandegamento de recintos é ato privativo do Ministro de Estado da Fazenda, e o de locais, da autoridade aduaneira local."
+      ],
+      "correta": 3,
+      "comentario": "O Regulamento separa as duas situações. Os locais — portos, aeroportos e pontos de fronteira — são alfandegados por ato declaratório, e é essa habilitação que delimita a zona primária. Os recintos alfandegados são os espaços em que ocorrem movimentação, armazenagem e despacho aduaneiro, podendo situar-se tanto na zona primária quanto na secundária. Ambos são declarados pela autoridade aduaneira competente, e não por lei ou por ato ministerial.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 3º, I, 5º e 9º.",
+      "dificuldade": "media",
+      "tags": [
+        "alfandegamento",
+        "locais",
+        "recintos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0023",
+      "topico": "9.1.2",
+      "tipo": "multipla",
+      "enunciado": "Empresa concessionária de serviço público portuário requereu o alfandegamento de instalação por ela explorada.\n\nSobre as exigências aplicáveis, é correto afirmar que:",
+      "alternativas": [
+        "o alfandegamento independe da conclusão do procedimento licitatório, bastando o início das tratativas com o poder concedente.",
+        "os requisitos técnicos e operacionais são definidos livremente pelo próprio requerente, dada a natureza privada da exploração.",
+        "tratando-se de concessão ou permissão de serviço público, exige-se a conclusão do correspondente procedimento licitatório, e os requisitos técnicos e operacionais para o alfandegamento são estabelecidos em ato normativo da Receita Federal do Brasil.",
+        "o alfandegamento é automático para toda concessionária de serviço portuário regularmente contratada.",
+        "a exigência de requisitos técnicos é inconstitucional, por restringir a livre iniciativa."
+      ],
+      "correta": 2,
+      "comentario": "Além das condições gerais — instalação do órgão de fiscalização, infraestrutura de segurança fiscal, regularidade fiscal, recursos humanos e materiais e assunção da condição de fiel depositário —, o Regulamento exige, quando se tratar de concessão ou permissão de serviço público, a conclusão da licitação. Os requisitos técnicos e operacionais são fixados em ato normativo da Receita Federal, e não pelo interessado.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 6º e parágrafos.",
+      "dificuldade": "media",
+      "tags": [
+        "alfandegamento",
+        "requisitos",
+        "licitacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0024",
+      "topico": "9.1.2",
+      "tipo": "multipla",
+      "enunciado": "Deferido o alfandegamento de determinado aeroporto, o ato correspondente foi publicado.\n\nSobre o conteúdo desse ato, é correto afirmar que:",
+      "alternativas": [
+        "autoriza, de forma genérica e ilimitada, a realização de quaisquer operações de comércio exterior no local.",
+        "limita-se a declarar o alfandegamento, sem poder estabelecer condições de operação.",
+        "tem prazo de validade de cinco anos, após o qual o local é automaticamente desalfandegado.",
+        "estabelecerá as operações autorizadas e os termos, limites e condições para sua realização, de modo que o local só pode operar nos exatos contornos fixados.",
+        "somente produz efeitos após homologação pelo órgão administrador do porto ou aeroporto."
+      ],
+      "correta": 3,
+      "comentario": "O alfandegamento não é autorização em branco: o ato que o declara especifica quais operações ficam autorizadas — estacionamento ou trânsito de veículos, carga, descarga, armazenagem ou passagem de mercadorias, embarque, desembarque ou trânsito de viajantes — e os termos, limites e condições de sua realização. Operar fora desses contornos configura irregularidade sujeita a sanção.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 5º e 7º.",
+      "dificuldade": "media",
+      "tags": [
+        "alfandegamento",
+        "ato-declaratorio",
+        "operacoes-autorizadas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0025",
+      "topico": "9.1.2",
+      "tipo": "multipla",
+      "enunciado": "Entre as condições para o alfandegamento está a assunção, pelo interessado, da condição de fiel depositário da mercadoria sob sua guarda.\n\nA principal consequência dessa condição é que o interessado:",
+      "alternativas": [
+        "fica isento de responsabilidade por extravio ou avaria, que recai exclusivamente sobre o transportador.",
+        "passa a ser contribuinte do Imposto de Importação relativo às mercadorias armazenadas.",
+        "adquire a propriedade das mercadorias abandonadas em suas instalações.",
+        "pode dispor livremente das mercadorias após o vencimento do prazo de armazenagem.",
+        "responde pela guarda e conservação das mercadorias sob controle aduaneiro, respondendo pelos tributos e pelas penalidades cabíveis em caso de extravio ou de avaria ocorridos enquanto estiverem sob sua custódia."
+      ],
+      "correta": 4,
+      "comentario": "O depositário é qualquer pessoa incumbida da custódia de mercadoria sob controle aduaneiro. Ao assumir a condição de fiel depositário, o interessado responde pela guarda e conservação dos bens e, em caso de extravio ou avaria, pelo tributo correspondente e pelas penalidades aplicáveis, na qualidade de responsável. A propriedade das mercadorias abandonadas não lhe pertence: elas se sujeitam a destinação pela própria Administração.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 6º, V, e 105; Decreto-Lei nº 37/1966, art. 32.",
+      "dificuldade": "media",
+      "tags": [
+        "fiel-depositario",
+        "responsabilidade",
+        "extravio"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0026",
+      "topico": "9.1.2",
+      "tipo": "multipla",
+      "enunciado": "Mercadoria estrangeira ingressou no território aduaneiro por ponto não alfandegado, sem qualquer apresentação à fiscalização.\n\nSobre essa situação, é correto afirmar que:",
+      "alternativas": [
+        "a entrada é regular, desde que o importador providencie o despacho aduaneiro em até trinta dias.",
+        "a irregularidade se resolve com o simples recolhimento dos tributos devidos, sem outras consequências.",
+        "a entrada é regular se a mercadoria for destinada a consumo próprio do importador.",
+        "a entrada por local não alfandegado é hipótese de mera infração formal, punida apenas com advertência.",
+        "a mercadoria encontra-se em situação irregular, pois a entrada e a saída de bens procedentes do exterior ou a ele destinados devem ocorrer em porto, aeroporto ou ponto de fronteira alfandegado, sujeitando-se às sanções cabíveis, inclusive à pena de perdimento."
+      ],
+      "correta": 4,
+      "comentario": "A regra do art. 8º é clara: a entrada e a saída de mercadorias procedentes do exterior ou a ele destinadas só podem ocorrer por local alfandegado, ressalvadas apenas as conduzidas por dutos ou linhas de transmissão. Ingresso clandestino coloca a mercadoria em situação irregular e caracteriza dano ao Erário, punível com a pena de perdimento, sem prejuízo da apuração criminal cabível.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 8º; Decreto-Lei nº 1.455/1976, arts. 23 e 24.",
+      "dificuldade": "media",
+      "tags": [
+        "entrada-irregular",
+        "perdimento",
+        "local-alfandegado"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0027",
+      "topico": "9.1.2",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, sobre o alfandegamento.\n\nI. O alfandegamento de porto, aeroporto ou ponto de fronteira é efetivado por ato declaratório da autoridade aduaneira competente.\nII. Entre as condições para o alfandegamento está o atendimento das condições de instalação do órgão de fiscalização aduaneira e da infraestrutura indispensável à segurança fiscal.\nIII. O alfandegamento de aeroporto abrange necessariamente a totalidade de sua área, sendo vedado o alfandegamento parcial.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 1,
+      "comentario": "I e II estão corretas e reproduzem os arts. 5º e 6º. III está errada: o alfandegamento pode abranger a totalidade ou apenas parte da área dos portos e aeroportos, admitindo-se inclusive o alfandegamento de silos ou tanques para granéis situados em áreas contíguas, desde que ligados às instalações por tubulações, esteiras ou similares de caráter permanente.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 5º e 6º.",
+      "dificuldade": "media",
+      "tags": [
+        "alfandegamento",
+        "abrangencia",
+        "requisitos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0028",
+      "topico": "9.1.3",
+      "tipo": "multipla",
+      "enunciado": "Os recintos alfandegados classificam-se, quanto aos usuários a que se destinam, em recintos de uso público e de uso privativo.\n\nSobre essa classificação, é correto afirmar que:",
+      "alternativas": [
+        "o recinto de uso público destina-se ao atendimento de terceiros em geral, mediante remuneração, enquanto o de uso privativo opera exclusivamente com mercadorias do próprio operador ou de empresas a ele vinculadas, nos termos do ato que o autorizou.",
+        "o recinto de uso privativo é aquele explorado por empresa pública ou sociedade de economia mista.",
+        "o recinto de uso público dispensa controle aduaneiro, por operar em regime de livre acesso.",
+        "apenas os recintos de uso privativo podem realizar despacho aduaneiro.",
+        "a classificação é irrelevante, pois todos os recintos operam indistintamente com carga de terceiros."
+      ],
+      "correta": 0,
+      "comentario": "Recintos de uso público prestam serviço a terceiros em geral, mediante remuneração — caso típico dos portos secos. Os de uso privativo movimentam e armazenam apenas mercadorias próprias ou de empresas vinculadas, conforme o ato que os autorizou. A classificação não altera a sujeição ao controle aduaneiro, que é comum a todo recinto alfandegado.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 9º; atos normativos da Receita Federal do Brasil.",
+      "dificuldade": "media",
+      "tags": [
+        "recintos",
+        "uso-publico",
+        "uso-privativo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0029",
+      "topico": "9.1.3",
+      "tipo": "multipla",
+      "enunciado": "Sobre a loja franca instalada em aeroporto alfandegado, é correto afirmar que:",
+      "alternativas": [
+        "só pode vender mercadoria estrangeira, vedada a comercialização de produto nacional.",
+        "só admite pagamento em moeda estrangeira conversível.",
+        "destina-se à venda a qualquer consumidor, independentemente de viagem internacional.",
+        "deve situar-se obrigatoriamente na zona secundária do aeroporto.",
+        "permite a venda de mercadoria nacional ou estrangeira a passageiro em viagem internacional, contra pagamento em moeda nacional ou estrangeira, operando em recinto alfandegado situado em zona primária."
+      ],
+      "correta": 4,
+      "comentario": "A loja franca funciona em recinto alfandegado de zona primária e vende mercadoria nacional ou estrangeira a viajante em viagem internacional, admitido o pagamento em moeda nacional ou estrangeira. O Regulamento prevê expressamente que podem ser alfandegados, em zona primária, recintos destinados à instalação de lojas francas. Há ainda a modalidade de loja franca de fronteira, autorizada em cidades gêmeas de países vizinhos.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 9º, parágrafo único, e disposições sobre o regime de loja franca; Lei nº 12.723/2012.",
+      "dificuldade": "media",
+      "tags": [
+        "loja-franca",
+        "zona-primaria",
+        "viajante"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0030",
+      "topico": "9.1.3",
+      "tipo": "multipla",
+      "enunciado": "Quanto à exploração dos portos secos, é correto afirmar que:",
+      "alternativas": [
+        "são explorados diretamente pela Receita Federal do Brasil, que responde pela armazenagem das mercadorias.",
+        "são explorados por particulares mediante simples autorização precária, revogável sem qualquer formalidade.",
+        "são explorados sob regime de concessão ou de permissão de serviço público, precedida de licitação, assumindo o explorador a condição de fiel depositário das mercadorias armazenadas.",
+        "podem ser explorados por qualquer interessado, independentemente de ato autorizativo.",
+        "são explorados exclusivamente por empresas estatais federais."
+      ],
+      "correta": 2,
+      "comentario": "Os portos secos são recintos alfandegados de uso público explorados sob concessão ou permissão de serviço público, precedida da respectiva licitação. O explorador assume a condição de fiel depositário e responde pela guarda das mercadorias sob controle aduaneiro. A Receita Federal não explora o recinto: exerce sobre ele o controle aduaneiro.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 11; Lei nº 9.074/1995, art. 1º, VI.",
+      "dificuldade": "media",
+      "tags": [
+        "portos-secos",
+        "concessao",
+        "permissao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0031",
+      "topico": "9.1.3",
+      "tipo": "multipla",
+      "enunciado": "Durante a conferência de carga armazenada em recinto alfandegado, constatou-se avaria em parte dos volumes.\n\nSobre os deveres do depositário, é correto afirmar que:",
+      "alternativas": [
+        "deve comunicar imediatamente a ocorrência à autoridade aduaneira, respondendo pela guarda e conservação das mercadorias sob sua custódia, sem prejuízo da responsabilidade pelo tributo e pelas penalidades cabíveis.",
+        "está desobrigado de qualquer comunicação, cabendo ao importador apurar os prejuízos na esfera cível.",
+        "deve comunicar o fato apenas ao transportador, verdadeiro responsável pela integridade da carga.",
+        "deve aguardar a manifestação do importador antes de qualquer comunicação à autoridade aduaneira.",
+        "responde apenas quando comprovada sua culpa exclusiva, mediante processo judicial prévio."
+      ],
+      "correta": 0,
+      "comentario": "Na condição de fiel depositário, o administrador do recinto responde pela guarda e conservação das mercadorias sob controle aduaneiro e tem o dever de comunicar de imediato à autoridade aduaneira as ocorrências de avaria, extravio ou qualquer irregularidade. A responsabilidade tributária do depositário por extravio decorre de lei e independe de prévia decisão judicial, resolvendo-se no âmbito do processo administrativo fiscal.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 9º e 105; Decreto-Lei nº 37/1966, art. 32.",
+      "dificuldade": "media",
+      "tags": [
+        "depositario",
+        "avaria",
+        "extravio",
+        "deveres"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0032",
+      "topico": "9.1.3",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que apresenta corretamente as operações que, sob controle aduaneiro, podem ocorrer em recinto alfandegado.",
+      "alternativas": [
+        "Apenas a armazenagem de mercadorias estrangeiras já desembaraçadas.",
+        "Movimentação, armazenagem e despacho aduaneiro de mercadorias procedentes do exterior ou a ele destinadas, inclusive sob regime aduaneiro especial, de bagagem de viajantes e de remessas postais internacionais.",
+        "Apenas o despacho aduaneiro de exportação, vedadas as operações de importação.",
+        "Exclusivamente a industrialização de produtos destinados ao mercado externo.",
+        "Somente a conferência física de mercadorias, vedada a armazenagem."
+      ],
+      "correta": 1,
+      "comentario": "O art. 9º é expresso quanto ao tríplice objeto dos recintos alfandegados: movimentação, armazenagem e despacho aduaneiro. Esses atos podem recair sobre mercadorias procedentes do exterior ou a ele destinadas, inclusive as submetidas a regime aduaneiro especial, sobre bagagem de viajantes e sobre remessas postais internacionais. A industrialização, quando admitida, depende de regime aduaneiro especial próprio.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 9º.",
+      "dificuldade": "facil",
+      "tags": [
+        "recintos",
+        "operacoes",
+        "despacho"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0033",
+      "topico": "9.1.3",
+      "tipo": "multipla",
+      "enunciado": "Mercadoria estrangeira permaneceu armazenada em recinto alfandegado sem que o despacho de importação fosse iniciado dentro dos prazos previstos na legislação.\n\nSobre essa situação, é correto afirmar que:",
+      "alternativas": [
+        "a mercadoria é automaticamente incorporada ao patrimônio do depositário, a título de ressarcimento das despesas de armazenagem.",
+        "o depositário pode promover a venda direta da mercadoria para quitar a armazenagem devida.",
+        "a mercadoria é considerada abandonada, caracterizando dano ao Erário e sujeitando-se à aplicação da pena de perdimento e à posterior destinação pela Administração.",
+        "o importador perde apenas o direito ao regime aduaneiro especial pretendido, permanecendo íntegro o direito à mercadoria.",
+        "a situação se regulariza automaticamente com o decurso do prazo decadencial de cinco anos."
+      ],
+      "correta": 2,
+      "comentario": "O decurso do prazo de permanência sem início do despacho caracteriza o abandono da mercadoria, hipótese de dano ao Erário punível com a pena de perdimento, seguida de destinação pela Administração — alienação, doação ou incorporação ao patrimônio público, entre outras. O depositário, como fiel depositário, não adquire a propriedade nem pode dispor do bem para satisfazer créditos de armazenagem.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), disposições sobre abandono de mercadoria; Decreto-Lei nº 1.455/1976, art. 23.",
+      "dificuldade": "media",
+      "tags": [
+        "abandono",
+        "perdimento",
+        "prazo-de-permanencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0034",
+      "topico": "9.1.3",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, sobre recintos alfandegados.\n\nI. Os recintos alfandegados podem ser declarados tanto na zona primária quanto na zona secundária.\nII. Os portos secos são recintos alfandegados de uso público e não podem ser instalados na zona primária de portos e aeroportos alfandegados.\nIII. Para efeito de controle aduaneiro, as Zonas de Processamento de Exportação constituem zona secundária.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "I e III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 1,
+      "comentario": "I e II estão corretas. III está errada e inverte a regra: para efeito de controle aduaneiro, as Zonas de Processamento de Exportação constituem zona primária, e não secundária — ponto frequentemente explorado em prova, já que a ZPE se localiza fisicamente no interior do País.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 3º, §1º, 9º e 11.",
+      "dificuldade": "media",
+      "tags": [
+        "recintos",
+        "zpe",
+        "portos-secos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0035",
+      "topico": "9.1.4",
+      "tipo": "multipla",
+      "enunciado": "Durante operação de fiscalização em zona secundária, a autoridade aduaneira encontrou resistência ao exercício de suas atribuições.\n\nNos termos do Código Tributário Nacional, a autoridade administrativa:",
+      "alternativas": [
+        "pode requisitar o auxílio da força pública federal, estadual ou municipal quando vítima de embaraço ou desacato no exercício de suas funções, ou quando necessário à efetivação de medida prevista na legislação, ainda que o fato não configure crime ou contravenção.",
+        "deve suspender a diligência e representar ao Ministério Público, única via para superar a resistência.",
+        "só pode prosseguir mediante autorização judicial específica para cada diligência.",
+        "pode requisitar força pública apenas quando o fato configurar crime ou contravenção.",
+        "deve lavrar auto de infração e aguardar o trânsito em julgado administrativo antes de retomar a fiscalização."
+      ],
+      "correta": 0,
+      "comentario": "O art. 200 do CTN autoriza as autoridades administrativas federais a requisitar o auxílio da força pública quando vítimas de embaraço ou desacato no exercício de suas funções, ou quando necessário à efetivação de medida prevista na legislação tributária — expressamente ainda que o fato não configure crime ou contravenção. É instrumento de efetividade da fiscalização, não condicionado a prévia autorização judicial.",
+      "fundamento": "CTN, art. 200.",
+      "dificuldade": "media",
+      "tags": [
+        "fiscalizacao",
+        "forca-publica",
+        "embaraco"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0036",
+      "topico": "9.1.4",
+      "tipo": "multipla",
+      "enunciado": "A administração aduaneira brasileira mantém intercâmbio de informações com administrações aduaneiras de outros países, com base em acordos internacionais.\n\nÀ luz do Código Tributário Nacional, essa permuta:",
+      "alternativas": [
+        "é vedada, por violar o sigilo fiscal assegurado ao contribuinte.",
+        "independe de qualquer instrumento formal, bastando a solicitação da autoridade estrangeira.",
+        "só é admitida após autorização expressa do contribuinte interessado.",
+        "é permitida apenas entre as administrações tributárias dos entes federativos brasileiros.",
+        "é admitida, pois a Fazenda Pública da União, na forma estabelecida em tratados, acordos ou convênios, pode permutar informações com Estados estrangeiros no interesse da arrecadação e da fiscalização de tributos."
+      ],
+      "correta": 4,
+      "comentario": "O parágrafo único do art. 199 do CTN autoriza a União a permutar informações com Estados estrangeiros no interesse da arrecadação e da fiscalização de tributos, na forma de tratados, acordos ou convênios. A transferência não quebra o sigilo fiscal: transfere o dever de sigilo ao destinatário. O caput do mesmo artigo cuida da assistência mútua entre as administrações tributárias dos entes federativos.",
+      "fundamento": "CTN, art. 199 e parágrafo único.",
+      "dificuldade": "media",
+      "tags": [
+        "sigilo-fiscal",
+        "cooperacao-internacional",
+        "permuta-de-informacoes"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0037",
+      "topico": "9.1.4",
+      "tipo": "multipla",
+      "enunciado": "A legislação aduaneira utiliza a expressão intervenientes nas operações de comércio exterior.\n\nEssa expressão abrange:",
+      "alternativas": [
+        "apenas o importador e o exportador, por serem os titulares das operações.",
+        "apenas as pessoas jurídicas habilitadas no Siscomex.",
+        "somente os servidores da Receita Federal que atuam no despacho aduaneiro.",
+        "o importador, o exportador, o beneficiário de regime aduaneiro ou de procedimento simplificado, o despachante aduaneiro, o transportador, o agente de carga, o depositário e os demais que atuem nas operações de comércio exterior, sujeitos todos a deveres perante a administração aduaneira.",
+        "exclusivamente os operadores portuários e aeroportuários."
+      ],
+      "correta": 3,
+      "comentario": "Interveniente é todo aquele que atua na cadeia das operações de comércio exterior: importador, exportador, beneficiário de regime aduaneiro ou de procedimento simplificado, despachante aduaneiro e seus ajudantes, transportador, agente de carga, depositário, operador portuário e demais participantes. Todos se sujeitam a deveres perante a administração aduaneira e podem responder por sanções administrativas próprias, como advertência, suspensão e cancelamento de habilitação.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), disposições sobre sanções administrativas a intervenientes; Medida Provisória nº 2.158-35/2001, art. 76.",
+      "dificuldade": "media",
+      "tags": [
+        "intervenientes",
+        "comercio-exterior",
+        "sancoes"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0038",
+      "topico": "9.1.4",
+      "tipo": "multipla",
+      "enunciado": "Sobre a mercadoria sob controle aduaneiro, é correto afirmar que, na importação, ela permanece nessa condição:",
+      "alternativas": [
+        "desde a entrada no território aduaneiro até a conclusão do despacho aduaneiro, com o desembaraço, mantendo-se o controle nas hipóteses de regime aduaneiro especial até a extinção do regime.",
+        "apenas enquanto estiver fisicamente a bordo do veículo transportador.",
+        "somente a partir do registro da declaração de importação.",
+        "por prazo indeterminado, mesmo após o desembaraço e a nacionalização.",
+        "apenas durante a conferência física realizada pela autoridade aduaneira."
+      ],
+      "correta": 0,
+      "comentario": "A mercadoria procedente do exterior fica submetida a controle aduaneiro desde a entrada no território aduaneiro, abrangendo descarga, armazenagem e trânsito, até o desembaraço que conclui o despacho. Nos regimes aduaneiros especiais, o controle se prolonga até a extinção do regime, o que explica a exigência de termo de responsabilidade e o acompanhamento permanente pela fiscalização.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 9º e 17; Decreto-Lei nº 37/1966.",
+      "dificuldade": "media",
+      "tags": [
+        "controle-aduaneiro",
+        "desembaraco",
+        "regimes-especiais"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0039",
+      "topico": "9.1.4",
+      "tipo": "multipla",
+      "enunciado": "A repressão ao contrabando e ao descaminho insere-se entre as atribuições da administração aduaneira.\n\nSobre essa atuação, é correto afirmar que:",
+      "alternativas": [
+        "limita-se à zona primária, cabendo exclusivamente à Polícia Federal a atuação na zona secundária.",
+        "depende sempre de prévia requisição do Ministério Público Federal.",
+        "restringe-se à lavratura de auto de infração, sendo vedada a apreensão de mercadorias.",
+        "é exercida exclusivamente em conjunto com as forças armadas, na faixa de fronteira.",
+        "é exercida em todo o território aduaneiro, inclusive na zona secundária, podendo a autoridade aduaneira apreender mercadoria em situação irregular e, verificada a existência de indício de crime, formalizar representação fiscal para fins penais ao Ministério Público."
+      ],
+      "correta": 4,
+      "comentario": "A fiscalização aduaneira alcança todo o território aduaneiro, e não apenas a zona primária. Constatada mercadoria em situação irregular, cabe a apreensão e a instauração do processo de perdimento, sem prejuízo da representação fiscal para fins penais, encaminhada ao Ministério Público quando houver indício de crime contra a ordem tributária ou de contrabando e descaminho. A atuação é concorrente com a de outros órgãos, mas não depende deles.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 3º, II, e 15; Decreto-Lei nº 1.455/1976.",
+      "dificuldade": "media",
+      "tags": [
+        "contrabando",
+        "descaminho",
+        "zona-secundaria",
+        "representacao-fiscal"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0040",
+      "topico": "9.1.4",
+      "tipo": "multipla",
+      "enunciado": "Diante de fortes indícios de subfaturamento e de interposição fraudulenta de terceiros, a autoridade aduaneira reteve mercadoria importada para a conclusão de procedimento especial de controle aduaneiro.\n\nConfrontando essa medida com a Súmula 323 do STF, que considera inadmissível a apreensão de mercadorias como meio coercitivo para pagamento de tributos, é correto afirmar que:",
+      "alternativas": [
+        "a retenção é ilegítima, pois a súmula veda qualquer forma de retenção de mercadoria pela Administração.",
+        "a retenção só seria legítima mediante depósito judicial do valor dos tributos discutidos.",
+        "a retenção é legítima, pois não se destina a coagir o contribuinte ao pagamento de tributo, mas a viabilizar a apuração de infração punível com a pena de perdimento, situação distinta da vedada pela súmula.",
+        "a súmula foi cancelada, de modo que a Administração pode reter mercadorias para forçar o recolhimento de tributos.",
+        "a retenção é legítima apenas se houver prévia condenação criminal do importador."
+      ],
+      "correta": 2,
+      "comentario": "A Súmula 323 proíbe o uso da apreensão como meio indireto de cobrança de tributo — a chamada sanção política. Não impede, porém, a retenção fundada em indícios de infração punível com perdimento, que tem finalidade investigatória e previsão legal específica. A distinção está na finalidade da medida: coagir ao pagamento é vedado; apurar irregularidade que pode levar ao perdimento é exercício regular do controle aduaneiro.",
+      "fundamento": "STF, Súmula 323; Regulamento Aduaneiro (Decreto nº 6.759/2009) e atos normativos da RFB sobre procedimento especial de controle aduaneiro.",
+      "dificuldade": "dificil",
+      "tags": [
+        "retencao",
+        "sumula-323",
+        "procedimento-especial"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0041",
+      "topico": "9.1.4",
+      "tipo": "multipla",
+      "enunciado": "A administração aduaneira adota programas de conformidade que reconhecem o interveniente de baixo risco e lhe conferem tratamento aduaneiro diferenciado, como prioridade no despacho e menor incidência de conferência física.\n\nEsse modelo corresponde:",
+      "alternativas": [
+        "ao regime aduaneiro especial de entreposto aduaneiro.",
+        "ao programa de Operador Econômico Autorizado, fundado na gestão de risco e na parceria entre a administração aduaneira e os intervenientes certificados.",
+        "ao despacho aduaneiro de ofício.",
+        "à habilitação ordinária no Siscomex, obrigatória para todo importador.",
+        "ao regime de admissão temporária para aperfeiçoamento ativo."
+      ],
+      "correta": 1,
+      "comentario": "O Operador Econômico Autorizado é programa de certificação voluntária alinhado às diretrizes da Organização Mundial das Aduanas: a administração aduaneira certifica o interveniente que demonstra conformidade e segurança em sua cadeia logística e, em contrapartida, lhe concede benefícios como prioridade e redução de conferências. É aplicação direta da gestão de risco, que concentra a fiscalização nos fluxos de maior risco.",
+      "fundamento": "Atos normativos da Receita Federal do Brasil sobre o Programa OEA; diretrizes da Organização Mundial das Aduanas.",
+      "dificuldade": "media",
+      "tags": [
+        "oea",
+        "gestao-de-risco",
+        "conformidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0042",
+      "topico": "9.1.4",
+      "tipo": "multipla",
+      "enunciado": "Sobre os deveres dos intervenientes perante a administração aduaneira, é correto afirmar que:",
+      "alternativas": [
+        "o descumprimento de obrigações acessórias sujeita o interveniente apenas a multa pecuniária, sem outras consequências.",
+        "o interveniente pode recusar-se a prestar informações protegidas por sigilo comercial, ainda que requisitadas no curso de procedimento fiscal.",
+        "somente o importador e o exportador respondem perante a administração aduaneira.",
+        "além das penalidades pecuniárias, o interveniente está sujeito a sanções administrativas como advertência, suspensão e cancelamento ou cassação de sua habilitação, licença, autorização, credenciamento ou registro para atuar no comércio exterior.",
+        "as sanções administrativas a intervenientes dependem de prévia condenação judicial transitada em julgado."
+      ],
+      "correta": 3,
+      "comentario": "O descumprimento dos deveres pelos intervenientes autoriza, além das multas, a aplicação de sanções administrativas que atingem a própria permanência no comércio exterior: advertência, suspensão e cancelamento ou cassação da habilitação, licença, autorização, credenciamento ou registro. As sanções são aplicadas em processo administrativo próprio, com contraditório e ampla defesa, sem depender de decisão judicial prévia.",
+      "fundamento": "Medida Provisória nº 2.158-35/2001, art. 76; Regulamento Aduaneiro (Decreto nº 6.759/2009), disposições sobre sanções administrativas.",
+      "dificuldade": "media",
+      "tags": [
+        "intervenientes",
+        "sancoes-administrativas",
+        "habilitacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0043",
+      "topico": "9.1.4",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, sobre a administração aduaneira.\n\nI. A administração aduaneira compreende a fiscalização e o controle sobre o comércio exterior, essenciais à defesa dos interesses fazendários nacionais, exercidos em todo o território aduaneiro.\nII. Nos locais e recintos alfandegados, os demais órgãos que ali atuam devem prestar auxílio imediato à autoridade aduaneira quando requisitados, disponibilizando pessoas, equipamentos ou instalações necessários à ação fiscal.\nIII. A fiscalização aduaneira somente pode ser exercida em horário comercial, sendo vedado o atendimento fora do expediente normal da unidade.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "I e III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 1,
+      "comentario": "I e II estão corretas: a primeira reproduz o conteúdo do art. 237 da Constituição e do art. 15 do Regulamento; a segunda decorre da precedência assegurada à administração fazendária. III está errada: a fiscalização aduaneira pode ser ininterrupta, em horários determinados ou eventual, admitindo-se o atendimento fora do expediente normal, tratado como serviço extraordinário.",
+      "fundamento": "CF/1988, arts. 37, XVIII, e 237; Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 15 a 17.",
+      "dificuldade": "media",
+      "tags": [
+        "administracao-aduaneira",
+        "precedencia",
+        "fiscalizacao"
+      ],
+      "fonte": "inédita"
     }
   ]
 }
