@@ -1,4 +1,529 @@
 {
   "materia": "cont",
-  "questoes": []
+  "questoes": [
+    {
+      "id": "cont-0001",
+      "topico": "3.1.1",
+      "tipo": "multipla",
+      "enunciado": "Quanto à sua natureza, a Contabilidade é classificada como:",
+      "alternativas": [
+        "ciência exata, por utilizar métodos matemáticos na mensuração dos fenômenos patrimoniais.",
+        "técnica de registro, desprovida de corpo teórico e de método científico próprio.",
+        "ciência social aplicada, pois estuda o comportamento do patrimônio das entidades e os efeitos das decisões humanas sobre ele, ainda que se valha de instrumentos quantitativos.",
+        "arte, cujo resultado depende exclusivamente da sensibilidade do profissional que a exerce.",
+        "ramo da ciência econômica, sem autonomia metodológica."
+      ],
+      "correta": 2,
+      "comentario": "A Contabilidade é ciência social aplicada: seu objeto — o patrimônio — é afetado por decisões humanas, e sua aplicação envolve julgamento e estimativa, o que afasta a classificação como ciência exata. O uso de números é instrumento de mensuração, não a sua natureza. Também não é mera técnica: possui objeto, método e corpo doutrinário próprios, o que lhe assegura autonomia em relação à Economia e à Administração.",
+      "fundamento": "Doutrina contábil; Resolução CFC nº 774/1994 (histórica) e NBC vigentes.",
+      "dificuldade": "facil",
+      "tags": [
+        "conceito",
+        "ciencia-social-aplicada",
+        "natureza"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0002",
+      "topico": "3.1.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que apresenta as técnicas contábeis tradicionalmente apontadas pela doutrina.",
+      "alternativas": [
+        "Escrituração, elaboração das demonstrações contábeis, auditoria e análise das demonstrações contábeis.",
+        "Partidas dobradas, partidas simples, método misto e método direto.",
+        "Planejamento, execução, controle e avaliação.",
+        "Lançamento, conciliação, provisionamento e encerramento.",
+        "Orçamento, custeio, precificação e apuração de resultado."
+      ],
+      "correta": 0,
+      "comentario": "São quatro as técnicas contábeis: a escrituração, que registra os fatos; a elaboração das demonstrações contábeis, que sintetiza e evidencia; a auditoria, que verifica a fidedignidade das informações; e a análise das demonstrações, que interpreta os dados e extrai conclusões sobre a situação patrimonial, financeira e o desempenho. As demais opções descrevem etapas do processo administrativo, métodos de escrituração ou rotinas operacionais.",
+      "fundamento": "Doutrina contábil — técnicas contábeis.",
+      "dificuldade": "facil",
+      "tags": [
+        "tecnicas-contabeis",
+        "escrituracao",
+        "auditoria"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0003",
+      "topico": "3.1.1",
+      "tipo": "multipla",
+      "enunciado": "O método das partidas dobradas, descrito em obra publicada em Veneza, em 1494, por Frei Luca Pacioli, estabelece que:",
+      "alternativas": [
+        "cada fato contábil deve ser registrado em um único lançamento, na conta mais relevante envolvida.",
+        "o registro deve ser feito em duas vias, uma para a entidade e outra para o fisco.",
+        "os lançamentos devem ser duplicados em dois livros distintos, para fins de conferência.",
+        "a todo débito corresponde um crédito de igual valor, de modo que a soma dos débitos será sempre igual à soma dos créditos.",
+        "apenas as contas patrimoniais são objeto de registro, excluídas as contas de resultado."
+      ],
+      "correta": 3,
+      "comentario": "O método das partidas dobradas assenta-se na correspondência entre débitos e créditos: todo registro produz efeitos em, no mínimo, duas contas, e a soma dos débitos iguala a dos créditos. Pacioli não criou o método, já praticado pelos mercadores italianos — sua contribuição foi descrevê-lo e sistematizá-lo na Summa de Arithmetica. Trata-se de método, e não do objeto nem da finalidade da Contabilidade.",
+      "fundamento": "Luca Pacioli, Summa de Arithmetica (1494); doutrina contábil.",
+      "dificuldade": "facil",
+      "tags": [
+        "partidas-dobradas",
+        "pacioli",
+        "metodo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0004",
+      "topico": "3.1.1",
+      "tipo": "multipla",
+      "enunciado": "Entre as escolas do pensamento contábil, a corrente que elegeu o patrimônio como objeto da Contabilidade, tendo em Vincenzo Masi seu principal expoente, é a escola:",
+      "alternativas": [
+        "contista.",
+        "personalista.",
+        "controlista.",
+        "aziendalista.",
+        "patrimonialista."
+      ],
+      "correta": 4,
+      "comentario": "A escola patrimonialista, difundida por Vincenzo Masi, firmou o patrimônio como objeto da Contabilidade e é a corrente predominante no Brasil. A contista via as contas como objeto; a personalista entendia que as contas representavam pessoas, com seus direitos e obrigações; a controlista, de Fábio Besta, enfatizava o controle econômico da azienda; e a aziendalista tomava a própria azienda como objeto de estudo.",
+      "fundamento": "Doutrina contábil — escolas do pensamento contábil.",
+      "dificuldade": "media",
+      "tags": [
+        "escolas",
+        "patrimonialismo",
+        "masi"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0005",
+      "topico": "3.1.1",
+      "tipo": "multipla",
+      "enunciado": "Uma entidade mantém registros voltados à elaboração das demonstrações destinadas a usuários externos, segundo normas contábeis, e, paralelamente, relatórios internos de desempenho por unidade de negócio, elaborados em formato livre para apoiar decisões dos gestores.\n\nEsses dois conjuntos correspondem, respectivamente, à Contabilidade:",
+      "alternativas": [
+        "financeira (societária) e gerencial.",
+        "gerencial e financeira (societária).",
+        "de custos e tributária.",
+        "tributária e de custos.",
+        "pública e privada."
+      ],
+      "correta": 0,
+      "comentario": "A Contabilidade financeira, também chamada societária, destina-se a usuários externos e obedece a normas e padrões obrigatórios, com periodicidade definida. A gerencial volta-se aos usuários internos, tem formato livre, periodicidade conforme a necessidade e pode adotar critérios próprios de mensuração. A de custos e a tributária são segmentos aplicados a finalidades específicas, e não a oposição entre público interno e externo.",
+      "fundamento": "Doutrina contábil — segmentos da Contabilidade.",
+      "dificuldade": "facil",
+      "tags": [
+        "contabilidade-financeira",
+        "contabilidade-gerencial"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0006",
+      "topico": "3.1.2",
+      "tipo": "multipla",
+      "enunciado": "O objeto da Contabilidade é:",
+      "alternativas": [
+        "a escrituração dos livros obrigatórios da entidade.",
+        "o patrimônio das entidades, considerado em seus aspectos qualitativo e quantitativo, bem como suas variações.",
+        "a apuração dos tributos devidos pela entidade.",
+        "o lucro auferido pela entidade em determinado exercício social.",
+        "o conjunto de normas editadas pelo Conselho Federal de Contabilidade."
+      ],
+      "correta": 1,
+      "comentario": "Prevalece o entendimento patrimonialista: o objeto da Contabilidade é o patrimônio das entidades, estudado tanto em sua composição qualitativa quanto em sua expressão quantitativa, bem como nas variações que sofre. A escrituração é técnica; a apuração de tributos é aplicação derivada; o lucro é apenas um dos resultados mensurados; e as normas são o regramento, não o objeto.",
+      "fundamento": "Doutrina contábil; NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro.",
+      "dificuldade": "facil",
+      "tags": [
+        "objeto",
+        "patrimonio"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0007",
+      "topico": "3.1.2",
+      "tipo": "multipla",
+      "enunciado": "Uma sociedade empresária possui, entre outros itens: um imóvel onde funciona sua sede; duplicatas a receber de clientes; e empréstimo bancário a pagar em 24 meses.\n\nEsses elementos correspondem, respectivamente, a:",
+      "alternativas": [
+        "direito, bem e obrigação.",
+        "bem, direito e obrigação.",
+        "bem, obrigação e direito.",
+        "obrigação, direito e bem.",
+        "direito, obrigação e bem."
+      ],
+      "correta": 1,
+      "comentario": "O patrimônio compõe-se de bens, direitos e obrigações. O imóvel é bem; as duplicatas a receber são direito, por representarem valores a receber de terceiros; o empréstimo a pagar é obrigação. Bens e direitos integram o ativo; as obrigações para com terceiros compõem o passivo exigível. A classificação como circulante ou não circulante depende do prazo, mas não altera a natureza do elemento.",
+      "fundamento": "Lei nº 6.404/1976, art. 178; doutrina contábil.",
+      "dificuldade": "facil",
+      "tags": [
+        "patrimonio",
+        "bens",
+        "direitos",
+        "obrigacoes"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0008",
+      "topico": "3.1.2",
+      "tipo": "multipla",
+      "enunciado": "A equação patrimonial fundamental estabelece que:",
+      "alternativas": [
+        "Ativo menos Patrimônio Líquido é igual a zero.",
+        "Ativo mais Passivo é igual ao Patrimônio Líquido.",
+        "Patrimônio Líquido é igual ao Ativo mais o Passivo exigível.",
+        "Receitas menos Despesas é igual ao Ativo.",
+        "Ativo é igual ao Passivo exigível mais o Patrimônio Líquido, de modo que o Patrimônio Líquido corresponde ao valor residual dos ativos após deduzidos todos os passivos."
+      ],
+      "correta": 4,
+      "comentario": "A igualdade Ativo = Passivo + Patrimônio Líquido expressa que todo recurso aplicado tem origem identificada: capital de terceiros ou capital próprio. Daí a definição do Patrimônio Líquido como participação residual nos ativos depois de deduzidos todos os passivos. Receitas e despesas são contas de resultado: afetam o Patrimônio Líquido, mas não integram a equação em sua forma estática.",
+      "fundamento": "NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro. Lei nº 6.404/1976, art. 178.",
+      "dificuldade": "facil",
+      "tags": [
+        "equacao-patrimonial",
+        "patrimonio-liquido",
+        "ativo",
+        "passivo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0009",
+      "topico": "3.1.2",
+      "tipo": "multipla",
+      "enunciado": "Determinada entidade apresenta Ativo total de R$ 500.000,00 e Passivo exigível de R$ 620.000,00.\n\nSobre a situação líquida dessa entidade, é correto afirmar que é:",
+      "alternativas": [
+        "positiva, no valor de R$ 120.000,00, pois o Ativo é sempre superior ao Passivo.",
+        "nula, pois o Ativo sempre se iguala ao Passivo total.",
+        "positiva, no valor de R$ 1.120.000,00.",
+        "negativa, no valor de R$ 120.000,00, configurando passivo a descoberto.",
+        "indeterminada, pois a apuração depende do resultado do exercício."
+      ],
+      "correta": 3,
+      "comentario": "A situação líquida corresponde à diferença entre o Ativo e o Passivo exigível: 500.000 menos 620.000 resulta em 120.000 negativos. Quando as obrigações superam os bens e direitos, há situação líquida negativa, também chamada passivo a descoberto. As demais possibilidades são a situação líquida positiva, quando o Ativo supera o Passivo exigível, e a nula ou compensada, quando são iguais.",
+      "fundamento": "Doutrina contábil — situações líquidas patrimoniais.",
+      "dificuldade": "facil",
+      "tags": [
+        "situacao-liquida",
+        "passivo-a-descoberto"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0010",
+      "topico": "3.1.2",
+      "tipo": "multipla",
+      "enunciado": "O estudo do patrimônio pela Contabilidade considera dois aspectos complementares.\n\nAssinale a opção que os define corretamente.",
+      "alternativas": [
+        "O aspecto qualitativo identifica a natureza e a espécie dos elementos patrimoniais, respondendo ao que compõe o patrimônio; o aspecto quantitativo atribui-lhes expressão monetária, respondendo a quanto valem.",
+        "O aspecto qualitativo refere-se ao valor monetário dos elementos, e o quantitativo, à sua natureza.",
+        "Ambos os aspectos se referem exclusivamente ao valor dos elementos, variando apenas o critério de mensuração.",
+        "O aspecto qualitativo aplica-se somente ao ativo, e o quantitativo, somente ao passivo.",
+        "O aspecto quantitativo dispensa o qualitativo, bastando o registro dos valores envolvidos."
+      ],
+      "correta": 0,
+      "comentario": "O aspecto qualitativo identifica o que integra o patrimônio: a natureza e a espécie de cada elemento, como estoques, veículos, duplicatas a receber ou empréstimos. O quantitativo atribui a esses elementos expressão monetária. Os dois são indissociáveis: sem a identificação qualitativa, o valor nada informa; sem a mensuração, a identificação não permite agregação nem comparação.",
+      "fundamento": "Doutrina contábil — aspectos do patrimônio.",
+      "dificuldade": "media",
+      "tags": [
+        "aspecto-qualitativo",
+        "aspecto-quantitativo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0011",
+      "topico": "3.1.3",
+      "tipo": "multipla",
+      "enunciado": "Segundo a Estrutura Conceitual para Relatório Financeiro, o objetivo do relatório financeiro de propósito geral é:",
+      "alternativas": [
+        "demonstrar o cumprimento da legislação tributária pela entidade que reporta.",
+        "apresentar o valor de mercado da entidade que reporta na data do balanço.",
+        "atender prioritariamente às necessidades de informação dos órgãos reguladores e do público em geral.",
+        "fornecer informações financeiras sobre a entidade que reporta que sejam úteis a investidores, credores por empréstimo e outros credores, existentes e em potencial, em suas decisões referentes ao fornecimento de recursos à entidade.",
+        "subsidiar exclusivamente a administração na gestão interna dos recursos da entidade."
+      ],
+      "correta": 3,
+      "comentario": "A Estrutura Conceitual fixa como objetivo o fornecimento de informações úteis a investidores, credores por empréstimo e outros credores, existentes e potenciais, para decisões sobre o fornecimento de recursos — comprar, vender ou manter instrumentos patrimoniais e de dívida, conceder ou liquidar empréstimos e exercer influência sobre a administração. A administração não é usuária primária, pois obtém as informações internamente.",
+      "fundamento": "NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro.",
+      "dificuldade": "media",
+      "tags": [
+        "objetivo",
+        "relatorio-financeiro",
+        "usuarios-primarios"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0012",
+      "topico": "3.1.3",
+      "tipo": "multipla",
+      "enunciado": "Um investidor sustenta que, por ter o Patrimônio Líquido contábil de R$ 4.000.000,00, determinada companhia vale exatamente esse montante.\n\nÀ luz da Estrutura Conceitual, esse raciocínio é:",
+      "alternativas": [
+        "correto, pois o Patrimônio Líquido contábil expressa o valor da entidade.",
+        "correto, desde que as demonstrações tenham sido auditadas sem ressalvas.",
+        "incorreto, pois os relatórios financeiros de propósito geral não se destinam a apresentar o valor da entidade que reporta, mas a fornecer informações que auxiliem os usuários a estimar esse valor.",
+        "incorreto, pois o valor da entidade corresponde sempre ao seu Ativo total.",
+        "correto, pois a Contabilidade adota integralmente o critério do valor justo na mensuração de todos os ativos e passivos."
+      ],
+      "correta": 2,
+      "comentario": "A Estrutura Conceitual é expressa: os relatórios financeiros de propósito geral não apresentam o valor da entidade, mas fornecem informações que auxiliam os usuários a estimá-lo. O Patrimônio Líquido contábil resulta da aplicação de critérios de reconhecimento e mensuração — em boa parte baseados no custo histórico — e não captura elementos como expectativa de resultados futuros, marca e capital intelectual não reconhecidos.",
+      "fundamento": "NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro.",
+      "dificuldade": "media",
+      "tags": [
+        "objetivo",
+        "valor-da-entidade",
+        "patrimonio-liquido"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0013",
+      "topico": "3.1.3",
+      "tipo": "multipla",
+      "enunciado": "As características qualitativas fundamentais da informação contábil-financeira útil são:",
+      "alternativas": [
+        "comparabilidade e verificabilidade.",
+        "relevância e representação fidedigna.",
+        "tempestividade e compreensibilidade.",
+        "prudência e continuidade.",
+        "materialidade e neutralidade."
+      ],
+      "correta": 1,
+      "comentario": "São duas as características qualitativas fundamentais: a relevância, que torna a informação capaz de fazer diferença nas decisões, por seu valor preditivo ou confirmatório, e a representação fidedigna, que exige informação completa, neutra e livre de erro. A materialidade é aspecto da relevância específico de cada entidade, e a neutralidade integra a representação fidedigna — ambas, portanto, componentes, e não características autônomas.",
+      "fundamento": "NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro.",
+      "dificuldade": "facil",
+      "tags": [
+        "caracteristicas-qualitativas",
+        "relevancia",
+        "representacao-fidedigna"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0014",
+      "topico": "3.1.3",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que apresenta apenas características qualitativas de melhoria da informação contábil-financeira.",
+      "alternativas": [
+        "Relevância, materialidade e neutralidade.",
+        "Representação fidedigna, integralidade e ausência de erro.",
+        "Comparabilidade, verificabilidade, tempestividade e compreensibilidade.",
+        "Competência, prudência e oportunidade.",
+        "Confiabilidade, objetividade e conservadorismo."
+      ],
+      "correta": 2,
+      "comentario": "As características de melhoria são quatro: comparabilidade, verificabilidade, tempestividade e compreensibilidade. Elas aumentam a utilidade da informação já relevante e fidedignamente representada, mas não substituem as fundamentais: informação irrelevante ou infiel não se torna útil por ser comparável ou tempestiva. A Estrutura Conceitual acrescenta ainda o custo como restrição generalizada.",
+      "fundamento": "NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro.",
+      "dificuldade": "media",
+      "tags": [
+        "caracteristicas-de-melhoria",
+        "comparabilidade",
+        "verificabilidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0015",
+      "topico": "3.1.3",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que NÃO corresponde a objetivo ou função da Contabilidade.",
+      "alternativas": [
+        "Fornecer informação útil sobre a posição patrimonial e financeira da entidade.",
+        "Evidenciar o desempenho da entidade e as mudanças em sua posição financeira.",
+        "Permitir o controle do patrimônio e a prestação de contas pelos administradores.",
+        "Garantir aos usuários o acerto das decisões econômicas tomadas com base nas demonstrações contábeis.",
+        "Subsidiar a avaliação da capacidade da entidade de gerar fluxos de caixa futuros."
+      ],
+      "correta": 3,
+      "comentario": "A Contabilidade fornece informação útil, evidencia desempenho e posição patrimonial, viabiliza controle e prestação de contas e auxilia na avaliação de fluxos de caixa futuros — mas não assegura o acerto das decisões. A informação reduz a incerteza e qualifica a escolha; o risco da decisão permanece com o usuário, que considera também fatores alheios às demonstrações, como conjuntura econômica e estratégia.",
+      "fundamento": "NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro.",
+      "dificuldade": "facil",
+      "tags": [
+        "objetivos",
+        "funcoes",
+        "limites"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0016",
+      "topico": "3.1.4",
+      "tipo": "multipla",
+      "enunciado": "O campo de atuação da Contabilidade abrange:",
+      "alternativas": [
+        "exclusivamente as sociedades empresárias com fins lucrativos.",
+        "apenas as entidades sujeitas à fiscalização da Comissão de Valores Mobiliários.",
+        "somente as pessoas jurídicas de direito privado regularmente constituídas.",
+        "apenas os órgãos e entidades integrantes da Administração Pública.",
+        "todas as entidades econômico-administrativas, com ou sem fins lucrativos, de direito público ou privado, e mesmo pessoas físicas, desde que possuam patrimônio sujeito a controle e necessitem de informação a seu respeito."
+      ],
+      "correta": 4,
+      "comentario": "O campo de atuação não se limita às empresas: alcança toda entidade econômico-administrativa — ou azienda, na terminologia da escola italiana — que possua patrimônio a controlar. Incluem-se associações, fundações, partidos políticos, condomínios, órgãos públicos e até pessoas físicas. O critério é a existência de patrimônio e a necessidade de informação sobre ele, não a finalidade lucrativa nem a natureza jurídica.",
+      "fundamento": "Doutrina contábil — campo de aplicação da Contabilidade.",
+      "dificuldade": "facil",
+      "tags": [
+        "campo-de-atuacao",
+        "azienda",
+        "entidades"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0017",
+      "topico": "3.1.4",
+      "tipo": "multipla",
+      "enunciado": "A Contabilidade desdobra-se em ramos conforme a atividade desenvolvida pela entidade.\n\nAssinale a opção que apresenta apenas ramos assim definidos.",
+      "alternativas": [
+        "Contabilidade comercial, industrial, rural, bancária, de seguros e hospitalar.",
+        "Escrituração, auditoria e análise de balanços.",
+        "Contabilidade financeira, gerencial e de custos.",
+        "Contabilidade por competência, por caixa e mista.",
+        "Ativo, passivo e patrimônio líquido."
+      ],
+      "correta": 0,
+      "comentario": "Os ramos são definidos pela atividade da entidade: comercial, industrial, rural, bancária, securitária, hospitalar, pública, entre outras. Não se confundem com os segmentos ou áreas de aplicação — financeira, gerencial, de custos, tributária, auditoria e perícia —, definidos pela finalidade do trabalho, nem com as técnicas contábeis ou com os regimes de apuração.",
+      "fundamento": "Doutrina contábil — ramos da Contabilidade.",
+      "dificuldade": "media",
+      "tags": [
+        "ramos",
+        "campo-de-atuacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0018",
+      "topico": "3.1.4",
+      "tipo": "multipla",
+      "enunciado": "Uma associação sem fins lucrativos, dedicada a atividades culturais, questiona a necessidade de manter escrituração contábil, por não auferir lucro.\n\nSobre essa questão, é correto afirmar que:",
+      "alternativas": [
+        "a escrituração é dispensável, pois a Contabilidade só se aplica a entidades com finalidade lucrativa.",
+        "a escrituração é dispensável enquanto a entidade não distribuir resultados a seus associados.",
+        "a entidade deve manter escrituração contábil, pois possui patrimônio sujeito a controle, e a ausência de finalidade lucrativa não a exclui do campo de atuação da Contabilidade, além de a regularidade contábil condicionar o gozo de imunidades e benefícios.",
+        "a escrituração só é exigível se a entidade receber recursos públicos.",
+        "a entidade deve apenas manter livro caixa, sendo-lhe vedada a elaboração de demonstrações contábeis."
+      ],
+      "correta": 2,
+      "comentario": "A ausência de finalidade lucrativa não afasta a Contabilidade: há patrimônio a controlar e usuários a informar, como associados, doadores e órgãos de fiscalização. Para as entidades imunes, a escrituração regular é ainda requisito legal: o Código Tributário Nacional condiciona o reconhecimento da imunidade à manutenção de escrituração em livros revestidos das formalidades capazes de assegurar sua exatidão.",
+      "fundamento": "CTN, art. 14, III; doutrina contábil; NBC aplicáveis às entidades sem finalidade de lucros.",
+      "dificuldade": "media",
+      "tags": [
+        "campo-de-atuacao",
+        "entidades-sem-fins-lucrativos",
+        "imunidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0019",
+      "topico": "3.1.4",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que associa corretamente cada noção fundamental da Contabilidade.",
+      "alternativas": [
+        "Objeto: as entidades econômico-administrativas. Campo de atuação: o patrimônio. Finalidade: a escrituração dos fatos.",
+        "Objeto: a escrituração. Campo de atuação: as demonstrações contábeis. Finalidade: a apuração de tributos.",
+        "Objeto: o patrimônio das entidades. Campo de atuação: as entidades econômico-administrativas que possuam patrimônio a controlar. Finalidade: fornecer informação útil sobre o patrimônio e suas variações para a tomada de decisão.",
+        "Objeto: o lucro. Campo de atuação: as sociedades anônimas. Finalidade: a distribuição de dividendos.",
+        "Objeto: as normas contábeis. Campo de atuação: o Conselho Federal de Contabilidade. Finalidade: a fiscalização profissional."
+      ],
+      "correta": 2,
+      "comentario": "A distinção costuma ser cobrada em conjunto. O objeto é aquilo que se estuda: o patrimônio. O campo de atuação é onde esse objeto se encontra: as entidades econômico-administrativas que tenham patrimônio a controlar. A finalidade é o para quê: fornecer informação útil sobre o patrimônio e suas variações, subsidiando decisões e permitindo o controle e a prestação de contas.",
+      "fundamento": "Doutrina contábil; NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro.",
+      "dificuldade": "media",
+      "tags": [
+        "objeto",
+        "campo-de-atuacao",
+        "finalidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0020",
+      "topico": "3.1.5",
+      "tipo": "multipla",
+      "enunciado": "Os usuários da informação contábil costumam ser classificados em internos e externos.\n\nAssinale a opção que apresenta corretamente essa classificação.",
+      "alternativas": [
+        "Internos: administradores e gerentes. Externos: investidores, credores, fornecedores, clientes, governo e empregados em geral.",
+        "Internos: investidores e credores. Externos: administradores e conselho de administração.",
+        "Internos: o fisco e os órgãos reguladores. Externos: os sócios controladores.",
+        "Internos: auditores independentes. Externos: auditores internos.",
+        "A classificação é irrelevante, pois todos os usuários têm as mesmas necessidades informacionais."
+      ],
+      "correta": 0,
+      "comentario": "Usuários internos são os que atuam na gestão e têm acesso direto à informação, como administradores, gerentes e conselheiros. Usuários externos situam-se fora da estrutura decisória e dependem das demonstrações divulgadas: investidores, credores, fornecedores, clientes, governo, sindicatos e a comunidade. Auditores independentes são externos, e auditores internos, internos — a opção D inverte os dois.",
+      "fundamento": "Doutrina contábil; NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro.",
+      "dificuldade": "facil",
+      "tags": [
+        "usuarios",
+        "internos",
+        "externos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0021",
+      "topico": "3.1.5",
+      "tipo": "multipla",
+      "enunciado": "De acordo com a Estrutura Conceitual, são considerados usuários primários do relatório financeiro de propósito geral:",
+      "alternativas": [
+        "a administração da entidade e seu corpo gerencial.",
+        "os órgãos reguladores e as autoridades fiscais.",
+        "os empregados e seus sindicatos representativos.",
+        "o público em geral e as entidades de pesquisa econômica.",
+        "os investidores, os credores por empréstimo e outros credores, existentes e em potencial."
+      ],
+      "correta": 4,
+      "comentario": "Usuários primários são os investidores, credores por empréstimo e outros credores, existentes e potenciais, porque não podem exigir que a entidade lhes forneça informação diretamente e dependem do relatório de propósito geral. A administração tem acesso interno e não precisa desse relatório. Reguladores, fisco e público em geral podem considerá-lo útil, mas o relatório não é prioritariamente dirigido a eles.",
+      "fundamento": "NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro.",
+      "dificuldade": "media",
+      "tags": [
+        "usuarios-primarios",
+        "relatorio-de-proposito-geral"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0022",
+      "topico": "3.1.5",
+      "tipo": "multipla",
+      "enunciado": "Três usuários analisam as demonstrações da mesma companhia: um banco avalia a concessão de empréstimo; um investidor pondera a compra de ações; e a administração tributária verifica a base de cálculo de tributos.\n\nSobre essa situação, é correto afirmar que:",
+      "alternativas": [
+        "todos buscam exatamente a mesma informação, razão pela qual a Contabilidade produz relatório único e exaustivo.",
+        "cada usuário tem necessidades informacionais próprias — o banco privilegia liquidez e capacidade de pagamento, o investidor, rentabilidade e perspectivas de retorno, e o fisco, a apuração das bases tributáveis —, cabendo ao relatório de propósito geral atender ao conjunto comum de necessidades dos usuários primários, sem se dirigir especificamente a cada um.",
+        "a Contabilidade deve elaborar demonstrações distintas e inconciliáveis para cada usuário.",
+        "apenas as necessidades do fisco devem ser atendidas, por decorrerem de imposição legal.",
+        "o relatório de propósito geral destina-se primariamente à administração tributária."
+      ],
+      "correta": 1,
+      "comentario": "As necessidades divergem: liquidez e solvência para o credor, rentabilidade e risco para o investidor, bases tributáveis para o fisco. O relatório de propósito geral atende ao conjunto comum de necessidades dos usuários primários, sem ser moldado a nenhum deles em particular — daí a possibilidade de relatórios específicos, como os gerenciais e as obrigações acessórias fiscais, que partem da escrituração e aplicam ajustes próprios.",
+      "fundamento": "NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro.",
+      "dificuldade": "media",
+      "tags": [
+        "usuarios",
+        "necessidades-informacionais",
+        "proposito-geral"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0023",
+      "topico": "3.1.5",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, sobre os usuários da informação contábil.\n\nI. Os usuários primários não podem exigir que a entidade lhes forneça informações diretamente, razão pela qual dependem do relatório financeiro de propósito geral.\nII. O relatório financeiro de propósito geral atende a todas as informações de que os usuários primários necessitam, dispensando-os de recorrer a outras fontes.\nIII. A administração da entidade, embora tenha interesse em informações contábeis, não é usuária primária, pois pode obtê-las internamente.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "I e III, apenas.",
+        "II e III, apenas.",
+        "III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 1,
+      "comentario": "I e III estão corretas e reproduzem o fundamento da definição de usuário primário na Estrutura Conceitual. II está errada: o próprio documento reconhece que os relatórios de propósito geral não fornecem nem podem fornecer todas as informações de que os usuários necessitam, devendo estes considerar também informações de outras fontes, como condições econômicas gerais, expectativas setoriais e eventos políticos.",
+      "fundamento": "NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro.",
+      "dificuldade": "media",
+      "tags": [
+        "usuarios-primarios",
+        "limites-do-relatorio"
+      ],
+      "fonte": "inédita"
+    }
+  ]
 }
