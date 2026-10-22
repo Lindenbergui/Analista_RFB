@@ -1911,6 +1911,572 @@
         "bsc"
       ],
       "fonte": "inédita"
+    },
+    {
+      "id": "adm-0087",
+      "topico": "1.2.2",
+      "tipo": "multipla",
+      "enunciado": "A Coordenação-Geral de Gestão de Pessoas de um órgão elaborou, para os próximos dois anos, um plano de capacitação de sua força de trabalho, derivado do objetivo estratégico de fortalecer competências técnicas.\n\nEsse plano caracteriza-se como:",
+      "alternativas": [
+        "tático, pois traduz diretrizes estratégicas para o âmbito de uma unidade específica, em horizonte de médio prazo.",
+        "operacional, por envolver atividades de treinamento.",
+        "estratégico, por derivar de objetivo da alta administração.",
+        "contingencial, por depender de fatores externos à organização.",
+        "normativo, por produzir regras de conduta para os servidores."
+      ],
+      "correta": 0,
+      "comentario": "O planejamento tático recebe as diretrizes do nível estratégico e as traduz para cada unidade ou área funcional, em horizonte intermediário. É elaborado no nível gerencial e tem amplitude departamental, não global. O fato de derivar de objetivo estratégico não o torna estratégico: o critério é a amplitude e o horizonte do próprio plano, não sua origem.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "planejamento-tatico",
+        "niveis",
+        "medio-prazo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0088",
+      "topico": "1.2.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre a função do planejamento tático na estrutura de planejamento organizacional, é correto afirmar que:",
+      "alternativas": [
+        "funciona como elo entre o nível estratégico e o operacional, decompondo objetivos globais em objetivos departamentais e fornecendo a base para o detalhamento das atividades.",
+        "substitui o planejamento estratégico nas organizações de pequeno porte.",
+        "é elaborado pelo nível operacional e submetido à aprovação da alta administração.",
+        "dispensa articulação com os demais níveis, por ter autonomia plena em sua unidade.",
+        "tem horizonte temporal superior ao do planejamento estratégico, por exigir maior maturação."
+      ],
+      "correta": 0,
+      "comentario": "O planejamento tático é o elo da cadeia: recebe o que foi definido globalmente, desdobra em objetivos e planos de cada unidade e entrega ao nível operacional a base para o detalhamento das tarefas. Daí a chamada pirâmide ou efeito cascata do planejamento: um plano estratégico gera vários planos táticos, e cada tático gera vários operacionais.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "planejamento-tatico",
+        "desdobramento",
+        "elo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0089",
+      "topico": "1.2.2",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que apresenta exemplos de planos tipicamente situados no nível tático de planejamento.",
+      "alternativas": [
+        "A definição da missão institucional e da visão de futuro da organização.",
+        "A escala diária de atendimento ao público de uma repartição.",
+        "O procedimento de conferência física de cargas em um recinto alfandegado.",
+        "O plano mercadológico, o plano de produção, o plano financeiro e o plano de recursos humanos, cada qual abrangendo uma área funcional da organização.",
+        "O regulamento interno que disciplina o uso dos equipamentos da unidade."
+      ],
+      "correta": 3,
+      "comentario": "No nível tático situam-se os planos por área funcional: mercadológico, de produção, financeiro, de recursos humanos e organizacional. Missão e visão pertencem ao estratégico; escalas diárias, procedimentos de conferência e regulamentos de uso de equipamentos são planos operacionais, voltados a tarefas e comportamentos específicos.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "media",
+      "tags": [
+        "planejamento-tatico",
+        "planos-funcionais"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0090",
+      "topico": "1.2.2",
+      "tipo": "multipla",
+      "enunciado": "Quanto ao grau de incerteza enfrentado em cada nível de planejamento, é correto afirmar que:",
+      "alternativas": [
+        "é máximo no nível operacional, pela imprevisibilidade das tarefas rotineiras.",
+        "é idêntico nos três níveis, pois todos lidam com o mesmo ambiente organizacional.",
+        "é maior no nível estratégico, que lida com o ambiente externo e o longo prazo; intermediário no tático; e menor no operacional, cujas atividades são mais previsíveis e padronizáveis.",
+        "inexiste incerteza no planejamento, cuja função é justamente eliminá-la.",
+        "é maior no nível tático, por depender simultaneamente dos outros dois níveis."
+      ],
+      "correta": 2,
+      "comentario": "A incerteza decresce conforme se desce na hierarquia: o nível estratégico lida com o ambiente externo, com horizonte longo e variáveis não controláveis; o tático trabalha com variáveis parcialmente controláveis em prazo intermediário; o operacional atua sobre rotinas e tarefas, com alto grau de previsibilidade. O planejamento reduz a incerteza, mas não a elimina em nenhum nível.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "media",
+      "tags": [
+        "incerteza",
+        "niveis-de-planejamento"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0091",
+      "topico": "1.2.2",
+      "tipo": "multipla",
+      "enunciado": "Um plano tático elaborado por determinada diretoria mostrou-se incompatível com o plano tático de outra diretoria, gerando conflito na alocação de recursos.\n\nEssa situação revela falha na observância do princípio do planejamento:",
+      "alternativas": [
+        "integrado, segundo o qual os diversos escalões e unidades da organização devem ter seus planejamentos interligados e compatibilizados entre si.",
+        "participativo.",
+        "permanente.",
+        "da precedência.",
+        "da flexibilidade."
+      ],
+      "correta": 0,
+      "comentario": "O planejamento integrado exige que os planos das diversas unidades e escalões sejam interligados e compatíveis, evitando contradições e disputas por recursos. É princípio específico, ao lado do participativo (o processo importa mais que o documento), do coordenado (os aspectos devem ser projetados de forma interdependente) e do permanente (o planejamento é contínuo e exige revisão).",
+      "fundamento": "Djalma de Oliveira, Planejamento Estratégico. Princípios específicos do planejamento (Ackoff).",
+      "dificuldade": "media",
+      "tags": [
+        "principios-especificos",
+        "planejamento-integrado"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0092",
+      "topico": "1.2.3",
+      "tipo": "multipla",
+      "enunciado": "Sobre as características do planejamento operacional, é correto afirmar que:",
+      "alternativas": [
+        "é genérico e sintético, por tratar da organização como um todo.",
+        "tem horizonte de longo prazo, por envolver investimentos permanentes.",
+        "é elaborado pela alta administração, com apoio do nível gerencial.",
+        "é analítico e detalhado, abrange cada tarefa ou atividade isoladamente, tem horizonte de curto prazo e é conduzido no nível de supervisão.",
+        "não constitui verdadeiro planejamento, por se limitar à execução de ordens superiores."
+      ],
+      "correta": 3,
+      "comentario": "O planejamento operacional é o mais detalhado dos três: desdobra os planos táticos em tarefas e procedimentos específicos, com prazos curtos e alto grau de padronização. É conduzido pela supervisão e orienta diretamente a execução. Trata-se de planejamento em sentido próprio, pois envolve definição de objetivos e escolha de meios, ainda que num recorte restrito.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "planejamento-operacional",
+        "caracteristicas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0093",
+      "topico": "1.2.3",
+      "tipo": "multipla",
+      "enunciado": "Os planos operacionais são classificados conforme o elemento a que se relacionam.\n\nO plano que correlaciona atividades a um cronograma, estabelecendo quando cada etapa deve ser realizada, relaciona-se ao elemento:",
+      "alternativas": [
+        "método.",
+        "dinheiro.",
+        "comportamento.",
+        "estrutura.",
+        "tempo."
+      ],
+      "correta": 4,
+      "comentario": "Os planos operacionais relacionam-se a quatro elementos. Ao tempo correspondem os programas e cronogramas, que correlacionam atividades e prazos. Aos métodos correspondem os procedimentos, representados em fluxogramas. Ao dinheiro correspondem os orçamentos. Ao comportamento correspondem as regras e regulamentos, que determinam o que se deve ou não fazer.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "media",
+      "tags": [
+        "planos-operacionais",
+        "programas",
+        "cronograma"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0094",
+      "topico": "1.2.3",
+      "tipo": "multipla",
+      "enunciado": "Uma unidade representou graficamente, por meio de símbolos padronizados, a sequência de etapas do processo de análise de requerimentos, indicando decisões, documentos e responsáveis em cada fase.\n\nEssa representação corresponde a:",
+      "alternativas": [
+        "um organograma, pois evidencia os responsáveis pelas etapas.",
+        "um mapa estratégico, pois relaciona etapas a objetivos.",
+        "um cronograma, pois ordena as etapas no tempo.",
+        "um orçamento, pois envolve a alocação de recursos ao processo.",
+        "um fluxograma, instrumento típico do plano operacional relativo a métodos, que detalha a sequência de execução de um procedimento."
+      ],
+      "correta": 4,
+      "comentario": "O fluxograma representa graficamente a sequência de um procedimento, com símbolos padronizados para operações, decisões, documentos e arquivamentos. É instrumento do planejamento operacional ligado a métodos. O organograma representa a estrutura formal; o cronograma, a distribuição das atividades no tempo; e o mapa estratégico, as relações de causa e efeito entre objetivos.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "fluxograma",
+        "procedimentos",
+        "planejamento-operacional"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0095",
+      "topico": "1.2.3",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que associa corretamente o nível de planejamento ao produto que dele resulta.",
+      "alternativas": [
+        "Estratégico: cronograma semanal de atividades. Tático: declaração de missão. Operacional: plano de marketing.",
+        "Estratégico: procedimento operacional padrão. Tático: visão de futuro. Operacional: análise de cenários.",
+        "Estratégico: planejamento estratégico institucional. Tático: planos por área funcional. Operacional: procedimentos, cronogramas, orçamentos operacionais e regras de execução.",
+        "Estratégico: regulamento interno. Tático: fluxograma de processo. Operacional: mapa estratégico.",
+        "Os três níveis produzem documentos idênticos, variando apenas a autoridade que os aprova."
+      ],
+      "correta": 2,
+      "comentario": "A correspondência é direta: o estratégico produz o plano institucional de longo prazo; o tático, os planos das áreas funcionais; e o operacional, os instrumentos de execução — procedimentos, cronogramas, orçamentos operacionais e regras. As demais opções embaralham deliberadamente os produtos entre os níveis, erro comum em questões de identificação.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "media",
+      "tags": [
+        "niveis-de-planejamento",
+        "produtos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0096",
+      "topico": "1.2.3",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, sobre o planejamento operacional.\n\nI. É voltado ao curto prazo e tem caráter analítico e detalhado.\nII. Produz planos que orientam diretamente a execução das tarefas, com elevado grau de padronização.\nIII. Por tratar de rotinas, dispensa qualquer forma de controle sobre os resultados alcançados.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 1,
+      "comentario": "I e II estão corretas e descrevem as marcas do nível operacional. III está errada: justamente por tratar de atividades repetitivas e mensuráveis, o nível operacional é o que mais se presta ao controle analítico e de curto prazo, com acompanhamento frequente de padrões de quantidade, qualidade, tempo e custo.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "planejamento-operacional",
+        "controle"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0097",
+      "topico": "1.2.4",
+      "tipo": "multipla",
+      "enunciado": "A Administração por Objetivos (APO) foi difundida a partir da obra de:",
+      "alternativas": [
+        "Frederick Taylor, em Princípios de Administração Científica.",
+        "Henri Fayol, em Administração Industrial e Geral.",
+        "Elton Mayo, a partir da experiência de Hawthorne.",
+        "Peter Drucker, em A Prática da Administração de Empresas, publicada em 1954, no contexto da Teoria Neoclássica.",
+        "Max Weber, em Economia e Sociedade."
+      ],
+      "correta": 3,
+      "comentario": "A APO surge com Peter Drucker, em 1954, e se consolida como desdobramento prático da Teoria Neoclássica, com seu deslocamento da ênfase nos meios para a ênfase nos resultados. Em vez de controlar como o trabalho é feito, a organização passa a pactuar o que deve ser alcançado e a avaliar o desempenho pelo cumprimento dos objetivos.",
+      "fundamento": "Drucker, The Practice of Management (1954); Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "apo",
+        "drucker",
+        "neoclassica"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0098",
+      "topico": "1.2.4",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que NÃO corresponde a uma característica da Administração por Objetivos.",
+      "alternativas": [
+        "Fixação unilateral dos objetivos pela alta administração, cabendo aos subordinados apenas executá-los.",
+        "Estabelecimento conjunto de objetivos entre o gerente e seu superior.",
+        "Interligação entre os objetivos das diversas unidades e posições.",
+        "Ênfase na mensuração e no controle dos resultados alcançados.",
+        "Contínua avaliação, revisão e reciclagem dos planos."
+      ],
+      "correta": 0,
+      "comentario": "A fixação unilateral contraria a essência da APO, que se assenta na negociação dos objetivos entre gerente e subordinado. São características do modelo: estabelecimento conjunto de objetivos, definição de objetivos por departamento e por posição, interligação entre eles, ênfase na mensuração e no controle de resultados, avaliação e reciclagem contínuas, participação atuante das gerências e apoio intensivo do staff.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "apo",
+        "caracteristicas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0099",
+      "topico": "1.2.4",
+      "tipo": "multipla",
+      "enunciado": "Em um órgão que adota a Administração por Objetivos, um coordenador e seu superior pactuaram metas para o exercício; ao final do período, o desempenho foi avaliado pelo grau de alcance dessas metas, e novas metas foram negociadas para o ciclo seguinte.\n\nEsse encadeamento corresponde:",
+      "alternativas": [
+        "à departamentalização por objetivos.",
+        "ao ciclo da APO, caracterizado pela fixação conjunta de objetivos, pelo acompanhamento do desempenho, pela avaliação dos resultados e pela reciclagem dos objetivos para o período seguinte.",
+        "ao ciclo PDCA aplicado à produção industrial.",
+        "à avaliação de desempenho por escalas gráficas.",
+        "ao processo de recrutamento interno por competências."
+      ],
+      "correta": 1,
+      "comentario": "A APO opera em ciclos: pactuam-se os objetivos, acompanha-se o desempenho ao longo do período, avaliam-se os resultados e, a partir deles, redefinem-se os objetivos do ciclo seguinte. É essa reciclagem que diferencia a APO de uma simples fixação anual de metas, dando ao modelo caráter contínuo e adaptativo.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "apo",
+        "ciclo",
+        "reciclagem"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0100",
+      "topico": "1.2.4",
+      "tipo": "multipla",
+      "enunciado": "A Administração por Objetivos recebeu críticas relevantes na literatura.\n\nAssinale a opção que apresenta crítica pertinente ao modelo.",
+      "alternativas": [
+        "Desprezo absoluto pelos resultados organizacionais, em favor dos processos internos.",
+        "Impossibilidade de aplicação em organizações privadas com fins lucrativos.",
+        "Incompatibilidade com a existência de hierarquia na organização.",
+        "Ausência de qualquer mecanismo de avaliação de desempenho.",
+        "Supervalorização de resultados facilmente quantificáveis, excesso de papelório e risco de transformar-se em administração por pressão, com cobrança desmedida sobre as pessoas."
+      ],
+      "correta": 4,
+      "comentario": "As críticas mais frequentes à APO apontam a ênfase excessiva em metas quantificáveis, em detrimento de resultados relevantes porém de difícil mensuração; a burocratização do processo, com proliferação de formulários e relatórios; e a degeneração em administração por pressão, quando a negociação de objetivos se converte em imposição e cobrança. Nenhuma dessas críticas nega a importância dos resultados, que é o mérito do modelo.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "media",
+      "tags": [
+        "apo",
+        "criticas",
+        "administracao-por-pressao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0101",
+      "topico": "1.2.4",
+      "tipo": "multipla",
+      "enunciado": "Na hierarquia de objetivos apresentada pela Teoria Neoclássica, os objetivos organizacionais desdobram-se em instrumentos cada vez mais específicos.\n\nAssinale a opção que apresenta corretamente esse desdobramento.",
+      "alternativas": [
+        "Normas, métodos, procedimentos, programas, metas, diretrizes, políticas e objetivos organizacionais.",
+        "Metas, objetivos organizacionais, políticas, programas, diretrizes, procedimentos, normas e métodos.",
+        "Objetivos organizacionais, políticas, diretrizes, metas, programas, procedimentos, métodos e normas.",
+        "Políticas, objetivos organizacionais, metas, diretrizes, normas, métodos, procedimentos e programas.",
+        "Programas, procedimentos, políticas, diretrizes, objetivos organizacionais, metas, métodos e normas."
+      ],
+      "correta": 2,
+      "comentario": "O desdobramento parte do geral para o específico: objetivos organizacionais, políticas, diretrizes, metas, programas, procedimentos, métodos e normas. Políticas são afirmações genéricas que orientam decisões; diretrizes, os princípios que balizam a ação; metas, os alvos quantificados de curto prazo; e normas, as regras de conduta mais específicas. A primeira opção inverte integralmente a ordem.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "dificil",
+      "tags": [
+        "hierarquia-de-objetivos",
+        "apo",
+        "neoclassica"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0102",
+      "topico": "1.2.4",
+      "tipo": "multipla",
+      "enunciado": "A aplicação da lógica da Administração por Objetivos ao setor público encontra expressão constitucional no instrumento que amplia a autonomia gerencial, orçamentária e financeira de órgãos e entidades mediante a fixação de metas de desempenho.\n\nEsse instrumento é:",
+      "alternativas": [
+        "o termo de parceria com organizações da sociedade civil de interesse público.",
+        "o convênio administrativo entre entes federativos.",
+        "o consórcio público regido pela Lei nº 11.107/2005.",
+        "o contrato de gestão, previsto no §8º do art. 37 da Constituição, firmado entre administradores e o poder público.",
+        "o contrato de concessão de serviço público."
+      ],
+      "correta": 3,
+      "comentario": "O art. 37, §8º, introduzido pela Emenda Constitucional nº 19/1998, prevê a ampliação da autonomia gerencial, orçamentária e financeira mediante contrato que fixe metas de desempenho — o contrato de gestão. É a tradução, no setor público, da lógica de pactuar resultados em vez de controlar apenas meios, inspirada na APO e na administração gerencial.",
+      "fundamento": "CF/1988, art. 37, §8º (EC 19/1998).",
+      "dificuldade": "media",
+      "tags": [
+        "apo",
+        "contrato-de-gestao",
+        "gestao-por-resultados"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0103",
+      "topico": "1.2.5",
+      "tipo": "multipla",
+      "enunciado": "Djalma de Oliveira distingue o planejamento de noções que com ele costumam ser confundidas.\n\nA situação em que o futuro tende a ser diferente do passado, mas sobre cujo processo e desenvolvimento a organização não tem nenhum controle, corresponde a:",
+      "alternativas": [
+        "projeção.",
+        "previsão.",
+        "plano.",
+        "resolução de problemas.",
+        "predição."
+      ],
+      "correta": 4,
+      "comentario": "Na predição, o futuro difere do passado e a organização não controla o processo. Na projeção, o futuro tende a repetir a estrutura básica do passado. A previsão é o esforço de verificar quais eventos poderão ocorrer, com base em probabilidades. A resolução de problemas cuida de desajustes imediatos. O plano é o documento formal que consolida o processo — o limite da formalização do planejamento.",
+      "fundamento": "Djalma de Oliveira, Planejamento Estratégico.",
+      "dificuldade": "dificil",
+      "tags": [
+        "conceitos-basicos",
+        "predicao",
+        "projecao",
+        "previsao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0104",
+      "topico": "1.2.5",
+      "tipo": "multipla",
+      "enunciado": "Russell Ackoff identifica filosofias que orientam o processo de planejamento.\n\nA filosofia da otimização caracteriza-se por:",
+      "alternativas": [
+        "buscar apenas resultados suficientemente bons, privilegiando a viabilidade sobre o desempenho máximo.",
+        "procurar fazer o melhor possível, com uso de técnicas matemáticas e estatísticas para maximizar o desempenho e minimizar deficiências.",
+        "enfatizar a capacidade de resposta a mudanças, presumindo que o principal valor do planejamento está no próprio processo de aprendizagem.",
+        "rejeitar a formulação de objetivos quantificados, por considerá-los redutores.",
+        "concentrar-se exclusivamente na correção de desvios já ocorridos."
+      ],
+      "correta": 1,
+      "comentario": "São três as filosofias de Ackoff. Na satisfação, busca-se um desempenho apenas satisfatório, com ênfase na viabilidade e no mínimo de esforço. Na otimização, procura-se fazer o melhor possível, com apoio em modelos quantitativos. Na adaptação, o valor principal está na capacidade de responder a mudanças e no aprendizado gerado pelo próprio processo de planejar, e não no plano em si.",
+      "fundamento": "Ackoff, Planejamento Empresarial; Djalma de Oliveira, Planejamento Estratégico.",
+      "dificuldade": "media",
+      "tags": [
+        "filosofias-do-planejamento",
+        "ackoff",
+        "otimizacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0105",
+      "topico": "1.2.5",
+      "tipo": "multipla",
+      "enunciado": "Entre os princípios gerais do planejamento, o que enuncia que o planejamento pode provocar modificações nas características e atividades da empresa, alcançando pessoas, tecnologia e sistemas, é o princípio:",
+      "alternativas": [
+        "das maiores influências e abrangência.",
+        "da precedência do planejamento.",
+        "da contribuição aos objetivos.",
+        "das maiores eficiência, eficácia e efetividade.",
+        "da participação."
+      ],
+      "correta": 0,
+      "comentario": "O princípio das maiores influências e abrangência registra que planejar provoca mudanças de amplo alcance na organização — em pessoas, tecnologia e sistemas. A contribuição aos objetivos exige que o planejamento vise aos objetivos máximos da organização; a precedência indica que ele antecede as demais funções; e o último princípio orienta a maximizar resultados e minimizar deficiências.",
+      "fundamento": "Djalma de Oliveira, Planejamento Estratégico.",
+      "dificuldade": "media",
+      "tags": [
+        "principios-gerais",
+        "influencias-e-abrangencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0106",
+      "topico": "1.2.5",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que distingue corretamente planejamento e plano.",
+      "alternativas": [
+        "São sinônimos, pois o plano é a própria atividade de planejar.",
+        "O plano antecede o planejamento, servindo-lhe de diagnóstico.",
+        "O planejamento é documento, e o plano, processo decisório.",
+        "O planejamento é o processo contínuo de decidir antecipadamente sobre objetivos e meios, enquanto o plano é o documento formal que consolida as informações e decisões resultantes desse processo, representando o limite de sua formalização.",
+        "O plano é obrigatório por lei, e o planejamento, facultativo."
+      ],
+      "correta": 3,
+      "comentario": "O planejamento é processo: contínuo, dinâmico e voltado a decidir antecipadamente o que fazer e como fazer. O plano é o produto documental desse processo, sua formalização. A distinção importa porque organizações frequentemente produzem planos sem planejar de fato — documentos elaborados para cumprir exigência formal, sem o processo decisório que lhes daria sentido.",
+      "fundamento": "Djalma de Oliveira, Planejamento Estratégico.",
+      "dificuldade": "facil",
+      "tags": [
+        "planejamento",
+        "plano",
+        "processo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0107",
+      "topico": "1.2.5",
+      "tipo": "multipla",
+      "enunciado": "Koontz e O'Donnell apontam, entre os princípios do planejamento, o princípio da mudança de navegação.\n\nEsse princípio significa que:",
+      "alternativas": [
+        "o planejamento deve ser abandonado sempre que o cenário previsto se alterar.",
+        "os planos devem ser rígidos, para preservar a direção definida inicialmente.",
+        "o administrador deve acompanhar continuamente a execução e rever periodicamente os planos, ajustando a rota sempre que necessário para alcançar o objetivo pretendido.",
+        "o planejamento deve ser conduzido apenas pelo nível institucional, sem interferência dos demais.",
+        "cada plano deve conter rota única, vedada a previsão de alternativas."
+      ],
+      "correta": 2,
+      "comentario": "A metáfora é a do navegador que corrige o rumo sem mudar o destino: o objetivo permanece, mas o caminho é ajustado conforme as condições encontradas. O princípio se soma ao do comprometimento, segundo o qual o planejamento deve abranger o período necessário ao cumprimento dos compromissos assumidos, e ao da flexibilidade, que recomenda planos capazes de absorver mudanças.",
+      "fundamento": "Koontz e O'Donnell, Princípios de Administração.",
+      "dificuldade": "media",
+      "tags": [
+        "mudanca-de-navegacao",
+        "flexibilidade",
+        "koontz"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0108",
+      "topico": "1.2.6",
+      "tipo": "multipla",
+      "enunciado": "Na análise de um projeto, costuma-se distinguir o aspecto econômico do aspecto financeiro.\n\nEssa distinção significa que:",
+      "alternativas": [
+        "ambos tratam da mesma questão, variando apenas a terminologia empregada.",
+        "o aspecto econômico cuida da existência de recursos em caixa, e o financeiro, da geração de benefícios à sociedade.",
+        "o aspecto econômico avalia se os benefícios gerados superam os custos incorridos, considerando o valor produzido e a melhor alocação dos recursos; o aspecto financeiro examina a disponibilidade, a origem e o fluxo dos recursos necessários à execução e à manutenção do projeto.",
+        "o aspecto econômico aplica-se apenas a projetos privados, e o financeiro, apenas a projetos públicos.",
+        "o aspecto financeiro é dispensável quando o projeto apresentar resultado econômico positivo."
+      ],
+      "correta": 2,
+      "comentario": "A distinção é essencial: o exame econômico pergunta se vale a pena — se os benefícios superam os custos e se os recursos estão sendo bem alocados. O exame financeiro pergunta se é possível pagar — de onde virão os recursos, em que momento e se o fluxo de caixa sustenta a execução e a operação posterior. Um projeto economicamente vantajoso pode ser financeiramente inviável, e vice-versa.",
+      "fundamento": "Doutrina de análise de projetos e planejamento governamental.",
+      "dificuldade": "media",
+      "tags": [
+        "aspecto-economico",
+        "aspecto-financeiro",
+        "analise-de-projetos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0109",
+      "topico": "1.2.6",
+      "tipo": "multipla",
+      "enunciado": "Determinado projeto de modernização foi considerado tecnicamente viável e economicamente vantajoso, mas sua implantação foi inviabilizada porque o órgão não dispunha de quadro de pessoal qualificado nem de estrutura de governança capaz de conduzi-lo.\n\nA deficiência identificada situa-se no aspecto:",
+      "alternativas": [
+        "técnico.",
+        "econômico.",
+        "financeiro.",
+        "jurídico.",
+        "administrativo, relativo à capacidade institucional — estrutura, processos, competências e pessoal — necessária à execução e à sustentação do projeto."
+      ],
+      "correta": 4,
+      "comentario": "O aspecto administrativo trata da capacidade institucional de executar: estrutura organizacional, processos de trabalho, sistemas de gestão, competências e disponibilidade de pessoal. É exame frequentemente negligenciado no setor público, onde projetos bem concebidos do ponto de vista técnico e econômico fracassam por ausência de capacidade de implementação.",
+      "fundamento": "Doutrina de análise de projetos e planejamento governamental.",
+      "dificuldade": "media",
+      "tags": [
+        "aspecto-administrativo",
+        "capacidade-institucional"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0110",
+      "topico": "1.2.6",
+      "tipo": "multipla",
+      "enunciado": "No exame dos aspectos técnicos de um plano ou projeto, avalia-se principalmente:",
+      "alternativas": [
+        "a taxa interna de retorno e o valor presente líquido do investimento.",
+        "a adequação da solução proposta do ponto de vista tecnológico e operacional, incluindo especificações, métodos construtivos, tecnologia disponível, escala, localização e requisitos de engenharia.",
+        "a origem dos recursos orçamentários e o cronograma de desembolso.",
+        "a existência de amparo legal para a contratação pretendida.",
+        "o grau de aceitação do projeto pela população beneficiária."
+      ],
+      "correta": 1,
+      "comentario": "O exame técnico responde se a solução funciona: verifica tecnologia disponível, especificações, métodos, escala de produção, localização e requisitos de engenharia. Retorno e valor presente líquido pertencem ao exame econômico-financeiro; origem de recursos e desembolso, ao financeiro; amparo legal, ao jurídico; e aceitação social, à análise de viabilidade política e social.",
+      "fundamento": "Doutrina de análise de projetos e planejamento governamental.",
+      "dificuldade": "facil",
+      "tags": [
+        "aspecto-tecnico",
+        "viabilidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0111",
+      "topico": "1.2.6",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, sobre os aspectos considerados no planejamento de projetos.\n\nI. Um projeto pode ser economicamente vantajoso e, ainda assim, financeiramente inviável, por insuficiência ou inadequação do fluxo de recursos no momento necessário.\nII. O aspecto administrativo diz respeito à capacidade institucional de executar e sustentar o projeto.\nIII. A viabilidade técnica, por si só, assegura o êxito do projeto, tornando dispensáveis os demais exames.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 1,
+      "comentario": "I e II estão corretas. III está errada: os aspectos são complementares e cumulativos. Um projeto tecnicamente perfeito pode fracassar por falta de recursos no momento certo, por ausência de capacidade institucional para executá-lo ou por não gerar benefícios que justifiquem seus custos. A análise de viabilidade só é conclusiva quando integra todas essas dimensões.",
+      "fundamento": "Doutrina de análise de projetos e planejamento governamental.",
+      "dificuldade": "facil",
+      "tags": [
+        "aspectos",
+        "viabilidade",
+        "analise-integrada"
+      ],
+      "fonte": "inédita"
     }
   ]
 }
