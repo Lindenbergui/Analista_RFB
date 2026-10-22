@@ -475,6 +475,510 @@
         "anterioridade"
       ],
       "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0022",
+      "topico": "8.2.1",
+      "tipo": "multipla",
+      "enunciado": "O Imposto sobre a Exportação, de competência da União, incide sobre a exportação, para o exterior, de produtos nacionais ou nacionalizados.\n\nQuanto ao seu regime constitucional, é correto afirmar que:",
+      "alternativas": [
+        "sujeita-se integralmente à legalidade estrita e às anterioridades anual e nonagesimal.",
+        "é exceção à anterioridade anual, mas observa a anterioridade nonagesimal.",
+        "pode ser instituído por ato do Poder Executivo, dispensada a edição de lei.",
+        "constitui exceção à legalidade quanto à alteração de alíquotas, que pode ser feita por ato do Poder Executivo atendidas as condições e os limites da lei, e é exceção tanto à anterioridade anual quanto à nonagesimal.",
+        "sujeita-se apenas à anterioridade nonagesimal, por ter natureza de contribuição interventiva."
+      ],
+      "correta": 3,
+      "comentario": "O Imposto de Exportação tem função predominantemente extrafiscal, servindo à política cambial e de comércio exterior. Por isso integra o rol do art. 153, §1º, que faculta ao Executivo alterar alíquotas nos limites legais, e o do art. 150, §1º, que o excepciona das duas anterioridades. A instituição, contudo, depende de lei: o que se flexibiliza é apenas a alteração de alíquotas.",
+      "fundamento": "CF/1988, arts. 150, §1º, e 153, II e §1º.",
+      "dificuldade": "facil",
+      "tags": [
+        "extrafiscalidade",
+        "legalidade",
+        "anterioridade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0023",
+      "topico": "8.2.1",
+      "tipo": "multipla",
+      "enunciado": "Resolução de órgão colegiado integrante do Poder Executivo federal elevou a alíquota do Imposto de Exportação de determinado produto, dentro dos limites fixados em lei.\n\nSegundo a jurisprudência do STF, essa alteração é:",
+      "alternativas": [
+        "inconstitucional, pois a alteração de alíquota do Imposto de Exportação é privativa do Presidente da República, mediante decreto.",
+        "inconstitucional, pois a alteração de alíquotas depende sempre de lei em sentido estrito.",
+        "constitucional, pois é compatível com a Constituição a atribuição, a órgão integrante do Poder Executivo da União, da faculdade de alterar as alíquotas do Imposto de Exportação, observadas as condições e os limites estabelecidos em lei.",
+        "constitucional, mas seus efeitos só podem ocorrer a partir do exercício financeiro seguinte.",
+        "constitucional apenas se houver prévia autorização do Senado Federal."
+      ],
+      "correta": 2,
+      "comentario": "O STF firmou que a flexibilização da legalidade prevista no art. 153, §1º, admite que a competência para alterar as alíquotas do Imposto de Exportação seja exercida por órgão integrante do Executivo federal, e não apenas pelo Presidente da República, desde que respeitadas as condições e os limites legais. Por ser exceção às anterioridades, a alteração pode produzir efeitos imediatos.",
+      "fundamento": "STF, RE 570.680 (Tema 53); CF/1988, art. 153, §1º.",
+      "dificuldade": "media",
+      "tags": [
+        "aliquota",
+        "camex",
+        "tema-53"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0024",
+      "topico": "8.2.1",
+      "tipo": "multipla",
+      "enunciado": "A Constituição adota, como diretriz, a desoneração das exportações.\n\nAssinale a opção que apresenta corretamente esse quadro.",
+      "alternativas": [
+        "O Imposto de Exportação também é alcançado pela imunidade das exportações, de modo que não incide sobre nenhuma operação.",
+        "A desoneração alcança apenas o ICMS, permanecendo tributadas as exportações pelos demais tributos.",
+        "A desoneração das exportações é meramente programática, sem previsão de imunidades específicas no texto constitucional.",
+        "A desoneração alcança exclusivamente as contribuições sociais, por força do art. 149, §2º, I.",
+        "O IPI não incide sobre produtos industrializados destinados ao exterior, o ICMS não incide sobre operações que destinem mercadorias ao exterior e as contribuições sociais e de intervenção no domínio econômico não incidem sobre as receitas decorrentes de exportação; o Imposto de Exportação, contudo, recai justamente sobre essa operação, por ser instrumento de política de comércio exterior."
+      ],
+      "correta": 4,
+      "comentario": "A Constituição desonera as exportações do IPI, do ICMS e das contribuições sociais e de intervenção. O Imposto de Exportação é a exceção deliberada a essa lógica: sua função não é arrecadar, mas regular o comércio exterior, desestimulando a saída de determinados produtos quando o interesse nacional assim recomendar. Daí sua aplicação atual a um rol muito restrito de mercadorias.",
+      "fundamento": "CF/1988, arts. 149, §2º, I, 153, II e §3º, III, e 155, §2º, X, 'a'.",
+      "dificuldade": "media",
+      "tags": [
+        "desoneracao",
+        "imunidade",
+        "exportacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0025",
+      "topico": "8.2.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre a arrecadação do Imposto de Exportação, é correto afirmar que:",
+      "alternativas": [
+        "50% de seu produto é entregue aos Estados exportadores, a título de compensação.",
+        "21,5% de seu produto compõem o Fundo de Participação dos Estados.",
+        "o produto é repartido entre a União e os Municípios de origem da mercadoria.",
+        "seu produto pertence integralmente à União, não havendo repartição constitucional de receita, e o Código Tributário Nacional prevê que a receita líquida do imposto se destina à formação de reservas monetárias, na forma da lei.",
+        "a receita é vinculada ao custeio da seguridade social."
+      ],
+      "correta": 3,
+      "comentario": "A Constituição não prevê repartição do produto do Imposto de Exportação: a receita fica integralmente com a União, assim como ocorre com o Imposto de Importação. O art. 28 do CTN, reproduzido na legislação do imposto, determina que a receita líquida se destine à formação de reservas monetárias — dispositivo cuja compatibilidade com a vedação de vinculação de receita de impostos é objeto de discussão doutrinária.",
+      "fundamento": "CTN, art. 28; Decreto-Lei nº 1.578/1977, art. 9º; CF/1988, arts. 157 a 159 e 167, IV.",
+      "dificuldade": "media",
+      "tags": [
+        "reparticao-de-receitas",
+        "reservas-monetarias"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0026",
+      "topico": "8.2.1",
+      "tipo": "multipla",
+      "enunciado": "A incidência do Imposto de Exportação alcança produtos nacionais ou nacionalizados.\n\nConsidera-se produto nacionalizado:",
+      "alternativas": [
+        "o produto estrangeiro em trânsito aduaneiro pelo território nacional.",
+        "o produto estrangeiro admitido temporariamente no País, com suspensão de tributos.",
+        "o produto nacional que tenha sido exportado e posteriormente retornado ao País.",
+        "o produto estrangeiro depositado em entreposto aduaneiro, ainda sob controle aduaneiro.",
+        "a mercadoria estrangeira importada a título definitivo, submetida a despacho para consumo e incorporada à economia nacional."
+      ],
+      "correta": 4,
+      "comentario": "Nacionalizada é a mercadoria estrangeira que, importada a título definitivo e submetida a despacho para consumo, passa a integrar a economia nacional. Não se nacionalizam as mercadorias em trânsito, em admissão temporária ou entrepostadas, que permanecem sob controle aduaneiro e com os tributos suspensos. Produto nacional que retorna ao País é, para fins de importação, considerado estrangeiro, salvo as ressalvas legais.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009); Decreto-Lei nº 37/1966.",
+      "dificuldade": "media",
+      "tags": [
+        "produto-nacionalizado",
+        "incidencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0027",
+      "topico": "8.2.1",
+      "tipo": "multipla",
+      "enunciado": "Quanto às lacunas na disciplina do Imposto de Exportação, a legislação determina que:",
+      "alternativas": [
+        "sejam supridas pela aplicação analógica da legislação do Imposto sobre Produtos Industrializados.",
+        "sejam supridas pela aplicação subsidiária, no que couber, da legislação relativa ao Imposto de Importação.",
+        "sejam supridas por convênios celebrados no âmbito do CONFAZ.",
+        "sejam supridas por resolução do Senado Federal.",
+        "não possam ser supridas, por força do princípio da legalidade estrita."
+      ],
+      "correta": 1,
+      "comentario": "A legislação do Imposto de Exportação é bem mais enxuta que a do Imposto de Importação e, por isso, determina a aplicação subsidiária, no que couber, das normas do imposto de entrada. Isso explica por que conceitos como território aduaneiro, jurisdição, despacho e responsabilidade são buscados no regime da importação. A integração por analogia, no Direito Tributário, jamais pode resultar na exigência de tributo não previsto em lei.",
+      "fundamento": "Decreto-Lei nº 1.578/1977, art. 8º; CTN, art. 108, §1º.",
+      "dificuldade": "media",
+      "tags": [
+        "aplicacao-subsidiaria",
+        "integracao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0028",
+      "topico": "8.2.2",
+      "tipo": "multipla",
+      "enunciado": "Nos termos da legislação de regência, o fato gerador do Imposto de Exportação é a saída do produto nacional ou nacionalizado do território nacional, considerando-se ocorrido esse fato gerador:",
+      "alternativas": [
+        "na data de registro de exportação no Sistema Integrado de Comércio Exterior (Siscomex).",
+        "na data do efetivo embarque da mercadoria no veículo transportador.",
+        "na data da averbação do embarque pela autoridade aduaneira.",
+        "na data da celebração do contrato de compra e venda internacional.",
+        "na data do fechamento do contrato de câmbio relativo à operação."
+      ],
+      "correta": 0,
+      "comentario": "A hipótese de incidência é a saída do produto do território nacional, mas a legislação fixa, por ficção, o momento em que o fato gerador se considera ocorrido: a data do registro de exportação no Siscomex — hoje operacionalizado pela Declaração Única de Exportação. É esse momento que define a alíquota e os critérios de apuração aplicáveis, tal como ocorre, na importação, com o registro da declaração de importação.",
+      "fundamento": "CTN, art. 23; Decreto-Lei nº 1.578/1977, art. 1º, §1º; Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 213, parágrafo único.",
+      "dificuldade": "facil",
+      "tags": [
+        "fato-gerador",
+        "elemento-temporal",
+        "siscomex"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0029",
+      "topico": "8.2.2",
+      "tipo": "multipla",
+      "enunciado": "Uma empresa celebrou contrato de exportação em 5 de março, registrou a exportação no Siscomex em 20 de março, embarcou a mercadoria em 2 de abril e teve o embarque averbado em 8 de abril. Em 25 de março, ato do Poder Executivo elevou a alíquota do Imposto de Exportação do produto.\n\nA alíquota aplicável à operação é:",
+      "alternativas": [
+        "a vigente em 5 de março, data da celebração do contrato.",
+        "a vigente em 20 de março, data do registro de exportação, anterior à majoração.",
+        "a vigente em 2 de abril, data do embarque, já majorada.",
+        "a vigente em 8 de abril, data da averbação, já majorada.",
+        "a média entre as alíquotas anterior e posterior à majoração, proporcionalmente aos dias."
+      ],
+      "correta": 1,
+      "comentario": "Aplica-se a legislação vigente na data da ocorrência do fato gerador. Como este se considera ocorrido na data do registro de exportação no Siscomex — 20 de março —, incide a alíquota então vigente, anterior à majoração. A circunstância de o imposto ser exceção às anterioridades permite que a nova alíquota produza efeitos de imediato, mas apenas para os fatos geradores posteriores à sua vigência.",
+      "fundamento": "CTN, arts. 105 e 144; Decreto-Lei nº 1.578/1977, art. 1º, §1º.",
+      "dificuldade": "media",
+      "tags": [
+        "fato-gerador",
+        "aliquota",
+        "irretroatividade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0030",
+      "topico": "8.2.2",
+      "tipo": "multipla",
+      "enunciado": "Após o registro de exportação no Siscomex, a operação foi cancelada e a mercadoria não chegou a deixar o território nacional.\n\nSobre o Imposto de Exportação eventualmente recolhido, é correto afirmar que:",
+      "alternativas": [
+        "é devido em definitivo, pois o fato gerador se aperfeiçoou com o registro, independentemente da saída.",
+        "é devido pela metade, a título de compensação pelo controle aduaneiro exercido.",
+        "deve ser convertido em crédito para futuras operações, vedada a restituição em espécie.",
+        "é devido, cabendo ao exportador pleitear isenção específica perante o Ministério da Fazenda.",
+        "é indevido e comporta restituição, pois a hipótese de incidência é a efetiva saída do produto do território nacional, sendo o registro de exportação apenas o momento fixado por ficção legal para a ocorrência do fato gerador."
+      ],
+      "correta": 4,
+      "comentario": "A distinção é importante: a hipótese de incidência é a saída do produto do território nacional, e o registro de exportação é apenas o marco temporal escolhido pela lei para antecipar a apuração. Não ocorrendo a saída, não se perfaz o fato gerador, e o valor eventualmente recolhido é indevido, sujeitando-se a restituição na forma da legislação.",
+      "fundamento": "CTN, arts. 23 e 165; Decreto-Lei nº 1.578/1977, art. 1º e §1º.",
+      "dificuldade": "dificil",
+      "tags": [
+        "fato-gerador",
+        "restituicao",
+        "saida-efetiva"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0031",
+      "topico": "8.2.2",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que apresenta operação sujeita à incidência do Imposto de Exportação.",
+      "alternativas": [
+        "Saída, para o exterior, de produto nacional constante da relação de mercadorias sujeitas ao imposto.",
+        "Trânsito aduaneiro de mercadoria estrangeira que atravessa o território nacional com destino a terceiro país.",
+        "Venda de produto nacional entre estabelecimentos situados em diferentes Estados da Federação.",
+        "Importação de matéria-prima destinada à industrialização no País.",
+        "Remessa de mercadoria entre filiais da mesma empresa, ambas situadas no território nacional."
+      ],
+      "correta": 0,
+      "comentario": "O imposto exige saída do território nacional com destino ao exterior, de produto nacional ou nacionalizado. Operações internas, ainda que interestaduais ou entre estabelecimentos da mesma empresa, não configuram exportação. O trânsito de mercadoria estrangeira de passagem pelo País tampouco se enquadra, pois não há produto nacional nem nacionalizado saindo. Na prática, o imposto só alcança as mercadorias expressamente relacionadas pelo Executivo.",
+      "fundamento": "CTN, art. 23; Decreto-Lei nº 1.578/1977, art. 1º; Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 212 e 213.",
+      "dificuldade": "facil",
+      "tags": [
+        "incidencia",
+        "exportacao",
+        "operacoes-internas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0032",
+      "topico": "8.2.2",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, sobre o Imposto de Exportação.\n\nI. A hipótese de incidência é a saída, do território nacional, de produto nacional ou nacionalizado destinado ao exterior.\nII. O imposto incide sobre todas as mercadorias exportadas, cabendo ao exportador apurá-lo em qualquer operação.\nIII. A legislação fixa o momento da ocorrência do fato gerador, para efeito de apuração, em data anterior à efetiva saída física da mercadoria.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "I e III, apenas.",
+        "II e III, apenas.",
+        "III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 1,
+      "comentario": "I e III estão corretas: a hipótese é a saída para o exterior, e a lei antecipa o momento do fato gerador para a data do registro de exportação. II está errada: a incidência não é universal — o imposto recai apenas sobre os produtos relacionados em ato do Poder Executivo, hoje um rol bastante restrito, coerente com a diretriz constitucional de desoneração das exportações.",
+      "fundamento": "CTN, art. 23; Decreto-Lei nº 1.578/1977, arts. 1º e 3º.",
+      "dificuldade": "media",
+      "tags": [
+        "incidencia",
+        "fato-gerador",
+        "rol-de-produtos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0033",
+      "topico": "8.2.3",
+      "tipo": "multipla",
+      "enunciado": "Nos termos da legislação de regência, é contribuinte do Imposto de Exportação:",
+      "alternativas": [
+        "o exportador, assim considerado qualquer pessoa que promova a saída do produto do território nacional, ou quem a lei a ele equiparar.",
+        "o transportador responsável pela condução da mercadoria ao exterior.",
+        "o despachante aduaneiro que promove o registro da operação.",
+        "o adquirente estrangeiro da mercadoria, por ser o destinatário final da operação.",
+        "o depositário do recinto alfandegado de onde parte a mercadoria."
+      ],
+      "correta": 0,
+      "comentario": "O CTN define como contribuinte o exportador ou quem a lei a ele equiparar, e a legislação específica esclarece tratar-se de qualquer pessoa que promova a saída do produto do território nacional. Transportador, despachante e depositário podem figurar como responsáveis por obrigações próprias, mas não são contribuintes. O adquirente estrangeiro está fora do alcance da norma brasileira.",
+      "fundamento": "CTN, art. 27; Decreto-Lei nº 1.578/1977, art. 5º; Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 217.",
+      "dificuldade": "facil",
+      "tags": [
+        "contribuinte",
+        "exportador",
+        "sujeicao-passiva"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0034",
+      "topico": "8.2.3",
+      "tipo": "multipla",
+      "enunciado": "Pessoa física, sem inscrição como empresária e sem habitualidade na atividade, promoveu a saída de produto nacional para o exterior, em operação sujeita ao Imposto de Exportação.\n\nSobre a sujeição passiva, é correto afirmar que:",
+      "alternativas": [
+        "não há contribuinte, pois a pessoa física não exerce atividade empresarial.",
+        "a pessoa física é contribuinte, pois a condição de exportador decorre da prática do ato de promover a saída do produto do território nacional, independentemente de habitualidade, de inscrição empresarial ou de finalidade lucrativa.",
+        "o contribuinte é a pessoa jurídica que lhe vendeu o produto no mercado interno.",
+        "a pessoa física responde apenas por penalidades, nunca pelo imposto.",
+        "a sujeição passiva depende de prévia habilitação no Siscomex, sem a qual não há contribuinte."
+      ],
+      "correta": 1,
+      "comentario": "A definição legal de exportador é objetiva: é contribuinte quem promove a saída do produto do território nacional. Nem a habitualidade, nem a inscrição empresarial, nem a finalidade lucrativa integram o critério. A habilitação no Siscomex é requisito operacional para atuar no comércio exterior, e sua ausência caracteriza irregularidade — mas não afasta a sujeição passiva de quem realizou o fato gerador.",
+      "fundamento": "CTN, arts. 27 e 126; Decreto-Lei nº 1.578/1977, art. 5º.",
+      "dificuldade": "media",
+      "tags": [
+        "contribuinte",
+        "pessoa-fisica",
+        "capacidade-tributaria"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0035",
+      "topico": "8.2.3",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que compara corretamente a sujeição passiva do Imposto de Importação e a do Imposto de Exportação.",
+      "alternativas": [
+        "Em ambos, o contribuinte é o transportador da mercadoria.",
+        "No Imposto de Importação, o contribuinte é o exportador estrangeiro; no de Exportação, o importador estrangeiro.",
+        "Ambos têm como contribuinte exclusivo a pessoa jurídica habilitada no Siscomex.",
+        "No Imposto de Importação, o contribuinte é o importador — qualquer pessoa que promova a entrada de mercadoria estrangeira no território nacional —, bem como o destinatário de remessa postal internacional e o adquirente de mercadoria entrepostada; no de Exportação, é o exportador, qualquer pessoa que promova a saída do produto do território nacional.",
+        "Em ambos, a sujeição passiva recai sobre o depositário do recinto alfandegado."
+      ],
+      "correta": 3,
+      "comentario": "A simetria é clara: cada imposto tem como contribuinte quem promove o movimento tributado — a entrada, na importação; a saída, na exportação. O Imposto de Importação traz ainda duas figuras adicionais, o destinatário de remessa postal internacional indicado pelo remetente e o adquirente de mercadoria entrepostada. O Imposto de Exportação não possui elenco equivalente, limitando-se ao exportador e a quem a lei a ele equiparar.",
+      "fundamento": "CTN, arts. 22 e 27; Decreto-Lei nº 37/1966, art. 31; Decreto-Lei nº 1.578/1977, art. 5º.",
+      "dificuldade": "media",
+      "tags": [
+        "contribuinte",
+        "comparacao",
+        "importacao-exportacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0036",
+      "topico": "8.2.4",
+      "tipo": "multipla",
+      "enunciado": "Quando a alíquota do Imposto de Exportação for ad valorem, a base de cálculo é:",
+      "alternativas": [
+        "o valor aduaneiro apurado segundo o Acordo de Valoração Aduaneira.",
+        "o preço de venda constante da fatura comercial, sem qualquer ajuste.",
+        "o custo de produção da mercadoria, acrescido de margem de lucro de 20%.",
+        "o preço praticado no mercado interno brasileiro na data do embarque.",
+        "o preço normal que o produto, ou seu similar, alcançaria, ao tempo da exportação, em uma venda em condições de livre concorrência no mercado internacional."
+      ],
+      "correta": 4,
+      "comentario": "A base de cálculo na alíquota ad valorem é o preço normal que o produto, ou seu similar, alcançaria ao tempo da exportação, numa venda em condições de livre concorrência no mercado internacional. Trata-se de um valor de referência, e não necessariamente do preço contratado: a lei busca neutralizar operações realizadas por valores artificiais. O valor aduaneiro do Acordo de Valoração aplica-se ao Imposto de Importação.",
+      "fundamento": "CTN, art. 24, II; Decreto-Lei nº 1.578/1977, art. 2º.",
+      "dificuldade": "facil",
+      "tags": [
+        "base-de-calculo",
+        "preco-normal",
+        "ad-valorem"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0037",
+      "topico": "8.2.4",
+      "tipo": "multipla",
+      "enunciado": "Comparando as bases de cálculo do Imposto de Importação e do Imposto de Exportação na modalidade ad valorem, é correto afirmar que:",
+      "alternativas": [
+        "ambas correspondem ao valor da mercadoria acrescido de frete e seguro internacionais.",
+        "ambas correspondem ao preço FOB, sem inclusão de frete e seguro.",
+        "a do Imposto de Importação é o valor aduaneiro, apurado em base equivalente ao CIF, com inclusão do custo de transporte até o porto ou aeroporto de destino e do seguro; a do Imposto de Exportação é o preço normal em condições de livre concorrência, tendo o preço à vista FOB ou posto na fronteira como indicativo.",
+        "a do Imposto de Exportação inclui frete e seguro internacionais, e a do Imposto de Importação os exclui.",
+        "a comparação é inviável, pois o Imposto de Exportação não admite alíquota ad valorem."
+      ],
+      "correta": 2,
+      "comentario": "A distinção é das mais cobradas. Na importação, o valor aduaneiro é apurado em base equivalente ao CIF: integra o preço o custo de transporte até o porto ou aeroporto alfandegado de destino e o seguro correspondente. Na exportação, a referência é o preço normal em condições de livre concorrência, sendo o preço à vista FOB, ou posto na fronteira, indicativo desse valor — ou seja, sem agregar frete e seguro internacionais.",
+      "fundamento": "CTN, arts. 20 e 24; Decreto-Lei nº 1.578/1977, art. 2º, §1º; Acordo de Valoração Aduaneira.",
+      "dificuldade": "media",
+      "tags": [
+        "base-de-calculo",
+        "cif",
+        "fob",
+        "comparacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0038",
+      "topico": "8.2.4",
+      "tipo": "multipla",
+      "enunciado": "Determinada commodity exportada pelo Brasil apresenta preço de difícil apuração e sujeito a oscilações bruscas no mercado internacional.\n\nNessa hipótese, a legislação do Imposto de Exportação autoriza que:",
+      "alternativas": [
+        "a base de cálculo seja arbitrada livremente pela autoridade fiscal, sem parâmetros normativos.",
+        "o exportador escolha o critério de apuração que lhe for mais favorável.",
+        "a exportação seja suspensa até a estabilização dos preços internacionais.",
+        "a base de cálculo seja substituída pelo preço praticado no mercado interno.",
+        "o órgão competente do Poder Executivo fixe critérios específicos de apuração ou estabeleça pauta de valor mínimo para o produto."
+      ],
+      "correta": 4,
+      "comentario": "Quando o preço do produto é de difícil apuração ou suscetível de oscilações bruscas no mercado internacional, a legislação autoriza o órgão competente do Executivo a fixar critérios específicos ou pauta de valor mínimo. É técnica de proteção da base de cálculo contra a volatilidade e contra preços artificiais, distinta do arbitramento discricionário, pois depende de ato normativo prévio e de parâmetros objetivos.",
+      "fundamento": "Decreto-Lei nº 1.578/1977, art. 2º, §2º.",
+      "dificuldade": "media",
+      "tags": [
+        "base-de-calculo",
+        "pauta-de-valor-minimo",
+        "commodities"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0039",
+      "topico": "8.2.4",
+      "tipo": "multipla",
+      "enunciado": "Para efeito de determinação da base de cálculo do Imposto de Exportação, a legislação estabelece um piso ao preço de venda das mercadorias exportadas, que não poderá ser inferior:",
+      "alternativas": [
+        "ao preço médio praticado no mercado interno nos doze meses anteriores.",
+        "ao valor constante da pauta de exportação divulgada pela Receita Federal.",
+        "ao seu custo de aquisição ou de produção, acrescido dos impostos e das contribuições incidentes e de margem de lucro de quinze por cento sobre a soma dos custos, mais impostos e contribuições.",
+        "ao dobro do custo de aquisição ou de produção da mercadoria.",
+        "ao valor aduaneiro que a mercadoria teria em eventual reimportação."
+      ],
+      "correta": 2,
+      "comentario": "A regra fixa um piso à base de cálculo: o preço de venda não pode ser inferior ao custo de aquisição ou de produção, somado aos impostos e contribuições incidentes e a uma margem de lucro de quinze por cento calculada sobre esse total. O objetivo é impedir a exportação por valores subavaliados, que reduziriam artificialmente o imposto devido. A margem de quinze por cento é número frequentemente cobrado em prova.",
+      "fundamento": "Decreto-Lei nº 1.578/1977, art. 2º, §3º.",
+      "dificuldade": "dificil",
+      "tags": [
+        "base-de-calculo",
+        "piso",
+        "margem-de-lucro"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0040",
+      "topico": "8.2.4",
+      "tipo": "multipla",
+      "enunciado": "Quando a alíquota do Imposto de Exportação for específica, a base de cálculo será:",
+      "alternativas": [
+        "o preço normal da mercadoria no mercado internacional.",
+        "a unidade de medida adotada pela lei tributária.",
+        "o valor aduaneiro da mercadoria exportada.",
+        "o custo de produção acrescido de margem de lucro.",
+        "o valor do contrato de câmbio celebrado para a operação."
+      ],
+      "correta": 1,
+      "comentario": "O critério acompanha o do Imposto de Importação: na alíquota específica, a base de cálculo é a quantidade de mercadoria expressa na unidade de medida prevista na lei tributária — tonelada, metro cúbico, unidade; na alíquota ad valorem, é o preço normal em condições de livre concorrência. Confundir as duas bases é um dos erros mais explorados nas questões sobre impostos aduaneiros.",
+      "fundamento": "CTN, art. 24, I.",
+      "dificuldade": "facil",
+      "tags": [
+        "base-de-calculo",
+        "aliquota-especifica",
+        "unidade-de-medida"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0041",
+      "topico": "8.2.5",
+      "tipo": "multipla",
+      "enunciado": "Sobre a alíquota do Imposto de Exportação, a legislação de regência estabelece que:",
+      "alternativas": [
+        "é de trinta por cento, facultado ao Poder Executivo reduzi-la ou aumentá-la para atender aos objetivos da política cambial e do comércio exterior, não podendo, em caso de elevação, ser superior a cinco vezes esse percentual.",
+        "é definida caso a caso pela autoridade fiscal no momento do desembaraço.",
+        "é fixa em dez por cento, vedada qualquer alteração sem lei complementar.",
+        "varia conforme o Estado de origem da mercadoria exportada.",
+        "é de quinze por cento, podendo ser reduzida a zero, mas nunca majorada."
+      ],
+      "correta": 0,
+      "comentario": "A legislação fixa a alíquota em trinta por cento e faculta ao Poder Executivo reduzi-la ou elevá-la em função da política cambial e de comércio exterior, com teto de cinco vezes esse percentual — ou seja, cento e cinquenta por cento. Na prática, a maior parte das mercadorias está sujeita à alíquota zero ou simplesmente não integra o rol de produtos tributados.",
+      "fundamento": "Decreto-Lei nº 1.578/1977, art. 3º e parágrafo único.",
+      "dificuldade": "media",
+      "tags": [
+        "aliquota",
+        "teto",
+        "politica-cambial"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0042",
+      "topico": "8.2.5",
+      "tipo": "multipla",
+      "enunciado": "Quanto à apuração e ao pagamento do Imposto de Exportação, é correto afirmar que:",
+      "alternativas": [
+        "o lançamento é efetuado de ofício pela autoridade aduaneira, antes do registro de exportação.",
+        "o lançamento é por declaração, cabendo ao exportador aguardar notificação para recolher.",
+        "o imposto é recolhido exclusivamente após a averbação do embarque e a liquidação do contrato de câmbio.",
+        "o exportador apura e recolhe o imposto antecipadamente ao exame da autoridade, caracterizando lançamento por homologação, sujeito a posterior verificação e, se for o caso, a lançamento de ofício da diferença com os acréscimos legais.",
+        "o pagamento é dispensado quando a mercadoria estiver sujeita à alíquota zero, hipótese em que não há obrigação acessória."
+      ],
+      "correta": 3,
+      "comentario": "No regime de comércio exterior, o exportador presta as informações, apura e recolhe o imposto antes do exame da autoridade, o que caracteriza lançamento por homologação. Constatada divergência na conferência ou em revisão posterior, a diferença é exigida por lançamento de ofício com os acréscimos legais. A alíquota zero afasta o valor a pagar, mas não dispensa o cumprimento das obrigações acessórias.",
+      "fundamento": "CTN, art. 150; Decreto-Lei nº 1.578/1977, art. 6º; Regulamento Aduaneiro (Decreto nº 6.759/2009).",
+      "dificuldade": "media",
+      "tags": [
+        "lancamento",
+        "homologacao",
+        "apuracao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0043",
+      "topico": "8.2.5",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, sobre o Imposto de Exportação.\n\nI. O imposto é não cumulativo, assegurando-se ao exportador o crédito do imposto incidente nas etapas anteriores da cadeia produtiva.\nII. A alteração de alíquota por ato do Poder Executivo pode produzir efeitos imediatos, por ser o imposto exceção às anterioridades anual e nonagesimal.\nIII. Aplica-se subsidiariamente ao imposto, no que couber, a legislação relativa ao Imposto de Importação.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 2,
+      "comentario": "II e III estão corretas: o imposto é exceção às duas anterioridades, de modo que a majoração produz efeitos imediatos, e sua disciplina é integrada subsidiariamente pela legislação do Imposto de Importação. I está errada: o Imposto de Exportação não é não cumulativo nem gera crédito — a não cumulatividade é técnica própria do IPI, do ICMS e, no regime respectivo, do PIS/Pasep e da COFINS.",
+      "fundamento": "CF/1988, art. 150, §1º; Decreto-Lei nº 1.578/1977, art. 8º.",
+      "dificuldade": "media",
+      "tags": [
+        "nao-cumulatividade",
+        "anterioridade",
+        "aplicacao-subsidiaria"
+      ],
+      "fonte": "inédita"
     }
   ]
 }
