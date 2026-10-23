@@ -482,6 +482,560 @@
         "reducao-de-dimensionalidade"
       ],
       "fonte": "inédita"
+    },
+    {
+      "id": "dados-0022",
+      "topico": "2.2.1",
+      "tipo": "multipla",
+      "enunciado": "Antes de construir qualquer modelo, uma equipe examinou distribuições, calculou medidas-resumo, inspecionou valores atípicos e relações entre variáveis por meio de gráficos, sem partir de hipóteses previamente formuladas.\n\nEssa etapa é denominada:",
+      "alternativas": [
+        "análise exploratória de dados, voltada a compreender a estrutura do conjunto, detectar padrões e anomalias e orientar as etapas seguintes.",
+        "análise confirmatória de hipóteses.",
+        "validação cruzada do modelo.",
+        "engenharia reversa do banco de dados.",
+        "auditoria de conformidade regulatória."
+      ],
+      "correta": 0,
+      "comentario": "A análise exploratória de dados, sistematizada por John Tukey, antecede a modelagem: inspeciona distribuições, resumos, outliers e relações por meio de recursos gráficos, com o objetivo de conhecer o conjunto e levantar hipóteses. Distingue-se da análise confirmatória, que parte de hipóteses definidas e aplica testes formais para aceitá-las ou rejeitá-las.",
+      "fundamento": "Tukey, Exploratory Data Analysis (1977).",
+      "dificuldade": "facil",
+      "tags": [
+        "analise-exploratoria",
+        "eda",
+        "tukey"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0023",
+      "topico": "2.2.1",
+      "tipo": "multipla",
+      "enunciado": "Um estudo identificou forte associação estatística entre o número de autuações emitidas por determinada unidade e o volume de arrecadação do período.\n\nSobre essa constatação, é correto afirmar que:",
+      "alternativas": [
+        "a associação comprova que as autuações causam o aumento da arrecadação.",
+        "a ausência de associação comprovaria a inexistência de qualquer relação entre as variáveis.",
+        "associação estatística e causalidade são conceitos equivalentes na análise de dados.",
+        "a associação, por si só, não estabelece relação de causa e efeito, pois pode decorrer de causalidade reversa, de variável de confusão que influencie ambas ou de mera coincidência amostral.",
+        "a associação só teria valor se o coeficiente de correlação fosse igual a 1."
+      ],
+      "correta": 3,
+      "comentario": "Correlação não implica causalidade. A associação observada pode refletir causalidade reversa, a influência de uma terceira variável sobre ambas — como o porte econômico da região, que afeta tanto a fiscalização quanto a arrecadação — ou simples coincidência. Estabelecer causalidade exige desenho adequado: experimento controlado ou métodos quase experimentais que isolem o efeito de interesse.",
+      "fundamento": "Fundamentos de inferência estatística e desenho de pesquisa.",
+      "dificuldade": "facil",
+      "tags": [
+        "correlacao",
+        "causalidade",
+        "variavel-de-confusao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0024",
+      "topico": "2.2.1",
+      "tipo": "multipla",
+      "enunciado": "O coeficiente de correlação linear de Pearson calculado entre duas variáveis quantitativas resultou em valor próximo de zero.\n\nSobre esse resultado, é correto afirmar que:",
+      "alternativas": [
+        "as variáveis são necessariamente independentes entre si.",
+        "há forte associação inversa entre as variáveis.",
+        "indica ausência de associação linear relevante, o que não exclui a existência de relação não linear entre as variáveis, como uma relação quadrática.",
+        "o cálculo está incorreto, pois o coeficiente não pode assumir valores próximos de zero.",
+        "as variáveis apresentam relação de causa e efeito de baixa intensidade."
+      ],
+      "correta": 2,
+      "comentario": "O coeficiente de Pearson mede força e direção da associação linear e varia de -1 a +1. Valor próximo de zero indica apenas que não há relação linear apreciável — pode existir relação não linear forte, como a de uma parábola, que o coeficiente não captura. Para relações monotônicas não lineares ou variáveis ordinais, costuma-se usar o coeficiente de Spearman, baseado em postos.",
+      "fundamento": "Estatística descritiva — coeficientes de correlação.",
+      "dificuldade": "media",
+      "tags": [
+        "pearson",
+        "correlacao",
+        "spearman"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0025",
+      "topico": "2.2.1",
+      "tipo": "multipla",
+      "enunciado": "Uma pesquisa sobre satisfação com o atendimento foi respondida espontaneamente por usuários que acessaram um formulário disponível no portal do órgão. A equipe pretende generalizar os resultados para todos os usuários do serviço.\n\nO principal problema dessa generalização é:",
+      "alternativas": [
+        "o tamanho da amostra, que é sempre insuficiente em pesquisas eletrônicas.",
+        "a impossibilidade de mensurar satisfação por meio de escalas ordinais.",
+        "a ausência de tratamento de valores ausentes no conjunto de respostas.",
+        "a utilização de estatística descritiva em lugar de modelos preditivos.",
+        "o viés de seleção, pois a amostra é composta por quem decidiu responder, grupo que tende a diferir sistematicamente da população de interesse, comprometendo a representatividade."
+      ],
+      "correta": 4,
+      "comentario": "A adesão voluntária produz amostra autosselecionada: quem responde costuma ter opinião mais extrema, positiva ou negativa, que a média da população. O problema não é o tamanho, mas a representatividade — ampliar a amostra enviesada apenas torna o erro mais preciso. A correção passa por desenho amostral probabilístico ou por técnicas de ponderação e ajuste.",
+      "fundamento": "Fundamentos de amostragem — viés de seleção.",
+      "dificuldade": "media",
+      "tags": [
+        "vies-de-selecao",
+        "amostragem",
+        "representatividade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0026",
+      "topico": "2.2.1",
+      "tipo": "multipla",
+      "enunciado": "Um analista examinou isoladamente a distribuição da variável renda; em seguida, a relação entre renda e escolaridade; e, por fim, construiu um modelo envolvendo renda, escolaridade, idade e região simultaneamente.\n\nEssas três etapas correspondem, respectivamente, a análises:",
+      "alternativas": [
+        "univariada, bivariada e multivariada.",
+        "bivariada, univariada e multivariada.",
+        "descritiva, preditiva e prescritiva.",
+        "exploratória, confirmatória e normativa.",
+        "qualitativa, quantitativa e mista."
+      ],
+      "correta": 0,
+      "comentario": "A análise univariada descreve uma variável por vez, por meio de medidas de posição, dispersão e gráficos simples. A bivariada examina a relação entre duas variáveis, com tabelas cruzadas, gráficos de dispersão e correlações. A multivariada considera três ou mais variáveis simultaneamente, permitindo controlar o efeito de umas sobre as outras — caso da regressão múltipla e da análise de agrupamentos.",
+      "fundamento": "Estatística aplicada — níveis de análise.",
+      "dificuldade": "facil",
+      "tags": [
+        "univariada",
+        "bivariada",
+        "multivariada"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0027",
+      "topico": "2.2.2",
+      "tipo": "multipla",
+      "enunciado": "O algoritmo k-means é amplamente utilizado em tarefas de agrupamento.\n\nSobre esse algoritmo, é correto afirmar que:",
+      "alternativas": [
+        "identifica automaticamente o número ideal de grupos, dispensando parâmetros do analista.",
+        "exige que o número de grupos seja definido previamente pelo analista, atribui cada observação ao centroide mais próximo e é sensível à escala das variáveis, à inicialização dos centroides e à presença de valores atípicos.",
+        "é um algoritmo supervisionado, pois requer rótulos previamente definidos para treinar o modelo.",
+        "produz grupos necessariamente de mesmo tamanho, com igual número de observações em cada um.",
+        "só pode ser aplicado a variáveis categóricas."
+      ],
+      "correta": 1,
+      "comentario": "O k-means parte de um número de grupos definido pelo analista e busca minimizar a soma dos quadrados das distâncias intra-grupo, alocando cada ponto ao centroide mais próximo. É não supervisionado, aplica-se a variáveis numéricas e é sensível à escala — daí a recomendação de padronizar as variáveis antes de executá-lo —, à inicialização e a outliers, que deslocam os centroides.",
+      "fundamento": "Técnicas de agrupamento — k-means.",
+      "dificuldade": "facil",
+      "tags": [
+        "k-means",
+        "agrupamento",
+        "nao-supervisionado"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0028",
+      "topico": "2.2.2",
+      "tipo": "multipla",
+      "enunciado": "Uma equipe executou um algoritmo de agrupamento que inicia tratando cada observação como um grupo isolado e, sucessivamente, funde os grupos mais próximos até restar um único grupo, permitindo representar o processo graficamente.\n\nEsse procedimento corresponde ao agrupamento:",
+      "alternativas": [
+        "hierárquico aglomerativo, cujo resultado é representado em um dendrograma que pode ser cortado em diferentes níveis para obter distintas quantidades de grupos.",
+        "particional por k-means, com inicialização aleatória dos centroides.",
+        "baseado em densidade, com identificação automática de ruído.",
+        "hierárquico divisivo, que parte de um único grupo e o subdivide sucessivamente.",
+        "espectral, baseado em autovalores da matriz de similaridade."
+      ],
+      "correta": 0,
+      "comentario": "O agrupamento hierárquico aglomerativo segue do particular ao geral: cada ponto começa como um grupo e as fusões sucessivas são registradas no dendrograma. A grande vantagem é não exigir a definição prévia do número de grupos — o corte do dendrograma em alturas diferentes produz soluções diferentes. O divisivo faz o caminho inverso, partindo de um único grupo.",
+      "fundamento": "Técnicas de agrupamento — métodos hierárquicos.",
+      "dificuldade": "media",
+      "tags": [
+        "agrupamento-hierarquico",
+        "dendrograma",
+        "aglomerativo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0029",
+      "topico": "2.2.2",
+      "tipo": "multipla",
+      "enunciado": "Uma base de operações financeiras apresenta grupos de formatos irregulares e um conjunto de registros isolados, possivelmente fraudulentos, que não pertencem a nenhum agrupamento.\n\nO algoritmo mais adequado a esse cenário é:",
+      "alternativas": [
+        "o k-means, por formar grupos esféricos de tamanhos semelhantes.",
+        "a regressão linear múltipla, por modelar relações entre variáveis.",
+        "a análise de componentes principais, por reduzir a dimensionalidade.",
+        "o DBSCAN, que agrupa por densidade, identifica grupos de formato arbitrário, não exige a definição prévia do número de grupos e classifica como ruído os pontos em regiões de baixa densidade.",
+        "a árvore de decisão, por segmentar o espaço em regiões retangulares."
+      ],
+      "correta": 3,
+      "comentario": "O DBSCAN define grupos como regiões densas separadas por regiões esparsas, a partir dos parâmetros de raio de vizinhança e número mínimo de pontos. Por isso encontra grupos de formato arbitrário, dispensa a definição prévia da quantidade de grupos e rotula explicitamente como ruído os pontos isolados — característica valiosa na detecção de anomalias e fraudes.",
+      "fundamento": "Técnicas de agrupamento — DBSCAN.",
+      "dificuldade": "media",
+      "tags": [
+        "dbscan",
+        "densidade",
+        "outliers",
+        "fraude"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0030",
+      "topico": "2.2.2",
+      "tipo": "multipla",
+      "enunciado": "Para apoiar a escolha do número de grupos em uma aplicação de k-means, um analista construiu um gráfico que relaciona a quantidade de grupos à soma dos quadrados das distâncias internas, procurando o ponto a partir do qual o ganho de ajuste se torna marginal.\n\nEssa técnica é conhecida como:",
+      "alternativas": [
+        "método do cotovelo.",
+        "validação cruzada k-fold.",
+        "análise de componentes principais.",
+        "teste qui-quadrado de independência.",
+        "matriz de confusão."
+      ],
+      "correta": 0,
+      "comentario": "O método do cotovelo plota a inércia — soma dos quadrados intra-grupo — contra o número de grupos: a curva cai rapidamente e depois se achata, e o ponto de inflexão sugere o valor adequado. Outro recurso frequente é o coeficiente de silhueta, que varia de -1 a 1 e mede simultaneamente a coesão interna e a separação entre grupos, com valores mais altos indicando melhor estrutura.",
+      "fundamento": "Técnicas de agrupamento — escolha do número de grupos.",
+      "dificuldade": "media",
+      "tags": [
+        "metodo-do-cotovelo",
+        "silhueta",
+        "k-means"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0031",
+      "topico": "2.2.2",
+      "tipo": "multipla",
+      "enunciado": "Antes de aplicar um algoritmo de agrupamento baseado em distância euclidiana a uma base com as variáveis renda mensal, em reais, e idade, em anos, um analista decidiu padronizar ambas.\n\nEssa decisão é:",
+      "alternativas": [
+        "desnecessária, pois algoritmos de agrupamento são invariantes à escala das variáveis.",
+        "inadequada, pois a padronização elimina as diferenças entre as observações.",
+        "inadequada, pois a padronização só se aplica a variáveis categóricas.",
+        "desnecessária, pois a distância euclidiana já normaliza automaticamente as variáveis.",
+        "adequada, pois variáveis em escalas muito distintas fazem com que a de maior magnitude domine o cálculo das distâncias, distorcendo a formação dos grupos."
+      ],
+      "correta": 4,
+      "comentario": "A distância euclidiana soma diferenças ao quadrado em cada dimensão. Sem padronização, a renda — na casa dos milhares — domina completamente o cálculo, e a idade se torna praticamente irrelevante na definição dos grupos. Padronizar coloca as variáveis em escala comparável e permite que cada uma contribua conforme sua variabilidade relativa, e não conforme sua unidade de medida.",
+      "fundamento": "Pré-processamento para algoritmos baseados em distância.",
+      "dificuldade": "media",
+      "tags": [
+        "padronizacao",
+        "distancia-euclidiana",
+        "agrupamento"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0032",
+      "topico": "2.2.3",
+      "tipo": "multipla",
+      "enunciado": "A decomposição clássica de uma série temporal identifica componentes distintos.\n\nAssinale a opção que os apresenta corretamente.",
+      "alternativas": [
+        "Média, mediana, moda e desvio padrão.",
+        "Treino, validação, teste e produção.",
+        "Tendência, sazonalidade, ciclo e componente irregular ou aleatório.",
+        "Univariada, bivariada, multivariada e longitudinal.",
+        "Descritiva, diagnóstica, preditiva e prescritiva."
+      ],
+      "correta": 2,
+      "comentario": "Uma série temporal costuma ser decomposta em tendência, que é o movimento de longo prazo; sazonalidade, com padrão regular de período fixo e conhecido; ciclo, com oscilações de duração variável, em geral superiores a um ano; e componente irregular ou aleatório, que reúne as flutuações não explicadas. A decomposição pode ser aditiva ou multiplicativa, conforme os componentes se somem ou se multipliquem.",
+      "fundamento": "Análise de séries temporais — decomposição clássica.",
+      "dificuldade": "facil",
+      "tags": [
+        "serie-temporal",
+        "decomposicao",
+        "componentes"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0033",
+      "topico": "2.2.3",
+      "tipo": "multipla",
+      "enunciado": "A arrecadação de determinado tributo apresenta elevação sistemática em todos os meses de dezembro e queda em janeiro, repetindo-se o padrão ano após ano. Paralelamente, observa-se crescimento sustentado do patamar médio ao longo da última década.\n\nEsses dois comportamentos correspondem, respectivamente, a:",
+      "alternativas": [
+        "sazonalidade e tendência.",
+        "componente irregular e sazonalidade.",
+        "tendência e ciclo.",
+        "ciclo e componente aleatório.",
+        "ruído branco e autocorrelação."
+      ],
+      "correta": 0,
+      "comentario": "A repetição em períodos fixos e conhecidos do calendário caracteriza sazonalidade. O crescimento sustentado do patamar ao longo de vários anos caracteriza tendência. A distinção em relação ao ciclo é a regularidade: o ciclo oscila em prazos variáveis e não previsíveis, geralmente associados a fases da economia, enquanto a sazonalidade tem período fixo.",
+      "fundamento": "Análise de séries temporais — tendência e sazonalidade.",
+      "dificuldade": "facil",
+      "tags": [
+        "sazonalidade",
+        "tendencia",
+        "serie-temporal"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0034",
+      "topico": "2.2.3",
+      "tipo": "multipla",
+      "enunciado": "Para evidenciar a tendência de uma série mensal com forte oscilação, um analista substituiu cada observação pela média dos doze meses que a antecedem.\n\nSobre essa técnica, é correto afirmar que:",
+      "alternativas": [
+        "elimina definitivamente o componente de tendência da série.",
+        "é a média móvel, que suaviza as flutuações de curto prazo e evidencia o movimento de fundo, sendo a suavização tanto maior — e a resposta a mudanças tanto mais defasada — quanto maior a janela utilizada.",
+        "converte a série temporal em dados transversais.",
+        "garante a previsão exata dos valores futuros da série.",
+        "é aplicável somente a séries sem qualquer sazonalidade."
+      ],
+      "correta": 1,
+      "comentario": "A média móvel atenua as oscilações de curto prazo ao promediar observações vizinhas, deixando aparente o movimento de fundo. Há um compromisso: janelas maiores suavizam mais, mas respondem com maior atraso a mudanças de patamar. Uma média móvel de doze meses é especialmente útil em séries mensais, por neutralizar o efeito sazonal ao cobrir um ciclo anual completo.",
+      "fundamento": "Análise de séries temporais — suavização por médias móveis.",
+      "dificuldade": "media",
+      "tags": [
+        "media-movel",
+        "suavizacao",
+        "tendencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0035",
+      "topico": "2.2.3",
+      "tipo": "multipla",
+      "enunciado": "Uma técnica de suavização atribui pesos decrescentes às observações conforme elas se tornam mais antigas, de modo que os dados recentes influenciam mais o valor suavizado.\n\nEssa técnica é denominada:",
+      "alternativas": [
+        "média aritmética simples.",
+        "regressão logística.",
+        "análise de variância.",
+        "suavização exponencial, cujas extensões incorporam tendência e sazonalidade à modelagem.",
+        "teste de hipótese não paramétrico."
+      ],
+      "correta": 3,
+      "comentario": "Na suavização exponencial, os pesos decaem geometricamente com a idade da observação, controlados por uma constante de suavização: valores altos tornam o modelo mais reativo, e valores baixos, mais estável. As extensões de Holt incorporam o componente de tendência, e as de Holt-Winters acrescentam a sazonalidade, formando uma família muito usada em previsão de curto prazo.",
+      "fundamento": "Análise de séries temporais — suavização exponencial.",
+      "dificuldade": "media",
+      "tags": [
+        "suavizacao-exponencial",
+        "holt-winters",
+        "previsao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0036",
+      "topico": "2.2.3",
+      "tipo": "multipla",
+      "enunciado": "Em um modelo de regressão linear simples ajustado a uma série temporal, em que a variável explicativa é o tempo medido em meses, o coeficiente angular estimado foi de 1.250.\n\nA interpretação correta desse coeficiente é que:",
+      "alternativas": [
+        "o valor da variável dependente é, em média, 1.250 em todos os períodos.",
+        "o modelo explica 1.250% da variação observada na série.",
+        "o valor inicial da série, no período zero, é de 1.250.",
+        "a correlação entre tempo e variável dependente é de 1.250.",
+        "a variável dependente aumenta, em média, 1.250 unidades a cada mês adicional, descrevendo a tendência linear da série."
+      ],
+      "correta": 4,
+      "comentario": "Em uma regressão linear simples, o coeficiente angular expressa a variação média esperada na variável dependente para cada unidade adicional da variável explicativa — aqui, cada mês. É, portanto, a medida da tendência linear. O valor no período zero é dado pelo intercepto, e o percentual de variação explicada, pelo coeficiente de determinação; coeficientes de correlação, por sua vez, jamais ultrapassam 1 em módulo.",
+      "fundamento": "Regressão linear aplicada a séries temporais.",
+      "dificuldade": "media",
+      "tags": [
+        "regressao-linear",
+        "coeficiente-angular",
+        "tendencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0037",
+      "topico": "2.2.4",
+      "tipo": "multipla",
+      "enunciado": "Um modelo foi ajustado com dados de contribuintes cuja renda anual variou entre R$ 30 mil e R$ 400 mil. A equipe pretende utilizá-lo para estimar o comportamento de contribuintes com renda de R$ 5 milhões.\n\nSobre essa utilização, é correto afirmar que:",
+      "alternativas": [
+        "é segura, pois modelos estatísticos são válidos para qualquer faixa de valores.",
+        "é segura, desde que o coeficiente de determinação do modelo seja elevado.",
+        "é inadequada apenas se o modelo for não linear.",
+        "é equivalente a uma interpolação, pois o valor pertence ao domínio da variável.",
+        "é arriscada, pois configura extrapolação: a relação estimada vale para a faixa observada, e nada garante que ela se mantenha fora desse intervalo."
+      ],
+      "correta": 4,
+      "comentario": "Interpolar é estimar dentro do intervalo observado; extrapolar é projetar para fora dele. A extrapolação pressupõe que a relação identificada permaneça válida em faixas sobre as quais não há evidência — suposição frequentemente falsa, pois relações costumam mudar de forma nos extremos. Um coeficiente de determinação alto mede o ajuste aos dados usados, e não a validade fora deles.",
+      "fundamento": "Fundamentos de modelagem preditiva — interpolação e extrapolação.",
+      "dificuldade": "media",
+      "tags": [
+        "extrapolacao",
+        "interpolacao",
+        "limites-do-modelo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0038",
+      "topico": "2.2.4",
+      "tipo": "multipla",
+      "enunciado": "Em um modelo de regressão, o coeficiente de determinação (R²) obtido foi de 0,85.\n\nA interpretação correta é que:",
+      "alternativas": [
+        "85% das previsões do modelo estarão corretas.",
+        "o modelo explica aproximadamente 85% da variabilidade da variável dependente observada na amostra utilizada no ajuste.",
+        "existe 85% de probabilidade de a relação ser causal.",
+        "a correlação entre as variáveis é de 0,85.",
+        "o erro médio das previsões será de 15%."
+      ],
+      "correta": 1,
+      "comentario": "O coeficiente de determinação indica a proporção da variabilidade da variável dependente explicada pelo modelo nos dados utilizados no ajuste. Não mede acerto de previsões, não indica causalidade e não corresponde ao erro percentual. Vale lembrar que o R² nunca diminui quando se acrescentam variáveis, o que recomenda o uso do R² ajustado na comparação de modelos com números distintos de preditores.",
+      "fundamento": "Regressão linear — coeficiente de determinação.",
+      "dificuldade": "media",
+      "tags": [
+        "r2",
+        "coeficiente-de-determinacao",
+        "regressao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0039",
+      "topico": "2.2.4",
+      "tipo": "multipla",
+      "enunciado": "Um modelo de previsão apresentou desempenho excelente sobre os dados utilizados em seu ajuste, mas resultados muito ruins quando aplicado a dados novos.\n\nEsse comportamento caracteriza:",
+      "alternativas": [
+        "underfitting, por excesso de simplicidade do modelo.",
+        "viés de seleção na coleta dos dados.",
+        "multicolinearidade entre as variáveis explicativas.",
+        "overfitting, situação em que o modelo se ajusta também ao ruído dos dados de treinamento e perde capacidade de generalização.",
+        "heterocedasticidade dos resíduos."
+      ],
+      "correta": 3,
+      "comentario": "No sobreajuste, o modelo memoriza particularidades e ruídos da amostra de treinamento, o que infla seu desempenho aparente e degrada a generalização. O quadro oposto é o subajuste, em que o modelo é simples demais e vai mal em ambos os conjuntos. Mitigam o sobreajuste a separação entre treino e teste, a validação cruzada, a regularização e a redução da complexidade do modelo.",
+      "fundamento": "Fundamentos de aprendizado estatístico — generalização.",
+      "dificuldade": "facil",
+      "tags": [
+        "overfitting",
+        "underfitting",
+        "generalizacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0040",
+      "topico": "2.2.4",
+      "tipo": "multipla",
+      "enunciado": "Ao validar um modelo de previsão construído sobre uma série temporal de arrecadação, a equipe sorteou aleatoriamente 30% das observações de todo o período para compor o conjunto de teste.\n\nSobre esse procedimento, é correto afirmar que:",
+      "alternativas": [
+        "é adequado, pois a aleatoriedade assegura a representatividade do conjunto de teste em qualquer situação.",
+        "é inadequado apenas porque a proporção correta seria de 50% para cada conjunto.",
+        "é inadequado, pois em séries temporais a divisão deve respeitar a ordem cronológica, reservando o período mais recente para teste; o sorteio aleatório permite que o modelo use informação futura para prever o passado, inflando artificialmente seu desempenho.",
+        "é adequado, desde que o modelo utilizado seja linear.",
+        "é irrelevante, pois a forma de divisão não afeta a avaliação do modelo."
+      ],
+      "correta": 2,
+      "comentario": "Em dados temporais, a ordem carrega informação. O sorteio aleatório mistura períodos e permite que o modelo seja treinado com observações posteriores às que tentará prever — vazamento de informação que produz métricas otimistas e irreais. A prática correta é a divisão cronológica, com treino nos períodos iniciais e teste nos mais recentes, eventualmente em janelas deslizantes.",
+      "fundamento": "Validação de modelos em séries temporais.",
+      "dificuldade": "dificil",
+      "tags": [
+        "validacao",
+        "vazamento-de-dados",
+        "serie-temporal"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0041",
+      "topico": "2.2.4",
+      "tipo": "multipla",
+      "enunciado": "Ao apresentar a projeção de arrecadação para o exercício seguinte, a equipe técnica informou não apenas o valor estimado, mas também um intervalo dentro do qual o resultado deve situar-se, com determinado nível de confiança.\n\nSobre essa prática, é correto afirmar que:",
+      "alternativas": [
+        "é desnecessária, pois a projeção pontual já expressa a melhor estimativa disponível.",
+        "compromete a credibilidade técnica do trabalho, por revelar imprecisão do modelo.",
+        "é recomendável, pois toda projeção envolve incerteza, e o intervalo comunica a margem de erro associada, permitindo que o gestor decida considerando os cenários possíveis.",
+        "só é aplicável a modelos não lineares.",
+        "substitui a necessidade de validar o modelo com dados de teste."
+      ],
+      "correta": 2,
+      "comentario": "Projeção pontual isolada transmite falsa sensação de exatidão. O intervalo de previsão explicita a incerteza inerente ao modelo e aos dados, permitindo que a decisão considere os cenários plausíveis — particularmente relevante em previsões orçamentárias, em que subestimar ou superestimar produz consequências distintas. A comunicação da incerteza é parte da entrega técnica, não uma fragilidade.",
+      "fundamento": "Boas práticas em modelagem preditiva — comunicação da incerteza.",
+      "dificuldade": "facil",
+      "tags": [
+        "intervalo-de-previsao",
+        "incerteza",
+        "projecao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0042",
+      "topico": "2.2.5",
+      "tipo": "multipla",
+      "enunciado": "A literatura de Analytics classifica as análises em quatro tipos, conforme a pergunta que respondem.\n\nAssinale a opção que os associa corretamente.",
+      "alternativas": [
+        "Descritiva: o que fazer. Diagnóstica: o que aconteceu. Preditiva: por que aconteceu. Prescritiva: o que vai acontecer.",
+        "Descritiva: por que aconteceu. Diagnóstica: o que vai acontecer. Preditiva: o que fazer. Prescritiva: o que aconteceu.",
+        "Descritiva: o que aconteceu. Diagnóstica: por que aconteceu. Preditiva: o que tende a acontecer. Prescritiva: o que deve ser feito diante disso.",
+        "Descritiva: o que vai acontecer. Diagnóstica: o que fazer. Preditiva: o que aconteceu. Prescritiva: por que aconteceu.",
+        "Os quatro tipos respondem à mesma pergunta, variando apenas a tecnologia empregada."
+      ],
+      "correta": 2,
+      "comentario": "A escala vai do retrospectivo ao acionável. A análise descritiva relata o que aconteceu, por meio de relatórios e painéis. A diagnóstica investiga as causas, com detalhamento e correlações. A preditiva estima o que tende a ocorrer, com modelos estatísticos e de aprendizado de máquina. A prescritiva recomenda cursos de ação, frequentemente com apoio de otimização e simulação. A complexidade e o valor agregado crescem ao longo dessa sequência.",
+      "fundamento": "Taxonomia de Analytics (modelo de maturidade analítica).",
+      "dificuldade": "facil",
+      "tags": [
+        "analytics",
+        "descritiva",
+        "preditiva",
+        "prescritiva"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0043",
+      "topico": "2.2.5",
+      "tipo": "multipla",
+      "enunciado": "Um órgão pretende evoluir de um ambiente em que os gestores recebem relatórios periódicos com indicadores históricos para outro em que modelos estimem o risco de inadimplência de cada contribuinte e recomendem a priorização das ações de cobrança.\n\nEssa evolução corresponde à transição de Analytics:",
+      "alternativas": [
+        "prescritivo para descritivo.",
+        "preditivo para diagnóstico.",
+        "diagnóstico para descritivo.",
+        "descritivo para preditivo e prescritivo.",
+        "prescritivo para preditivo."
+      ],
+      "correta": 3,
+      "comentario": "Relatórios com indicadores históricos caracterizam o estágio descritivo. Estimar o risco de cada contribuinte é análise preditiva, e recomendar a priorização das ações é análise prescritiva. A transição descrita percorre a cadeia de maturidade analítica, que exige, além de modelos, qualidade de dados, governança e capacidade de incorporar os resultados ao processo decisório.",
+      "fundamento": "Modelo de maturidade analítica.",
+      "dificuldade": "facil",
+      "tags": [
+        "analytics",
+        "maturidade",
+        "priorizacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0044",
+      "topico": "2.2.5",
+      "tipo": "multipla",
+      "enunciado": "Sobre a relação entre Business Intelligence tradicional e Analytics avançado, é correto afirmar que:",
+      "alternativas": [
+        "são expressões sinônimas, designando o mesmo conjunto de ferramentas.",
+        "o Business Intelligence tradicional concentra-se em consolidar dados históricos estruturados e apresentá-los em relatórios e painéis, apoiando sobretudo análises descritivas e diagnósticas, enquanto o Analytics avançado agrega técnicas estatísticas e de aprendizado de máquina voltadas a análises preditivas e prescritivas.",
+        "o Business Intelligence é mais recente e substituiu integralmente o Analytics.",
+        "o Analytics avançado dispensa a existência de dados históricos organizados.",
+        "o Business Intelligence trabalha exclusivamente com dados não estruturados em tempo real."
+      ],
+      "correta": 1,
+      "comentario": "O Business Intelligence tradicional organiza o passado: integra dados estruturados em repositórios analíticos e os apresenta em relatórios e painéis, servindo às análises descritiva e diagnóstica. O Analytics avançado acrescenta modelagem estatística e aprendizado de máquina para antecipar e recomendar. Não há substituição: o segundo depende da base de dados confiável e organizada que o primeiro ajuda a construir.",
+      "fundamento": "Conceitos de Business Intelligence e Analytics.",
+      "dificuldade": "media",
+      "tags": [
+        "business-intelligence",
+        "analytics",
+        "dashboards"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dados-0045",
+      "topico": "2.2.5",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, sobre análise de dados e Analytics.\n\nI. A análise prescritiva recomenda cursos de ação, frequentemente apoiada em técnicas de otimização e simulação.\nII. A qualidade dos dados de entrada condiciona a confiabilidade de qualquer resultado analítico, por mais sofisticada que seja a técnica empregada.\nIII. A adoção de ferramentas de Analytics, por si só, assegura que a organização passe a tomar decisões baseadas em dados.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 1,
+      "comentario": "I e II estão corretas. III está errada: a tecnologia é condição necessária, mas não suficiente. Uma cultura orientada a dados depende de governança, qualidade e disponibilidade das bases, competências analíticas nas equipes, patrocínio da alta administração e, sobretudo, da efetiva incorporação dos resultados ao processo decisório — do contrário, os painéis existem e as decisões continuam sendo tomadas por outros critérios.",
+      "fundamento": "Conceitos de Analytics e cultura orientada a dados.",
+      "dificuldade": "media",
+      "tags": [
+        "analytics",
+        "cultura-de-dados",
+        "qualidade-de-dados"
+      ],
+      "fonte": "inédita"
     }
   ]
 }
