@@ -1589,6 +1589,511 @@
         "hierarquia"
       ],
       "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0071",
+      "topico": "5.2.4",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que indica corretamente o fundamento de cada poder administrativo quanto ao vínculo existente entre a Administração e o destinatário da medida.",
+      "alternativas": [
+        "O poder de polícia assenta-se na supremacia geral, que a Administração exerce sobre todos os administrados independentemente de vínculo jurídico prévio; o poder disciplinar assenta-se na supremacia especial, pressupondo vínculo específico, como o do servidor ou o do contratado.",
+        "Tanto o poder de polícia quanto o poder disciplinar assentam-se em vínculo especial previamente constituído.",
+        "O poder de polícia assenta-se na supremacia especial, e o disciplinar, na geral.",
+        "Ambos dependem de autorização legislativa específica para cada destinatário.",
+        "A distinção é irrelevante, pois os dois poderes alcançam indistintamente servidores e particulares."
+      ],
+      "correta": 0,
+      "comentario": "A chave está no vínculo. O poder de polícia decorre da supremacia geral: alcança qualquer administrado, pela só condição de estar submetido ao ordenamento, sem necessidade de relação jurídica anterior. O poder disciplinar decorre da supremacia especial: só atinge quem mantém vínculo específico com a Administração, como servidores, contratados e concessionários. Esse é o critério que resolve a maior parte das questões de identificação entre os dois poderes.",
+      "fundamento": "Celso Antônio Bandeira de Mello; Di Pietro, Direito Administrativo.",
+      "dificuldade": "media",
+      "tags": [
+        "supremacia-geral",
+        "supremacia-especial",
+        "poder-de-policia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0072",
+      "topico": "5.2.4",
+      "tipo": "multipla",
+      "enunciado": "A doutrina distingue a polícia administrativa originária da delegada.\n\nEssa distinção significa que a polícia:",
+      "alternativas": [
+        "originária é exercida por particulares em colaboração, e a delegada, pelos órgãos públicos.",
+        "originária alcança apenas bens, e a delegada, apenas pessoas.",
+        "originária é preventiva, e a delegada, necessariamente repressiva.",
+        "originária nasce com a Administração direta do ente político titular da competência, enquanto a delegada é exercida por entidades da administração indireta criadas por lei para esse fim, nos limites do ato que as instituiu.",
+        "originária decorre de lei, e a delegada, de contrato administrativo celebrado com empresas privadas."
+      ],
+      "correta": 3,
+      "comentario": "A polícia originária é a exercida pela Administração direta do ente competente, como manifestação primária de sua atribuição legal. A delegada é a transferida por lei a entidades da administração indireta — autarquias de fiscalização, agências reguladoras —, que a exercem nos exatos limites do ato instituidor. A delegação a particulares em geral permanece vedada, ressalvadas as hipóteses admitidas pela jurisprudência quanto a estatais prestadoras de serviço público.",
+      "fundamento": "Di Pietro, Direito Administrativo.",
+      "dificuldade": "media",
+      "tags": [
+        "policia-originaria",
+        "policia-delegada",
+        "administracao-indireta"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0073",
+      "topico": "5.2.4",
+      "tipo": "multipla",
+      "enunciado": "Um órgão de vigilância sanitária edita norma fixando padrões de higiene para estabelecimentos, realiza vistorias periódicas nos locais e, constatada irregularidade grave, determina a interdição do estabelecimento.\n\nEssas três atuações correspondem, respectivamente, à polícia administrativa:",
+      "alternativas": [
+        "preventiva, fiscalizadora e repressiva.",
+        "fiscalizadora, repressiva e preventiva.",
+        "repressiva, preventiva e fiscalizadora.",
+        "delegada, originária e vinculada.",
+        "discricionária, vinculada e autoexecutória."
+      ],
+      "correta": 0,
+      "comentario": "A polícia administrativa atua em três momentos. A função preventiva estabelece normas e condicionamentos antes da ocorrência do dano. A fiscalizadora verifica o cumprimento desses condicionamentos. A repressiva aplica a sanção diante da infração constatada. Embora predomine o caráter preventivo, as três dimensões convivem e se sucedem no exercício concreto do poder.",
+      "fundamento": "Di Pietro; Hely Lopes Meirelles.",
+      "dificuldade": "facil",
+      "tags": [
+        "preventiva",
+        "fiscalizadora",
+        "repressiva"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0074",
+      "topico": "5.2.4",
+      "tipo": "multipla",
+      "enunciado": "Quanto aos meios de atuação da polícia administrativa, é correto afirmar que:",
+      "alternativas": [
+        "manifesta-se exclusivamente por atos concretos e individuais dirigidos a destinatários determinados.",
+        "manifesta-se apenas por atos normativos gerais e abstratos, cabendo ao Judiciário aplicá-los ao caso concreto.",
+        "manifesta-se exclusivamente pela imposição de multas pecuniárias.",
+        "depende sempre de provocação do interessado, sendo vedada a atuação de ofício.",
+        "manifesta-se tanto por atos normativos de alcance geral, que estabelecem limitações e condicionamentos, quanto por atos concretos e individuais, como licenças, autorizações, notificações, interdições, embargos e apreensões."
+      ],
+      "correta": 4,
+      "comentario": "A polícia administrativa opera em dois planos. No plano geral, edita normas que condicionam o exercício de direitos — regulamentos, resoluções, portarias. No plano concreto, pratica atos individuais: concede licenças e autorizações, notifica, embarga obra, interdita estabelecimento, apreende mercadoria e aplica sanções. A atuação é, em regra, de ofício, sem depender de provocação.",
+      "fundamento": "Di Pietro, Direito Administrativo.",
+      "dificuldade": "facil",
+      "tags": [
+        "meios-de-atuacao",
+        "atos-normativos",
+        "atos-concretos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0075",
+      "topico": "5.2.4",
+      "tipo": "multipla",
+      "enunciado": "Contribuinte impugnou taxa municipal de renovação de licença de funcionamento, sustentando não ter havido vistoria presencial em seu estabelecimento no exercício.\n\nSegundo a jurisprudência do STF, a exigência é:",
+      "alternativas": [
+        "constitucional, desde que o efetivo exercício do poder de polícia reste demonstrado pela existência de órgão e de estrutura administrativa competentes para esse exercício, dispensada a prova de fiscalização porta a porta.",
+        "inconstitucional, pois taxas de renovação de licença de funcionamento são vedadas pela Constituição.",
+        "constitucional, ainda que não haja efetivo exercício do poder de polícia, bastando a previsão legal da taxa.",
+        "inconstitucional, pois a taxa de polícia exige comprovação de vistoria individualizada em cada estabelecimento.",
+        "constitucional apenas se a taxa for destinada a fundo específico de fiscalização."
+      ],
+      "correta": 0,
+      "comentario": "O STF firmou que a taxa de renovação de funcionamento é constitucional quando efetivo o exercício do poder de polícia, e que esse exercício se demonstra pela existência de órgão e estrutura competentes em funcionamento — não se exige a comprovação de vistoria individual em cada estabelecimento a cada exercício. A orientação evita que a inviabilidade prática de fiscalizar porta a porta inviabilize a própria taxa.",
+      "fundamento": "STF, RE 588.322 (Tema 217); CTN, art. 78.",
+      "dificuldade": "media",
+      "tags": [
+        "taxa-de-policia",
+        "tema-217",
+        "efetivo-exercicio"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0076",
+      "topico": "5.2.4",
+      "tipo": "multipla",
+      "enunciado": "Lei municipal fixou o valor da taxa de fiscalização de estabelecimentos considerando, entre outros critérios, a área construída do imóvel, elemento que também integra a base de cálculo do IPTU.\n\nSegundo entendimento sumulado vinculante do STF, essa técnica é:",
+      "alternativas": [
+        "constitucional, pois é admitida a adoção, no cálculo do valor de taxa, de um ou mais elementos da base de cálculo própria de determinado imposto, desde que não haja integral identidade entre uma base e outra.",
+        "inconstitucional, pois taxas devem ter valor fixo, sem graduação.",
+        "inconstitucional, pois é vedado às taxas utilizar qualquer elemento da base de cálculo de impostos.",
+        "constitucional, pois taxas e impostos podem ter bases de cálculo idênticas.",
+        "constitucional apenas se houver autorização em lei complementar federal."
+      ],
+      "correta": 0,
+      "comentario": "A Súmula Vinculante 29 admite o aproveitamento de um ou mais elementos da base de cálculo de imposto no cálculo de taxa, vedada apenas a identidade integral entre as bases. A ressalva preserva o art. 145, §2º, da Constituição: o que se proíbe é a taxa com base de cálculo própria de imposto, e não o uso de um critério de graduação que também apareça naquela base.",
+      "fundamento": "STF, Súmula Vinculante 29; CF/1988, art. 145, §2º.",
+      "dificuldade": "media",
+      "tags": [
+        "taxa-de-policia",
+        "sumula-vinculante-29",
+        "base-de-calculo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0077",
+      "topico": "5.2.4",
+      "tipo": "multipla",
+      "enunciado": "Órgão federal constatou, em 2019, infração à legislação sujeita a sanção de polícia, mas somente em 2026 instaurou o respectivo processo administrativo punitivo.\n\nÀ luz da Lei nº 9.873/1999, a pretensão punitiva está:",
+      "alternativas": [
+        "intacta, pois inexiste prazo prescricional para a ação punitiva no exercício do poder de polícia.",
+        "extinta, pois prescreve em cinco anos a ação punitiva da Administração Pública Federal no exercício do poder de polícia, contados da data da prática do ato ou, na infração permanente ou continuada, do dia em que tiver cessado.",
+        "intacta, pois o prazo prescricional é de dez anos, conforme o Código Civil.",
+        "extinta, pois o prazo prescricional é de dois anos para qualquer sanção administrativa.",
+        "suspensa até a conclusão de eventual ação penal sobre os mesmos fatos."
+      ],
+      "correta": 1,
+      "comentario": "A Lei nº 9.873/1999 fixa em cinco anos a prescrição da ação punitiva federal no exercício do poder de polícia, contados da prática do ato ou da cessação, nas infrações permanentes ou continuadas. A mesma lei prevê a prescrição intercorrente quando o processo fica paralisado por mais de três anos pendente de julgamento ou despacho. Atenção à exclusão expressa: a lei não se aplica às infrações de natureza funcional nem aos processos de natureza tributária.",
+      "fundamento": "Lei nº 9.873/1999, arts. 1º, caput e §1º, e 5º.",
+      "dificuldade": "media",
+      "tags": [
+        "prescricao",
+        "lei-9873",
+        "sancao-de-policia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0078",
+      "topico": "5.2.4",
+      "tipo": "multipla",
+      "enunciado": "Regulamento municipal, a pretexto de disciplinar o comércio ambulante, proibiu integralmente essa atividade em todo o território do Município, sem indicar áreas alternativas ou condições de exercício.\n\nSobre essa medida, é correto afirmar que:",
+      "alternativas": [
+        "é válida, pois o poder de polícia é discricionário quanto à conveniência das limitações impostas.",
+        "é válida, pois o comércio ambulante não é atividade protegida pelo ordenamento.",
+        "é válida, desde que precedida de audiência pública.",
+        "é inválida apenas por vício de competência, cabendo a disciplina à União.",
+        "é inválida, pois o poder de polícia condiciona e limita o exercício de direitos em favor do interesse coletivo, mas não pode suprimi-los por completo, sob pena de desbordar de sua função de compatibilização e aniquilar o próprio direito."
+      ],
+      "correta": 4,
+      "comentario": "O poder de polícia existe para harmonizar o exercício de direitos com o interesse coletivo: condiciona, limita, disciplina — mas não aniquila. Proibição total e indiscriminada de atividade lícita ultrapassa esse limite e atinge o núcleo do direito, violando a proporcionalidade e a livre iniciativa. A disciplina do uso do solo urbano e do comércio local é, de fato, municipal; o vício aqui é de conteúdo, não de competência.",
+      "fundamento": "CF/1988, arts. 1º, IV, 5º, XIII, e 170; doutrina administrativista.",
+      "dificuldade": "media",
+      "tags": [
+        "limites",
+        "proporcionalidade",
+        "livre-iniciativa"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0079",
+      "topico": "5.2.4",
+      "tipo": "multipla",
+      "enunciado": "Celso Antônio Bandeira de Mello distingue, entre os atributos dos atos administrativos, a exigibilidade da executoriedade.\n\nEssa distinção significa que:",
+      "alternativas": [
+        "a exigibilidade permite a execução material direta da medida, e a executoriedade, apenas a coerção indireta.",
+        "ambas se referem à presunção de veracidade dos fatos alegados pela Administração.",
+        "a exigibilidade só existe nos atos vinculados, e a executoriedade, nos discricionários.",
+        "a exigibilidade depende de autorização judicial, e a executoriedade, de previsão legal expressa.",
+        "a exigibilidade é a possibilidade de a Administração impor o cumprimento da medida por meios indiretos de coerção, como a aplicação de multa, ao passo que a executoriedade é a possibilidade de executá-la materialmente por meios diretos, independentemente de ordem judicial."
+      ],
+      "correta": 4,
+      "comentario": "A exigibilidade opera por coação indireta: a Administração compele o particular a cumprir a determinação impondo-lhe consequências gravosas, como a multa. A executoriedade opera por coação direta: a própria Administração realiza materialmente a medida — demole, apreende, interdita. Todo ato executório é exigível, mas nem todo ato exigível é executório, e é por isso que a multa não paga exige execução fiscal.",
+      "fundamento": "Celso Antônio Bandeira de Mello, Curso de Direito Administrativo.",
+      "dificuldade": "dificil",
+      "tags": [
+        "exigibilidade",
+        "executoriedade",
+        "atributos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0080",
+      "topico": "5.2.4",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que apresenta apenas sanções típicas decorrentes do exercício do poder de polícia.",
+      "alternativas": [
+        "Advertência, suspensão e demissão do servidor responsável.",
+        "Multa, interdição de estabelecimento, embargo de obra, apreensão e destruição de mercadorias e cassação de licença.",
+        "Perda da função pública, suspensão dos direitos políticos e indisponibilidade de bens.",
+        "Reclusão, detenção e prestação de serviços à comunidade.",
+        "Rescisão contratual, declaração de inidoneidade e impedimento de licitar."
+      ],
+      "correta": 1,
+      "comentario": "As sanções de polícia recaem sobre particulares em geral e atingem a atividade ou o bem: multa, interdição, embargo, apreensão, inutilização ou destruição, demolição e cassação de licença. Advertência e demissão são sanções disciplinares; perda da função e suspensão de direitos políticos, sanções por improbidade; penas privativas de liberdade, sanções penais; e declaração de inidoneidade, sanção contratual aplicada a quem tem vínculo com a Administração.",
+      "fundamento": "Di Pietro; Lei nº 9.784/1999; legislação setorial de polícia administrativa.",
+      "dificuldade": "facil",
+      "tags": [
+        "sancoes-de-policia",
+        "identificacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0081",
+      "topico": "5.2.4",
+      "tipo": "multipla",
+      "enunciado": "A Lei nº 13.874/2019, que instituiu a Declaração de Direitos de Liberdade Econômica, repercutiu sobre o exercício do poder de polícia.\n\nEntre as diretrizes por ela estabelecidas, encontra-se:",
+      "alternativas": [
+        "a vedação a qualquer forma de fiscalização de atividades econômicas privadas.",
+        "a extinção das taxas cobradas pelo exercício do poder de polícia.",
+        "a transferência do poder de polícia a entidades privadas de autorregulação.",
+        "a dispensa de atos públicos de liberação para o desenvolvimento de atividade econômica classificada como de baixo risco e a previsão de aprovação tácita do pedido de liberação quando a autoridade não se manifestar no prazo fixado.",
+        "a submissão de todo ato de liberação de atividade econômica à prévia aprovação legislativa."
+      ],
+      "correta": 3,
+      "comentario": "A lei não suprime o poder de polícia: redireciona-o. Dispensa alvarás e atos de liberação para atividades de baixo risco, institui a aprovação tácita quando a Administração silencia além do prazo e consagra a presunção de boa-fé do particular. A fiscalização permanece, deslocando-se do controle prévio para o controle posterior, concentrado nas atividades de maior risco.",
+      "fundamento": "Lei nº 13.874/2019, art. 3º, I, IX e parágrafos.",
+      "dificuldade": "media",
+      "tags": [
+        "liberdade-economica",
+        "baixo-risco",
+        "aprovacao-tacita"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0082",
+      "topico": "5.2.4",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, sobre o poder de polícia.\n\nI. A atuação da polícia administrativa é, em regra, de ofício, independendo de provocação do particular interessado.\nII. A taxa cobrada em razão do poder de polícia tem por fato gerador o seu efetivo exercício.\nIII. A discricionariedade é atributo presente em todos os atos de polícia, sem exceção.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 1,
+      "comentario": "I e II estão corretas: a polícia administrativa atua de ofício, e o fato gerador da taxa é o efetivo exercício do poder de polícia, nos termos do art. 78 do CTN. III está errada: a discricionariedade não é absoluta — a licença é ato vinculado, de modo que, preenchidos os requisitos legais, o particular tem direito subjetivo à sua obtenção, sem margem de escolha para a Administração.",
+      "fundamento": "CTN, arts. 77 e 78; Di Pietro.",
+      "dificuldade": "media",
+      "tags": [
+        "poder-de-policia",
+        "taxa",
+        "discricionariedade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0083",
+      "topico": "5.2.5",
+      "tipo": "multipla",
+      "enunciado": "Autoridade fiscal, após analisar os autos, adotou interpretação da legislação tributária desfavorável ao contribuinte, posteriormente afastada pelo órgão julgador por considerá-la equivocada.\n\nÀ luz da Lei nº 13.869/2019, essa conduta:",
+      "alternativas": [
+        "configura crime de abuso de autoridade, pela só circunstância de a interpretação ter sido rejeitada.",
+        "configura crime de abuso de autoridade na modalidade culposa.",
+        "configura abuso de autoridade apenas se houver prejuízo patrimonial ao contribuinte.",
+        "não configura crime de abuso de autoridade, pois a divergência na interpretação de lei ou na avaliação de fatos e provas não caracteriza abuso, exigindo-se a finalidade específica de prejudicar outrem, beneficiar a si mesmo ou a terceiro, ou o mero capricho ou satisfação pessoal.",
+        "configura crime de abuso de autoridade, salvo se a autoridade comprovar ter agido com apoio em parecer jurídico."
+      ],
+      "correta": 3,
+      "comentario": "A Lei de Abuso de Autoridade é expressa em dois pontos essenciais: as condutas só constituem crime quando praticadas com a finalidade específica de prejudicar outrem, beneficiar a si ou a terceiro, ou por mero capricho ou satisfação pessoal — não há modalidade culposa; e a divergência na interpretação de lei ou na avaliação de fatos e provas não configura abuso. A proteção existe para preservar a independência decisória do agente.",
+      "fundamento": "Lei nº 13.869/2019, art. 1º, §§1º e 2º.",
+      "dificuldade": "media",
+      "tags": [
+        "abuso-de-autoridade",
+        "dolo-especifico",
+        "lei-13869"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0084",
+      "topico": "5.2.5",
+      "tipo": "multipla",
+      "enunciado": "Particular protocolou requerimento administrativo há mais de um ano e, apesar de concluída a instrução, não obteve qualquer decisão da autoridade competente.\n\nSobre essa situação, é correto afirmar que:",
+      "alternativas": [
+        "não há irregularidade, pois a Administração decide segundo critérios de conveniência e oportunidade quanto ao momento.",
+        "o silêncio administrativo equivale, em qualquer caso, ao deferimento tácito do pedido.",
+        "configura abuso de poder na modalidade omissiva, pois a Administração tem o dever de decidir explicitamente, dispondo de até trinta dias após concluída a instrução, prorrogáveis uma vez por igual período mediante motivação expressa.",
+        "o interessado deve aguardar indefinidamente, por ausência de prazo legal para a decisão.",
+        "o abuso só se configura mediante conduta comissiva, não alcançando a inércia administrativa."
+      ],
+      "correta": 2,
+      "comentario": "O abuso de poder também se manifesta por omissão. A Lei nº 9.784/1999 impõe à Administração o dever de emitir decisão explícita nos processos e nas solicitações de sua competência e fixa o prazo de até trinta dias após concluída a instrução, prorrogável uma vez mediante motivação. Contra a inércia cabem recurso administrativo, representação e mandado de segurança — o silêncio só produz deferimento tácito quando a lei assim o determinar.",
+      "fundamento": "Lei nº 9.784/1999, arts. 48 e 49.",
+      "dificuldade": "media",
+      "tags": [
+        "abuso-omissivo",
+        "dever-de-decidir",
+        "silencio-administrativo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0085",
+      "topico": "5.2.5",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que distingue corretamente excesso de poder, usurpação de função e função de fato.",
+      "alternativas": [
+        "As três expressões designam o mesmo fenômeno, variando apenas a gravidade.",
+        "No excesso de poder não há agente público; na usurpação, há investidura irregular; na função de fato, o agente é competente.",
+        "No excesso de poder, o agente público ultrapassa os limites de sua competência; na usurpação de função, quem pratica o ato não é agente público, sendo o ato tido por inexistente; na função de fato, há investidura irregular, mas a aparência de legalidade preserva os atos praticados perante terceiros de boa-fé.",
+        "A usurpação de função é espécie de abuso de poder praticada por agente competente com finalidade diversa da legal.",
+        "A função de fato configura crime de abuso de autoridade na modalidade culposa."
+      ],
+      "correta": 2,
+      "comentario": "São três situações distintas. No excesso de poder, o agente é público e competente, mas extrapola os limites de sua competência — é espécie de abuso de poder. Na usurpação de função, quem pratica o ato não é agente público, e o ato é havido por inexistente. Na função de fato, há investidura irregular, mas a aparência de legitimidade leva a jurisprudência a preservar os atos praticados em favor de terceiros de boa-fé, pela teoria da aparência.",
+      "fundamento": "Doutrina administrativista; Lei nº 4.717/1965, art. 2º.",
+      "dificuldade": "media",
+      "tags": [
+        "excesso-de-poder",
+        "usurpacao-de-funcao",
+        "funcao-de-fato"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0086",
+      "topico": "5.2.5",
+      "tipo": "multipla",
+      "enunciado": "Dois atos administrativos foram questionados: o primeiro apresenta vício de competência, não se tratando de competência exclusiva nem de matéria de competência exclusiva; o segundo foi praticado com finalidade diversa da prevista na norma.\n\nSobre a possibilidade de convalidação, é correto afirmar que:",
+      "alternativas": [
+        "ambos podem ser convalidados, desde que não haja prejuízo a terceiros.",
+        "nenhum dos dois pode ser convalidado, pois todo vício conduz à nulidade absoluta.",
+        "apenas o segundo pode ser convalidado, pois o vício de finalidade é meramente formal.",
+        "a convalidação depende sempre de autorização judicial prévia.",
+        "o primeiro comporta convalidação, por se tratar de defeito sanável; o segundo não, pois o vício de finalidade, por comprometer o próprio fim legal do ato, é insanável e conduz à nulidade."
+      ],
+      "correta": 4,
+      "comentario": "A Lei nº 9.784/1999 admite a convalidação dos atos com defeitos sanáveis, quando não houver lesão ao interesse público nem prejuízo a terceiros. A doutrina considera sanáveis os vícios de competência — salvo quando exclusiva ou relativa a matéria exclusiva — e de forma, quando não essencial. Já os vícios de motivo, de objeto e de finalidade são insanáveis: o desvio de finalidade atinge a razão de ser do ato e não se corrige por ratificação.",
+      "fundamento": "Lei nº 9.784/1999, art. 55; doutrina administrativista.",
+      "dificuldade": "media",
+      "tags": [
+        "convalidacao",
+        "vicio-de-competencia",
+        "desvio-de-finalidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0087",
+      "topico": "5.2.5",
+      "tipo": "multipla",
+      "enunciado": "A caracterização do desvio de finalidade costuma apresentar dificuldade probatória, pois o agente dificilmente declara o motivo real de sua conduta.\n\nSobre essa questão, é correto afirmar que:",
+      "alternativas": [
+        "o desvio de finalidade só pode ser reconhecido mediante confissão expressa do agente.",
+        "a prova do desvio é impossível, razão pela qual o instituto tem alcance meramente teórico.",
+        "o reconhecimento depende de prévia condenação criminal do agente pelos mesmos fatos.",
+        "o exame do desvio de finalidade é vedado ao Judiciário, por constituir controle de mérito.",
+        "o desvio de finalidade admite demonstração por prova indiciária, extraindo-se a real intenção do agente do conjunto de circunstâncias que cercam o ato, como a desproporção entre o motivo declarado e a medida adotada, a sequência cronológica dos fatos e o histórico de relações entre agente e destinatário."
+      ],
+      "correta": 4,
+      "comentario": "Por sua natureza subjetiva, o desvio de finalidade se prova por indícios: o conjunto de circunstâncias revela a finalidade real por trás da declarada. Desproporção manifesta entre o motivo invocado e a medida, encadeamento suspeito de fatos e relação pessoal pregressa entre agente e destinatário são elementos frequentemente considerados. O controle é de legalidade, e não de mérito, pois a finalidade é elemento sempre vinculado do ato administrativo.",
+      "fundamento": "Lei nº 4.717/1965, art. 2º, parágrafo único, 'e'; jurisprudência sobre desvio de poder.",
+      "dificuldade": "dificil",
+      "tags": [
+        "desvio-de-finalidade",
+        "prova-indiciaria",
+        "controle-judicial"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0088",
+      "topico": "5.2.5",
+      "tipo": "multipla",
+      "enunciado": "Em razão de interdição de estabelecimento determinada com abuso de poder, o particular sofreu prejuízos materiais comprovados.\n\nSobre a reparação, é correto afirmar que:",
+      "alternativas": [
+        "não há dever de indenizar, pois o ato foi praticado no exercício do poder de polícia.",
+        "o particular deve acionar diretamente o agente público, única via admitida para a reparação.",
+        "o Estado responde objetivamente pelos danos causados pelo ato abusivo, bastando ao particular demonstrar a conduta, o dano e o nexo causal, assegurado o direito de regresso contra o agente nos casos de dolo ou culpa.",
+        "a indenização depende de prévia anulação do ato por decisão judicial transitada em julgado.",
+        "a responsabilidade é subjetiva, exigindo-se a prova de dolo específico do agente."
+      ],
+      "correta": 2,
+      "comentario": "O ato abusivo que causa dano atrai a responsabilidade extracontratual do Estado, que é objetiva quanto às condutas comissivas de seus agentes: exige-se conduta, dano e nexo causal, dispensada a prova de culpa. O agente responde regressivamente, aí sim mediante demonstração de dolo ou culpa. A anulação do ato e a reparação do dano são pretensões distintas e podem ser deduzidas conjuntamente.",
+      "fundamento": "CF/1988, art. 37, §6º.",
+      "dificuldade": "media",
+      "tags": [
+        "responsabilidade-objetiva",
+        "abuso-de-poder",
+        "direito-de-regresso"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0089",
+      "topico": "5.2.5",
+      "tipo": "multipla",
+      "enunciado": "Sobre o mandado de segurança como instrumento de controle do abuso de poder, é correto afirmar que:",
+      "alternativas": [
+        "pode ser impetrado a qualquer tempo, por se tratar de garantia constitucional imprescritível.",
+        "exige dilação probatória ampla, com produção de prova pericial e testemunhal no curso do processo.",
+        "só é cabível contra atos comissivos, não alcançando omissões da autoridade.",
+        "pressupõe direito líquido e certo, demonstrável de plano por prova pré-constituída, e deve ser impetrado no prazo decadencial de cento e vinte dias contados da ciência, pelo interessado, do ato impugnado.",
+        "substitui a via administrativa, cujo esgotamento prévio é sempre exigido."
+      ],
+      "correta": 3,
+      "comentario": "O mandado de segurança protege direito líquido e certo contra ilegalidade ou abuso de poder de autoridade pública, exigindo prova pré-constituída: não há dilação probatória, e o fato deve estar demonstrado desde a inicial. O prazo é decadencial de cento e vinte dias da ciência do ato. Cabe também contra omissão, e o esgotamento da via administrativa não é, em regra, condição para sua impetração.",
+      "fundamento": "CF/1988, art. 5º, LXIX; Lei nº 12.016/2009, arts. 1º e 23.",
+      "dificuldade": "media",
+      "tags": [
+        "mandado-de-seguranca",
+        "direito-liquido-e-certo",
+        "prazo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0090",
+      "topico": "5.2.5",
+      "tipo": "multipla",
+      "enunciado": "Servidor utilizou sua competência fiscalizatória para favorecer empresa de amigo, deixando de autuá-la apesar de constatadas irregularidades.\n\nSobre essa conduta, é correto afirmar que:",
+      "alternativas": [
+        "configura apenas falta disciplinar, sem repercussão em outras esferas.",
+        "não configura abuso de poder, pois a omissão em autuar insere-se na discricionariedade fiscal.",
+        "configura desvio de finalidade e pode caracterizar ato de improbidade administrativa, além de ensejar responsabilização nas esferas administrativa, civil e penal, que são independentes entre si.",
+        "configura exclusivamente ilícito penal, afastada a apuração disciplinar.",
+        "só pode ser apurada após o trânsito em julgado de eventual ação de improbidade."
+      ],
+      "correta": 2,
+      "comentario": "A conduta reúne várias dimensões. Há desvio de finalidade, pois a competência foi exercida para fim estranho ao interesse público. Pode configurar improbidade administrativa, nas modalidades previstas na Lei nº 8.429/1992, especialmente após as alterações da Lei nº 14.230/2021, que exige dolo. E atrai responsabilização disciplinar, civil e penal, instâncias independentes que podem tramitar simultaneamente.",
+      "fundamento": "Lei nº 8.429/1992; Lei nº 8.112/1990, art. 125; Lei nº 4.717/1965, art. 2º.",
+      "dificuldade": "media",
+      "tags": [
+        "improbidade",
+        "desvio-de-finalidade",
+        "instancias-independentes"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0091",
+      "topico": "5.2.5",
+      "tipo": "multipla",
+      "enunciado": "Analise as situações a seguir.\n\nI. Autoridade competente para aplicar multa de até R$ 50.000,00 aplica multa de R$ 200.000,00.\nII. Autoridade competente para conceder licença ambiental a indefere por motivos religiosos pessoais, embora atendidos todos os requisitos técnicos.\n\nEssas situações configuram, respectivamente:",
+      "alternativas": [
+        "desvio de poder e excesso de poder.",
+        "excesso de poder e desvio de poder.",
+        "usurpação de função e excesso de poder.",
+        "função de fato e desvio de poder.",
+        "excesso de poder em ambas as situações."
+      ],
+      "correta": 1,
+      "comentario": "Na primeira, o agente é competente, mas vai além do limite quantitativo de sua competência: é excesso de poder. Na segunda, o agente atua dentro de sua competência, porém move-se por finalidade estranha ao interesse público previsto na norma: é desvio de poder ou de finalidade. Ambas são espécies do gênero abuso de poder, e a distinção está em o agente extrapolar o limite ou subverter a finalidade.",
+      "fundamento": "Lei nº 4.717/1965, art. 2º; Di Pietro.",
+      "dificuldade": "facil",
+      "tags": [
+        "excesso-de-poder",
+        "desvio-de-poder",
+        "identificacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0092",
+      "topico": "5.2.5",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, sobre o abuso de poder.\n\nI. O abuso de poder pode manifestar-se tanto por ação quanto por omissão da autoridade administrativa.\nII. O controle judicial do desvio de finalidade constitui controle de legalidade, e não de mérito administrativo.\nIII. Reconhecido o abuso de poder na esfera administrativa, fica afastada a possibilidade de responsabilização do agente nas esferas civil e penal.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 1,
+      "comentario": "I e II estão corretas: o abuso alcança condutas comissivas e omissivas, e o exame do desvio de finalidade é controle de legalidade, pois a finalidade é elemento vinculado do ato. III está errada: as instâncias administrativa, civil e penal são independentes entre si e podem cumular-se, afastando-se a responsabilidade administrativa apenas quando a absolvição criminal negar a existência do fato ou sua autoria.",
+      "fundamento": "Lei nº 8.112/1990, arts. 125 e 126; doutrina administrativista.",
+      "dificuldade": "media",
+      "tags": [
+        "abuso-de-poder",
+        "controle-de-legalidade",
+        "independencia-das-instancias"
+      ],
+      "fonte": "inédita"
     }
   ]
 }
