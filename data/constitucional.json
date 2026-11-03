@@ -1567,6 +1567,511 @@
         "material-formal"
       ],
       "fonte": "inédita"
+    },
+    {
+      "id": "const-0070",
+      "topico": "4.3.1",
+      "tipo": "multipla",
+      "enunciado": "O princípio da supremacia da Constituição significa que:",
+      "alternativas": [
+        "a Constituição ocupa o grau mais elevado do ordenamento jurídico e funciona como fundamento de validade de todas as demais normas, que só são válidas se com ela compatíveis.",
+        "a Constituição prevalece apenas sobre as leis ordinárias, não alcançando as complementares.",
+        "as normas constitucionais têm aplicação meramente programática, dependendo sempre de regulamentação legal.",
+        "o legislador ordinário pode afastar a aplicação de normas constitucionais mediante lei específica.",
+        "a Constituição prevalece sobre as demais normas apenas quando houver conflito expresso entre elas."
+      ],
+      "correta": 0,
+      "comentario": "A supremacia coloca a Constituição no ápice do ordenamento: toda norma retira dela seu fundamento de validade e só subsiste se com ela compatível. Daí decorrem a necessidade de compatibilidade vertical das normas, o controle de constitucionalidade e a própria ideia de hierarquia normativa. A prevalência alcança todas as espécies normativas, inclusive as leis complementares e as emendas constitucionais.",
+      "fundamento": "CF/1988; Kelsen, Teoria Pura do Direito; doutrina constitucional.",
+      "dificuldade": "facil",
+      "tags": [
+        "supremacia",
+        "fundamento-de-validade",
+        "hierarquia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0071",
+      "topico": "4.3.1",
+      "tipo": "multipla",
+      "enunciado": "A doutrina distingue a supremacia material da supremacia formal da Constituição.\n\nSobre essa distinção, é correto afirmar que:",
+      "alternativas": [
+        "ambas pressupõem necessariamente a existência de Constituição escrita e rígida.",
+        "a supremacia material decorre da rigidez constitucional, e a formal, do conteúdo das normas.",
+        "apenas a supremacia formal existe nas constituições flexíveis.",
+        "a supremacia material decorre do conteúdo das normas constitucionais, relativas à estrutura do Estado e aos direitos fundamentais, podendo existir mesmo em constituições flexíveis ou não escritas; a supremacia formal decorre da rigidez, isto é, da exigência de processo especial e mais dificultoso para a alteração do texto.",
+        "a supremacia formal independe do processo de alteração previsto na Constituição."
+      ],
+      "correta": 3,
+      "comentario": "A supremacia material resulta da matéria tratada — organização do poder e direitos fundamentais — e, por isso, pode ser reconhecida até em ordenamentos sem Constituição escrita ou rígida, como o britânico. A supremacia formal depende da rigidez: é a exigência de procedimento agravado para alterar o texto que coloca a Constituição acima das leis sob o ponto de vista jurídico-formal, e é ela que viabiliza o controle de constitucionalidade.",
+      "fundamento": "Doutrina constitucional — supremacia material e formal.",
+      "dificuldade": "media",
+      "tags": [
+        "supremacia-material",
+        "supremacia-formal",
+        "rigidez"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0072",
+      "topico": "4.3.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que apresenta consequência direta do princípio da supremacia da Constituição.",
+      "alternativas": [
+        "A impossibilidade de alteração do texto constitucional por emenda.",
+        "A vedação à existência de normas infraconstitucionais que regulem matéria constitucional.",
+        "A necessidade de compatibilidade vertical de todas as normas com a Constituição, de onde decorre o controle de constitucionalidade como mecanismo de retirada ou de neutralização das normas incompatíveis.",
+        "A submissão da Constituição aos tratados internacionais ratificados pelo Brasil.",
+        "A proibição de interpretação extensiva de qualquer dispositivo constitucional."
+      ],
+      "correta": 2,
+      "comentario": "A supremacia impõe a compatibilidade vertical: as normas inferiores devem conformar-se, formal e materialmente, à Constituição. Sem um mecanismo capaz de reconhecer e afastar as normas incompatíveis, a supremacia seria mera afirmação retórica — daí o controle de constitucionalidade ser seu corolário necessário. A Constituição continua suscetível de emenda, observados os limites do poder de reforma.",
+      "fundamento": "CF/1988, arts. 60 e 102, I, 'a'; doutrina constitucional.",
+      "dificuldade": "facil",
+      "tags": [
+        "supremacia",
+        "compatibilidade-vertical",
+        "controle"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0073",
+      "topico": "4.3.1",
+      "tipo": "multipla",
+      "enunciado": "O controle judicial de constitucionalidade tem como marco histórico inaugural o julgamento do caso Marbury v. Madison, de 1803, pela Suprema Corte norte-americana, sob a presidência de John Marshall.\n\nA contribuição central dessa decisão foi:",
+      "alternativas": [
+        "reconhecer que a Constituição é lei superior e que cabe ao Judiciário, ao decidir casos concretos, deixar de aplicar a lei que com ela conflite, inaugurando o controle difuso de constitucionalidade.",
+        "firmar que compete ao Poder Legislativo, e não ao Judiciário, aferir a constitucionalidade das leis.",
+        "instituir o controle concentrado de constitucionalidade, de competência exclusiva de um tribunal constitucional.",
+        "criar a ação direta de inconstitucionalidade como instrumento de defesa da Constituição.",
+        "estabelecer a supremacia dos tratados internacionais sobre a Constituição nacional."
+      ],
+      "correta": 0,
+      "comentario": "Marshall assentou que, havendo conflito entre a Constituição e a lei, cabe ao juiz aplicar a primeira e deixar de aplicar a segunda, pois dizer o direito no caso concreto exige identificar qual norma é aplicável. Nasce aí o judicial review, matriz do controle difuso, exercido incidentalmente por qualquer juiz ou tribunal. O modelo concentrado, de matriz austríaca, é posterior e associado a Kelsen.",
+      "fundamento": "Marbury v. Madison (1803); doutrina de controle de constitucionalidade.",
+      "dificuldade": "facil",
+      "tags": [
+        "marbury",
+        "controle-difuso",
+        "judicial-review"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0074",
+      "topico": "4.3.1",
+      "tipo": "multipla",
+      "enunciado": "As leis e os atos normativos do Poder Público gozam de presunção de constitucionalidade.\n\nSobre essa presunção, é correto afirmar que:",
+      "alternativas": [
+        "é relativa, admitindo prova em contrário, de modo que a norma permanece eficaz e deve ser aplicada enquanto não declarada inconstitucional pelo órgão competente.",
+        "inexiste no ordenamento brasileiro, pois toda lei deve ter sua validade previamente confirmada pelo Judiciário.",
+        "aplica-se apenas às leis complementares, dada sua maioria qualificada de aprovação.",
+        "é absoluta, somente podendo ser afastada por emenda constitucional.",
+        "impede que o chefe do Poder Executivo vete projeto de lei por inconstitucionalidade."
+      ],
+      "correta": 0,
+      "comentario": "A presunção é relativa, ou iuris tantum: decorre do respeito à atuação dos demais Poderes e faz com que a norma continue produzindo efeitos até que sua incompatibilidade seja reconhecida. Dela derivam consequências importantes, como a cláusula de reserva de plenário, a exigência de fundamentação robusta para a declaração de inconstitucionalidade e a preferência por soluções que preservem a norma, como a interpretação conforme.",
+      "fundamento": "Doutrina constitucional — presunção de constitucionalidade.",
+      "dificuldade": "facil",
+      "tags": [
+        "presuncao-de-constitucionalidade",
+        "relativa"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0075",
+      "topico": "4.3.1",
+      "tipo": "multipla",
+      "enunciado": "Órgão fracionário de tribunal, sem declarar expressamente a inconstitucionalidade de determinada lei, afastou sua incidência ao caso concreto por entendê-la incompatível com a Constituição.\n\nSegundo entendimento sumulado vinculante do STF, essa decisão:",
+      "alternativas": [
+        "é válida, pois não houve declaração expressa de inconstitucionalidade.",
+        "é válida, desde que a decisão tenha sido unânime no órgão fracionário.",
+        "é válida, pois a cláusula de reserva de plenário alcança apenas o Supremo Tribunal Federal.",
+        "é nula apenas se a lei afastada for federal.",
+        "viola a cláusula de reserva de plenário, pois o afastamento da incidência da norma, no todo ou em parte, equivale à declaração de inconstitucionalidade e exige o pronunciamento da maioria absoluta do tribunal pleno ou do órgão especial."
+      ],
+      "correta": 4,
+      "comentario": "A Súmula Vinculante 10 alcança a chamada declaração de inconstitucionalidade disfarçada: afastar a incidência da norma produz o mesmo efeito prático de declará-la inconstitucional e, por isso, submete-se ao art. 97 da Constituição. A reserva de plenário não se aplica ao juiz de primeiro grau, nem às Turmas Recursais dos Juizados, nem quando já houver pronunciamento anterior do plenário do STF ou do próprio tribunal sobre a questão.",
+      "fundamento": "STF, Súmula Vinculante 10; CF/1988, art. 97.",
+      "dificuldade": "media",
+      "tags": [
+        "reserva-de-plenario",
+        "sumula-vinculante-10",
+        "art-97"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0076",
+      "topico": "4.3.1",
+      "tipo": "multipla",
+      "enunciado": "Lei ordinária federal editada em 1966 tratava de matéria que, pela Constituição de 1988, passou a exigir lei complementar, sendo seu conteúdo compatível com o novo texto constitucional.\n\nSobre essa norma, é correto afirmar que:",
+      "alternativas": [
+        "foi automaticamente revogada, por ter sido editada sob a forma de lei ordinária.",
+        "tornou-se inconstitucional supervenientemente, cabendo ação direta de inconstitucionalidade.",
+        "permanece válida como lei ordinária, podendo ser alterada por outra lei ordinária.",
+        "foi recepcionada pela nova ordem constitucional com status de lei complementar, de modo que sua alteração passou a exigir lei complementar, pois a recepção considera a compatibilidade material, e não a forma de elaboração original.",
+        "só poderia ser recepcionada mediante ratificação expressa pelo Congresso Nacional."
+      ],
+      "correta": 3,
+      "comentario": "O juízo de recepção é material: a norma anterior compatível em conteúdo é recebida pela nova Constituição, ainda que sua forma de elaboração não corresponda à hoje exigida. É o caso clássico do Código Tributário Nacional, editado como lei ordinária e recepcionado com status de lei complementar — por isso suas alterações exigem, desde 1988, lei complementar. A recepção é automática e não depende de ato de confirmação.",
+      "fundamento": "CF/1988, art. 146; STF, jurisprudência sobre recepção.",
+      "dificuldade": "media",
+      "tags": [
+        "recepcao",
+        "status-de-lei-complementar",
+        "ctn"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0077",
+      "topico": "4.3.1",
+      "tipo": "multipla",
+      "enunciado": "Determinada lei estadual anterior à Constituição de 1988 revelou-se materialmente incompatível com o novo texto constitucional.\n\nSegundo a jurisprudência do STF, essa incompatibilidade configura:",
+      "alternativas": [
+        "inconstitucionalidade superveniente, sanável por emenda constitucional.",
+        "inconstitucionalidade formal, por vício no processo legislativo de origem.",
+        "nulidade absoluta desde a origem, com efeitos retroativos à data de edição da lei.",
+        "mera irregularidade, sem efeito sobre a vigência da norma.",
+        "hipótese de não recepção, equiparada à revogação, não se admitindo a tese da inconstitucionalidade superveniente, razão pela qual a questão não pode ser veiculada por ação direta de inconstitucionalidade, mas comporta arguição de descumprimento de preceito fundamental."
+      ],
+      "correta": 4,
+      "comentario": "O STF rejeita a inconstitucionalidade superveniente: a norma anterior incompatível com a nova Constituição é simplesmente não recepcionada, o que se resolve no plano da vigência, como revogação, e não no da validade. Por isso a ADI não é via idônea para impugnar direito pré-constitucional — o instrumento adequado no controle concentrado é a ADPF, expressamente cabível contra ato normativo anterior à Constituição.",
+      "fundamento": "STF, ADI 2; Lei nº 9.882/1999, art. 1º, parágrafo único, I.",
+      "dificuldade": "media",
+      "tags": [
+        "nao-recepcao",
+        "inconstitucionalidade-superveniente",
+        "adpf"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0078",
+      "topico": "4.3.1",
+      "tipo": "multipla",
+      "enunciado": "A tese segundo a qual as normas da Constituição anterior materialmente compatíveis com a nova Constituição seriam por esta recebidas com status de lei infraconstitucional é denominada:",
+      "alternativas": [
+        "repristinação constitucional.",
+        "desconstitucionalização, fenômeno que, no direito brasileiro, não é admitido como regra, dependendo de previsão expressa no novo texto constitucional.",
+        "mutação constitucional.",
+        "filtragem constitucional.",
+        "recepção material de normas constitucionais."
+      ],
+      "correta": 1,
+      "comentario": "A desconstitucionalização rebaixaria normas da Constituição revogada à condição de lei ordinária, desde que compatíveis com a nova ordem. No Brasil, a tese não é acolhida como regra: a nova Constituição revoga integralmente a anterior, salvo se dispuser expressamente em contrário. Não se confunde com a recepção, que opera sobre normas infraconstitucionais, nem com a mutação, que altera o sentido do texto sem modificá-lo.",
+      "fundamento": "Doutrina constitucional — desconstitucionalização.",
+      "dificuldade": "media",
+      "tags": [
+        "desconstitucionalizacao",
+        "recepcao",
+        "poder-constituinte"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0079",
+      "topico": "4.3.1",
+      "tipo": "multipla",
+      "enunciado": "O parâmetro de controle de constitucionalidade é designado pela doutrina como bloco de constitucionalidade.\n\nEm sentido amplo, esse bloco compreende:",
+      "alternativas": [
+        "exclusivamente os dispositivos do texto permanente da Constituição.",
+        "o texto constitucional e toda a legislação federal dele decorrente.",
+        "o texto constitucional, inclusive o Ato das Disposições Constitucionais Transitórias, os princípios constitucionais implícitos e os tratados internacionais de direitos humanos aprovados pelo rito equivalente ao das emendas constitucionais.",
+        "apenas as cláusulas pétreas, por constituírem o núcleo intangível da Constituição.",
+        "o texto constitucional e os regimentos internos das Casas Legislativas."
+      ],
+      "correta": 2,
+      "comentario": "Em sentido estrito, o bloco se limita ao texto formal da Constituição, incluído o ADCT, que tem natureza de norma constitucional. Em sentido amplo, abrange também os princípios constitucionais implícitos e os tratados de direitos humanos aprovados em dois turnos, por três quintos, em cada Casa, que se equivalem a emendas constitucionais e, por isso, servem de parâmetro de controle. O preâmbulo, por não ter força normativa, não integra o parâmetro.",
+      "fundamento": "CF/1988, arts. 5º, §3º, e 102; doutrina constitucional.",
+      "dificuldade": "dificil",
+      "tags": [
+        "bloco-de-constitucionalidade",
+        "parametro-de-controle",
+        "tratados"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0080",
+      "topico": "4.3.1",
+      "tipo": "multipla",
+      "enunciado": "Diante de dispositivo legal que comporta mais de um sentido possível, sendo um deles compatível com a Constituição e os demais não, o órgão julgador adotou a leitura compatível, preservando a norma no ordenamento.\n\nEssa técnica é denominada:",
+      "alternativas": [
+        "mutação constitucional.",
+        "declaração de inconstitucionalidade com redução de texto.",
+        "modulação dos efeitos da decisão.",
+        "interpretação conforme a Constituição, decorrência da presunção de constitucionalidade e do princípio da conservação das normas, encontrando limite no sentido literal possível do texto e na finalidade inequívoca do legislador.",
+        "efeito repristinatório da decisão de inconstitucionalidade."
+      ],
+      "correta": 3,
+      "comentario": "A interpretação conforme preserva a norma ao fixar-lhe o sentido compatível com a Constituição, prestigiando a presunção de constitucionalidade e a conservação dos atos normativos. Seus limites são rígidos: o intérprete não pode contrariar o sentido literal possível do texto nem subverter a finalidade clara do legislador, sob pena de atuar como legislador positivo. Aproxima-se da declaração parcial de nulidade sem redução de texto, que exclui determinada aplicação sem alterar o enunciado.",
+      "fundamento": "Doutrina e jurisprudência do STF sobre interpretação conforme.",
+      "dificuldade": "media",
+      "tags": [
+        "interpretacao-conforme",
+        "conservacao-das-normas",
+        "limites"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0081",
+      "topico": "4.3.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre os efeitos da declaração de inconstitucionalidade no direito brasileiro, é correto afirmar que:",
+      "alternativas": [
+        "prevalece a teoria da anulabilidade, de modo que a norma produz efeitos válidos até a decisão, que opera sempre para o futuro.",
+        "prevalece a teoria da nulidade: a norma inconstitucional é nula desde a origem, e a decisão tem, em regra, efeitos retroativos, admitida excepcionalmente a modulação temporal por razões de segurança jurídica ou de excepcional interesse social.",
+        "a decisão tem sempre efeitos apenas entre as partes do processo, mesmo no controle concentrado.",
+        "a modulação de efeitos é vedada no ordenamento brasileiro.",
+        "a decisão depende de referendo do Congresso Nacional para produzir efeitos."
+      ],
+      "correta": 1,
+      "comentario": "O Brasil adota a teoria da nulidade: a lei inconstitucional padece de vício originário e a decisão que a reconhece é declaratória, com eficácia retroativa. A rigidez desse efeito, porém, pode produzir consequências graves sobre relações já consolidadas — daí a modulação prevista no art. 27 da Lei nº 9.868/1999, que exige maioria de dois terços dos membros do STF e fundamento em segurança jurídica ou excepcional interesse social.",
+      "fundamento": "Lei nº 9.868/1999, art. 27; doutrina constitucional.",
+      "dificuldade": "media",
+      "tags": [
+        "teoria-da-nulidade",
+        "efeitos-ex-tunc",
+        "modulacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0082",
+      "topico": "4.3.1",
+      "tipo": "multipla",
+      "enunciado": "Declarada inconstitucional, em controle concentrado, a lei que havia revogado outra lei anterior, discute-se a situação dessa norma revogada.\n\nSegundo a jurisprudência do STF, em regra:",
+      "alternativas": [
+        "a lei anterior permanece revogada, pois a revogação é fato consumado e irreversível.",
+        "a lei anterior só volta a vigorar mediante nova deliberação do Poder Legislativo.",
+        "a questão é irrelevante, pois a declaração de inconstitucionalidade só produz efeitos futuros.",
+        "a lei anterior é automaticamente convertida em norma constitucional.",
+        "opera-se o efeito repristinatório da decisão: como a lei declarada inconstitucional é nula desde a origem, considera-se que ela não chegou a revogar validamente a norma anterior, que volta a ser aplicável, salvo manifestação expressa do Tribunal em sentido diverso."
+      ],
+      "correta": 4,
+      "comentario": "O efeito repristinatório é consequência lógica da teoria da nulidade: se a lei inconstitucional nunca foi válida, tampouco produziu validamente a revogação, de modo que a norma anterior volta a incidir. O Tribunal pode afastar esse efeito, se a repristinação gerar situação igualmente inconstitucional. Não se confunde com a repristinação do art. 2º, §3º, da LINDB, que, no plano infraconstitucional, depende de previsão expressa.",
+      "fundamento": "Lei nº 9.868/1999, art. 11, §2º; LINDB, art. 2º, §3º; jurisprudência do STF.",
+      "dificuldade": "dificil",
+      "tags": [
+        "efeito-repristinatorio",
+        "teoria-da-nulidade",
+        "lindb"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0083",
+      "topico": "4.3.1",
+      "tipo": "multipla",
+      "enunciado": "Servidor alega ter direito adquirido a regime de aposentadoria previsto na Constituição anterior, suprimido pelo texto originário da Constituição de 1988.\n\nSegundo a jurisprudência do STF, essa pretensão:",
+      "alternativas": [
+        "deve ser acolhida, pois o direito adquirido é cláusula pétrea oponível a qualquer alteração normativa.",
+        "não se sustenta, pois não há direito adquirido em face de norma constitucional originária, cuja obra é fruto do poder constituinte originário, juridicamente ilimitado no plano interno.",
+        "deve ser acolhida se o servidor já tiver preenchido os requisitos sob a vigência da norma anterior, ainda que a Constituição originária disponha em contrário.",
+        "depende de regulamentação por lei complementar federal.",
+        "deve ser acolhida apenas quanto aos servidores federais."
+      ],
+      "correta": 1,
+      "comentario": "O poder constituinte originário é inicial, autônomo e juridicamente ilimitado no plano interno: ao inaugurar a ordem jurídica, não se submete a situações constituídas sob a ordem anterior. Por isso o STF afasta a invocação de direito adquirido contra norma constitucional originária. Situação distinta ocorre diante de emendas constitucionais, que são obra do poder derivado e se submetem aos limites do art. 60, inclusive aos direitos e garantias individuais.",
+      "fundamento": "CF/1988, arts. 5º, XXXVI, e 60, §4º, IV; jurisprudência do STF.",
+      "dificuldade": "media",
+      "tags": [
+        "poder-constituinte-originario",
+        "direito-adquirido",
+        "limites"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0084",
+      "topico": "4.3.1",
+      "tipo": "multipla",
+      "enunciado": "A inobservância da Constituição pode decorrer tanto de conduta comissiva quanto da inércia do Poder Público.\n\nSobre a inconstitucionalidade por omissão, é correto afirmar que:",
+      "alternativas": [
+        "não é admitida no ordenamento brasileiro, que só reconhece a inconstitucionalidade por ação.",
+        "somente se configura quando houver prazo expresso na Constituição para a edição da norma.",
+        "é sanável exclusivamente pelo Poder Legislativo, sem qualquer atuação do Judiciário.",
+        "equipara-se à inconstitucionalidade por ação quanto aos efeitos, autorizando o Judiciário a editar a norma faltante em caráter geral.",
+        "configura-se quando a ausência de medida necessária torna inefetiva norma constitucional, sendo combatida pela ação direta de inconstitucionalidade por omissão, no controle concentrado, e pelo mandado de injunção, na tutela de direitos cujo exercício esteja inviabilizado pela falta de norma regulamentadora."
+      ],
+      "correta": 4,
+      "comentario": "A omissão inconstitucional ocorre quando o Poder Público deixa de adotar a medida necessária à efetividade de norma constitucional, podendo ser total ou parcial. O ordenamento oferece dois instrumentos: a ADO, no controle concentrado e abstrato, e o mandado de injunção, voltado ao caso concreto em que a falta de norma regulamentadora inviabiliza o exercício de direitos e liberdades constitucionais ou de prerrogativas da nacionalidade, da soberania e da cidadania.",
+      "fundamento": "CF/1988, arts. 5º, LXXI, e 103, §2º; Lei nº 13.300/2016.",
+      "dificuldade": "media",
+      "tags": [
+        "inconstitucionalidade-por-omissao",
+        "ado",
+        "mandado-de-injuncao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0085",
+      "topico": "4.3.1",
+      "tipo": "multipla",
+      "enunciado": "A irradiação dos valores e das normas constitucionais sobre todos os ramos do direito, impondo que institutos de direito civil, penal, processual e administrativo sejam relidos à luz da Constituição, é designada como:",
+      "alternativas": [
+        "desconstitucionalização.",
+        "mutação constitucional.",
+        "filtragem constitucional, ou constitucionalização do direito, decorrência da supremacia e da força normativa da Constituição.",
+        "recepção material.",
+        "bloqueio de constitucionalidade."
+      ],
+      "correta": 2,
+      "comentario": "A filtragem constitucional é consequência prática da supremacia somada à força normativa: a Constituição deixa de ser apenas parâmetro de validade formal e passa a condicionar a interpretação de todo o ordenamento, de modo que cada norma infraconstitucional deve ser lida pelo filtro dos valores constitucionais. É um dos traços centrais do neoconstitucionalismo e explica a constitucionalização dos diversos ramos do direito.",
+      "fundamento": "Doutrina constitucional — filtragem e constitucionalização do direito.",
+      "dificuldade": "media",
+      "tags": [
+        "filtragem-constitucional",
+        "forca-normativa",
+        "neoconstitucionalismo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0086",
+      "topico": "4.3.1",
+      "tipo": "multipla",
+      "enunciado": "Emenda constitucional regularmente aprovada pelo Congresso Nacional foi questionada por suprimir garantia individual assegurada no texto originário.\n\nSobre essa emenda, é correto afirmar que:",
+      "alternativas": [
+        "é imune a controle, pois emendas integram o texto constitucional e não podem ser declaradas inconstitucionais.",
+        "só poderia ser questionada antes de sua promulgação, no curso do processo legislativo.",
+        "é válida, pois o poder de reforma é juridicamente ilimitado.",
+        "é passível de controle de constitucionalidade, pois o poder constituinte derivado é limitado e a emenda tendente a abolir direitos e garantias individuais afronta cláusula pétrea.",
+        "só poderia ser invalidada por nova emenda constitucional."
+      ],
+      "correta": 3,
+      "comentario": "Emendas são obra do poder constituinte derivado, que é limitado pelo texto originário. Submetem-se, portanto, a controle de constitucionalidade quanto aos limites formais, circunstanciais e materiais — entre estes, as cláusulas pétreas do art. 60, §4º. O STF admite inclusive o controle preventivo, por mandado de segurança impetrado por parlamentar, quando a tramitação de proposta ofende o devido processo legislativo constitucional.",
+      "fundamento": "CF/1988, art. 60, §4º; STF, ADI 939 e MS 20.257.",
+      "dificuldade": "media",
+      "tags": [
+        "emenda-constitucional",
+        "poder-derivado",
+        "clausulas-petreas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0087",
+      "topico": "4.3.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que indica corretamente os dois pressupostos usualmente apontados para a existência do controle de constitucionalidade.",
+      "alternativas": [
+        "A existência de Constituição escrita e a adoção da forma federativa de Estado.",
+        "A supremacia da Constituição e a existência de um órgão competente para aferir a compatibilidade das normas com ela, o que pressupõe a rigidez constitucional.",
+        "A adoção do sistema presidencialista e a previsão de cláusulas pétreas.",
+        "A existência de tribunal constitucional autônomo e a previsão de ação direta de inconstitucionalidade.",
+        "A flexibilidade constitucional e a competência exclusiva do Legislativo para revisar as leis."
+      ],
+      "correta": 1,
+      "comentario": "Fala-se em dois pressupostos: a supremacia da Constituição, que torna inválida a norma com ela incompatível, e a existência de órgão competente para declarar essa incompatibilidade. A rigidez é condição da supremacia formal e, por consequência, do próprio controle: em constituição flexível, a lei posterior simplesmente altera a Constituição, e não há conflito hierárquico a resolver. Tribunal constitucional autônomo não é requisito — o Brasil atribui a função ao STF, que também exerce outras competências.",
+      "fundamento": "Doutrina de controle de constitucionalidade.",
+      "dificuldade": "media",
+      "tags": [
+        "pressupostos",
+        "supremacia",
+        "rigidez"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0088",
+      "topico": "4.3.1",
+      "tipo": "multipla",
+      "enunciado": "Lei federal foi aprovada sem a observância do quórum de maioria absoluta exigido para as leis complementares, embora versasse sobre matéria a elas reservada.\n\nEsse vício caracteriza inconstitucionalidade:",
+      "alternativas": [
+        "formal, decorrente da inobservância do processo legislativo constitucionalmente previsto para a espécie normativa adequada.",
+        "por omissão parcial do legislador.",
+        "circunstancial, por ter sido aprovada em período de vedação.",
+        "material, por incompatibilidade de conteúdo com a Constituição.",
+        "superveniente, por alteração posterior do parâmetro constitucional."
+      ],
+      "correta": 0,
+      "comentario": "A inconstitucionalidade formal, também chamada nomodinâmica, decorre de vício no processo de formação da norma: incompetência do ente ou do órgão, inobservância do rito, do quórum ou da iniciativa reservada. A material, ou nomoestática, atinge o conteúdo da norma, incompatível em substância com a Constituição. O exemplo do enunciado é vício de forma, pois a matéria exigia espécie normativa e quórum diversos.",
+      "fundamento": "CF/1988, arts. 59 e 69; doutrina constitucional.",
+      "dificuldade": "facil",
+      "tags": [
+        "inconstitucionalidade-formal",
+        "inconstitucionalidade-material",
+        "quorum"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0089",
+      "topico": "4.3.1",
+      "tipo": "multipla",
+      "enunciado": "Determinado decreto do Poder Executivo, editado para regulamentar lei válida, extrapolou os limites dessa lei ao criar obrigação nela não prevista.\n\nSegundo a jurisprudência do STF, essa situação configura, em regra:",
+      "alternativas": [
+        "inconstitucionalidade direta, sanável por ação direta de inconstitucionalidade.",
+        "inconstitucionalidade material por violação de cláusula pétrea.",
+        "crise de legalidade, pois o decreto regulamentar ofende diretamente a lei e apenas de forma reflexa a Constituição, razão pela qual não é objeto idôneo de ação direta de inconstitucionalidade.",
+        "mutação constitucional operada por ato do Poder Executivo.",
+        "inconstitucionalidade formal subjetiva, por vício de iniciativa."
+      ],
+      "correta": 2,
+      "comentario": "O STF distingue a ofensa direta da reflexa. O decreto meramente regulamentar que extrapola a lei viola primeiro a lei e só indiretamente a Constituição — é crise de legalidade, resolvida pelo controle de legalidade, e não por ADI. Situação diversa é a do decreto autônomo, que retira fundamento diretamente da Constituição e, por ser ato normativo primário, admite controle concentrado de constitucionalidade.",
+      "fundamento": "STF, jurisprudência sobre ofensa reflexa; CF/1988, arts. 84, IV e VI, e 102, I, 'a'.",
+      "dificuldade": "dificil",
+      "tags": [
+        "crise-de-legalidade",
+        "ofensa-reflexa",
+        "decreto"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0090",
+      "topico": "4.3.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre a relação entre a supremacia da Constituição e a atuação dos Poderes constituídos, é correto afirmar que:",
+      "alternativas": [
+        "apenas o Poder Judiciário está vinculado à Constituição, pois é o seu intérprete final.",
+        "o Poder Legislativo, por representar a soberania popular, não se submete ao controle de constitucionalidade de seus atos.",
+        "a vinculação do Poder Executivo limita-se aos atos normativos, não alcançando os atos concretos de gestão.",
+        "a supremacia é afastada quando houver consenso entre os três Poderes quanto à conveniência de determinada medida.",
+        "a supremacia obriga igualmente os três Poderes, que a ela se submetem no exercício de suas funções típicas e atípicas, cabendo a cada um, em seu âmbito, zelar pela conformidade de sua atuação com a Constituição."
+      ],
+      "correta": 4,
+      "comentario": "A supremacia vincula todos os Poderes: o Legislativo ao produzir normas, o Executivo ao administrar e regulamentar, o Judiciário ao julgar. Nenhum deles dispõe da Constituição, e o consenso entre eles não supre a inconstitucionalidade — a Constituição é limite, não objeto de negociação. Daí também a possibilidade de controle preventivo pelo próprio Legislativo, nas comissões de constituição e justiça, e pelo Executivo, pelo veto jurídico.",
+      "fundamento": "CF/1988, arts. 2º, 66, §1º, e 102; doutrina constitucional.",
+      "dificuldade": "facil",
+      "tags": [
+        "supremacia",
+        "vinculacao-dos-poderes",
+        "controle-preventivo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0091",
+      "topico": "4.3.1",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, sobre a supremacia da Constituição.\n\nI. A supremacia formal pressupõe a rigidez constitucional e constitui fundamento do controle de constitucionalidade.\nII. Normas infraconstitucionais anteriores à Constituição, materialmente compatíveis com ela, são recepcionadas, ainda que sua forma de elaboração não corresponda à exigida pelo novo texto.\nIII. A declaração de inconstitucionalidade, no direito brasileiro, produz em regra efeitos apenas prospectivos, sendo vedada a atribuição de eficácia retroativa.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 1,
+      "comentario": "I e II estão corretas: a rigidez sustenta a supremacia formal, que viabiliza o controle, e a recepção se afere pelo conteúdo, não pela forma de elaboração. III está invertida: prevalece a teoria da nulidade, de modo que a regra é a eficácia retroativa, sendo a modulação para o futuro a exceção, admitida por maioria de dois terços e mediante razões de segurança jurídica ou excepcional interesse social.",
+      "fundamento": "Lei nº 9.868/1999, art. 27; doutrina constitucional.",
+      "dificuldade": "media",
+      "tags": [
+        "supremacia",
+        "recepcao",
+        "efeitos-da-decisao"
+      ],
+      "fonte": "inédita"
     }
   ]
 }
