@@ -1596,6 +1596,513 @@
         "lei-complementar"
       ],
       "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0071",
+      "topico": "6.3.1",
+      "tipo": "multipla",
+      "enunciado": "O art. 3º do Código Tributário Nacional define tributo.\n\nAssinale a opção que NÃO corresponde a elemento integrante dessa definição legal.",
+      "alternativas": [
+        "Prestação pecuniária compulsória, em moeda ou cujo valor nela se possa exprimir.",
+        "Prestação que não constitua sanção de ato ilícito.",
+        "Prestação instituída em lei.",
+        "Prestação cobrada mediante atividade administrativa plenamente vinculada.",
+        "Prestação cuja receita seja obrigatoriamente vinculada a despesa específica previamente definida em lei."
+      ],
+      "correta": 4,
+      "comentario": "A vinculação da receita não integra o conceito de tributo — ao contrário, a Constituição veda, em regra, a vinculação da receita de impostos a órgão, fundo ou despesa. O art. 3º reúne cinco elementos: prestação pecuniária, compulsória, que não seja sanção de ato ilícito, instituída em lei e cobrada mediante atividade administrativa plenamente vinculada.",
+      "fundamento": "CTN, art. 3º; CF/1988, art. 167, IV.",
+      "dificuldade": "facil",
+      "tags": [
+        "conceito-de-tributo",
+        "art-3-ctn"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0072",
+      "topico": "6.3.1",
+      "tipo": "multipla",
+      "enunciado": "Lei municipal pretendeu instituir tributo a ser pago mediante entrega de parte da produção agrícola do contribuinte.\n\nSobre essa previsão, é correto afirmar que:",
+      "alternativas": [
+        "é inválida, pois o tributo é prestação pecuniária, vedadas as figuras do tributo in natura e in labore; a dação em pagamento, admitida pelo Código Tributário Nacional apenas quanto a bens imóveis e na forma de lei, é modalidade de extinção do crédito, e não forma de instituição do tributo.",
+        "é válida, desde que o valor dos bens entregues seja equivalente ao do tributo devido.",
+        "é válida, pois o Código Tributário Nacional admite o tributo in natura.",
+        "é inválida apenas porque a competência para instituir tributos sobre produção agrícola é da União.",
+        "é válida, pois a expressão 'ou cujo valor nela se possa exprimir' autoriza o pagamento em bens de qualquer natureza."
+      ],
+      "correta": 0,
+      "comentario": "A natureza pecuniária é essencial: o tributo se paga em dinheiro, o que afasta o tributo in natura, pago em bens, e o in labore, pago em serviços. A expressão 'ou cujo valor nela se possa exprimir' refere-se à possibilidade de a lei utilizar indexadores e unidades de referência, não a autorização de pagamento em bens. A dação em pagamento de imóveis, incluída no art. 156 do CTN, é causa de extinção e depende de lei específica do ente credor.",
+      "fundamento": "CTN, arts. 3º e 156, XI.",
+      "dificuldade": "media",
+      "tags": [
+        "prestacao-pecuniaria",
+        "dacao-em-pagamento",
+        "in-natura"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0073",
+      "topico": "6.3.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que distingue corretamente o tributo do preço público ou tarifa.",
+      "alternativas": [
+        "O tributo é prestação compulsória, decorrente de lei e submetida ao regime jurídico tributário; o preço público decorre de relação contratual, pressupõe adesão voluntária do usuário e submete-se ao regime de direito privado, não se aplicando a ele os princípios tributários.",
+        "O tributo decorre de relação contratual, e o preço público, de imposição legal.",
+        "O preço público submete-se integralmente aos princípios da legalidade estrita e da anterioridade, como o tributo.",
+        "Ambos têm natureza tributária, variando apenas o regime de cobrança.",
+        "A distinção é irrelevante, pois o Supremo Tribunal Federal equiparou as duas figuras."
+      ],
+      "correta": 0,
+      "comentario": "A nota distintiva é a compulsoriedade. O tributo nasce da lei, independentemente da vontade do sujeito passivo. O preço público decorre de contrato e pressupõe a utilização voluntária do serviço, remunerando-o em regime de direito privado — daí não se lhe aplicarem a legalidade estrita, as anterioridades e as demais limitações constitucionais ao poder de tributar. A Súmula 545 do STF assenta justamente que taxas e preços de serviços públicos não se confundem.",
+      "fundamento": "STF, Súmula 545; CTN, art. 3º.",
+      "dificuldade": "facil",
+      "tags": [
+        "tributo",
+        "preco-publico",
+        "tarifa",
+        "compulsoriedade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0074",
+      "topico": "6.3.1",
+      "tipo": "multipla",
+      "enunciado": "Contribuinte foi autuado e, além do tributo devido, foi-lhe imposta multa por infração à legislação tributária.\n\nSobre a natureza dessas exigências, é correto afirmar que:",
+      "alternativas": [
+        "a multa tem natureza tributária, pois integra o crédito tributário e é cobrada pela Fazenda.",
+        "tributo e multa são figuras idênticas, pois ambos decorrem de lei e são compulsórios.",
+        "a multa não integra a obrigação tributária principal, por não ter natureza de tributo.",
+        "o tributo, por decorrer de autuação fiscal, converte-se em sanção de ato ilícito.",
+        "a multa não é tributo, pois o tributo, por definição legal, não constitui sanção de ato ilícito; ainda assim, ambos compõem a obrigação tributária principal, que tem por objeto o pagamento de tributo ou de penalidade pecuniária."
+      ],
+      "correta": 4,
+      "comentario": "A distinção é conceitual e a aproximação é procedimental. Multa não é tributo: o art. 3º exclui expressamente a sanção de ato ilícito do conceito. Mas o art. 113, §1º, inclui a penalidade pecuniária no objeto da obrigação principal, o que explica por que multa e tributo são lançados, inscritos em dívida ativa e cobrados pelos mesmos instrumentos. É exatamente nesse ponto que a banca costuma construir o distrator.",
+      "fundamento": "CTN, arts. 3º e 113, §1º.",
+      "dificuldade": "media",
+      "tags": [
+        "tributo",
+        "multa",
+        "obrigacao-principal"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0075",
+      "topico": "6.3.1",
+      "tipo": "multipla",
+      "enunciado": "A definição legal de tributo exige que ele seja cobrado mediante atividade administrativa plenamente vinculada.\n\nEssa exigência significa que:",
+      "alternativas": [
+        "a receita do tributo fica vinculada à atividade administrativa que lhe deu origem.",
+        "o tributo só pode ser cobrado quando houver contraprestação estatal específica ao contribuinte.",
+        "a autoridade administrativa pode avaliar a conveniência e a oportunidade de constituir o crédito tributário.",
+        "a atividade de lançamento é vinculada e obrigatória, não comportando juízo de conveniência e oportunidade: ocorrido o fato gerador, a autoridade deve constituir o crédito tributário, sob pena de responsabilidade funcional.",
+        "a cobrança depende de prévia autorização judicial em cada caso concreto."
+      ],
+      "correta": 3,
+      "comentario": "O art. 142, parágrafo único, é expresso: a atividade de lançamento é vinculada e obrigatória, sob pena de responsabilidade funcional. Verificada a ocorrência do fato gerador, não há margem de escolha — a autoridade deve apurar e constituir o crédito. É garantia do contribuinte, por afastar o arbítrio, e do interesse público, por impedir a renúncia informal de receita.",
+      "fundamento": "CTN, arts. 3º e 142, parágrafo único.",
+      "dificuldade": "facil",
+      "tags": [
+        "lancamento-vinculado",
+        "atividade-vinculada"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0076",
+      "topico": "6.3.1",
+      "tipo": "multipla",
+      "enunciado": "Lei estadual instituiu exação denominada 'contribuição de desenvolvimento regional', cujo fato gerador é a propriedade de veículo automotor.\n\nÀ luz do Código Tributário Nacional, a natureza jurídica específica dessa exação:",
+      "alternativas": [
+        "é de contribuição, conforme a denominação adotada pela lei instituidora.",
+        "é determinada pelo fato gerador da respectiva obrigação, sendo irrelevantes a denominação e as demais características formais adotadas pela lei, de modo que a exação é imposto.",
+        "depende da destinação legal do produto da arrecadação indicada na lei estadual.",
+        "é de taxa, por remunerar atividade estatal de desenvolvimento regional.",
+        "é indefinida, cabendo ao Poder Judiciário fixá-la caso a caso segundo critérios de equidade."
+      ],
+      "correta": 1,
+      "comentario": "O art. 4º do CTN determina que a natureza jurídica específica se extraia do fato gerador, sendo irrelevantes a denominação e as características formais adotadas pela lei. Como o fato gerador descrito é a propriedade de veículo — situação independente de qualquer atividade estatal relativa ao contribuinte —, a exação é imposto, ainda que batizada de contribuição, e incide sobre ela todo o regime próprio dos impostos.",
+      "fundamento": "CTN, arts. 4º, I, e 16.",
+      "dificuldade": "facil",
+      "tags": [
+        "natureza-juridica",
+        "fato-gerador",
+        "art-4-ctn"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0077",
+      "topico": "6.3.1",
+      "tipo": "multipla",
+      "enunciado": "O art. 4º, II, do Código Tributário Nacional dispõe ser irrelevante, para qualificar a natureza jurídica específica do tributo, a destinação legal do produto de sua arrecadação.\n\nSegundo a doutrina majoritária e a jurisprudência construídas sob a Constituição de 1988, esse dispositivo:",
+      "alternativas": [
+        "permanece integralmente aplicável a todas as espécies tributárias.",
+        "foi expressamente revogado pela Constituição de 1988.",
+        "aplica-se apenas às taxas e às contribuições de melhoria, nunca aos impostos.",
+        "nunca teve aplicação prática, por contrariar o próprio art. 3º do CTN.",
+        "deve ser lido com temperamento: mantém-se quanto aos impostos, às taxas e às contribuições de melhoria, mas não se aplica aos empréstimos compulsórios e às contribuições especiais, cujas espécies se identificam justamente pela destinação finalística que a Constituição lhes impõe."
+      ],
+      "correta": 4,
+      "comentario": "O CTN é anterior à Constituição de 1988, que erigiu a destinação a elemento definidor de duas espécies. O empréstimo compulsório tem receita necessariamente vinculada à despesa que o fundamentou, e as contribuições especiais só se legitimam pela finalidade a que a Constituição as atribui. Por isso a doutrina fala em critério finalístico: nessas espécies, desviada a destinação, compromete-se a própria validade da exação.",
+      "fundamento": "CTN, art. 4º, II; CF/1988, arts. 148, parágrafo único, e 149.",
+      "dificuldade": "dificil",
+      "tags": [
+        "art-4-ctn",
+        "destinacao",
+        "criterio-finalistico"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0078",
+      "topico": "6.3.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que apresenta exação cuja natureza tributária é reconhecida pelo ordenamento.",
+      "alternativas": [
+        "A contribuição para o Fundo de Garantia do Tempo de Serviço (FGTS).",
+        "O preço cobrado por concessionária pela utilização de rodovia conservada.",
+        "A multa de mora aplicada pelo atraso no recolhimento de tributo.",
+        "As custas judiciais e os emolumentos cobrados pelos serviços notariais e de registro, que o STF reconhece como taxas, remunerando serviço público específico e divisível.",
+        "A tarifa de energia elétrica cobrada pela concessionária do serviço."
+      ],
+      "correta": 3,
+      "comentario": "O STF reconhece natureza tributária, na espécie taxa, às custas judiciais e aos emolumentos notariais e de registro, por remunerarem serviço público específico e divisível. O FGTS não tem natureza tributária, conforme a Súmula 353 do STJ. O pedágio cobrado por concessionária e a tarifa de energia são preços públicos. A multa, embora integre a obrigação principal, é sanção de ato ilícito e, por isso, não é tributo.",
+      "fundamento": "STF, ADI 1.145 e ADI 3.694; STJ, Súmula 353; STF, ADI 800.",
+      "dificuldade": "media",
+      "tags": [
+        "natureza-tributaria",
+        "custas",
+        "emolumentos",
+        "fgts"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0079",
+      "topico": "6.3.1",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, sobre o conceito de tributo.\n\nI. A compulsoriedade distingue o tributo das obrigações contratuais, não se admitindo que o nascimento da obrigação tributária dependa da vontade do sujeito passivo.\nII. O fato de a renda decorrer de atividade ilícita afasta a incidência do tributo, pois este não pode constituir sanção de ato ilícito.\nIII. A instituição de tributo depende de lei, admitida a medida provisória nas matérias que não sejam reservadas a lei complementar.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "I e III, apenas.",
+        "II e III, apenas.",
+        "III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 1,
+      "comentario": "I e III estão corretas. II confunde dois planos: a vedação do art. 3º impede que o tributo seja utilizado como punição, mas não imuniza a renda de origem ilícita — pelo princípio do pecunia non olet, a definição do fato gerador é interpretada abstraindo-se da validade jurídica dos atos praticados, de modo que quem revela capacidade contributiva é tributado independentemente da licitude da origem.",
+      "fundamento": "CTN, arts. 3º e 118; CF/1988, art. 62, §1º, III.",
+      "dificuldade": "media",
+      "tags": [
+        "conceito-de-tributo",
+        "pecunia-non-olet",
+        "medida-provisoria"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0080",
+      "topico": "6.3.2",
+      "tipo": "multipla",
+      "enunciado": "O Código Tributário Nacional e a jurisprudência do Supremo Tribunal Federal adotam teorias distintas quanto ao número de espécies tributárias.\n\nSobre essa divergência, é correto afirmar que:",
+      "alternativas": [
+        "ambos adotam a teoria tripartite, limitada a impostos, taxas e contribuições de melhoria.",
+        "o CTN adota a teoria pentapartite, e o STF, a tripartite.",
+        "o CTN acolhe a teoria tripartite — impostos, taxas e contribuições de melhoria —, ao passo que o STF adota a teoria pentapartite ou quinquipartite, que acrescenta os empréstimos compulsórios e as contribuições especiais como espécies autônomas.",
+        "ambos adotam a teoria bipartite, que distingue apenas tributos vinculados e não vinculados.",
+        "o STF adota a teoria quadripartite, excluindo as contribuições de melhoria do rol de espécies tributárias."
+      ],
+      "correta": 2,
+      "comentario": "O art. 5º do CTN, de 1966, reflete o sistema então vigente e enumera três espécies. A Constituição de 1988 disciplinou autonomamente os empréstimos compulsórios e as contribuições especiais, e o STF passou a reconhecê-los como espécies próprias, consolidando a teoria pentapartite. A teoria bipartite, de Geraldo Ataliba, classifica os tributos apenas em vinculados e não vinculados, segundo o fato gerador.",
+      "fundamento": "CTN, art. 5º; CF/1988, arts. 145, 148 e 149; STF, RE 146.733.",
+      "dificuldade": "facil",
+      "tags": [
+        "teoria-tripartite",
+        "teoria-pentapartite",
+        "especies-tributarias"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0081",
+      "topico": "6.3.2",
+      "tipo": "multipla",
+      "enunciado": "Quanto à hipótese de incidência, os tributos classificam-se em vinculados e não vinculados.\n\nAssinale a opção que apresenta corretamente essa classificação.",
+      "alternativas": [
+        "São vinculados os tributos cuja receita tem destinação específica determinada em lei.",
+        "São vinculados os impostos, e não vinculados as taxas e as contribuições de melhoria.",
+        "Todos os tributos são vinculados, pois decorrem de atividade administrativa plenamente vinculada.",
+        "A classificação depende da competência do ente instituidor, e não do fato gerador.",
+        "São vinculados os tributos cujo fato gerador consiste em uma atuação estatal específica relativa ao contribuinte, como as taxas e as contribuições de melhoria; são não vinculados aqueles cujo fato gerador independe de qualquer atividade estatal específica, como os impostos."
+      ],
+      "correta": 4,
+      "comentario": "A classificação observa o fato gerador. Nos tributos vinculados, o fato gerador é uma atuação estatal referida ao contribuinte: o exercício do poder de polícia ou a prestação de serviço, nas taxas; a obra que valoriza o imóvel, na contribuição de melhoria. Nos não vinculados, o fato gerador é uma manifestação de riqueza do próprio contribuinte, independentemente de qualquer contrapartida. Não confundir com a vinculação da receita, que é critério distinto.",
+      "fundamento": "CTN, arts. 16 e 77; doutrina de Geraldo Ataliba.",
+      "dificuldade": "facil",
+      "tags": [
+        "tributos-vinculados",
+        "nao-vinculados",
+        "fato-gerador"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0082",
+      "topico": "6.3.2",
+      "tipo": "multipla",
+      "enunciado": "Quanto ao destino da arrecadação, os tributos classificam-se em de arrecadação vinculada e não vinculada.\n\nSobre essa classificação, é correto afirmar que:",
+      "alternativas": [
+        "os empréstimos compulsórios e as contribuições especiais têm arrecadação vinculada à finalidade que justificou sua instituição, ao passo que os impostos, em regra, têm arrecadação não vinculada, por força da vedação constitucional de vinculação de sua receita a órgão, fundo ou despesa.",
+        "as taxas têm, necessariamente, arrecadação vinculada ao custeio do serviço que remuneram.",
+        "a classificação coincide integralmente com a de tributos vinculados e não vinculados.",
+        "todos os tributos têm arrecadação vinculada, por força do princípio da legalidade orçamentária.",
+        "a vinculação da receita de impostos é a regra, admitidas poucas exceções."
+      ],
+      "correta": 0,
+      "comentario": "São classificações independentes. Quanto ao fato gerador, taxas e contribuições de melhoria são vinculadas; quanto à receita, o empréstimo compulsório e as contribuições especiais é que têm destinação obrigatória. Os impostos são não vinculados em ambos os sentidos, pois o art. 167, IV, veda a vinculação de sua receita, ressalvadas as hipóteses nele previstas, como as destinações à saúde, à educação e à atividade de administração tributária.",
+      "fundamento": "CF/1988, arts. 148, parágrafo único, 149 e 167, IV.",
+      "dificuldade": "media",
+      "tags": [
+        "arrecadacao-vinculada",
+        "destinacao",
+        "art-167"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0083",
+      "topico": "6.3.2",
+      "tipo": "multipla",
+      "enunciado": "Nos termos do Código Tributário Nacional, imposto é o tributo cuja obrigação tem por fato gerador:",
+      "alternativas": [
+        "o exercício regular do poder de polícia pelo ente tributante.",
+        "a realização de obra pública de que decorra valorização imobiliária.",
+        "uma situação independente de qualquer atividade estatal específica relativa ao contribuinte.",
+        "a utilização, efetiva ou potencial, de serviço público específico e divisível.",
+        "a ocorrência de despesa extraordinária decorrente de calamidade pública."
+      ],
+      "correta": 2,
+      "comentario": "O art. 16 define o imposto pela ausência de contrapartida: seu fato gerador é uma situação reveladora de capacidade contributiva — auferir renda, ser proprietário, fazer circular mercadoria — desvinculada de qualquer atuação estatal dirigida ao contribuinte. É por isso que o imposto se funda na solidariedade e na capacidade contributiva, e não em retribuição por serviço recebido.",
+      "fundamento": "CTN, art. 16; CF/1988, art. 145, §1º.",
+      "dificuldade": "facil",
+      "tags": [
+        "imposto",
+        "fato-gerador",
+        "art-16"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0084",
+      "topico": "6.3.2",
+      "tipo": "multipla",
+      "enunciado": "Nos termos da Constituição e do Código Tributário Nacional, as taxas têm como fato gerador:",
+      "alternativas": [
+        "o exercício regular do poder de polícia ou a utilização, efetiva ou potencial, de serviço público específico e divisível, prestado ao contribuinte ou posto à sua disposição.",
+        "a realização de obra pública que beneficie a coletividade.",
+        "qualquer atividade desenvolvida pelo ente público, ainda que de caráter geral e indivisível.",
+        "exclusivamente a prestação efetiva de serviço público ao contribuinte.",
+        "a manifestação de capacidade contributiva do sujeito passivo."
+      ],
+      "correta": 0,
+      "comentario": "São duas as hipóteses: a taxa de polícia, que pressupõe o exercício regular do poder de polícia, e a taxa de serviço, que admite utilização efetiva ou potencial. A utilização potencial exige que o serviço seja de utilização compulsória e esteja posto à disposição mediante atividade administrativa em efetivo funcionamento — não basta a mera possibilidade abstrata de vir a ser prestado.",
+      "fundamento": "CF/1988, art. 145, II; CTN, arts. 77 e 79.",
+      "dificuldade": "facil",
+      "tags": [
+        "taxa",
+        "poder-de-policia",
+        "servico-publico"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0085",
+      "topico": "6.3.2",
+      "tipo": "multipla",
+      "enunciado": "Município instituiu duas exações: uma taxa cobrada exclusivamente pela coleta, remoção e destinação de lixo proveniente de imóveis, e outra pelos serviços de segurança pública prestados à população em geral.\n\nÀ luz da jurisprudência do STF, é correto afirmar que:",
+      "alternativas": [
+        "ambas são constitucionais, pois remuneram serviços públicos prestados pelo Município.",
+        "ambas são inconstitucionais, pois serviços públicos devem ser custeados por impostos.",
+        "a primeira é inconstitucional, e a segunda, constitucional.",
+        "a validade de ambas depende de prévia autorização em lei complementar federal.",
+        "a primeira é constitucional, pois a coleta domiciliar de lixo é serviço específico e divisível, mensurável por unidade de imóvel; a segunda é inconstitucional, pois a segurança pública é serviço geral e indivisível, prestado uti universi, devendo ser custeada pela receita de impostos."
+      ],
+      "correta": 4,
+      "comentario": "O critério é a divisibilidade. A coleta domiciliar de lixo é destacável em unidades autônomas e mensurável por imóvel, o que a Súmula Vinculante 19 reconhece como apta à cobrança por taxa, desde que não englobe serviços de limpeza urbana em geral. Já segurança pública, iluminação pública e limpeza de logradouros são serviços uti universi, prestados indistintamente à coletividade, e por isso só podem ser custeados por impostos.",
+      "fundamento": "STF, Súmula Vinculante 19; CTN, art. 79, II e III.",
+      "dificuldade": "media",
+      "tags": [
+        "taxa",
+        "uti-singuli",
+        "uti-universi",
+        "sumula-vinculante-19"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0086",
+      "topico": "6.3.2",
+      "tipo": "multipla",
+      "enunciado": "A Constituição veda que as taxas tenham base de cálculo própria de impostos.\n\nEssa vedação justifica-se porque:",
+      "alternativas": [
+        "as taxas devem ter valor fixo, sem qualquer graduação entre contribuintes.",
+        "a taxa remunera atuação estatal específica, devendo seu valor guardar correlação com o custo dessa atuação, ao passo que o imposto é graduado pela capacidade contributiva; adotar a base própria de imposto desnaturaria a taxa e permitiria burlar a repartição constitucional de competências.",
+        "as taxas não podem ser cobradas de pessoas jurídicas.",
+        "a base de cálculo das taxas deve ser sempre o valor venal do imóvel do contribuinte.",
+        "a vedação impede qualquer utilização de elementos que também figurem na base de cálculo de impostos."
+      ],
+      "correta": 1,
+      "comentario": "Taxa e imposto obedecem a lógicas distintas de quantificação: a primeira se referencia ao custo da atividade estatal; o segundo, à riqueza manifestada. Permitir que a taxa adotasse a base própria de um imposto a converteria em imposto disfarçado, contornando a repartição de competências. A vedação, contudo, não é absoluta quanto aos elementos: admite-se o aproveitamento de um ou mais deles, desde que não haja identidade integral entre as bases.",
+      "fundamento": "CF/1988, art. 145, §2º; CTN, art. 77, parágrafo único.",
+      "dificuldade": "media",
+      "tags": [
+        "taxa",
+        "base-de-calculo",
+        "art-145-par-2"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0087",
+      "topico": "6.3.2",
+      "tipo": "multipla",
+      "enunciado": "Município realizou obra de pavimentação que valorizou os imóveis lindeiros e pretende instituir contribuição de melhoria.\n\nNos termos do Código Tributário Nacional, essa exação:",
+      "alternativas": [
+        "pode ser cobrada em razão da simples realização da obra, independentemente de valorização.",
+        "tem como único limite o custo total da obra realizada.",
+        "pode ser cobrada antes do início da obra, a título de antecipação do custo.",
+        "tem como fato gerador a valorização imobiliária decorrente da obra pública, observados o limite total, correspondente à despesa realizada, e o limite individual, correspondente ao acréscimo de valor que da obra resultar para cada imóvel beneficiado.",
+        "independe de lei, bastando ato do Poder Executivo que aprove o orçamento da obra."
+      ],
+      "correta": 3,
+      "comentario": "O fato gerador não é a obra, mas a valorização que dela decorre para o imóvel — sem valorização, não há contribuição de melhoria. A quantificação observa dois tetos simultâneos: a Administração não pode arrecadar mais do que gastou, nem exigir de cada proprietário mais do que o acréscimo de valor verificado em seu imóvel. Como todo tributo, depende de lei e de procedimento prévio com publicação dos elementos da obra.",
+      "fundamento": "CF/1988, art. 145, III; CTN, arts. 81 e 82.",
+      "dificuldade": "media",
+      "tags": [
+        "contribuicao-de-melhoria",
+        "valorizacao",
+        "limites"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0088",
+      "topico": "6.3.2",
+      "tipo": "multipla",
+      "enunciado": "Quanto à finalidade, os tributos classificam-se em fiscais, extrafiscais e parafiscais.\n\nAssinale a opção que os conceitua corretamente.",
+      "alternativas": [
+        "Fiscal: destinado a intervir no domínio econômico. Extrafiscal: destinado à arrecadação. Parafiscal: cobrado por autoridade judiciária.",
+        "Fiscal: instituído por lei complementar. Extrafiscal: instituído por lei ordinária. Parafiscal: instituído por medida provisória.",
+        "Fiscal: arrecadado pela União. Extrafiscal: pelos Estados. Parafiscal: pelos Municípios.",
+        "Fiscal: tem por finalidade principal a arrecadação de recursos. Extrafiscal: tem por finalidade preponderante intervir em situação social ou econômica, estimulando ou desestimulando comportamentos. Parafiscal: destina-se a custear atividades de entidades diversas do ente instituidor, que recebem a capacidade tributária ativa e o produto da arrecadação.",
+        "As três categorias são sinônimas, variando apenas a terminologia doutrinária."
+      ],
+      "correta": 3,
+      "comentario": "A fiscalidade visa a abastecer os cofres públicos, como no Imposto de Renda. A extrafiscalidade usa o tributo como instrumento de indução de condutas, caso do Imposto de Importação e do IPI sobre o cigarro. A parafiscalidade ocorre quando o ente institui o tributo mas delega a arrecadação e a fiscalização a terceiro, que fica com o produto para custear atividades de interesse público — exemplo típico das contribuições aos conselhos de fiscalização profissional.",
+      "fundamento": "Doutrina tributária; CTN, art. 7º.",
+      "dificuldade": "facil",
+      "tags": [
+        "fiscalidade",
+        "extrafiscalidade",
+        "parafiscalidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0089",
+      "topico": "6.3.2",
+      "tipo": "multipla",
+      "enunciado": "Empresa recolheu indevidamente tributo que, por sua natureza, comporta a transferência do encargo financeiro ao adquirente das mercadorias, e pretende a restituição dos valores.\n\nNos termos do Código Tributário Nacional, a restituição:",
+      "alternativas": [
+        "é vedada em qualquer hipótese nos tributos indiretos.",
+        "pode ser pleiteada livremente pelo contribuinte de direito, independentemente de qualquer comprovação.",
+        "somente pode ser pleiteada pelo consumidor final, contribuinte de fato, que suportou o encargo.",
+        "somente será feita a quem prove haver assumido o encargo financeiro ou, no caso de tê-lo transferido a terceiro, estar por este expressamente autorizado a recebê-la.",
+        "independe de qualquer requisito, por tratar-se de pagamento sem causa jurídica."
+      ],
+      "correta": 3,
+      "comentario": "A regra do art. 166 evita o enriquecimento sem causa de quem repassou o ônus ao adquirente. Nos tributos indiretos — como o ICMS e o IPI —, há o contribuinte de direito, que recolhe, e o de fato, que suporta economicamente o encargo embutido no preço. A restituição exige, portanto, prova de que o encargo foi assumido ou autorização expressa de quem o suportou.",
+      "fundamento": "CTN, art. 166.",
+      "dificuldade": "media",
+      "tags": [
+        "tributos-indiretos",
+        "restituicao",
+        "contribuinte-de-fato"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0090",
+      "topico": "6.3.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre a classificação dos tributos em reais e pessoais, é correto afirmar que:",
+      "alternativas": [
+        "os tributos reais incidem sobre pessoas jurídicas, e os pessoais, sobre pessoas físicas.",
+        "os tributos reais são instituídos por lei complementar, e os pessoais, por lei ordinária.",
+        "os tributos reais consideram objetivamente o bem ou a operação tributada, sem levar em conta condições pessoais do contribuinte, como ocorre no IPTU e no IPVA; os pessoais consideram características subjetivas do sujeito passivo na graduação do ônus, como ocorre no Imposto de Renda da pessoa física, com suas deduções.",
+        "apenas os tributos pessoais se submetem ao princípio da capacidade contributiva, sendo vedada qualquer progressividade nos reais.",
+        "a classificação foi abandonada pela doutrina após a Constituição de 1988."
+      ],
+      "correta": 2,
+      "comentario": "A distinção observa se a norma leva em conta a situação individual do contribuinte. O Imposto de Renda da pessoa física é o exemplo clássico de tributo pessoal, com deduções por dependentes e despesas médicas. IPTU e IPVA são reais, pois incidem sobre o bem considerado em si. A classificação não impede a progressividade nos tributos reais: o STF a admite no ITCMD, por entender que a capacidade contributiva se aplica também a eles.",
+      "fundamento": "CF/1988, art. 145, §1º; STF, RE 562.045.",
+      "dificuldade": "media",
+      "tags": [
+        "tributos-reais",
+        "tributos-pessoais",
+        "capacidade-contributiva"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0091",
+      "topico": "6.3.2",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, sobre a classificação dos tributos.\n\nI. A classificação dos tributos em vinculados e não vinculados leva em conta o fato gerador, e não o destino da arrecadação.\nII. As taxas podem ser instituídas pela União, pelos Estados, pelo Distrito Federal e pelos Municípios, no âmbito de suas respectivas atribuições.\nIII. A contribuição de melhoria pode ser exigida de todos os proprietários do Município, ainda que seus imóveis não tenham sido valorizados pela obra.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 1,
+      "comentario": "I e II estão corretas: a classificação em vinculados e não vinculados observa o fato gerador, e as taxas são de competência comum, exercida por cada ente no âmbito de suas atribuições. III está errada: a contribuição de melhoria pressupõe valorização do imóvel e observa o limite individual do acréscimo de valor verificado em cada um, não podendo alcançar proprietários cujos imóveis não tenham sido beneficiados.",
+      "fundamento": "CF/1988, art. 145; CTN, arts. 77 e 81.",
+      "dificuldade": "media",
+      "tags": [
+        "classificacao",
+        "taxas",
+        "contribuicao-de-melhoria"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dtrib-0092",
+      "topico": "6.3.2",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que apresenta corretamente a distinção entre tributos cumulativos e não cumulativos.",
+      "alternativas": [
+        "Cumulativo é o tributo exigido mais de uma vez pelo mesmo ente sobre o mesmo fato gerador.",
+        "Não cumulativo é o tributo cuja alíquota aumenta conforme cresce a base de cálculo.",
+        "Cumulativo é o tributo que incide em cada etapa da cadeia econômica sem permitir a compensação do montante exigido nas etapas anteriores, gerando o efeito cascata; não cumulativo é aquele em que se compensa o devido em cada operação com o cobrado nas anteriores.",
+        "A distinção aplica-se exclusivamente aos impostos de competência da União.",
+        "Cumulativo é o tributo cuja receita se acumula em fundo específico, e não cumulativo o de receita livre."
+      ],
+      "correta": 2,
+      "comentario": "A não cumulatividade neutraliza a tributação em cascata ao permitir que o contribuinte compense o montante devido com o cobrado nas operações anteriores. É obrigatória no IPI e no ICMS, e aplicável ao PIS/Pasep e à COFINS no regime respectivo. A progressividade, mencionada no distrator, é critério distinto, relativo à graduação de alíquotas conforme a base de cálculo.",
+      "fundamento": "CF/1988, arts. 153, §3º, II, 155, §2º, I, e 195, §12.",
+      "dificuldade": "facil",
+      "tags": [
+        "cumulatividade",
+        "nao-cumulatividade",
+        "efeito-cascata"
+      ],
+      "fonte": "inédita"
     }
   ]
 }
