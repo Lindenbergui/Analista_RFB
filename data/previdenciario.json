@@ -531,6 +531,510 @@
         "equilibrio"
       ],
       "fonte": "inédita"
+    },
+    {
+      "id": "prev-0024",
+      "topico": "7.2.1",
+      "tipo": "multipla",
+      "enunciado": "A doutrina majoritária identifica um diploma específico como marco inicial da previdência social no Brasil.\n\nAssinale a opção que o indica corretamente.",
+      "alternativas": [
+        "A Constituição de 1824, que garantiu os socorros públicos.",
+        "O Decreto Legislativo nº 4.682, de 1923, conhecido como Lei Eloy Chaves, que criou as Caixas de Aposentadoria e Pensões para os empregados das empresas ferroviárias.",
+        "A Constituição de 1891, que previu a aposentadoria por invalidez aos funcionários públicos a serviço da Nação.",
+        "A Lei nº 3.807, de 1960, Lei Orgânica da Previdência Social.",
+        "O Decreto-Lei nº 72, de 1966, que criou o Instituto Nacional de Previdência Social."
+      ],
+      "correta": 1,
+      "comentario": "A Lei Eloy Chaves é o marco porque reuniu, pela primeira vez no Brasil, os elementos característicos de um sistema previdenciário: filiação obrigatória de uma categoria de trabalhadores, custeio por contribuição e rol definido de benefícios. Os diplomas anteriores eram esparsos ou meramente assistenciais: a Constituição de 1824 tratava de socorros públicos, de natureza beneficente, e a de 1891 previu aposentadoria sem qualquer contrapartida contributiva, como simples liberalidade ao servidor inválido.",
+      "fundamento": "Decreto Legislativo nº 4.682/1923 (Lei Eloy Chaves).",
+      "dificuldade": "facil",
+      "tags": [
+        "lei-eloy-chaves",
+        "marco-inicial",
+        "caps"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0025",
+      "topico": "7.2.1",
+      "tipo": "multipla",
+      "enunciado": "A previdência social brasileira passou das Caixas de Aposentadoria e Pensões (CAPs) para os Institutos de Aposentadoria e Pensões (IAPs).\n\nAssinale a opção que distingue corretamente as duas estruturas.",
+      "alternativas": [
+        "As CAPs eram autarquias federais, e os IAPs, entidades privadas mantidas pelos empregadores.",
+        "Ambas eram organizadas por categoria profissional, variando apenas a fonte de custeio.",
+        "As CAPs abrangiam servidores públicos, e os IAPs, exclusivamente trabalhadores rurais.",
+        "Os IAPs precederam as CAPs e foram por elas substituídos ao longo da década de 1930.",
+        "As CAPs eram organizadas por empresa, tinham natureza privada e eram administradas por representantes de empregados e empregadores; os IAPs, surgidos a partir de 1933, eram organizados por categoria profissional e tinham natureza de autarquias federais, o que representou a estatização da previdência."
+      ],
+      "correta": 4,
+      "comentario": "A mudança foi de escala e de natureza. A organização por empresa tornava cada CAP financeiramente frágil e dependente da sorte de um único empregador. Os IAPs reuniram todos os trabalhadores de uma mesma categoria em âmbito nacional — o IAPM, dos marítimos, foi o primeiro, em 1933 — e assumiram a forma de autarquia, trazendo a previdência para dentro do Estado.",
+      "fundamento": "Decreto Legislativo nº 4.682/1923; Decreto nº 22.872/1933 (IAPM).",
+      "dificuldade": "media",
+      "tags": [
+        "caps",
+        "iaps",
+        "estatizacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0026",
+      "topico": "7.2.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre o tratamento da proteção social nas Constituições brasileiras, assinale a afirmativa correta.",
+      "alternativas": [
+        "A Constituição de 1824 já previa sistema contributivo de previdência social, custeado por empregados e empregadores.",
+        "A Constituição de 1891 foi a primeira a empregar a expressão 'seguridade social'.",
+        "A Constituição de 1934 foi a primeira a prever a forma tríplice de custeio, mediante contribuição da União, do empregador e do empregado.",
+        "A Constituição de 1937 foi a primeira a utilizar a expressão 'previdência social'.",
+        "A Constituição de 1967 foi a primeira a reunir saúde, previdência e assistência social sob um conceito unitário."
+      ],
+      "correta": 2,
+      "comentario": "A sequência é cumulativa e a banca costuma trocar as datas. A Constituição de 1824 garantiu apenas os socorros públicos, de caráter beneficente. A de 1891 foi a primeira a usar a palavra 'aposentadoria', sem contribuição. A de 1934 inovou ao instituir o custeio tríplice. A de 1937 falou em 'seguro social'; a de 1946 é que empregou 'previdência social'. E o conceito unitário de seguridade social só veio com a Constituição de 1988.",
+      "fundamento": "Constituições de 1824, art. 179, XXXI; 1891, art. 75; 1934, art. 121, §1º, h; 1937, art. 137; 1946, art. 157.",
+      "dificuldade": "dificil",
+      "tags": [
+        "constituicoes",
+        "custeio-triplice",
+        "evolucao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0027",
+      "topico": "7.2.1",
+      "tipo": "multipla",
+      "enunciado": "A Lei nº 3.807, de 1960, Lei Orgânica da Previdência Social (LOPS), representou importante etapa da evolução do sistema brasileiro, pois:",
+      "alternativas": [
+        "extinguiu os Institutos de Aposentadoria e Pensões, unificando-os em órgão único.",
+        "criou o Instituto Nacional de Previdência Social.",
+        "estendeu a cobertura previdenciária aos trabalhadores rurais e aos empregados domésticos.",
+        "unificou e uniformizou a legislação previdenciária, padronizando benefícios e alíquotas entre os diversos institutos, sem, contudo, promover a unificação administrativa destes, que só ocorreria em 1966.",
+        "instituiu o conceito de seguridade social, integrando saúde, previdência e assistência social."
+      ],
+      "correta": 3,
+      "comentario": "A distinção entre unificação legislativa e unificação administrativa é o ponto cobrado. Até 1960, cada instituto tinha regras próprias de carência, cálculo e alíquota, o que gerava tratamento desigual entre categorias. A LOPS padronizou esse conteúdo, mas manteve os institutos existindo separadamente — a fusão deles em um órgão único só veio com o INPS, pelo Decreto-Lei nº 72/1966.",
+      "fundamento": "Lei nº 3.807/1960; Decreto-Lei nº 72/1966.",
+      "dificuldade": "media",
+      "tags": [
+        "lops",
+        "unificacao-legislativa"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0028",
+      "topico": "7.2.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que indica corretamente o diploma que promoveu a unificação administrativa dos Institutos de Aposentadoria e Pensões em entidade única.",
+      "alternativas": [
+        "O Decreto-Lei nº 72, de 1966, que criou o Instituto Nacional de Previdência Social (INPS), reunindo os institutos até então existentes.",
+        "O Decreto nº 99.350, de 1990, que criou o Instituto Nacional do Seguro Social.",
+        "A Lei nº 6.439, de 1977, que criou o Sistema Nacional de Previdência e Assistência Social.",
+        "A Lei nº 8.213, de 1991, que dispôs sobre os planos de benefícios da previdência social.",
+        "A Lei Complementar nº 11, de 1971, que instituiu o Programa de Assistência ao Trabalhador Rural."
+      ],
+      "correta": 0,
+      "comentario": "O INPS, criado em 1966 e em funcionamento a partir de 1967, concentrou em uma só autarquia a estrutura antes fragmentada em institutos por categoria. É etapa distinta da criação do INSS, que só ocorreu em 1990, pela fusão do IAPAS com o próprio INPS, já no contexto de implementação da Constituição de 1988.",
+      "fundamento": "Decreto-Lei nº 72/1966; Decreto nº 99.350/1990.",
+      "dificuldade": "facil",
+      "tags": [
+        "inps",
+        "unificacao-administrativa"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0029",
+      "topico": "7.2.1",
+      "tipo": "multipla",
+      "enunciado": "A Lei nº 6.439, de 1977, instituiu o Sistema Nacional de Previdência e Assistência Social (SINPAS).\n\nSobre esse sistema, é correto afirmar que:",
+      "alternativas": [
+        "concentrou em entidade única as funções de arrecadação, concessão de benefícios e prestação de assistência médica.",
+        "foi revogado pela Constituição de 1988, que restabeleceu a estrutura dos Institutos de Aposentadoria e Pensões.",
+        "limitou-se a reorganizar a prestação de assistência médica, sem alterar a estrutura previdenciária.",
+        "transferiu aos Estados e Municípios a gestão integral dos benefícios previdenciários.",
+        "repartiu as funções do sistema entre entidades especializadas, cabendo ao INPS a concessão e manutenção de benefícios, ao INAMPS a assistência médica e ao IAPAS a arrecadação, a fiscalização e a gestão financeira, ao lado de outras entidades como a LBA, a FUNABEM, a CEME e a DATAPREV."
+      ],
+      "correta": 4,
+      "comentario": "A lógica do SINPAS foi a especialização funcional: em vez de uma entidade fazendo tudo, cada função ficou com um órgão próprio. Essa divisão explica a criação posterior do INSS, em 1990, que refundiu as duas peças centrais — o IAPAS, da arrecadação, e o INPS, dos benefícios —, movimento depois completado com a transferência da arrecadação à Secretaria da Receita Federal do Brasil em 2007.",
+      "fundamento": "Lei nº 6.439/1977; Decreto nº 99.350/1990; Lei nº 11.457/2007.",
+      "dificuldade": "media",
+      "tags": [
+        "sinpas",
+        "inamps",
+        "iapas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0030",
+      "topico": "7.2.1",
+      "tipo": "multipla",
+      "enunciado": "A Constituição de 1988 representou mudança qualitativa na proteção social brasileira porque:",
+      "alternativas": [
+        "manteve o modelo de seguro social, limitando a proteção aos trabalhadores contribuintes.",
+        "introduziu o conceito de seguridade social, reunindo saúde, previdência e assistência social em um conjunto integrado de ações, com capítulo próprio, orçamento específico e princípios comuns.",
+        "transferiu a competência legislativa sobre previdência social aos Estados e ao Distrito Federal.",
+        "extinguiu o caráter contributivo da previdência social, que passou a ser financiada exclusivamente por impostos.",
+        "suprimiu a assistência social do âmbito da proteção social estatal, remetendo-a à iniciativa privada."
+      ],
+      "correta": 1,
+      "comentario": "Até 1988, a proteção social brasileira era essencialmente previdenciária e vinculada ao vínculo de trabalho formal. A Constituição criou o Título VIII, Capítulo II, e passou a tratar as três áreas como um sistema único, com objetivos comuns, orçamento próprio e financiamento por toda a sociedade — ampliando a proteção a quem não contribui, nas áreas de saúde e assistência, sem retirar o caráter contributivo da previdência.",
+      "fundamento": "CF/1988, arts. 194 a 204; art. 165, §5º, III.",
+      "dificuldade": "facil",
+      "tags": [
+        "cf-1988",
+        "seguridade-social",
+        "mudanca-de-paradigma"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0031",
+      "topico": "7.2.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre a legislação infraconstitucional editada para implementar o modelo de seguridade social da Constituição de 1988, assinale a afirmativa correta.",
+      "alternativas": [
+        "A Lei nº 8.212/1991 dispõe sobre os planos de benefícios, e a Lei nº 8.213/1991, sobre a organização da seguridade social e seu custeio.",
+        "O Regulamento da Previdência Social foi aprovado pela Lei nº 8.742/1993.",
+        "A Lei nº 8.212/1991 dispõe sobre a organização da seguridade social e institui o plano de custeio, enquanto a Lei nº 8.213/1991 dispõe sobre os planos de benefícios da previdência social, ambas de 24 de julho de 1991 e regulamentadas, no tocante à previdência, pelo Decreto nº 3.048/1999.",
+        "A assistência social permaneceu sem disciplina legal específica até a edição da Emenda Constitucional nº 103/2019.",
+        "As Leis nº 8.212 e 8.213, ambas de 1991, foram integralmente revogadas pela Emenda Constitucional nº 20/1998."
+      ],
+      "correta": 2,
+      "comentario": "A dupla 8.212 e 8.213 é a base do sistema e a troca entre elas é o distrator mais frequente: a primeira é a lei do custeio, a segunda, a dos benefícios. A assistência social tem lei própria, a Lei Orgânica da Assistência Social, nº 8.742/1993. O Regulamento da Previdência Social em vigor é o Decreto nº 3.048/1999, que substituiu os regulamentos anteriores de custeio e de benefícios.",
+      "fundamento": "Leis nº 8.212/1991 e 8.213/1991; Lei nº 8.742/1993; Decreto nº 3.048/1999.",
+      "dificuldade": "facil",
+      "tags": [
+        "lei-8212",
+        "lei-8213",
+        "loas",
+        "rps"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0032",
+      "topico": "7.2.1",
+      "tipo": "multipla",
+      "enunciado": "A Emenda Constitucional nº 20, de 1998, promoveu a primeira grande reforma previdenciária sob a Constituição de 1988.\n\nEntre as alterações por ela introduzidas, inclui-se:",
+      "alternativas": [
+        "a substituição do critério de tempo de serviço pelo de tempo de contribuição e a inserção, no art. 201 da Constituição, do caráter contributivo e da observância de critérios que preservem o equilíbrio financeiro e atuarial.",
+        "a cobrança de contribuição previdenciária dos servidores inativos e pensionistas.",
+        "a instituição de idade mínima de 65 anos para o homem e 62 anos para a mulher no Regime Geral de Previdência Social.",
+        "a criação do regime de previdência complementar dos servidores públicos federais, mediante a instituição da FUNPRESP.",
+        "a extinção da aposentadoria por tempo de contribuição e a adoção de nova fórmula de cálculo baseada na média de todos os salários de contribuição."
+      ],
+      "correta": 0,
+      "comentario": "A EC nº 20/1998 reorientou o sistema para a lógica contributiva: o que passa a valer é o tempo efetivamente contribuído, e não o tempo de serviço, e o equilíbrio financeiro e atuarial torna-se diretriz constitucional expressa. As demais alternativas descrevem reformas posteriores — a contribuição de inativos veio com a EC nº 41/2003, a FUNPRESP com a Lei nº 12.618/2012, e a idade mínima no RGPS, com a nova fórmula de cálculo, com a EC nº 103/2019.",
+      "fundamento": "EC nº 20/1998; CF/1988, art. 201, caput.",
+      "dificuldade": "media",
+      "tags": [
+        "ec-20",
+        "tempo-de-contribuicao",
+        "equilibrio-financeiro-atuarial"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0033",
+      "topico": "7.2.1",
+      "tipo": "multipla",
+      "enunciado": "A Emenda Constitucional nº 41, de 2003, voltou-se principalmente ao regime dos servidores públicos.\n\nAssinale a opção que apresenta alteração por ela promovida.",
+      "alternativas": [
+        "A instituição da contribuição previdenciária dos servidores inativos e pensionistas, cuja constitucionalidade foi reconhecida pelo Supremo Tribunal Federal, acompanhada do fim da integralidade e da paridade para os servidores que ingressassem após a reforma e da criação do abono de permanência.",
+        "A criação do Regime Geral de Previdência Social, de filiação obrigatória.",
+        "A instituição do sistema especial de inclusão previdenciária para o trabalhador de baixa renda.",
+        "A vedação da contagem de tempo de contribuição fictício para efeito de concessão de aposentadoria.",
+        "A transferência da arrecadação das contribuições previdenciárias à Secretaria da Receita Federal do Brasil."
+      ],
+      "correta": 0,
+      "comentario": "A EC nº 41/2003 rompeu com dois pilares do antigo regime dos servidores: o benefício deixou de corresponder necessariamente à última remuneração e deixou de ser reajustado nos mesmos índices dos ativos. Em troca da cobrança sobre inativos, criou-se o abono de permanência para quem já reunia requisitos e optasse por continuar trabalhando. O sistema especial de inclusão previdenciária é da EC nº 47/2005; a vedação de tempo fictício, da EC nº 20/1998; e a transferência da arrecadação, da Lei nº 11.457/2007.",
+      "fundamento": "EC nº 41/2003; STF, ADI 3.105; EC nº 47/2005; Lei nº 11.457/2007.",
+      "dificuldade": "media",
+      "tags": [
+        "ec-41",
+        "contribuicao-de-inativos",
+        "integralidade",
+        "paridade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0034",
+      "topico": "7.2.1",
+      "tipo": "multipla",
+      "enunciado": "A Emenda Constitucional nº 103, de 2019, promoveu ampla reforma da previdência social.\n\nAssinale a opção que apresenta corretamente alteração por ela introduzida.",
+      "alternativas": [
+        "A unificação do Regime Geral de Previdência Social e dos regimes próprios em regime único, de âmbito nacional.",
+        "A extinção do Regime Geral de Previdência Social, substituído integralmente por regime de capitalização individual.",
+        "A supressão do caráter contributivo da previdência social.",
+        "A extinção da aposentadoria por tempo de contribuição sem idade mínima, com a instituição de idade mínima no Regime Geral de Previdência Social, nova forma de cálculo do benefício a partir da média de todos os salários de contribuição e regras de transição para quem já era filiado.",
+        "A vedação de qualquer diferenciação de requisitos entre homens e mulheres para fins de aposentadoria."
+      ],
+      "correta": 3,
+      "comentario": "A EC nº 103/2019 substituiu a lógica do tempo pela da idade: não basta mais somar anos de contribuição, é preciso alcançar a idade mínima. O cálculo passou a considerar todos os salários de contribuição desde julho de 1994, afastando o descarte dos menores, e as regras de transição preservaram quem já estava filiado. A Emenda manteve os dois regimes, o caráter contributivo e a diferenciação por sexo, além de instituir alíquotas progressivas.",
+      "fundamento": "EC nº 103/2019; CF/1988, art. 201.",
+      "dificuldade": "media",
+      "tags": [
+        "ec-103",
+        "idade-minima",
+        "regras-de-transicao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0035",
+      "topico": "7.2.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre os antecedentes históricos da seguridade social no direito estrangeiro, assinale a afirmativa correta.",
+      "alternativas": [
+        "A Lei dos Pobres, editada na Inglaterra em 1601, instituiu o primeiro sistema contributivo de seguro social obrigatório.",
+        "O Social Security Act, dos Estados Unidos, de 1935, foi o primeiro diploma a empregar a expressão 'seguridade social', e o Relatório Beveridge, de 1942, na Inglaterra, propôs sistema universal e uniforme de proteção, servindo de base ao modelo moderno de seguridade social.",
+        "O Relatório Beveridge propôs a restrição da proteção social aos trabalhadores vinculados a contrato de trabalho formal.",
+        "As Constituições do México, de 1917, e de Weimar, de 1919, foram as primeiras a vedar a previsão de direitos sociais em texto constitucional.",
+        "A legislação social editada na Alemanha por Bismarck, a partir de 1883, adotou modelo de proteção universal, custeado exclusivamente por tributos gerais."
+      ],
+      "correta": 1,
+      "comentario": "São duas as matrizes. O modelo bismarckiano, inaugurado na Alemanha a partir de 1883, é o do seguro social: contributivo, obrigatório e voltado ao trabalhador. O modelo beveridgiano, desenhado no relatório de 1942, é o da seguridade: universal, uniforme e financiado pela sociedade, base do Estado de bem-estar social. A Lei dos Pobres, de 1601, era assistencial; e as Constituições do México e de Weimar foram pioneiras justamente em constitucionalizar direitos sociais.",
+      "fundamento": "Legislação social alemã de 1883-1889; Social Security Act (1935); Relatório Beveridge (1942).",
+      "dificuldade": "media",
+      "tags": [
+        "bismarck",
+        "beveridge",
+        "antecedentes-historicos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0036",
+      "topico": "7.2.1",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, sobre a evolução legislativa da proteção social no Brasil.\n\nI. A Lei nº 3.724, de 1919, disciplinou os acidentes do trabalho, adotando a teoria do risco profissional.\nII. O Instituto Nacional do Seguro Social (INSS) foi criado em 1990, pela fusão do IAPAS com o INPS.\nIII. A arrecadação e a fiscalização das contribuições previdenciárias permanecem, até hoje, a cargo do INSS.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "II, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 2,
+      "comentario": "I e II estão corretas. III está errada: a Lei nº 11.457/2007 transferiu a arrecadação, a fiscalização, a cobrança e o lançamento das contribuições previdenciárias à Secretaria da Receita Federal do Brasil, então chamada de Super-Receita, restando ao INSS a concessão e a manutenção dos benefícios. É justamente essa divisão que situa o Analista-Tributário na ponta da arrecadação previdenciária.",
+      "fundamento": "Lei nº 3.724/1919; Decreto nº 99.350/1990; Lei nº 11.457/2007.",
+      "dificuldade": "media",
+      "tags": [
+        "evolucao",
+        "inss",
+        "lei-11457"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0037",
+      "topico": "7.2.2",
+      "tipo": "multipla",
+      "enunciado": "Nos termos do art. 1º da Lei nº 8.212/1991, a seguridade social compreende:",
+      "alternativas": [
+        "um conjunto integrado de ações de iniciativa dos Poderes Públicos e da sociedade, destinado a assegurar o direito relativo à saúde, à previdência e à assistência social.",
+        "um sistema de seguro obrigatório destinado a proteger o trabalhador contra os riscos decorrentes da relação de emprego.",
+        "um conjunto de ações de iniciativa exclusiva dos Poderes Públicos, destinado a assegurar o direito à previdência social.",
+        "um conjunto de políticas públicas de redistribuição de renda, custeado exclusivamente por impostos federais.",
+        "um regime de capitalização individual destinado a complementar os benefícios do Regime Geral de Previdência Social."
+      ],
+      "correta": 0,
+      "comentario": "O conceito legal reproduz literalmente o art. 194, caput, da Constituição, e três expressões nele merecem atenção. 'Conjunto integrado' indica que as três áreas formam um sistema, e não políticas isoladas. 'Iniciativa dos Poderes Públicos e da sociedade' afasta o monopólio estatal. E a enumeração de saúde, previdência e assistência delimita exatamente o alcance da seguridade, sem abranger outros direitos sociais, como educação, moradia ou trabalho.",
+      "fundamento": "Lei nº 8.212/1991, art. 1º; CF/1988, art. 194, caput.",
+      "dificuldade": "facil",
+      "tags": [
+        "conceito-legal",
+        "art-1-lei-8212"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0038",
+      "topico": "7.2.2",
+      "tipo": "multipla",
+      "enunciado": "O conceito constitucional de seguridade social refere-se a ações de iniciativa dos Poderes Públicos e da sociedade.\n\nA menção à sociedade significa que:",
+      "alternativas": [
+        "a seguridade social é atividade privada, apenas fiscalizada pelo Poder Público.",
+        "cabe à sociedade suportar o custeio, sem qualquer participação na execução das ações de seguridade.",
+        "a atuação da sociedade restringe-se à previdência complementar fechada.",
+        "a sociedade pode substituir o Estado na prestação dos benefícios previdenciários obrigatórios.",
+        "a seguridade social não é monopólio estatal: a sociedade participa tanto do custeio, por meio das contribuições sociais, quanto da execução das ações, como ocorre na atuação das entidades beneficentes de assistência social e na livre iniciativa na assistência à saúde, além de integrar a gestão do sistema."
+      ],
+      "correta": 4,
+      "comentario": "A seguridade social é dever do Estado, mas não atividade exclusiva dele. A Constituição admite expressamente a atuação da iniciativa privada na saúde, prevê o papel das entidades beneficentes de assistência social e assegura a participação de trabalhadores, empregadores, aposentados e Governo na gestão do sistema. Isso não transfere à sociedade a responsabilidade pela prestação dos benefícios previdenciários obrigatórios, que segue a cargo do Estado.",
+      "fundamento": "CF/1988, arts. 194, caput e parágrafo único, VII, 197, 199 e 204, I.",
+      "dificuldade": "media",
+      "tags": [
+        "iniciativa-da-sociedade",
+        "nao-monopolio-estatal"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0039",
+      "topico": "7.2.2",
+      "tipo": "multipla",
+      "enunciado": "A seguridade social estrutura-se a partir da ideia de proteção contra riscos sociais.\n\nSobre essa noção, é correto afirmar que:",
+      "alternativas": [
+        "risco social é o evento futuro e incerto que, ao concretizar-se, gera uma necessidade social a ser atendida pelo sistema protetivo; a lei define previamente as contingências cobertas, não havendo proteção para risco não previsto no plano de benefícios.",
+        "a proteção previdenciária alcança indistintamente todos os riscos a que está sujeito o trabalhador.",
+        "risco social é qualquer prejuízo patrimonial sofrido pelo segurado, ainda que não previsto em lei.",
+        "a noção de risco social foi abandonada após a Constituição de 1988, que adotou modelo de proteção integral.",
+        "somente eventos involuntários configuram risco social, excluída a maternidade, decorrente de ato voluntário."
+      ],
+      "correta": 0,
+      "comentario": "O sistema protege contingências tipificadas, e não a adversidade em geral. O risco é o evento potencial — adoecer, envelhecer, morrer, perder o emprego; a necessidade social é o estado de carência que dele decorre. A Convenção nº 102 da Organização Internacional do Trabalho enumera as contingências mínimas, entre elas a maternidade, que é coberta ainda que decorra de evento planejado: o que justifica a proteção é a necessidade gerada, não a involuntariedade do fato.",
+      "fundamento": "Convenção nº 102 da OIT; CF/1988, art. 201, I a V; Lei nº 8.213/1991, art. 18.",
+      "dificuldade": "media",
+      "tags": [
+        "risco-social",
+        "necessidade-social",
+        "contingencias"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0040",
+      "topico": "7.2.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre a natureza jurídica do direito à seguridade social no ordenamento brasileiro, assinale a afirmativa correta.",
+      "alternativas": [
+        "Trata-se de norma programática, desprovida de qualquer eficácia jurídica imediata.",
+        "A previdência social figura entre os direitos sociais expressamente arrolados no art. 6º da Constituição, qualificando-se como direito fundamental de segunda dimensão, de cunho prestacional, sobre o qual incide a vedação do retrocesso social.",
+        "Trata-se de direito disponível, podendo o titular renunciar à filiação ao regime obrigatório.",
+        "Cuida-se de direito fundamental de primeira dimensão, de natureza eminentemente negativa.",
+        "Trata-se de direito de natureza contratual, nascido da adesão voluntária do segurado ao sistema."
+      ],
+      "correta": 1,
+      "comentario": "Saúde, previdência social e assistência aos desamparados estão no rol do art. 6º, o que lhes confere a estatura de direitos fundamentais. São de segunda dimensão porque exigem atuação positiva do Estado, e não simples abstenção. Daí a vedação do retrocesso social, que não petrifica o sistema — reformas são admitidas, como demonstram as emendas previdenciárias —, mas impede a supressão arbitrária do núcleo de proteção já concretizado.",
+      "fundamento": "CF/1988, arts. 6º e 194; doutrina da proibição do retrocesso social.",
+      "dificuldade": "media",
+      "tags": [
+        "direito-fundamental",
+        "segunda-dimensao",
+        "vedacao-do-retrocesso"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0041",
+      "topico": "7.2.2",
+      "tipo": "multipla",
+      "enunciado": "A Constituição confere tratamento orçamentário próprio à seguridade social.\n\nSobre esse tratamento, é correto afirmar que:",
+      "alternativas": [
+        "os recursos da seguridade social integram o orçamento fiscal da União, sem individualização.",
+        "a lei orçamentária anual compreende o orçamento da seguridade social, abrangendo todas as entidades e órgãos a ela vinculados, da administração direta ou indireta, cuja proposta é elaborada de forma integrada pelos órgãos responsáveis pela saúde, pela previdência e pela assistência social, assegurada a cada área a gestão de seus recursos.",
+        "cada uma das três áreas elabora proposta orçamentária autônoma, vedada a elaboração integrada.",
+        "o orçamento da seguridade social é elaborado exclusivamente pelo Ministério responsável pela previdência social, que gere a totalidade dos recursos.",
+        "as receitas das contribuições sociais podem ser livremente remanejadas para custeio de despesas estranhas à seguridade social, por ato do Poder Executivo."
+      ],
+      "correta": 1,
+      "comentario": "A existência de um orçamento próprio é consequência direta de a seguridade social ser tratada como sistema unitário. A lei orçamentária anual compreende três peças: o orçamento fiscal, o de investimento das estatais e o da seguridade social. A proposta é integrada, para garantir a visão de conjunto, mas cada área administra os recursos que lhe cabem — o que preserva a autonomia da saúde, da previdência e da assistência dentro do sistema.",
+      "fundamento": "CF/1988, arts. 165, §5º, III, e 195, §2º.",
+      "dificuldade": "media",
+      "tags": [
+        "orcamento-da-seguridade",
+        "art-165",
+        "art-195-par-2"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0042",
+      "topico": "7.2.2",
+      "tipo": "multipla",
+      "enunciado": "O sistema brasileiro de seguridade social costuma ser classificado pela doutrina como híbrido ou misto.\n\nEssa classificação justifica-se porque:",
+      "alternativas": [
+        "as três áreas da seguridade adotam uniformemente o modelo contributivo bismarckiano.",
+        "as três áreas adotam uniformemente o modelo universalista beveridgiano.",
+        "a previdência social é financiada exclusivamente por tributos gerais, e a saúde, por contribuições dos usuários.",
+        "o sistema combina a lógica do seguro social na previdência, de filiação obrigatória e acesso condicionado à contribuição, com a lógica universalista na saúde, de acesso universal e igualitário independentemente de contribuição, e na assistência social, prestada a quem dela necessitar, independentemente de contribuição.",
+        "a classificação decorre da coexistência do Regime Geral com os regimes próprios de previdência dos servidores."
+      ],
+      "correta": 3,
+      "comentario": "O desenho brasileiro aproveita as duas matrizes históricas. Na previdência, vale a lógica do seguro: quem não contribui não se beneficia, e a filiação é obrigatória para quem exerce atividade remunerada. Na saúde e na assistência, vale a lógica da seguridade em sentido estrito: o acesso decorre da necessidade, não da contribuição. É por isso que o financiamento recai sobre toda a sociedade, de forma direta e indireta.",
+      "fundamento": "CF/1988, arts. 195, 196, 201 e 203.",
+      "dificuldade": "media",
+      "tags": [
+        "modelo-hibrido",
+        "bismarck",
+        "beveridge"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0043",
+      "topico": "7.2.2",
+      "tipo": "multipla",
+      "enunciado": "O art. 195, §7º, da Constituição dispõe que são isentas de contribuição para a seguridade social as entidades beneficentes de assistência social que atendam às exigências estabelecidas em lei.\n\nSegundo a jurisprudência do Supremo Tribunal Federal, esse dispositivo:",
+      "alternativas": [
+        "institui verdadeira isenção, passível de revogação por lei ordinária a qualquer tempo.",
+        "é norma de eficácia plena, dispensando qualquer regulamentação legal.",
+        "alcança todas as entidades sem fins lucrativos, independentemente de atuação beneficente.",
+        "veda a exigência de certificação das entidades pela Administração Pública.",
+        "veicula, a despeito da expressão 'isentas', hipótese de imunidade tributária, de modo que os requisitos relativos ao modo beneficente de atuação das entidades devem ser estabelecidos em lei complementar, cabendo à lei ordinária apenas a disciplina de aspectos procedimentais de certificação, fiscalização e controle administrativo."
+      ],
+      "correta": 4,
+      "comentario": "A redação constitucional é tecnicamente imprópria: por estar na própria Constituição, a desoneração é imunidade, não isenção — o que impede que lei ordinária a suprima. O STF, ao julgar o tema, distinguiu dois planos: as condições que definem o modo beneficente de atuação, por tocarem a própria limitação ao poder de tributar, exigem lei complementar; já o procedimento de certificação e o controle administrativo podem vir em lei ordinária, hoje a Lei Complementar nº 187/2021.",
+      "fundamento": "CF/1988, arts. 146, II, e 195, §7º; STF, RE 566.622 (Tema 32) e ADI 2.028.",
+      "dificuldade": "dificil",
+      "tags": [
+        "imunidade",
+        "entidades-beneficentes",
+        "art-195-par-7"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0044",
+      "topico": "7.2.2",
+      "tipo": "multipla",
+      "enunciado": "Segurado aposentado pelo Regime Geral de Previdência Social retornou à atividade remunerada e questiona a exigência de novas contribuições, por já receber benefício.\n\nÀ luz do princípio da solidariedade, que fundamenta a seguridade social, é correto afirmar que:",
+      "alternativas": [
+        "o aposentado que retorna à atividade é isento de contribuição, por já ter cumprido o tempo exigido.",
+        "a contribuição é devida, mas assegura ao segurado o direito à concessão de nova aposentadoria mais vantajosa.",
+        "a exigência é inconstitucional, por configurar contribuição sem contrapartida de benefício.",
+        "o aposentado que permanece ou retorna à atividade remunerada é segurado obrigatório e, nessa condição, está sujeito ao pagamento de contribuição, pois esta não se destina a custear benefício individual, mas o sistema como um todo; a contribuição vertida após a aposentadoria não autoriza a renúncia ao benefício para obtenção de outro mais vantajoso.",
+        "a contribuição é facultativa, cabendo ao aposentado optar por recolher ou não."
+      ],
+      "correta": 3,
+      "comentario": "A solidariedade rompe a correspondência direta entre o que cada um paga e o que cada um recebe: a contribuição custeia o sistema, não a aposentadoria individual de quem a verte. Por isso o aposentado que volta a trabalhar contribui como qualquer segurado obrigatório. O STF, ao julgar a desaposentação, firmou que, no regime vigente, não há previsão legal que autorize a renúncia ao benefício para recálculo com as contribuições posteriores.",
+      "fundamento": "Lei nº 8.212/1991, art. 12, §4º; CF/1988, art. 195; STF, RE 661.256 (Tema 503).",
+      "dificuldade": "dificil",
+      "tags": [
+        "solidariedade",
+        "aposentado-que-retorna",
+        "desaposentacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "prev-0045",
+      "topico": "7.2.2",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, sobre a conceituação de seguridade social.\n\nI. A seguridade social abrange a saúde, a previdência social e a assistência social, não compreendendo os demais direitos sociais previstos no art. 6º da Constituição, como educação e moradia.\nII. A expressão 'seguridade social' é mais ampla do que 'previdência social', que constitui apenas uma de suas áreas de atuação.\nIII. O acesso às ações e serviços de saúde depende de prévia contribuição do beneficiário ao sistema de seguridade social.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "II, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 2,
+      "comentario": "I e II estão corretas: a seguridade é o gênero, do qual a previdência é espécie, e seu conteúdo é delimitado às três áreas do art. 194, ainda que outros direitos sociais integrem o art. 6º. III está errada: a saúde é direito de todos e dever do Estado, com acesso universal e igualitário às ações e serviços, independentemente de qualquer contribuição — a exigência de contrapartida contributiva é característica exclusiva da previdência social.",
+      "fundamento": "CF/1988, arts. 6º, 194, 196 e 201.",
+      "dificuldade": "facil",
+      "tags": [
+        "conceituacao",
+        "genero-e-especie",
+        "universalidade-da-saude"
+      ],
+      "fonte": "inédita"
     }
   ]
 }
