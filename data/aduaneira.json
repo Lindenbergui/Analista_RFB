@@ -972,6 +972,1086 @@
         "fiscalizacao"
       ],
       "fonte": "inédita"
+    },
+    {
+      "id": "lad-0044",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Um navio de bandeira liberiana, procedente de Xangai, ingressou no mar territorial brasileiro e aguarda autorização para atracar no Porto de Paranaguá, previsto para dali a dois dias. Considerando as normas do Regulamento Aduaneiro, assinale a afirmativa correta.",
+      "alternativas": [
+        "O navio já se encontra no território aduaneiro, em zona secundária, e o controle aduaneiro sobre ele já está sendo exercido.",
+        "O navio já se encontra no território aduaneiro, em zona primária, por estar em águas sob jurisdição brasileira.",
+        "O navio ainda não está sujeito ao controle aduaneiro, que só se inicia com a atracação em porto alfandegado.",
+        "O controle aduaneiro alcança o navio e sua carga, mas não as bagagens dos tripulantes, que se submetem ao regime de bagagem.",
+        "O controle aduaneiro sobre o navio se encerra com o desembaraço aduaneiro da última carga descarregada."
+      ],
+      "correta": 0,
+      "comentario": "O território aduaneiro compreende todo o território nacional, e as águas territoriais integram a zona secundária. O controle aduaneiro do veículo é exercido desde o seu ingresso no território aduaneiro até a sua efetiva saída e se estende a mercadorias e bens a bordo, inclusive bagagens de viajantes. Por isso não começa com a atracação nem termina com o desembaraço da carga. Zona primária é a área demarcada do porto alfandegado.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 2º, 3º, II, e 26, §1º.",
+      "dificuldade": "media",
+      "tags": [
+        "controle-de-veiculos",
+        "territorio-aduaneiro",
+        "zona-secundaria"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0045",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre o alcance das normas de controle aduaneiro e das penalidades relativas ao veículo transportador, analise as afirmativas a seguir.\n\nI. As normas de controle aduaneiro de veículos aplicam-se a qualquer meio de transporte vindo do exterior ou a ele destinado, bem como ao seu proprietário, condutor ou responsável, à documentação, à carga, aos tripulantes e aos passageiros.\nII. Como regra, as penalidades relativas ao veículo transportador somente o alcançam quando ele proceder do exterior ou a ele se destinar.\nIII. Um ônibus em viagem exclusivamente doméstica nunca poderá sofrer a pena de perdimento, por não ser veículo procedente do exterior.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "II, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 2,
+      "comentario": "I está correta: as disposições aplicam-se a qualquer meio de transporte vindo do exterior ou a ele destinado, ao proprietário, condutor ou responsável, à documentação, à carga, aos tripulantes e aos passageiros. II está correta: é a regra do art. 686. III está errada: o parágrafo único do art. 686 exclui da regra os incisos V a VII do art. 688, de modo que mesmo veículo em viagem doméstica pode ser perdido (mercadoria sujeita a perdimento do responsável, desvio de rota em trânsito ou abandono).",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 686, 687 e 688, V a VII.",
+      "dificuldade": "dificil",
+      "tags": [
+        "controle-de-veiculos",
+        "veiculo-transportador",
+        "perdimento"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0046",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Em relação aos portos, aeroportos e pontos de fronteira alfandegados, é correto afirmar que",
+      "alternativas": [
+        "são assim declarados por lei, cabendo à autoridade aduaneira apenas fiscalizar as operações neles realizadas.",
+        "dispensam demarcação, pois a zona primária corresponde automaticamente aos limites do município onde se situam.",
+        "constituem, em toda a sua extensão, zona secundária, salvo quanto às áreas de armazenagem.",
+        "são alfandegados por ato declaratório da autoridade aduaneira competente, para que neles possam, sob controle aduaneiro, estacionar ou transitar veículos procedentes do exterior ou a ele destinados.",
+        "somente podem receber veículos procedentes do exterior se estiverem localizados na zona de vigilância aduaneira."
+      ],
+      "correta": 3,
+      "comentario": "Portos, aeroportos e pontos de fronteira são alfandegados por ato declaratório da autoridade aduaneira competente, para que neles possam, sob controle aduaneiro, estacionar ou transitar veículos procedentes do exterior ou a ele destinados, entre outras operações. A área demarcada desses locais é zona primária, demarcada pela autoridade aduaneira local; não há vínculo com os limites do município nem exigência de situar-se em zona de vigilância aduaneira.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 3º, I, e 5º, I.",
+      "dificuldade": "facil",
+      "tags": [
+        "controle-de-veiculos",
+        "alfandegamento",
+        "ato-declaratorio"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0047",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Em razão de forte tempestade, o comandante de um navio procedente do exterior solicitou autorização para atracar em porto não alfandegado. De acordo com o Regulamento Aduaneiro, essa autorização",
+      "alternativas": [
+        "é vedada em qualquer hipótese, pois a entrada de veículos procedentes do exterior só pode ocorrer em porto alfandegado.",
+        "pode ser concedida pelo titular da unidade aduaneira jurisdicionante, em casos justificados, sem prejuízo do controle aduaneiro sobre o veículo, as mercadorias e os bens a bordo.",
+        "pode ser concedida pelo Ministro de Estado da Fazenda, mediante ato declaratório publicado no Diário Oficial.",
+        "pode ser concedida pela autoridade portuária, dispensando-se o controle aduaneiro enquanto o navio permanecer no local.",
+        "independe de manifestação da autoridade aduaneira quando se tratar de caso de força maior comprovado."
+      ],
+      "correta": 1,
+      "comentario": "Em regra, a entrada ou a saída de veículos procedentes do exterior ou a ele destinados só pode ocorrer em porto, aeroporto ou ponto de fronteira alfandegado. O titular da unidade aduaneira jurisdicionante pode autorizá-la por local não alfandegado, em casos justificados, sem prejuízo do controle sobre o veículo, as mercadorias e os bens a bordo. A competência não é do Ministro da Fazenda nem da autoridade portuária, e o controle não é dispensado.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 26, caput e §§1º e 2º.",
+      "dificuldade": "media",
+      "tags": [
+        "controle-de-veiculos",
+        "entrada-e-saida",
+        "local-nao-alfandegado"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0048",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Uma aeronave de carga procedente do exterior realizou pouso de emergência em aeroporto não alfandegado. Nessa situação, a aeronave",
+      "alternativas": [
+        "fica sujeita ao controle da autoridade aduaneira com jurisdição sobre o aeroporto de destino originalmente previsto.",
+        "fica sob a guarda da administração do aeroporto, que responde pela carga até o desembaraço aduaneiro.",
+        "deve ser imediatamente apreendida, por ter ingressado no País por local não alfandegado.",
+        "fica dispensada do controle aduaneiro, por se tratar de situação de força maior.",
+        "fica sujeita ao controle da autoridade aduaneira com jurisdição sobre o local da aterrissagem, permanecendo a carga e a bagagem dos viajantes sob responsabilidade da empresa transportadora até a satisfação das formalidades ou o prosseguimento do voo."
+      ],
+      "correta": 4,
+      "comentario": "A aeronave procedente do exterior obrigada a pousar em emergência fora de aeroporto alfandegado fica sujeita ao controle da autoridade aduaneira com jurisdição sobre o local da aterrissagem, a quem o responsável pelo veículo comunica a ocorrência. Bagagem e carga ficam sob responsabilidade da empresa transportadora até as formalidades de desembarque e descarga ou o prosseguimento do voo. Não há apreensão automática nem dispensa de controle. O dever de o administrador do aeroporto comunicar a chegada logo após o pouso refere-se à aviação geral (art. 59).",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 58 e 59.",
+      "dificuldade": "media",
+      "tags": [
+        "controle-de-veiculos",
+        "veiculos-aereos",
+        "pouso-de-emergencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0049",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "O responsável por uma embarcação de recreio que entrar no País por seus próprios meios deverá apresentar-se à unidade aduaneira do local habilitado de entrada no prazo de",
+      "alternativas": [
+        "12 horas.",
+        "24 horas.",
+        "48 horas.",
+        "72 horas.",
+        "5 dias."
+      ],
+      "correta": 1,
+      "comentario": "O responsável por embarcação de recreio, aeronave particular ou veículo de competição que entrar no País por seus próprios meios deve apresentar-se à unidade aduaneira do local habilitado de entrada no prazo de 24 horas.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 66.",
+      "dificuldade": "facil",
+      "tags": [
+        "controle-de-veiculos",
+        "embarcacao-de-recreio",
+        "prazos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0050",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Nas cidades fronteiriças, poderão ser alfandegados pontos de fronteira para o tráfego local e exclusivo de veículos matriculados nessas cidades. Esses pontos de fronteira serão alfandegados pela",
+      "alternativas": [
+        "autoridade aduaneira local, vedada a fixação de restrições.",
+        "Câmara de Comércio Exterior, ouvido o Ministério das Relações Exteriores.",
+        "Secretaria Especial da Receita Federal do Brasil, mediante portaria conjunta com o órgão de trânsito.",
+        "autoridade de trânsito do município, com anuência da autoridade aduaneira.",
+        "autoridade aduaneira regional, que poderá fixar as restrições que julgar convenientes."
+      ],
+      "correta": 4,
+      "comentario": "Os pontos de fronteira para o tráfego local e exclusivo de veículos matriculados nas cidades fronteiriças são alfandegados pela autoridade aduaneira regional, que pode fixar as restrições que julgar convenientes. À autoridade aduaneira local cabe instituir cadastros de pessoas que habitualmente cruzam a fronteira.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 14, §§1º e 2º.",
+      "dificuldade": "media",
+      "tags": [
+        "controle-de-veiculos",
+        "cidades-fronteiricas",
+        "alfandegamento"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0051",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "O art. 28 do Regulamento Aduaneiro proíbe ao condutor de veículo colocá-lo nas proximidades de outro, sendo um deles procedente do exterior ou a ele destinado, de modo a tornar possível o transbordo de pessoa ou mercadoria sem observância das normas de controle aduaneiro. NÃO está excetuado dessa proibição o veículo",
+      "alternativas": [
+        "das repartições públicas, em serviço.",
+        "que esteja prestando socorro.",
+        "autorizado para utilização em operações portuárias, inclusive de transporte de tripulantes.",
+        "de guerra utilizado no transporte comercial.",
+        "que esteja recebendo socorro."
+      ],
+      "correta": 3,
+      "comentario": "Excetuam-se da proibição de aproximação para transbordo os veículos de guerra, salvo se utilizados no transporte comercial; os das repartições públicas, em serviço; os autorizados para operações portuárias ou aeroportuárias, inclusive de transporte de passageiros e tripulantes; e os que estejam prestando ou recebendo socorro. O veículo de guerra utilizado no transporte comercial, portanto, não está excetuado.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 28, parágrafo único.",
+      "dificuldade": "media",
+      "tags": [
+        "controle-de-veiculos",
+        "transbordo",
+        "proibicoes"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0052",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Com relação às proibições impostas ao condutor de veículo procedente do exterior ou a ele destinado, assinale a afirmativa correta.",
+      "alternativas": [
+        "É permitido o transbordo de mercadoria fora de local habilitado, desde que comunicado previamente ao transportador.",
+        "É proibido desviar o veículo da rota estabelecida pela autoridade aduaneira, ainda que por motivo justificado.",
+        "É proibido trafegar no território aduaneiro em situação ilegal quanto às normas reguladoras do transporte internacional correspondente à sua espécie.",
+        "É permitido estacionar fora de local habilitado, sendo vedadas apenas as operações de carga e descarga.",
+        "As proibições alcançam apenas o veículo que se encontre na zona primária."
+      ],
+      "correta": 2,
+      "comentario": "É proibido ao condutor de veículo procedente do exterior ou a ele destinado estacionar ou efetuar carga, descarga ou transbordo fora de local habilitado; trafegar no território aduaneiro em situação ilegal quanto às normas do transporte internacional de sua espécie; e desviá-lo da rota estabelecida pela autoridade aduaneira sem motivo justificado. A proibição de tráfego irregular alcança todo o território aduaneiro, e o desvio por motivo justificado não é vedado.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 27.",
+      "dificuldade": "facil",
+      "tags": [
+        "controle-de-veiculos",
+        "proibicoes",
+        "condutor"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0053",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Durante a permanência de um navio estrangeiro no cais de um porto alfandegado, o representante comercial do importador de parte da carga pediu para subir a bordo e examinar as mercadorias. Segundo o Regulamento Aduaneiro, o ingresso desse representante no navio",
+      "alternativas": [
+        "depende de autorização expressa da autoridade aduaneira.",
+        "é livre, por se tratar de pessoa interessada na carga.",
+        "depende apenas de autorização do comandante do navio.",
+        "é permitido, desde que ele esteja devidamente identificado, por se tratar de pessoa em serviço.",
+        "é vedado em qualquer hipótese enquanto o navio estiver na zona primária."
+      ],
+      "correta": 0,
+      "comentario": "O ingresso em veículo procedente do exterior ou a ele destinado é permitido somente aos tripulantes e passageiros, às pessoas em serviço devidamente identificadas e às pessoas expressamente autorizadas pela autoridade aduaneira. O representante do importador não se enquadra nas três primeiras categorias e depende de autorização expressa da autoridade aduaneira; a autorização do comandante não basta.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 29 (Decreto-Lei nº 37/1966, art. 38).",
+      "dificuldade": "facil",
+      "tags": [
+        "controle-de-veiculos",
+        "ingresso-a-bordo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0054",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Uma carreta que transportava mercadoria estrangeira em regime de trânsito aduaneiro, com rota definida pela autoridade aduaneira, não chegou ao local de destino, e não houve qualquer justificativa do transportador. De acordo com o Regulamento Aduaneiro, essa situação",
+      "alternativas": [
+        "configura mero atraso, punível exclusivamente com multa de R$ 500,00 por dia.",
+        "configura desvio de rota legal e extravio, sujeitando o veículo e a mercadoria à pena de perdimento.",
+        "sujeita apenas a mercadoria à pena de perdimento, preservado o veículo, que pertence a terceiro.",
+        "sujeita o veículo à pena de perdimento apenas se o motorista for o proprietário da carreta.",
+        "não acarreta penalidade se o transportador recolher espontaneamente os tributos suspensos."
+      ],
+      "correta": 1,
+      "comentario": "A não chegada do veículo ao destino configura desvio de rota legal e extravio. O veículo terrestre usado no trânsito de mercadoria estrangeira desviado de rota sem motivo justificado sujeita-se a perdimento, cumulado com o da mercadoria, e o titular da unidade de destino comunica o fato à autoridade policial. A multa de R$ 500,00 por dia é para o veículo que chega fora do prazo, não para o que não chega; e aqui a lei não exige que o proprietário seja o infrator (exigência própria do inciso V).",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 688, VI, §§1º, 3º e 4º; 689, XVII; e 728, VIII, 'c'.",
+      "dificuldade": "dificil",
+      "tags": [
+        "controle-de-veiculos",
+        "transito-aduaneiro",
+        "desvio-de-rota",
+        "perdimento"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0055",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Nos termos do Regulamento Aduaneiro, considera-se agente de carga",
+      "alternativas": [
+        "qualquer pessoa que, em nome do importador ou do exportador, contrate o transporte de mercadoria, consolide ou desconsolide cargas e preste serviços conexos.",
+        "o representante, no País, do transportador estrangeiro, responsável pelos interesses do armador perante as autoridades.",
+        "a pessoa jurídica que explora a atividade de movimentação e armazenagem de mercadorias em recinto alfandegado.",
+        "o operador de transporte multimodal que emite conhecimento único para todo o percurso.",
+        "o despachante aduaneiro que atua em nome do importador no registro da declaração de importação."
+      ],
+      "correta": 0,
+      "comentario": "Agente de carga é qualquer pessoa que, em nome do importador ou do exportador, contrate o transporte de mercadoria, consolide ou desconsolide cargas e preste serviços conexos. Não se confunde com o depositário, com o agente marítimo (representante do transportador estrangeiro), com o operador de transporte multimodal nem com o despachante aduaneiro.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 31, §2º.",
+      "dificuldade": "facil",
+      "tags": [
+        "controle-de-veiculos",
+        "agente-de-carga",
+        "prestacao-de-informacoes"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0056",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Um navio procedente do exterior atracou em porto alfandegado, mas o transportador ainda não havia prestado à Receita Federal as informações sobre a carga. O operador portuário pretende iniciar imediatamente a descarga para não perder a janela de atracação. Com base no Regulamento Aduaneiro, é correto afirmar que",
+      "alternativas": [
+        "a descarga pode ser iniciada, devendo as informações ser prestadas até o término da operação.",
+        "a vedação só alcança operações de transbordo, e não de descarga.",
+        "a descarga pode ser iniciada se o operador portuário prestar as informações em nome do transportador.",
+        "a descarga pode ser iniciada mediante termo de responsabilidade firmado pelo agente marítimo.",
+        "a descarga somente pode ser executada depois de prestadas as informações sobre a carga."
+      ],
+      "correta": 4,
+      "comentario": "As operações de carga, descarga ou transbordo em embarcações procedentes do exterior somente podem ser executadas depois de prestadas as informações sobre a carga e a chegada do veículo. Não há exceção para informação posterior, para informação pelo operador portuário em nome do transportador ou mediante termo de responsabilidade, e a vedação alcança as três operações.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 32, parágrafo único.",
+      "dificuldade": "media",
+      "tags": [
+        "controle-de-veiculos",
+        "prestacao-de-informacoes",
+        "descarga"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0057",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Determinada companhia aérea que opera linha regular internacional deixou de prestar, no prazo estabelecido pela Receita Federal, as informações sobre os passageiros e tripulantes de um voo, omitindo 40 informações. Segundo o Regulamento Aduaneiro, a multa aplicável",
+      "alternativas": [
+        "é de R$ 200,00 por informação omitida, totalizando R$ 8.000,00.",
+        "é de R$ 5.000,00 por informação omitida.",
+        "é de R$ 5.000,00 por veículo cujas informações não tenham sido prestadas na forma e no prazo estabelecidos, ou de R$ 200,00 por informação omitida, limitada a R$ 5.000,00 por veículo.",
+        "é de R$ 15.000,00 por veículo, por se tratar de transporte de passageiros.",
+        "não existe, pois a obrigação de informar dados de passageiros é apenas da autoridade migratória."
+      ],
+      "correta": 2,
+      "comentario": "A empresa de transporte internacional em linha regular aérea ou marítima que não presta as informações sobre tripulantes e passageiros sujeita-se a multa de R$ 5.000,00 por veículo, ou de R$ 200,00 por informação omitida, limitada a R$ 5.000,00 por veículo. Assim, 40 informações omitidas não geram R$ 8.000,00: incide o teto. A multa de R$ 15.000,00 é a do art. 731, relativa a mercadoria sujeita a perdimento.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 33 e 729.",
+      "dificuldade": "media",
+      "tags": [
+        "controle-de-veiculos",
+        "multas",
+        "passageiros-e-tripulantes"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0058",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, relativas à prestação de informações pelo transportador.\n\nI. O termo de entrada do veículo será emitido após a prestação das informações e a efetiva chegada do veículo ao País.\nII. Depois de formalizada a entrada do veículo procedente do exterior, não mais se tem por espontânea a denúncia de infração imputável ao transportador.\nIII. A obrigação de prestar informações sobre tripulantes e passageiros alcança as empresas de transporte internacional que operem em linha regular por via aérea ou marítima, não podendo ser estendida a outras vias de transporte.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "III, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 2,
+      "comentario": "I está correta: o termo de entrada é emitido após a prestação das informações e a efetiva chegada do veículo. II está correta: depois de formalizada a entrada do veículo procedente do exterior, não se tem por espontânea a denúncia de infração imputável ao transportador. III está errada: a obrigação de informar tripulantes e passageiros pode ser estendida a outras vias de transporte pela Receita Federal.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 32, 33, parágrafo único, e 683, §3º.",
+      "dificuldade": "media",
+      "tags": [
+        "controle-de-veiculos",
+        "termo-de-entrada",
+        "denuncia-espontanea"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0059",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Ao prestar as informações sobre a carga, o transportador comunicou a existência, a bordo, de pequenos volumes de fácil extravio. Diante disso, a autoridade aduaneira",
+      "alternativas": [
+        "deverá obrigatoriamente determinar a descarga imediata desses volumes para depósito em recinto alfandegado.",
+        "não poderá adotar qualquer providência antes do registro da declaração de importação.",
+        "deverá aplicar multa ao transportador, pois tais volumes não podem ser transportados por via marítima.",
+        "poderá determinar a colocação de lacres nos compartimentos que contenham esses volumes, podendo adotar outras medidas de controle fiscal.",
+        "deverá exigir termo de responsabilidade do comandante, vedada a adoção de lacres."
+      ],
+      "correta": 3,
+      "comentario": "Comunicada pelo transportador a existência de mercadorias ou pequenos volumes de fácil extravio, a autoridade aduaneira poderá determinar a colocação de lacres nos compartimentos que os contenham, podendo adotar outras medidas de controle fiscal. É uma faculdade: não há descarga obrigatória, multa automática ou vedação ao uso de lacres.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 31, §1º, e 35.",
+      "dificuldade": "facil",
+      "tags": [
+        "controle-de-veiculos",
+        "lacres",
+        "prestacao-de-informacoes"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0060",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Acerca da busca em veículos prevista no Regulamento Aduaneiro, assinale a afirmativa correta.",
+      "alternativas": [
+        "A busca somente pode ser realizada após a prestação, pelo transportador, das informações sobre a carga e a chegada do veículo.",
+        "A busca depende de prévia autorização judicial quando se tratar de embarcação estrangeira.",
+        "A busca deve ser precedida de intimação escrita ao proprietário do veículo, com prazo mínimo de 24 horas.",
+        "A busca pode ser realizada em qualquer veículo, para prevenir e reprimir infrações à legislação aduaneira, inclusive antes da prestação das informações pelo transportador, devendo ser precedida de comunicação, verbal ou por escrito, ao responsável pelo veículo.",
+        "A busca restringe-se a veículos que se encontrem na zona primária."
+      ],
+      "correta": 3,
+      "comentario": "A autoridade aduaneira pode proceder a buscas em qualquer veículo para prevenir e reprimir infrações à legislação aduaneira, inclusive antes da prestação das informações pelo transportador. A busca deve ser precedida de comunicação, verbal ou por escrito, ao responsável pelo veículo; não exige autorização judicial, intimação com antecedência mínima nem que o veículo esteja na zona primária.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 34, caput e §1º (Decreto-Lei nº 37/1966, art. 37, §4º).",
+      "dificuldade": "facil",
+      "tags": [
+        "controle-de-veiculos",
+        "busca-em-veiculos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0061",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "A visita a embarcações, prevista no art. 32 da Lei nº 5.025/1966, segundo o Regulamento Aduaneiro,",
+      "alternativas": [
+        "será realizada nos casos excepcionais dispostos pela Secretaria da Receita Federal do Brasil.",
+        "é obrigatória em todas as embarcações procedentes do exterior, antes de qualquer operação de descarga.",
+        "foi substituída integralmente pela busca, não havendo mais previsão normativa para sua realização.",
+        "depende de requerimento do transportador, que arcará com as despesas do serviço.",
+        "somente pode ser realizada em embarcações de bandeira estrangeira."
+      ],
+      "correta": 0,
+      "comentario": "A Receita Federal disporá sobre os casos excepcionais em que será realizada a visita a embarcações prevista no art. 32 da Lei nº 5.025/1966. A visita não é regra geral nem foi suprimida, e o texto não a condiciona a requerimento do transportador nem à bandeira estrangeira.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 34, §2º.",
+      "dificuldade": "media",
+      "tags": [
+        "controle-de-veiculos",
+        "visita-aduaneira",
+        "busca-em-veiculos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0062",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Durante inspeção não invasiva por escâner, a fiscalização identificou que um contêiner declarado como contendo tecidos apresentava imagem compatível com componentes eletrônicos. Nessa situação, a autoridade aduaneira",
+      "alternativas": [
+        "deve aguardar o registro da declaração de importação para só então verificar o conteúdo.",
+        "deve notificar o exportador estrangeiro para que apresente carta de correção no prazo de 5 dias.",
+        "deverá aplicar de imediato a pena de perdimento ao navio transportador.",
+        "poderá apenas lacrar o contêiner, sendo vedada sua descarga antes da chegada ao destino final.",
+        "poderá determinar a descarga da unidade de carga, para a devida verificação, lavrando-se termo."
+      ],
+      "correta": 4,
+      "comentario": "Havendo indícios de falsa declaração de conteúdo, a autoridade aduaneira poderá determinar a descarga de volume ou de unidade de carga para a devida verificação, lavrando-se termo. Confirmada a falsidade, o perdimento recai sobre a mercadoria, e não automaticamente sobre o navio. A carta de correção é instrumento do emitente do conhecimento e não serve para regularizar indício de fraude constatado pela fiscalização.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 36, 46 e 689, XII.",
+      "dificuldade": "media",
+      "tags": [
+        "controle-de-veiculos",
+        "falsa-declaracao-de-conteudo",
+        "descarga"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0063",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "As mercadorias incluídas em listas de sobressalentes e provisões de bordo que não forem necessárias durante a permanência do veículo na zona primária",
+      "alternativas": [
+        "devem ser obrigatoriamente descarregadas e depositadas em recinto alfandegado até a saída do veículo.",
+        "serão depositadas em compartimento fechado, que somente poderá ser aberto na presença da autoridade aduaneira ou após a saída do veículo do local.",
+        "ficam sujeitas a despacho para consumo, com pagamento dos tributos incidentes.",
+        "podem ser livremente utilizadas pela tripulação, desde que registradas no diário de bordo.",
+        "serão objeto de perdimento, por não corresponderem às necessidades do veículo."
+      ],
+      "correta": 1,
+      "comentario": "Os sobressalentes e provisões de bordo não necessários durante a permanência do veículo na zona primária são depositados em compartimento fechado, que só pode ser aberto na presença da autoridade aduaneira ou após a saída do veículo do local. Não há descarga obrigatória nem despacho para consumo. O perdimento aplica-se às mercadorias das listas em desacordo com as necessidades, o que não é o caso de itens compatíveis apenas não usados na estada.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 37, §1º, e 689, II.",
+      "dificuldade": "facil",
+      "tags": [
+        "controle-de-veiculos",
+        "provisoes-de-bordo",
+        "sobressalentes"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0064",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Em relação ao controle de sobressalentes e provisões de bordo, analise as afirmativas a seguir.\n\nI. A cautela de depósito em compartimento fechado pode ser dispensada, a critério da autoridade aduaneira, se a permanência do veículo na zona primária for de curta duração.\nII. A autoridade aduaneira poderá determinar a colocação de lacres no compartimento em que estejam depositados os sobressalentes e provisões não necessários durante a permanência na zona primária.\nIII. Ficam sujeitas à pena de perdimento as mercadorias incluídas nas listas de sobressalentes e de provisões de bordo quando em desacordo, quantitativo ou qualitativo, com as necessidades do serviço, do custeio do veículo e da manutenção de sua tripulação e de seus passageiros.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "I e II, apenas.",
+        "I e III, apenas.",
+        "II e III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 4,
+      "comentario": "As três afirmativas estão corretas. A cautela do compartimento fechado pode ser dispensada, a critério da autoridade, se a permanência na zona primária for curta; a autoridade pode lacrar esse compartimento; e as mercadorias das listas de sobressalentes e provisões em desacordo, quantitativo ou qualitativo, com as necessidades do veículo, da tripulação e dos passageiros sujeitam-se a perdimento.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 35, 37, §2º, e 689, II.",
+      "dificuldade": "media",
+      "tags": [
+        "controle-de-veiculos",
+        "provisoes-de-bordo",
+        "lacres",
+        "perdimento"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0065",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "O funcionamento de lojas, bares e instalações semelhantes em embarcações, aeronaves e outros veículos empregados no transporte internacional",
+      "alternativas": [
+        "é livre, por se tratar de atividade exercida fora do território aduaneiro.",
+        "depende de alfandegamento específico concedido pelo Ministro de Estado da Fazenda.",
+        "é regulado exclusivamente pela autoridade de aviação civil ou pela autoridade marítima, conforme o caso.",
+        "será disciplinado pela Secretaria da Receita Federal do Brasil, de modo a impedir a venda de produtos sem o atendimento ao disposto na legislação aduaneira.",
+        "é vedado enquanto o veículo estiver no território aduaneiro."
+      ],
+      "correta": 3,
+      "comentario": "A Receita Federal disciplinará o funcionamento de lojas, bares e instalações semelhantes em embarcações, aeronaves e outros veículos do transporte internacional, de modo a impedir a venda de produtos sem atender à legislação aduaneira. O veículo no País está no território aduaneiro, e a lei não proíbe a atividade: manda a Receita discipliná-la.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 38 (Decreto-Lei nº 37/1966, art. 40).",
+      "dificuldade": "facil",
+      "tags": [
+        "controle-de-veiculos",
+        "lojas-a-bordo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0066",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "A respeito das unidades de carga, de acordo com o Regulamento Aduaneiro, é correto afirmar que",
+      "alternativas": [
+        "sua entrada no País depende de registro de declaração de admissão temporária e de prestação de garantia.",
+        "as unidades de carga estrangeiras não podem ser utilizadas no transporte doméstico.",
+        "é livre a entrada e a saída de unidades de carga de qualquer nacionalidade, aplicando-se a elas, automaticamente, o regime de admissão temporária ou de exportação temporária.",
+        "por serem de livre circulação, é vedado à Receita Federal exigir informações sobre elas.",
+        "somente os contêineres de nacionalidade brasileira gozam de livre entrada e saída."
+      ],
+      "correta": 2,
+      "comentario": "É livre a entrada e a saída de unidades de carga e seus acessórios e equipamentos, de qualquer nacionalidade, bem como seu uso no transporte doméstico, aplicando-se automaticamente o regime de admissão temporária ou de exportação temporária. Não há exigência de declaração nem garantia para o regime, mas a Receita Federal pode exigir informações para fins de controle.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 39, caput, §§1º e 2º (Lei nº 9.611/1998, art. 26).",
+      "dificuldade": "facil",
+      "tags": [
+        "controle-de-veiculos",
+        "unidades-de-carga",
+        "conteiner",
+        "admissao-temporaria"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0067",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Considera-se unidade de carga, para os efeitos do Regulamento Aduaneiro,",
+      "alternativas": [
+        "o veículo terrestre utilizado no transporte de mercadorias em trânsito aduaneiro.",
+        "qualquer equipamento adequado à unitização de mercadorias a serem transportadas, sujeitas a movimentação de forma indivisível.",
+        "qualquer volume que contenha mercadoria estrangeira, ainda que de pequenas dimensões.",
+        "somente o contêiner padronizado segundo normas internacionais.",
+        "o compartimento do veículo destinado ao transporte de carga a granel."
+      ],
+      "correta": 1,
+      "comentario": "Unidade de carga é qualquer equipamento adequado à unitização de mercadorias a serem transportadas, sujeitas a movimentação de forma indivisível. O contêiner é o exemplo típico, mas a definição legal é mais ampla e não abrange o próprio veículo, o simples volume ou o compartimento de granel.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 39, §3º (Lei nº 9.611/1998, art. 24).",
+      "dificuldade": "facil",
+      "tags": [
+        "controle-de-veiculos",
+        "unidades-de-carga",
+        "conteiner"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0068",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Em fiscalização de ônibus de transporte de passageiros em viagem internacional, a autoridade aduaneira encontrou, no compartimento de bagagens, diversos volumes sem identificação do respectivo proprietário. Para efeitos fiscais, essas mercadorias",
+      "alternativas": [
+        "presumem-se de propriedade do transportador.",
+        "presumem-se de propriedade dos passageiros, em partes iguais.",
+        "são consideradas abandonadas, sem responsabilidade de qualquer pessoa.",
+        "presumem-se de propriedade do motorista do veículo, pessoa física.",
+        "presumem-se de propriedade do agente de carga que contratou o transporte."
+      ],
+      "correta": 0,
+      "comentario": "Presume-se de propriedade do transportador, para efeitos fiscais, a mercadoria transportada sem identificação do respectivo proprietário. O transportador de passageiros em viagem internacional ou que transite por zona de vigilância aduaneira deve identificar os volumes transportados como bagagem e os seus proprietários.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 40, caput e §3º (Lei nº 10.833/2003, art. 74).",
+      "dificuldade": "facil",
+      "tags": [
+        "controle-de-veiculos",
+        "identificacao-de-volumes",
+        "transporte-de-passageiros"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0069",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Transportador rodoviário de passageiros, em viagem internacional, foi flagrado transportando mercadoria sujeita à pena de perdimento sem identificação do proprietário. Constatou-se que o veículo tivera sua estrutura modificada para permitir a ocultação de mercadorias. Nessa situação, a multa aplicável ao transportador é de",
+      "alternativas": [
+        "R$ 3.000,00.",
+        "R$ 5.000,00.",
+        "R$ 15.000,00.",
+        "R$ 30.000,00.",
+        "R$ 50.000,00."
+      ],
+      "correta": 3,
+      "comentario": "A multa ao transportador que conduz mercadoria sujeita a perdimento sem identificação do proprietário é de R$ 15.000,00, elevada a R$ 30.000,00 em caso de reincidência com o mesmo veículo ou de modificação da estrutura ou das características do veículo para transportar ou ocultar mercadorias. R$ 3.000,00 é a multa por descumprimento de exigência em zona de vigilância aduaneira, que não se aplica quando cabível a do art. 731; R$ 50.000,00 é a multa por contêiner ou veículo não localizado.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 731, §1º, e 728, I e V, e §1º.",
+      "dificuldade": "media",
+      "tags": [
+        "controle-de-veiculos",
+        "multas",
+        "transportador",
+        "ocultacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0070",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Aplicada a multa do art. 731 do Regulamento Aduaneiro na hipótese de transporte rodoviário, o veículo é retido. Sobre esse procedimento, assinale a afirmativa correta.",
+      "alternativas": [
+        "A retenção somente é possível se o infrator for o proprietário do veículo.",
+        "A impugnação deve ser apresentada em trinta dias e tem efeito suspensivo, devendo o veículo ser liberado até o julgamento.",
+        "A pena de perdimento decorrente do não recolhimento da multa não admite relevação.",
+        "Não recolhida a multa, o veículo será leiloado imediatamente, sem necessidade de aplicação da pena de perdimento.",
+        "A impugnação, com efeito exclusivamente devolutivo, deve ser apresentada em vinte dias ao titular da unidade responsável pela retenção, que a apreciará em instância única."
+      ],
+      "correta": 4,
+      "comentario": "Aplicada a multa do art. 731 no transporte rodoviário, o veículo é retido ainda que o infrator não seja o proprietário. A impugnação, com efeito exclusivamente devolutivo, é apresentada em 20 dias ao titular da unidade responsável pela retenção, que a aprecia em instância única. Sem recolhimento da multa em 45 dias, aplica-se o perdimento por abandono, observado o rito do art. 774; esse perdimento pode ser relevado antes da destinação, recolhendo-se o dobro da multa.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 688, VII, 739 e 781, §§1º, 3º e 5º.",
+      "dificuldade": "dificil",
+      "tags": [
+        "controle-de-veiculos",
+        "retencao-de-veiculo",
+        "perdimento",
+        "relevacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0071",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "A multa de R$ 15.000,00 aplicável ao transportador que conduzir mercadoria sujeita a perdimento sem identificação do proprietário, quando se tratar de viagem doméstica,",
+      "alternativas": [
+        "nunca se aplica, pois a multa é restrita às viagens internacionais.",
+        "aplica-se somente quando o transportador estiver obrigado a identificar os volumes transportados, ou a emitir conhecimento de carga ou documento equivalente.",
+        "aplica-se em qualquer caso, independentemente de obrigação de identificar os volumes.",
+        "é substituída pela multa de R$ 3.000,00 por descumprimento de exigência em zona de vigilância aduaneira, aplicada cumulativamente.",
+        "aplica-se apenas ao transportador de carga, e não ao de passageiros."
+      ],
+      "correta": 1,
+      "comentario": "A multa de R$ 15.000,00 alcança o transportador de passageiros ou de carga, em viagem doméstica ou internacional. Na viagem doméstica, porém, só se aplica quando o transportador estiver obrigado a identificar os volumes transportados ou a emitir conhecimento de carga ou documento equivalente. A multa de R$ 3.000,00 por descumprimento de exigência em zona de vigilância aduaneira não se aplica quando cabível a do art. 731.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 731, caput e §2º, e 728, §1º.",
+      "dificuldade": "media",
+      "tags": [
+        "controle-de-veiculos",
+        "multas",
+        "transportador",
+        "zona-de-vigilancia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0072",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "De acordo com o Regulamento Aduaneiro, NÃO é elemento que deva constar do manifesto de carga",
+      "alternativas": [
+        "a identificação do veículo e sua nacionalidade.",
+        "o número de cada conhecimento.",
+        "a classificação fiscal das mercadorias na Nomenclatura Comum do Mercosul e o respectivo valor aduaneiro.",
+        "o consignatário de cada partida.",
+        "o nome e a assinatura do responsável pelo veículo."
+      ],
+      "correta": 2,
+      "comentario": "O manifesto contém a identificação do veículo e sua nacionalidade; os locais de embarque e de destino; o número de cada conhecimento; quantidade, espécie, marcas, número e peso dos volumes; a natureza das mercadorias; o consignatário de cada partida; a data de encerramento; e o nome e a assinatura do responsável pelo veículo. Classificação fiscal na NCM e valor aduaneiro não constam do manifesto: pertencem à declaração de importação.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 44.",
+      "dificuldade": "facil",
+      "tags": [
+        "controle-de-veiculos",
+        "manifesto-de-carga"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0073",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Um navio recebeu carga em quatro portos estrangeiros, mas apresentou, em relação ao porto brasileiro de descarga, manifestos referentes a apenas três deles. Conforme o Regulamento Aduaneiro, a não apresentação de manifesto em relação ao quarto ponto de escala será considerada",
+      "alternativas": [
+        "declaração negativa de carga.",
+        "mera irregularidade formal, sanável até o desembaraço da última carga.",
+        "embaraço à fiscalização, sujeito a multa de R$ 5.000,00.",
+        "presunção de que toda a carga do navio é de propriedade do transportador.",
+        "hipótese de perdimento do veículo."
+      ],
+      "correta": 0,
+      "comentario": "Para cada ponto de descarga no território aduaneiro, o veículo deve trazer tantos manifestos quantos forem os locais no exterior em que recebeu carga. A não apresentação de manifesto ou declaração de efeito equivalente, em relação a qualquer ponto de escala no exterior, é considerada declaração negativa de carga. A presunção de propriedade do transportador é outra regra, aplicável a volumes sem identificação no transporte de passageiros.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 43.",
+      "dificuldade": "media",
+      "tags": [
+        "controle-de-veiculos",
+        "manifesto-de-carga",
+        "declaracao-negativa"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0074",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Verificada divergência entre o manifesto de carga e o conhecimento de carga relativos a uma mesma partida, o Regulamento Aduaneiro determina que",
+      "alternativas": [
+        "prevalecerá o manifesto, por ser o documento apresentado pelo responsável pelo veículo.",
+        "prevalecerá o documento que indicar a maior quantidade, para fins de cálculo dos tributos.",
+        "a mercadoria será considerada não manifestada e sujeita a perdimento.",
+        "prevalecerá o conhecimento, podendo a correção do manifesto ser feita de ofício.",
+        "a divergência só poderá ser resolvida mediante carta de correção do importador."
+      ],
+      "correta": 3,
+      "comentario": "Havendo divergência entre o manifesto e o conhecimento, prevalece o conhecimento, podendo a correção do manifesto ser feita de ofício. A carta de correção é dirigida pelo emitente do conhecimento, não pelo importador, e serve para corrigir o próprio conhecimento.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 46 e 47.",
+      "dificuldade": "facil",
+      "tags": [
+        "controle-de-veiculos",
+        "manifesto-de-carga",
+        "conhecimento-de-carga"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0075",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre a carta de correção do conhecimento de carga, assinale a afirmativa correta.",
+      "alternativas": [
+        "Apresentada após o início do despacho aduaneiro, até o desembaraço, poderá ainda ser apreciada a critério da autoridade aduaneira, e não implica denúncia espontânea.",
+        "Apresentada após o desembaraço da mercadoria, deve ser obrigatoriamente aceita se acompanhada do conhecimento original.",
+        "Deve ser dirigida pelo importador à autoridade aduaneira do local de embarque.",
+        "Sua apresentação antes do início do despacho dispensa o exame de mérito pela autoridade aduaneira.",
+        "Se aceita, implica correção do conhecimento, mas não do manifesto, que permanece inalterado."
+      ],
+      "correta": 0,
+      "comentario": "A carta de correção é dirigida pelo emitente do conhecimento à autoridade aduaneira do local de descarga e, se aceita, implica correção do manifesto. Deve ser apresentada antes do início do despacho; apresentada depois, até o desembaraço, ainda pode ser apreciada a critério da autoridade, sem caracterizar denúncia espontânea. O cumprimento desses prazos não dispensa o exame de mérito.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 46.",
+      "dificuldade": "media",
+      "tags": [
+        "controle-de-veiculos",
+        "carta-de-correcao",
+        "conhecimento-de-carga"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0076",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, sobre o manifesto de carga.\n\nI. Se objeto de conhecimento regularmente emitido, a omissão de volume no manifesto pode ser suprida mediante a apresentação da mercadoria sob declaração escrita do responsável pelo veículo, desde que antes de a autoridade aduaneira tomar conhecimento da irregularidade.\nII. As ressalvas lançadas no manifesto com o objetivo de excluir a responsabilidade do transportador por extravios ou acréscimos são válidas para efeitos fiscais, desde que assinadas pelo emitente.\nIII. A competência para autorizar a descarga de mercadoria em local diverso do indicado no manifesto é da autoridade aduaneira do novo destino, que comunicará o fato à unidade com jurisdição sobre o local para onde a mercadoria estava manifestada.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "II, apenas.",
+        "I e III, apenas.",
+        "II e III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 2,
+      "comentario": "I está correta: a omissão de volume amparado por conhecimento regular pode ser suprida pela apresentação da mercadoria com declaração escrita do responsável pelo veículo, antes de a autoridade conhecer a irregularidade. III está correta: autoriza a descarga em local diverso a autoridade do novo destino, que comunica a unidade do destino manifestado. II está errada: ressalvas que visem a excluir a responsabilidade do transportador por extravios ou acréscimos não são consideradas para efeitos fiscais, e a assinatura do emitente não lhes dá eficácia.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 48 a 50 e 52.",
+      "dificuldade": "dificil",
+      "tags": [
+        "controle-de-veiculos",
+        "manifesto-de-carga",
+        "extravio"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0077",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Um navio que transportava minério a granel manifestou 80.000 toneladas. Na verificação, apurou-se o peso de 73.600 toneladas. Considerando o Regulamento Aduaneiro, a multa aplicável ao transportador marítimo pela diferença de peso é de",
+      "alternativas": [
+        "R$ 5.000,00.",
+        "R$ 10.000,00.",
+        "R$ 15.000,00.",
+        "R$ 40.000,00.",
+        "R$ 300,00."
+      ],
+      "correta": 2,
+      "comentario": "A diferença é de 6.400 t, isto é, 8% das 80.000 t manifestadas. No transporte marítimo, fluvial ou lacustre, a multa é de R$ 5.000,00 por ponto percentual que ultrapasse a margem de 5%. Há 3 pontos excedentes: 3 × R$ 5.000,00 = R$ 15.000,00. Aplicar a multa sobre os 8 pontos ignora a margem, e o valor de R$ 100,00 por ponto é o do transporte rodoviário ou ferroviário.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 728, IV, 'a', e XI, 'b'.",
+      "dificuldade": "dificil",
+      "tags": [
+        "controle-de-veiculos",
+        "granel",
+        "multas",
+        "manifesto-de-carga"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0078",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Uma embarcação procedente do exterior fez sua primeira escala no Brasil no Porto de Suape e, em seguida, dirigiu-se ao Porto de Salvador. Além do manifesto de carga, das cópias dos conhecimentos e da lista de sobressalentes e provisões de bordo, será exigido do responsável pelo veículo, em Salvador,",
+      "alternativas": [
+        "o termo de responsabilidade firmado pelo representante do transportador em Suape.",
+        "a autorização do Ministro de Estado da Fazenda para a navegação de cabotagem.",
+        "a declaração de importação de toda a carga descarregada em Suape.",
+        "o certificado de desembaraço da totalidade da carga a bordo.",
+        "o passe de saída do porto da escala anterior."
+      ],
+      "correta": 4,
+      "comentario": "Nos portos seguintes ao primeiro de entrada, além do manifesto, das cópias dos conhecimentos e da lista de sobressalentes e provisões, exige-se o passe de saída do porto da escala anterior.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 42 e 55, parágrafo único.",
+      "dificuldade": "facil",
+      "tags": [
+        "controle-de-veiculos",
+        "veiculos-maritimos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0079",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Os volumes transportados por via aérea serão identificados por etiqueta própria. Conforme o Regulamento Aduaneiro, NÃO é informação obrigatória dessa etiqueta",
+      "alternativas": [
+        "o nome da empresa transportadora.",
+        "o valor das mercadorias contidas nos volumes.",
+        "a quantidade e a numeração dos volumes.",
+        "o número do conhecimento de carga aéreo.",
+        "o nome do consignatário."
+      ],
+      "correta": 1,
+      "comentario": "A etiqueta dos volumes transportados por via aérea contém o nome da empresa transportadora, o número do conhecimento de carga aéreo, a quantidade e a numeração dos volumes, os aeroportos de procedência e de destino e o nome do consignatário. O valor das mercadorias não está entre os elementos exigidos.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 57.",
+      "dificuldade": "facil",
+      "tags": [
+        "controle-de-veiculos",
+        "veiculos-aereos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0080",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Determinada partida, constituindo uma só importação, foi fracionada em lotes transportados por diferentes veículos terrestres, por não caber em um único veículo. Sobre essa situação, é correto afirmar que",
+      "alternativas": [
+        "todos os lotes devem ser amparados por um único manifesto, apresentado pelo primeiro veículo.",
+        "descumprido o prazo, os tributos dos lotes subsequentes serão calculados com base na legislação vigente na data do registro da declaração de importação.",
+        "descumprido o prazo, os lotes subsequentes ficam sujeitos a perdimento.",
+        "a entrada dos lotes subsequentes ao primeiro deverá ocorrer dentro de trinta dias contados do início do despacho de importação, podendo a autoridade aduaneira local, em casos justificados, estabelecer prazo superior.",
+        "a conferência aduaneira deve ser única, realizada após a chegada do último lote."
+      ],
+      "correta": 3,
+      "comentario": "Partida que constitua uma só importação e não caiba num único veículo pode ser fracionada em lotes, cada veículo com seu próprio manifesto e o conhecimento do total da partida. Os lotes subsequentes devem entrar em até 30 dias do início do despacho, prazo que a autoridade aduaneira local pode ampliar em casos justificados. Descumprido o prazo, os tributos desses lotes são recalculados pela legislação vigente na data da efetiva entrada; não há perdimento. Cada manifesto é conferido separadamente.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 61.",
+      "dificuldade": "media",
+      "tags": [
+        "controle-de-veiculos",
+        "veiculos-terrestres",
+        "fracionamento"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0081",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Quando a mercadoria procedente do exterior for destinada a local interior do território aduaneiro e deva para lá ser conduzida no mesmo veículo terrestre em que chegou, a conferência aduaneira",
+      "alternativas": [
+        "deverá ser sempre realizada com a descarga integral da mercadoria no ponto de fronteira.",
+        "deverá, sempre que possível, ser feita sem descarga, regra que se aplica também à mercadoria destinada ao exterior por via terrestre.",
+        "será dispensada, por se tratar de trânsito aduaneiro.",
+        "será realizada exclusivamente no local de destino, vedada qualquer verificação na fronteira.",
+        "dependerá de prévia autorização do Ministro de Estado da Fazenda."
+      ],
+      "correta": 1,
+      "comentario": "Quando a mercadoria se destina a local interior e deve ser conduzida no mesmo veículo procedente do exterior, a conferência aduaneira deve, sempre que possível, ser feita sem descarga, regra que vale também para a mercadoria destinada ao exterior por via terrestre. A expressão 'sempre que possível' não proíbe a descarga; apenas a evita quando viável.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 60.",
+      "dificuldade": "facil",
+      "tags": [
+        "controle-de-veiculos",
+        "veiculos-terrestres",
+        "conferencia-aduaneira"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0082",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Um navio procedente do exterior encontra-se em porto alfandegado, e ainda não foram concluídos os procedimentos fiscais destinados a verificar a existência de eventuais débitos do transportador para com a Fazenda Nacional. Com base no Regulamento Aduaneiro, a autoridade aduaneira",
+      "alternativas": [
+        "deverá manter o navio retido até a conclusão de todos os procedimentos, vedada sua saída.",
+        "não pode impedir a saída do navio, pois o veículo não responde por multas aplicadas ao transportador.",
+        "poderá permitir a saída do veículo apenas mediante depósito em dinheiro do valor estimado dos débitos.",
+        "deverá aplicar a pena de perdimento do navio, que garante os débitos fiscais.",
+        "poderá permitir a saída do veículo, mediante termo de responsabilidade firmado pelo representante do transportador, no País."
+      ],
+      "correta": 4,
+      "comentario": "O veículo é tomado como garantia dos débitos fiscais, inclusive multas aplicadas ao transportador ou ao condutor. Enquanto não concluídos os procedimentos para verificar débitos, a autoridade pode permitir a saída do veículo mediante termo de responsabilidade firmado pelo representante do transportador no País, sem exigência de depósito. Ser garantia não significa perdimento, e a autoridade pode impedir a saída da zona primária de veículo que não satisfez as exigências legais.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 64 e 65 (Decreto-Lei nº 37/1966, arts. 39, §§2º e 3º, e 42).",
+      "dificuldade": "media",
+      "tags": [
+        "controle-de-veiculos",
+        "garantia",
+        "termo-de-responsabilidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0083",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "De acordo com o Regulamento Aduaneiro, as normas de controle aduaneiro de veículos",
+      "alternativas": [
+        "aplicam-se também aos veículos militares, quando utilizados no transporte de mercadoria.",
+        "aplicam-se aos veículos militares apenas em tempo de guerra.",
+        "não se aplicam a veículos militares, em nenhuma hipótese.",
+        "aplicam-se aos veículos militares estrangeiros, mas não aos nacionais.",
+        "aplicam-se aos veículos militares somente mediante requisição do Ministério da Defesa."
+      ],
+      "correta": 0,
+      "comentario": "As normas de controle aduaneiro de veículos aplicam-se também aos veículos militares quando utilizados no transporte de mercadoria.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 67 (Decreto-Lei nº 37/1966, art. 43).",
+      "dificuldade": "facil",
+      "tags": [
+        "controle-de-veiculos",
+        "veiculos-militares"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0084",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Ao ser descarregado de veículo procedente do exterior, um volume apresentou-se quebrado e com indícios de violação. Nessa situação, segundo o Regulamento Aduaneiro, o volume",
+      "alternativas": [
+        "deverá ser imediatamente devolvido ao exterior, às expensas do transportador.",
+        "deverá ser anotado no registro de descarga exclusivamente pelo transportador.",
+        "será declarado abandonado, com aplicação da pena de perdimento.",
+        "somente poderá ser examinado após o registro da declaração de importação pelo importador.",
+        "deverá ser objeto de conserto e pesagem, fazendo-se, ato contínuo, a devida anotação no registro de descarga, pelo depositário, podendo a autoridade aduaneira determinar cautelas fiscais e seu isolamento."
+      ],
+      "correta": 4,
+      "comentario": "A mercadoria descarregada é registrada pelo transportador, ou seu representante, e pelo depositário. O volume quebrado, com diferença de peso, com indícios de violação ou avariado deve ser objeto de conserto e pesagem, com anotação imediata no registro de descarga pelo depositário, podendo a autoridade aduaneira determinar cautelas fiscais e o isolamento dos volumes.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 63.",
+      "dificuldade": "media",
+      "tags": [
+        "controle-de-veiculos",
+        "descarga",
+        "avaria"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0085",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "A empresa responsável por um caminhão retirou o veículo de recinto sob controle aduaneiro sem autorização prévia da autoridade aduaneira. Essa conduta sujeita o infrator à multa de",
+      "alternativas": [
+        "R$ 500,00.",
+        "R$ 1.000,00.",
+        "R$ 2.000,00.",
+        "R$ 5.000,00.",
+        "R$ 15.000,00."
+      ],
+      "correta": 3,
+      "comentario": "Aplica-se multa de R$ 5.000,00 a quem promover a saída de veículo de local ou recinto sob controle aduaneiro sem autorização prévia da autoridade aduaneira.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 728, IV, 'd' (Decreto-Lei nº 37/1966, art. 107, IV, 'd').",
+      "dificuldade": "facil",
+      "tags": [
+        "controle-de-veiculos",
+        "multas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0086",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Nos termos do Regulamento Aduaneiro, aplica-se, cumulativamente ao perdimento do veículo, o perdimento da mercadoria, quando",
+      "alternativas": [
+        "o veículo transportador estiver em situação ilegal quanto às normas que o habilitem a exercer o transporte internacional.",
+        "o veículo terrestre utilizado no trânsito de mercadoria estrangeira for desviado de sua rota legal sem motivo justificado.",
+        "a embarcação navegar dentro do porto sem trazer escrito, em local visível do casco, seu nome de registro.",
+        "o veículo for considerado abandonado pelo decurso de prazo.",
+        "o veículo estiver estacionado fora de local habilitado, sem efetuar operação de carga ou descarga."
+      ],
+      "correta": 1,
+      "comentario": "O perdimento da mercadoria é aplicado cumulativamente ao do veículo nos casos de descarga ou carga fora de local habilitado, de aproximação para transbordo irregular e de desvio de rota do veículo terrestre em trânsito (incisos II, III e VI do art. 688). Situação ilegal do veículo, embarcação sem nome visível no casco e abandono não estão entre essas hipóteses. Estacionar fora de local habilitado é conduta proibida, mas não é, por si só, hipótese de perdimento.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 27, I, e 688, §1º.",
+      "dificuldade": "media",
+      "tags": [
+        "controle-de-veiculos",
+        "perdimento"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0087",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Em fiscalização de rotina, a autoridade aduaneira constatou que um veículo de propriedade de uma locadora transportava mercadoria estrangeira sujeita a perdimento, pertencente ao locatário, responsável pela infração. Sobre a possibilidade de perdimento do veículo, é correto afirmar que",
+      "alternativas": [
+        "depende de ser demonstrada, em procedimento regular, a responsabilidade do proprietário do veículo na prática do ilícito.",
+        "é automática, pois o veículo responde objetivamente pela infração cometida com seu uso.",
+        "é vedada, pois o perdimento de veículo só se aplica a veículos procedentes do exterior.",
+        "depende apenas de o valor do veículo ser inferior ao das mercadorias apreendidas.",
+        "é substituída, obrigatoriamente, por multa de R$ 15.000,00 ao locatário."
+      ],
+      "correta": 0,
+      "comentario": "Para o perdimento do veículo que conduz mercadoria sujeita a perdimento pertencente ao responsável pela infração, deve ser demonstrada, em procedimento regular, a responsabilidade do proprietário do veículo na prática do ilícito (no mesmo sentido, a Súmula 138 do extinto TFR). Essa hipótese alcança inclusive veículos em viagem doméstica. A multa de R$ 15.000,00 do art. 731 dirige-se ao transportador e não se aplica quando o veículo estiver sujeito a esse perdimento.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 686, parágrafo único, 688, V e §2º, e 731, §3º.",
+      "dificuldade": "dificil",
+      "tags": [
+        "controle-de-veiculos",
+        "perdimento",
+        "responsabilidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0088",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Uma embarcação, na zona primária, posicionou-se ao lado de navio procedente do exterior, permitindo o transbordo de mercadorias sem observância das normas legais e regulamentares. A embarcação conduzia quatro tripulantes e não se enquadrava em nenhuma hipótese de exceção. Considerando o Regulamento Aduaneiro, aplicam-se",
+      "alternativas": [
+        "apenas a multa de R$ 200,00 por tripulante, totalizando R$ 800,00.",
+        "o perdimento da mercadoria, apenas, por se tratar de operação realizada na zona primária.",
+        "o perdimento do veículo e da mercadoria, e multa de R$ 200,00 por passageiro ou tripulante conduzido pelo veículo que efetuou a operação proibida, totalizando R$ 800,00.",
+        "o perdimento do veículo e multa de R$ 15.000,00 ao transportador.",
+        "advertência ao transportador e, em caso de reincidência, suspensão de sua habilitação."
+      ],
+      "correta": 2,
+      "comentario": "A aproximação de veículos, na zona primária, para permitir transbordo sem observância das normas sujeita o veículo e a mercadoria a perdimento, cumulado com multa de R$ 200,00 por passageiro ou tripulante conduzido pelo veículo que efetuou a operação proibida: 4 × R$ 200,00 = R$ 800,00. O auto de infração da multa é lavrado após a conclusão do processo de perdimento, salvo para prevenir a decadência.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), arts. 688, III e §1º, e 730.",
+      "dificuldade": "media",
+      "tags": [
+        "controle-de-veiculos",
+        "transbordo",
+        "perdimento",
+        "multas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0089",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Em caso de dano ao Erário em que fique provada a responsabilidade do operador de transporte multimodal, a pena de perdimento do veículo",
+      "alternativas": [
+        "é mantida, sem possibilidade de conversão, por se tratar de bem diretamente utilizado na infração.",
+        "é convertida em multa equivalente ao dobro do valor do veículo.",
+        "é convertida em multa aplicável ao operador de transporte multimodal, que não poderá ultrapassar em três vezes o valor da mercadoria transportada à qual se vincule a infração.",
+        "é convertida em multa equivalente ao valor aduaneiro da mercadoria, limitada a R$ 50.000,00.",
+        "é relevada, mediante pagamento dos tributos incidentes sobre a mercadoria."
+      ],
+      "correta": 2,
+      "comentario": "Provada a responsabilidade do operador de transporte multimodal nos casos de dano ao Erário, as penas de perdimento são convertidas em multa a ele aplicável, de valor equivalente ao do bem. No caso de perdimento de veículo, a conversão não pode ultrapassar três vezes o valor da mercadoria transportada à qual se vincule a infração.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 699 (Lei nº 9.611/1998, art. 29).",
+      "dificuldade": "dificil",
+      "tags": [
+        "controle-de-veiculos",
+        "perdimento",
+        "transporte-multimodal"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "lad-0090",
+      "topico": "9.2.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre o processo de aplicação da pena de perdimento de veículo, analise as afirmativas a seguir.\n\nI. O processo tem como peça inicial o auto de infração acompanhado de termo de apreensão e, se for o caso, de termo de guarda fiscal.\nII. Feita a intimação, a não apresentação de impugnação no prazo de vinte dias implica revelia.\nIII. Após o preparo, o processo é submetido à decisão do Conselho Administrativo de Recursos Fiscais, em segunda instância.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "I e II, apenas.",
+        "I e III, apenas.",
+        "II e III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 1,
+      "comentario": "I está correta: o processo de perdimento inicia-se com auto de infração acompanhado de termo de apreensão e, se for o caso, de termo de guarda fiscal. II está correta: feita a intimação, a falta de impugnação em 20 dias implica revelia. III está errada: o processo é submetido à decisão do Ministro da Fazenda, em instância única, com possibilidade de delegação, e não ao CARF.",
+      "fundamento": "Regulamento Aduaneiro (Decreto nº 6.759/2009), art. 774 (Decreto-Lei nº 1.455/1976, art. 27).",
+      "dificuldade": "media",
+      "tags": [
+        "controle-de-veiculos",
+        "perdimento",
+        "processo"
+      ],
+      "fonte": "inédita"
     }
   ]
 }
