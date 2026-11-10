@@ -524,6 +524,824 @@
         "limites-do-relatorio"
       ],
       "fonte": "inédita"
+    },
+    {
+      "id": "cont-0024",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre a evolução normativa dos Princípios de Contabilidade no Brasil, assinale a afirmativa correta.",
+      "alternativas": [
+        "A Resolução CFC nº 750/1993 continua em vigor e é a única norma que trata dos conceitos contábeis fundamentais no país.",
+        "A Resolução CFC nº 1.282/2010 extinguiu os Princípios de Contabilidade, substituindo-os integralmente pelos Pronunciamentos Técnicos do CPC.",
+        "A Resolução CFC nº 750/1993 foi revogada com a publicação da NBC TSP Estrutura Conceitual, mas os conceitos que ela enunciava permanecem incorporados às Estruturas Conceituais vigentes.",
+        "O Princípio da Atualização Monetária foi incluído na lista de princípios pela Resolução CFC nº 1.282/2010.",
+        "Os Princípios de Contabilidade aplicam-se apenas às sociedades anônimas de capital aberto."
+      ],
+      "correta": 2,
+      "comentario": "A NBC TSP Estrutura Conceitual, publicada em 04/10/2016, revogou a Resolução CFC nº 750/1993 e a Resolução CFC nº 1.282/2010, mas os conceitos nelas enunciados — entidade, continuidade, competência, prudência e outros — permanecem incorporados às Estruturas Conceituais vigentes. A Resolução nº 1.282/2010 não extinguiu os princípios: renomeou-os para Princípios de Contabilidade e revogou a Atualização Monetária como princípio autônomo. Os princípios sempre alcançaram qualquer entidade, pública ou privada, com ou sem fins lucrativos.",
+      "fundamento": "Resolução CFC nº 750/1993; Resolução CFC nº 1.282/2010; NBC TSP Estrutura Conceitual (DOU de 04/10/2016); NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro.",
+      "dificuldade": "facil",
+      "tags": [
+        "principios-de-contabilidade",
+        "resolucao-750",
+        "evolucao-normativa"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0025",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "De acordo com o art. 177 da Lei nº 6.404/1976, a escrituração da companhia será mantida em registros permanentes, com obediência aos preceitos da legislação comercial e da própria lei e aos princípios de contabilidade geralmente aceitos, devendo ainda:",
+      "alternativas": [
+        "registrar as mutações patrimoniais segundo o regime de caixa e adotar critérios contábeis que podem ser livremente alterados a cada exercício.",
+        "observar métodos ou critérios contábeis uniformes no tempo e registrar as mutações patrimoniais segundo o regime de competência.",
+        "registrar as receitas pelo regime de competência e as despesas pelo regime de caixa.",
+        "adotar exclusivamente a legislação tributária como base para a escrituração comercial.",
+        "atualizar monetariamente o balanço patrimonial ao final de cada exercício social."
+      ],
+      "correta": 1,
+      "comentario": "O caput do art. 177 da Lei das S.A. impõe registros permanentes, obediência à legislação e aos princípios de contabilidade geralmente aceitos, métodos ou critérios contábeis uniformes no tempo e registro das mutações patrimoniais pelo regime de competência. Não há regime misto, a escrituração comercial não se subordina à legislação tributária — os ajustes fiscais são feitos fora dela, como no e-Lalur — e a correção monetária de balanço foi extinta pela Lei nº 9.249/1995.",
+      "fundamento": "Lei nº 6.404/1976, art. 177; Lei nº 9.249/1995, art. 4º.",
+      "dificuldade": "facil",
+      "tags": [
+        "lei-6404",
+        "uniformidade",
+        "regime-de-competencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0026",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "A Metalúrgica Forte S.A. firmou contrato denominado “locação de equipamento”. Pelas cláusulas, porém, a Metalúrgica assume todos os riscos e benefícios do bem durante praticamente toda a sua vida útil, e ao final do contrato a propriedade lhe será transferida por valor simbólico. O contador registrou a operação como aquisição de ativo financiada. Esse procedimento fundamenta-se:",
+      "alternativas": [
+        "na prevalência da forma jurídica do contrato sobre sua essência econômica.",
+        "no Princípio da Oportunidade, que exige o registro apenas após a emissão de nota fiscal de venda.",
+        "no Princípio da Continuidade, pois o bem será utilizado por longo prazo.",
+        "no regime de caixa, porque as parcelas são pagas mensalmente.",
+        "na prevalência da essência das transações sobre seus aspectos formais."
+      ],
+      "correta": 4,
+      "comentario": "O contrato tem a forma de locação, mas a substância econômica é de aquisição financiada: a empresa assume os riscos e benefícios do bem e recebe a propriedade ao final por valor simbólico. A Resolução nº 750 já determinava que a essência das transações prevalece sobre seus aspectos formais, ideia hoje contida na representação fidedigna do CPC 00 (R2). Oportunidade, continuidade e regime de caixa não explicam a natureza do registro.",
+      "fundamento": "Resolução CFC nº 750/1993, art. 1º, § 2º (histórica); NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro.",
+      "dificuldade": "media",
+      "tags": [
+        "essencia-sobre-a-forma",
+        "representacao-fidedigna"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0027",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir.\n\nI. Os conceitos contábeis fundamentais servem de base para interpretar e aplicar as normas, especialmente quando não há norma específica para determinada transação.\nII. A Estrutura Conceitual (CPC 00 R2) é um Pronunciamento Técnico que prevalece sobre qualquer outro pronunciamento em caso de conflito.\nIII. Com a revogação da Resolução CFC nº 750/1993, o contador passou a poder desconsiderar conceitos como competência e continuidade.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "II, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 0,
+      "comentario": "Os conceitos fundamentais servem de alicerce para interpretar e aplicar as normas, sobretudo diante de transações sem norma específica. A Estrutura Conceitual, porém, declara não ser um Pronunciamento Técnico e que nada nela se sobrepõe a pronunciamentos ou a seus requisitos. A revogação da Resolução nº 750 não autoriza desconsiderar competência e continuidade, que constam da Estrutura Conceitual — e a competência, inclusive, do art. 177 da Lei nº 6.404/1976.",
+      "fundamento": "NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro.",
+      "dificuldade": "media",
+      "tags": [
+        "estrutura-conceitual",
+        "status",
+        "julgamento-profissional"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0028",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "O Princípio da Entidade reconhece o Patrimônio como objeto da Contabilidade e afirma a autonomia patrimonial. De acordo com o seu enunciado, é correto afirmar que:",
+      "alternativas": [
+        "o patrimônio da sociedade confunde-se com o de seus sócios, por serem eles os proprietários do capital.",
+        "o Patrimônio pertence à Entidade, e a recíproca também é verdadeira.",
+        "a soma ou agregação contábil de patrimônios autônomos resulta em nova Entidade, dotada de personalidade jurídica própria.",
+        "a soma ou agregação contábil de patrimônios autônomos não resulta em nova Entidade, mas numa unidade de natureza econômico-contábil.",
+        "o princípio aplica-se somente a entidades com fins lucrativos."
+      ],
+      "correta": 3,
+      "comentario": "O parágrafo único do art. 4º dispõe que o patrimônio pertence à entidade, mas a recíproca não é verdadeira, e que a soma ou agregação contábil de patrimônios autônomos não resulta em nova entidade, mas numa unidade de natureza econômico-contábil. O princípio afirma a autonomia patrimonial — o patrimônio da sociedade não se confunde com o dos sócios — e aplica-se a entidades com ou sem fins lucrativos.",
+      "fundamento": "Resolução CFC nº 750/1993, com redação da Resolução CFC nº 1.282/2010 (revogada pela NBC TSP Estrutura Conceitual), art. 4º.",
+      "dificuldade": "facil",
+      "tags": [
+        "principio-da-entidade",
+        "autonomia-patrimonial"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0029",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "Carlos, sócio único da Carlos Comércio de Tintas Ltda., pagou com recursos da conta bancária da empresa a mensalidade escolar de seu filho, no valor de R$ 2.500, e solicitou ao contador que registrasse o valor como “despesas administrativas”. À luz dos Princípios de Contabilidade, o contador deve:",
+      "alternativas": [
+        "atender ao pedido, já que o sócio é o dono da empresa e pode dispor livremente do patrimônio dela.",
+        "registrar o valor como despesa administrativa, pois houve efetiva saída de caixa da empresa.",
+        "deixar de registrar a operação, pois se trata de gasto pessoal do sócio.",
+        "registrar o valor como despesa operacional dedutível para fins de IRPJ, desde que haja comprovante.",
+        "registrar a saída de recursos, mas não como despesa da empresa, e sim, por exemplo, como valor a receber do sócio ou como retirada/distribuição a ele."
+      ],
+      "correta": 4,
+      "comentario": "Gasto pessoal do sócio não é despesa da entidade: lançá-lo como despesa administrativa viola a autonomia patrimonial e reduz artificialmente o resultado. A saída de recursos ocorreu e deve ser registrada — omiti-la deixaria o saldo bancário incorreto —, mas em conta que reflita a realidade, como crédito a receber do sócio ou retirada a ele destinada. Para o IRPJ, o gasto não é despesa necessária à atividade e, portanto, é indedutível.",
+      "fundamento": "Resolução CFC nº 750/1993, com redação da Resolução CFC nº 1.282/2010 (revogada pela NBC TSP Estrutura Conceitual), art. 4º; Decreto nº 9.580/2018 (RIR/2018), art. 311.",
+      "dificuldade": "media",
+      "tags": [
+        "principio-da-entidade",
+        "confusao-patrimonial",
+        "despesas-indedutiveis"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0030",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre o alcance do Princípio da Entidade, é correto afirmar que ele se aplica:",
+      "alternativas": [
+        "apenas às pessoas jurídicas de direito privado com fins lucrativos.",
+        "a patrimônios pertencentes a uma pessoa, a um conjunto de pessoas, a uma sociedade ou a uma instituição de qualquer natureza ou finalidade, com ou sem fins lucrativos.",
+        "exclusivamente às entidades do setor público.",
+        "somente às sociedades anônimas, por força da Lei nº 6.404/1976.",
+        "apenas às entidades que possuam registro na Junta Comercial."
+      ],
+      "correta": 1,
+      "comentario": "O art. 4º é expresso: a autonomia patrimonial independe de o patrimônio pertencer a uma pessoa, a um conjunto de pessoas, a uma sociedade ou a uma instituição de qualquer natureza ou finalidade, com ou sem fins lucrativos. Associações, fundações, condomínios e órgãos públicos também são entidades contábeis; o princípio não depende de forma societária, de registro na Junta Comercial nem de finalidade lucrativa.",
+      "fundamento": "Resolução CFC nº 750/1993, com redação da Resolução CFC nº 1.282/2010 (revogada pela NBC TSP Estrutura Conceitual), art. 4º.",
+      "dificuldade": "facil",
+      "tags": [
+        "principio-da-entidade",
+        "alcance"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0031",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "A Holding Alfa S.A. controla as empresas Beta Ltda. e Gama Ltda. e apresenta demonstrações consolidadas do grupo. Considerando o Princípio da Entidade e a Estrutura Conceitual (CPC 00 R2), assinale a afirmativa correta.",
+      "alternativas": [
+        "As demonstrações consolidadas criam uma nova pessoa jurídica, o “Grupo Alfa”, que passa a ser contribuinte do IRPJ.",
+        "Após a consolidação, Beta e Gama deixam de ter patrimônio próprio e de manter escrituração.",
+        "O conjunto consolidado é uma unidade de natureza econômico-contábil; cada empresa continua sendo entidade autônoma, com escrituração própria.",
+        "Segundo o CPC 00 (R2), a entidade que reporta precisa ser, necessariamente, uma pessoa jurídica.",
+        "A consolidação viola o Princípio da Entidade e, por isso, é vedada pelas normas brasileiras."
+      ],
+      "correta": 2,
+      "comentario": "A consolidação não cria nova pessoa jurídica nem novo contribuinte: o conjunto consolidado é uma unidade de natureza econômico-contábil, e cada empresa do grupo continua com patrimônio, escrituração e tributos próprios. O CPC 00 (R2) admite que a entidade que reporta seja uma única entidade, parte de uma entidade ou mais de uma entidade, sem exigir que seja pessoa jurídica. A consolidação, portanto, é coerente com o princípio.",
+      "fundamento": "Resolução CFC nº 750/1993, com redação da Resolução CFC nº 1.282/2010 (revogada pela NBC TSP Estrutura Conceitual), art. 4º; NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro.",
+      "dificuldade": "media",
+      "tags": [
+        "principio-da-entidade",
+        "entidade-que-reporta",
+        "consolidacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0032",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "Segundo a Resolução CFC nº 750/1993, com a redação dada pela Resolução CFC nº 1.282/2010, o Princípio da Continuidade pressupõe que:",
+      "alternativas": [
+        "a Entidade continuará em operação no futuro e, portanto, a mensuração e a apresentação dos componentes do patrimônio levam em conta essa circunstância.",
+        "a Entidade será liquidada ao final de cada exercício, devendo seus ativos ser avaliados por valor de venda forçada.",
+        "os registros contábeis devem ser feitos de forma contínua, diariamente, sem interrupção.",
+        "os critérios contábeis adotados jamais podem ser alterados.",
+        "a Entidade deve manter o mesmo quadro societário ao longo de sua existência."
+      ],
+      "correta": 0,
+      "comentario": "Pelo art. 5º, o Princípio da Continuidade pressupõe que a entidade continuará em operação no futuro, de modo que a mensuração e a apresentação dos componentes patrimoniais levam essa circunstância em conta. Não se confunde com registro contínuo ou diário, não proíbe mudança justificada de critérios — tema de uniformidade e comparabilidade — e não é afetado pela alteração do quadro societário, já que o patrimônio pertence à entidade.",
+      "fundamento": "Resolução CFC nº 750/1993, com redação da Resolução CFC nº 1.282/2010 (revogada pela NBC TSP Estrutura Conceitual), art. 5º.",
+      "dificuldade": "facil",
+      "tags": [
+        "principio-da-continuidade",
+        "mensuracao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0033",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "Em assembleia, os acionistas da Têxtil Aurora S.A. aprovaram a dissolução e liquidação da companhia, a ser concluída em seis meses. Considerando o pressuposto da continuidade previsto na Estrutura Conceitual, assinale a afirmativa correta.",
+      "alternativas": [
+        "As demonstrações continuam a ser elaboradas exatamente com as mesmas bases de antes, já que a empresa ainda existe juridicamente.",
+        "A empresa deve passar a depreciar seus ativos pelo dobro da taxa fiscal.",
+        "As demonstrações podem ter de ser elaboradas em base diferente da continuidade e, nesse caso, essa base deve ser descrita.",
+        "A empresa deve encerrar a escrituração contábil a partir da decisão de liquidar.",
+        "Os passivos de longo prazo devem ser eliminados do balanço, por não serem mais exigíveis."
+      ],
+      "correta": 2,
+      "comentario": "Havendo intenção ou necessidade de liquidar, deixa de valer o pressuposto de continuidade, e as demonstrações podem ter de ser elaboradas em base diferente, como a de liquidação, que deve ser descrita. A escrituração continua obrigatória, não existe regra de depreciação em dobro e as obrigações permanecem no balanço — na liquidação, tendem até a vencer antecipadamente.",
+      "fundamento": "NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro. CPC 26 (R1) — Apresentação das Demonstrações Contábeis.",
+      "dificuldade": "media",
+      "tags": [
+        "continuidade-operacional",
+        "liquidacao",
+        "base-de-elaboracao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0034",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "Uma das consequências práticas do Princípio da Continuidade é justificar:",
+      "alternativas": [
+        "o reconhecimento das receitas apenas no momento do recebimento em dinheiro.",
+        "a avaliação de todos os ativos, sempre, pelo valor que seria obtido em uma venda imediata.",
+        "a proibição do registro de depreciação dos bens do ativo imobilizado.",
+        "a classificação de ativos e passivos em circulante e não circulante e a depreciação dos bens ao longo de sua vida útil, em vez de avaliá-los por valores de liquidação imediata.",
+        "a escolha do menor valor para o ativo sempre que houver alternativas igualmente válidas."
+      ],
+      "correta": 3,
+      "comentario": "Distinguir ativos e passivos de curto e longo prazo e distribuir o custo de um bem por sua vida útil só fazem sentido se a entidade vai continuar operando. Avaliar tudo por valores de venda imediata seria adotar base de liquidação, contrária à continuidade. O reconhecimento de receitas no recebimento descreve o regime de caixa, e a escolha do menor valor para o ativo descreve a prudência.",
+      "fundamento": "Resolução CFC nº 750/1993, com redação da Resolução CFC nº 1.282/2010 (revogada pela NBC TSP Estrutura Conceitual), art. 5º; NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro.",
+      "dificuldade": "media",
+      "tags": [
+        "principio-da-continuidade",
+        "depreciacao",
+        "circulante-nao-circulante"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0035",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "Segundo o CPC 00 (R2), as demonstrações contábeis são normalmente elaboradas com base no pressuposto de que a entidade está em continuidade operacional e continuará em operação no futuro previsível. Assim, presume-se que a entidade não tem:",
+      "alternativas": [
+        "a intenção de distribuir dividendos aos acionistas.",
+        "a necessidade de captar empréstimos de longo prazo.",
+        "a obrigação de publicar suas demonstrações contábeis.",
+        "a intenção de aumentar o capital social.",
+        "a intenção nem a necessidade de entrar em liquidação ou deixar de negociar."
+      ],
+      "correta": 4,
+      "comentario": "O item 3.9 do CPC 00 (R2) estabelece que as demonstrações são normalmente elaboradas no pressuposto de continuidade operacional, presumindo-se que a entidade não tem a intenção nem a necessidade de entrar em liquidação ou deixar de negociar. Distribuir dividendos, captar empréstimos, publicar balanços e aumentar capital são fatos normais da vida de uma entidade em operação e nada têm a ver com essa premissa.",
+      "fundamento": "NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro. Item 3.9.",
+      "dificuldade": "facil",
+      "tags": [
+        "continuidade-operacional",
+        "pressuposto-basico"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0036",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "Conforme a Resolução CFC nº 750/1993, com redação da Resolução CFC nº 1.282/2010, o Princípio da Oportunidade refere-se ao processo de mensuração e apresentação dos componentes patrimoniais para produzir informações:",
+      "alternativas": [
+        "exatas e definitivas.",
+        "íntegras e tempestivas.",
+        "auditadas e publicadas.",
+        "fiscais e gerenciais.",
+        "conservadoras e subavaliadas."
+      ],
+      "correta": 1,
+      "comentario": "Conforme o art. 6º, o Princípio da Oportunidade refere-se ao processo de mensuração e apresentação dos componentes patrimoniais para produzir informações íntegras e tempestivas. Integridade significa registro completo, sem omissões; tempestividade, registro no momento adequado. A norma admite estimativas tecnicamente fundamentadas, não exige valores definitivos e não autoriza subavaliação.",
+      "fundamento": "Resolução CFC nº 750/1993, com redação da Resolução CFC nº 1.282/2010 (revogada pela NBC TSP Estrutura Conceitual), art. 6º.",
+      "dificuldade": "facil",
+      "tags": [
+        "principio-da-oportunidade",
+        "integridade",
+        "tempestividade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0037",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "Em 27/12/X1, um incêndio destruiu parte do estoque da Distribuidora Sol Ltda. A perda foi estimada tecnicamente pela própria empresa em R$ 40.000, mas o laudo definitivo da seguradora só será emitido em fevereiro de X2. O contador decidiu aguardar o laudo e registrar a perda somente em X2. Esse procedimento está:",
+      "alternativas": [
+        "correto, pois a perda só pode ser registrada com base em documento definitivo emitido por terceiros.",
+        "correto, em respeito ao Princípio da Prudência, que veda estimativas.",
+        "correto, pois pelo regime de caixa a perda só ocorre quando a seguradora decidir sobre a indenização.",
+        "incorreto, pois a mutação patrimonial ocorreu em X1 e, sendo tecnicamente estimável, deve ser registrada de imediato e na sua extensão, em observância ao Princípio da Oportunidade.",
+        "incorreto, pois a perda deveria ser registrada apenas quando a seguradora efetuasse o pagamento."
+      ],
+      "correta": 3,
+      "comentario": "A destruição do estoque é mutação patrimonial ocorrida em X1 e tecnicamente estimável; deve, portanto, ser registrada de imediato e em sua extensão, ajustando-se depois eventual diferença apontada pelo laudo. A Contabilidade admite estimativas técnicas, a prudência pede cautela ao estimar — o que reforça o registro da perda — e a eventual indenização é evento distinto, que não condiciona o reconhecimento da perda.",
+      "fundamento": "Resolução CFC nº 750/1993, com redação da Resolução CFC nº 1.282/2010 (revogada pela NBC TSP Estrutura Conceitual), art. 6º; NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro.",
+      "dificuldade": "media",
+      "tags": [
+        "principio-da-oportunidade",
+        "estimativas",
+        "perdas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0038",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "A diretoria da Delta S.A. discute se divulga suas demonstrações em 20 dias após o encerramento do exercício, com algumas estimativas razoáveis, ou somente após 8 meses, quando todos os valores forem definitivos. À luz do Princípio da Oportunidade, assinale a afirmativa correta.",
+      "alternativas": [
+        "A informação divulgada tardiamente pode perder relevância; por isso, é necessário ponderar a relação entre a oportunidade e a confiabilidade da informação.",
+        "Deve-se sempre aguardar valores definitivos, pois a confiabilidade é absoluta e não admite estimativas.",
+        "Deve-se sempre divulgar o mais rápido possível, ainda que sem qualquer base técnica para os valores.",
+        "O Princípio da Oportunidade trata apenas do prazo de guarda dos documentos contábeis.",
+        "Tempestividade e integridade são conceitos sem relação com a relevância da informação."
+      ],
+      "correta": 0,
+      "comentario": "O parágrafo único do art. 6º adverte que a falta de integridade e tempestividade pode ocasionar perda de relevância e exige ponderar a relação entre a oportunidade e a confiabilidade da informação. A norma não impõe aguardar valores definitivos indefinidamente nem autoriza divulgação sem base técnica: pede equilíbrio entre rapidez e precisão.",
+      "fundamento": "Resolução CFC nº 750/1993, com redação da Resolução CFC nº 1.282/2010 (revogada pela NBC TSP Estrutura Conceitual), art. 6º, parágrafo único.",
+      "dificuldade": "media",
+      "tags": [
+        "principio-da-oportunidade",
+        "relevancia",
+        "confiabilidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0039",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a alternativa que associa corretamente cada princípio à sua ideia central.",
+      "alternativas": [
+        "Oportunidade: período ao qual pertence a receita; Competência: registro íntegro e tempestivo.",
+        "Entidade: pressuposto de que a empresa continuará operando; Continuidade: autonomia patrimonial.",
+        "Prudência: registro pelo valor das transações originais; Registro pelo Valor Original: menor valor para o ativo.",
+        "Oportunidade: atualização monetária dos ativos; Competência: confusão patrimonial entre sócios e empresa.",
+        "Oportunidade: registro tempestivo e íntegro das mutações patrimoniais; Competência: reconhecimento dos efeitos nos períodos a que se referem, independentemente de recebimento ou pagamento."
+      ],
+      "correta": 4,
+      "comentario": "A Oportunidade diz respeito ao registro: a mutação patrimonial deve ser registrada tempestivamente e de forma íntegra. A Competência diz respeito ao período: os efeitos das transações são reconhecidos nos períodos a que se referem, independentemente de recebimento ou pagamento. As demais associações invertem os conceitos de Entidade e Continuidade, de Prudência e Valor Original ou carecem de fundamento.",
+      "fundamento": "Resolução CFC nº 750/1993, com redação da Resolução CFC nº 1.282/2010 (revogada pela NBC TSP Estrutura Conceitual), arts. 6º e 9º.",
+      "dificuldade": "media",
+      "tags": [
+        "principio-da-oportunidade",
+        "principio-da-competencia",
+        "distincao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0040",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "A Gráfica Letra Viva Ltda. adquiriu uma impressora industrial pelos seguintes valores: preço de compra, R$ 200.000; frete, R$ 8.000; seguro do transporte, R$ 2.000; instalação e montagem, R$ 10.000; treinamento dos operadores, R$ 5.000. Um ano depois, o preço de uma máquina nova idêntica passou a ser R$ 260.000. O valor pelo qual a impressora deve ser registrada inicialmente no ativo imobilizado é:",
+      "alternativas": [
+        "R$ 200.000.",
+        "R$ 210.000.",
+        "R$ 220.000.",
+        "R$ 225.000.",
+        "R$ 260.000."
+      ],
+      "correta": 2,
+      "comentario": "O custo histórico abrange o preço de aquisição e os gastos necessários para colocar o bem em condições de funcionamento: 200.000 + 8.000 + 2.000 + 10.000 = R$ 220.000. O treinamento de operadores não integra o custo do imobilizado, sendo despesa do período. A elevação posterior do preço de uma máquina nova é custo corrente e não altera o registro inicial, que se faz pelo valor original da transação.",
+      "fundamento": "Resolução CFC nº 750/1993, com redação da Resolução CFC nº 1.282/2010 (revogada pela NBC TSP Estrutura Conceitual), art. 7º; CPC 27 — Ativo Imobilizado (elementos do custo).",
+      "dificuldade": "media",
+      "tags": [
+        "registro-pelo-valor-original",
+        "custo-historico",
+        "imobilizado"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0041",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "De acordo com a Resolução CFC nº 750/1993 (redação da Resolução CFC nº 1.282/2010), a base de mensuração segundo a qual os ativos são reconhecidos pelos valores em caixa ou equivalentes de caixa que teriam de ser pagos se esses ativos ou ativos equivalentes fossem adquiridos na data das demonstrações contábeis denomina-se:",
+      "alternativas": [
+        "custo histórico.",
+        "valor realizável.",
+        "valor presente.",
+        "custo corrente.",
+        "valor justo."
+      ],
+      "correta": 3,
+      "comentario": "Custo corrente é o valor que teria de ser pago para adquirir o ativo, ou equivalente, na data das demonstrações. Não se confunde com o custo histórico, pago na data da aquisição; com o valor realizável, obtido pela venda de forma ordenada; com o valor presente, que desconta fluxos futuros; nem com o valor justo, de troca entre partes conhecedoras e dispostas, sem favorecimentos.",
+      "fundamento": "Resolução CFC nº 750/1993, com redação da Resolução CFC nº 1.282/2010 (revogada pela NBC TSP Estrutura Conceitual), art. 7º, § 1º, II, a.",
+      "dificuldade": "facil",
+      "tags": [
+        "bases-de-mensuracao",
+        "custo-corrente"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0042",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "A respeito da atualização monetária, conforme a Resolução CFC nº 750/1993 com redação dada pela Resolução CFC nº 1.282/2010, assinale a afirmativa correta.",
+      "alternativas": [
+        "Continua sendo um princípio de contabilidade autônomo, ao lado dos demais.",
+        "Representa nova avaliação do bem a valor de mercado na data do balanço.",
+        "Parte do pressuposto de que a moeda nacional representa unidade constante de poder aquisitivo.",
+        "Substitui o custo histórico, que deixa de ser utilizado após a primeira atualização.",
+        "Não representa nova avaliação, mas tão somente o ajustamento dos valores originais para determinada data, mediante indexadores que traduzam a variação do poder aquisitivo da moeda nacional."
+      ],
+      "correta": 4,
+      "comentario": "Pelo § 2º, III, do art. 7º, a atualização monetária não representa nova avaliação, mas apenas o ajustamento dos valores originais para determinada data, por indexadores que traduzam a variação do poder aquisitivo da moeda. Ela deixou de ser princípio autônomo em 2010, não substitui o custo histórico e parte justamente da premissa de que a moeda não é unidade constante de poder aquisitivo.",
+      "fundamento": "Resolução CFC nº 750/1993, com redação da Resolução CFC nº 1.282/2010 (revogada pela NBC TSP Estrutura Conceitual), art. 7º, § 2º; Lei nº 9.249/1995, art. 4º.",
+      "dificuldade": "media",
+      "tags": [
+        "atualizacao-monetaria",
+        "registro-pelo-valor-original"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0043",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "A Importadora Mar Azul Ltda. adquiriu mercadorias por US$ 20.000, quando a taxa de câmbio era de R$ 5,00 por dólar. Na data do pagamento ao fornecedor, a taxa era de R$ 5,30. Com base no Princípio do Registro pelo Valor Original, as mercadorias devem ser registradas no estoque por:",
+      "alternativas": [
+        "R$ 100.000, sendo a diferença paga posteriormente reconhecida como variação cambial.",
+        "US$ 20.000, sem conversão, pois a transação foi realizada em moeda estrangeira.",
+        "R$ 106.000, valor efetivamente desembolsado.",
+        "R$ 103.000, média das taxas de câmbio.",
+        "valor nenhum até a data do pagamento, quando a operação se torna definitiva."
+      ],
+      "correta": 0,
+      "comentario": "O registro inicial é feito pelo valor original da transação, expresso em moeda nacional na data da operação: 20.000 × 5,00 = R$ 100.000. A diferença de R$ 6.000 decorrente da alta do dólar até o pagamento é variação cambial passiva, reconhecida como despesa financeira, e não altera o custo do estoque. Aguardar o pagamento para registrar a compra violaria a oportunidade e a competência.",
+      "fundamento": "Resolução CFC nº 750/1993, com redação da Resolução CFC nº 1.282/2010 (revogada pela NBC TSP Estrutura Conceitual), art. 7º; CPC 02 (R2) — Efeitos das Mudanças nas Taxas de Câmbio.",
+      "dificuldade": "media",
+      "tags": [
+        "registro-pelo-valor-original",
+        "moeda-estrangeira",
+        "variacao-cambial"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0044",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "Na Resolução CFC nº 750/1993 (redação da Resolução CFC nº 1.282/2010), o valor pelo qual um ativo pode ser trocado, ou um passivo liquidado, entre partes conhecedoras, dispostas a isso, em uma transação sem favorecimentos, corresponde ao conceito de:",
+      "alternativas": [
+        "valor realizável.",
+        "valor justo.",
+        "custo corrente.",
+        "valor presente.",
+        "atualização monetária."
+      ],
+      "correta": 1,
+      "comentario": "A Resolução nº 750 definia valor justo como aquele pelo qual um ativo pode ser trocado, ou um passivo liquidado, entre partes conhecedoras, dispostas a isso, em transação sem favorecimentos. O CPC 46, norma específica vigente, define-o como o preço que seria recebido pela venda de um ativo ou pago pela transferência de um passivo em transação não forçada entre participantes do mercado na data de mensuração.",
+      "fundamento": "Resolução CFC nº 750/1993, com redação da Resolução CFC nº 1.282/2010 (revogada pela NBC TSP Estrutura Conceitual), art. 7º, § 1º, II, d; CPC 46 — Mensuração do Valor Justo.",
+      "dificuldade": "facil",
+      "tags": [
+        "bases-de-mensuracao",
+        "valor-justo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0045",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "Conforme a Resolução CFC nº 750/1993, com redação dada pela Resolução CFC nº 1.282/2010, o Princípio da Competência determina que os efeitos das transações e outros eventos sejam reconhecidos:",
+      "alternativas": [
+        "no momento do efetivo recebimento ou pagamento.",
+        "somente quando houver emissão do respectivo documento fiscal.",
+        "nos períodos a que se referem, independentemente do recebimento ou pagamento.",
+        "no período de encerramento do exercício social, por estimativa global.",
+        "pelo menor valor possível, quando houver alternativas igualmente válidas."
+      ],
+      "correta": 2,
+      "comentario": "Pelo art. 9º, os efeitos das transações e outros eventos são reconhecidos nos períodos a que se referem, independentemente do recebimento ou pagamento. Reconhecer no recebimento ou pagamento é regime de caixa; a emissão de documento fiscal não define o período contábil; e a adoção do menor valor diante de alternativas igualmente válidas descreve a prudência.",
+      "fundamento": "Resolução CFC nº 750/1993, com redação da Resolução CFC nº 1.282/2010 (revogada pela NBC TSP Estrutura Conceitual), art. 9º.",
+      "dificuldade": "facil",
+      "tags": [
+        "principio-da-competencia",
+        "regime-de-competencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0046",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "Em dezembro de X1, a Comercial Ômega Ltda. realizou as seguintes operações:\n\n• vendas à vista: R$ 30.000;\n• vendas a prazo, para recebimento em fevereiro de X2: R$ 50.000;\n• custo das mercadorias vendidas: R$ 45.000;\n• salários de dezembro, a serem pagos em janeiro de X2: R$ 9.000;\n• pagamento antecipado do aluguel de janeiro de X2: R$ 6.000;\n• recebimento de clientes relativo a vendas de novembro de X1: R$ 12.000.\n\nCom base no Princípio da Competência, o resultado de dezembro de X1 foi:",
+      "alternativas": [
+        "lucro de R$ 26.000.",
+        "lucro de R$ 20.000.",
+        "lucro de R$ 35.000.",
+        "lucro de R$ 36.000.",
+        "lucro de R$ 38.000."
+      ],
+      "correta": 0,
+      "comentario": "Pertencem a dezembro as vendas à vista e a prazo (80.000), o custo das mercadorias vendidas (45.000) e os salários do mês, ainda que pagos em janeiro (9.000): lucro de R$ 26.000. O aluguel de janeiro, pago antecipadamente, é despesa de janeiro e permanece no ativo. O recebimento de vendas de novembro apenas converte em dinheiro um direito já reconhecido e não é receita de dezembro.",
+      "fundamento": "Resolução CFC nº 750/1993, com redação da Resolução CFC nº 1.282/2010 (revogada pela NBC TSP Estrutura Conceitual), art. 9º; Lei nº 6.404/1976, art. 187, § 1º.",
+      "dificuldade": "media",
+      "tags": [
+        "principio-da-competencia",
+        "apuracao-de-resultado",
+        "calculo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0047",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "Em 1º/09/X1, a Prestadora Ágil Ltda. pagou à vista R$ 24.000 por uma apólice de seguro com vigência de 12 meses (de 1º/09/X1 a 31/08/X2). Em 31/12/X1, de acordo com o regime de competência, a despesa de seguro reconhecida no resultado de X1 e o saldo de seguros a apropriar no ativo serão, respectivamente:",
+      "alternativas": [
+        "R$ 24.000 e zero.",
+        "zero e R$ 24.000.",
+        "R$ 16.000 e R$ 8.000.",
+        "R$ 8.000 e R$ 16.000.",
+        "R$ 6.000 e R$ 18.000."
+      ],
+      "correta": 3,
+      "comentario": "O prêmio de R$ 24.000 cobre 12 meses, ou R$ 2.000 por mês. De setembro a dezembro de X1 decorrem quatro meses, com despesa de R$ 8.000 no resultado de X1. Os oito meses restantes, R$ 16.000, permanecem no ativo como seguros a apropriar e serão reconhecidos como despesa em X2. Lançar o total no pagamento seria adotar regime de caixa.",
+      "fundamento": "Resolução CFC nº 750/1993, com redação da Resolução CFC nº 1.282/2010 (revogada pela NBC TSP Estrutura Conceitual), art. 9º; NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro.",
+      "dificuldade": "facil",
+      "tags": [
+        "principio-da-competencia",
+        "despesas-antecipadas",
+        "calculo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0048",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "Em 20/12/X1, a Construtora Pilar Ltda. recebeu R$ 50.000 de um cliente, a título de adiantamento, por um serviço que será executado integralmente em março de X2. Em X1, a Construtora deve:",
+      "alternativas": [
+        "reconhecer receita de serviços de R$ 50.000, pois o dinheiro já ingressou no caixa.",
+        "registrar a entrada de caixa em contrapartida a um passivo (adiantamento de clientes), sem reconhecer receita em X1.",
+        "não registrar a operação até a conclusão do serviço.",
+        "reconhecer metade da receita em X1 e metade em X2.",
+        "registrar o valor diretamente no patrimônio líquido, como reserva de lucros."
+      ],
+      "correta": 1,
+      "comentario": "Sem a prestação do serviço, não há receita ganha: o valor recebido gera obrigação de executar o serviço ou devolver o dinheiro, registrada no passivo como adiantamento de clientes. A receita será reconhecida em X2, com a execução. Deixar de registrar a entrada violaria a oportunidade, não há fundamento para dividir a receita entre os exercícios e adiantamento não é lucro para ser levado a reserva.",
+      "fundamento": "Resolução CFC nº 750/1993, com redação da Resolução CFC nº 1.282/2010 (revogada pela NBC TSP Estrutura Conceitual), art. 9º; CPC 47 — Receita de Contrato com Cliente.",
+      "dificuldade": "media",
+      "tags": [
+        "principio-da-competencia",
+        "adiantamento-de-clientes",
+        "passivo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0049",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "Em X1, a Comercial Sigma Ltda. vendeu mercadorias por R$ 100.000. Essas mercadorias haviam sido adquiridas e pagas em X0 por R$ 60.000. Sobre a venda incide comissão de 5% para os vendedores, que será paga somente em X2. Considerando a competência e a confrontação de receitas e despesas, o resultado dessa operação em X1 é:",
+      "alternativas": [
+        "R$ 95.000, pois o custo das mercadorias foi pago em X0.",
+        "R$ 40.000, pois a comissão só será paga em X2.",
+        "R$ 100.000, pois apenas a receita pertence a X1.",
+        "R$ 60.000, correspondente ao custo da mercadoria.",
+        "R$ 35.000."
+      ],
+      "correta": 4,
+      "comentario": "Pela confrontação, custos e despesas ligados à receita são reconhecidos no mesmo período dela: receita de R$ 100.000, menos custo das mercadorias de R$ 60.000 e comissão de R$ 5.000, resulta em R$ 35.000. Pouco importa que a mercadoria tenha sido paga em X0 ou que a comissão seja paga em X2: ambas correspondem à receita de X1.",
+      "fundamento": "Resolução CFC nº 750/1993, com redação da Resolução CFC nº 1.282/2010 (revogada pela NBC TSP Estrutura Conceitual), art. 9º, parágrafo único; Lei nº 6.404/1976, art. 187, § 1º.",
+      "dificuldade": "media",
+      "tags": [
+        "confrontacao",
+        "principio-da-competencia",
+        "cmv"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0050",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "Segundo a Resolução CFC nº 750/1993, com redação dada pela Resolução CFC nº 1.282/2010, o Princípio da Prudência determina:",
+      "alternativas": [
+        "a adoção do maior valor para os componentes do ativo e do menor para os do passivo, sempre que houver alternativas igualmente válidas.",
+        "a adoção do menor valor para os componentes do ativo e do maior para os do passivo, sempre que se apresentem alternativas igualmente válidas para a quantificação das mutações patrimoniais que alterem o patrimônio líquido.",
+        "a adoção do menor valor para o ativo e do maior para o passivo em todas as situações, ainda que a norma específica indique um único valor.",
+        "a adoção do maior valor apenas para os passivos, sendo os ativos sempre registrados pelo custo histórico.",
+        "a subavaliação deliberada de ativos e receitas, com o objetivo de reduzir a carga tributária."
+      ],
+      "correta": 1,
+      "comentario": "O art. 10 determina a adoção do menor valor para os componentes do ativo e do maior para os do passivo, sempre que se apresentem alternativas igualmente válidas para quantificar mutações que alterem o patrimônio líquido. A regra só atua quando há alternativas igualmente válidas, alcança ativos e passivos e não autoriza subavaliação deliberada de ativos e receitas, nem mesmo para reduzir tributos.",
+      "fundamento": "Resolução CFC nº 750/1993, com redação da Resolução CFC nº 1.282/2010 (revogada pela NBC TSP Estrutura Conceitual), art. 10.",
+      "dificuldade": "facil",
+      "tags": [
+        "principio-da-prudencia",
+        "conservadorismo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0051",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "A Loja Moda Já Ltda. possui em estoque mercadorias com custo de aquisição de R$ 120.000. O preço de venda estimado dessas mercadorias é de R$ 115.000, e as despesas necessárias para vendê-las são estimadas em R$ 5.000. Considerando a prudência e a norma de estoques, o valor pelo qual essas mercadorias devem ser apresentadas no balanço é:",
+      "alternativas": [
+        "R$ 120.000.",
+        "R$ 115.000.",
+        "R$ 125.000.",
+        "R$ 105.000.",
+        "R$ 110.000."
+      ],
+      "correta": 4,
+      "comentario": "O valor realizável líquido é o preço de venda estimado menos as despesas necessárias para vender: 115.000 − 5.000 = R$ 110.000. Os estoques são mensurados pelo menor valor entre o custo (R$ 120.000) e o valor realizável líquido, devendo ser apresentados por R$ 110.000, com perda de R$ 10.000 no resultado. Se o valor realizável líquido superasse o custo, nenhum ganho seria reconhecido antes da venda.",
+      "fundamento": "CPC 16 (R1) — Estoques; Resolução CFC nº 750/1993, com redação da Resolução CFC nº 1.282/2010 (revogada pela NBC TSP Estrutura Conceitual), art. 10.",
+      "dificuldade": "media",
+      "tags": [
+        "principio-da-prudencia",
+        "estoques",
+        "valor-realizavel-liquido"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0052",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "A Indústria Kappa S.A. é ré em ação trabalhista cuja perda é avaliada como provável, estimada em R$ 80.000, e é autora de ação contra fornecedor, com ganho avaliado como provável, estimado em R$ 150.000. Considerando a prudência e as normas aplicáveis a provisões e contingências, a empresa deve:",
+      "alternativas": [
+        "reconhecer provisão de R$ 80.000 e apenas divulgar o ativo contingente, sem reconhecê-lo no balanço.",
+        "reconhecer provisão de R$ 80.000 e ativo de R$ 150.000.",
+        "reconhecer somente o efeito líquido, um ativo de R$ 70.000.",
+        "não reconhecer nem divulgar nada até o trânsito em julgado das duas ações.",
+        "reconhecer o ativo de R$ 150.000 e apenas divulgar o passivo contingente."
+      ],
+      "correta": 0,
+      "comentario": "A perda provável e estimável na ação trabalhista exige o reconhecimento de provisão de R$ 80.000. O ganho provável contra o fornecedor é ativo contingente, apenas divulgado em nota explicativa; só se reconhece o ativo quando a entrada de benefícios for praticamente certa. Ativo e passivo de naturezas distintas não se compensam, e aguardar o trânsito em julgado ignoraria a obrigação provável e o dever de divulgação.",
+      "fundamento": "CPC 25 — Provisões, Passivos Contingentes e Ativos Contingentes.",
+      "dificuldade": "media",
+      "tags": [
+        "provisoes",
+        "ativo-contingente",
+        "principio-da-prudencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0053",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "A respeito da prudência na Estrutura Conceitual para Relatório Financeiro (CPC 00 R2), assinale a afirmativa correta.",
+      "alternativas": [
+        "A prudência justifica superavaliar passivos para formar reservas destinadas a cobrir perdas futuras.",
+        "A prudência é uma característica qualitativa fundamental da informação contábil.",
+        "A prudência é o exercício de cautela ao fazer julgamentos sob condições de incerteza e apoia a neutralidade, não permitindo superavaliação nem subavaliação de ativos, passivos, receitas ou despesas.",
+        "A prudência foi completamente eliminada da Estrutura Conceitual, não tendo qualquer papel atual.",
+        "A prudência exige o reconhecimento imediato de ganhos prováveis, para equilibrar as perdas reconhecidas."
+      ],
+      "correta": 2,
+      "comentario": "Segundo o CPC 00 (R2), prudência é o exercício de cautela ao fazer julgamentos sob condições de incerteza e apoia a neutralidade: ativos e receitas não são superavaliados, passivos e despesas não são subavaliados — e o inverso tampouco é admitido. A prudência não é característica qualitativa fundamental, não justifica reservas ocultas, não foi eliminada pela revisão de 2019 e não exige reconhecer ganhos prováveis.",
+      "fundamento": "NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro. Itens 2.16 e 2.17.",
+      "dificuldade": "media",
+      "tags": [
+        "prudencia",
+        "neutralidade",
+        "estrutura-conceitual"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0054",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "A Indústria Kappa S.A., tributada pelo lucro real, constituiu provisão para contingências trabalhistas, o que reduziu seu lucro contábil do exercício. Considerando a relação entre a contabilidade e a apuração do IRPJ, assinale a afirmativa correta.",
+      "alternativas": [
+        "A provisão é proibida pela contabilidade, pois reduz o lucro sem que tenha havido pagamento.",
+        "A provisão deve ser registrada apenas no e-Lalur, e não na contabilidade.",
+        "Toda provisão contábil é automaticamente dedutível na apuração do lucro real.",
+        "O registro contábil é adequado à luz da prudência, mas, em regra, a provisão é indedutível para o IRPJ, devendo ser adicionada ao lucro líquido na apuração do lucro real.",
+        "A empresa deve estornar a provisão da contabilidade para evitar diferença entre lucro contábil e lucro real."
+      ],
+      "correta": 3,
+      "comentario": "A provisão é exigida pela norma contábil quando a perda é provável, em linha com a prudência. A legislação do IRPJ, porém, veda como regra a dedução de provisões, ressalvadas exceções como as de férias e de décimo terceiro salário, de modo que a provisão é adicionada ao lucro líquido na apuração do lucro real. A contabilidade não se submete à lei fiscal: o ajuste é feito fora dela, no e-Lalur, sem estorno do registro contábil.",
+      "fundamento": "Lei nº 9.249/1995, art. 13, I; CPC 25 — Provisões, Passivos Contingentes e Ativos Contingentes.",
+      "dificuldade": "dificil",
+      "tags": [
+        "provisoes",
+        "lucro-real",
+        "e-lalur",
+        "indedutibilidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0055",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "De acordo com o CPC 00 (R2), são características qualitativas fundamentais da informação contábil-financeira útil:",
+      "alternativas": [
+        "comparabilidade e verificabilidade.",
+        "tempestividade e compreensibilidade.",
+        "prudência e conservadorismo.",
+        "relevância e representação fidedigna.",
+        "competência e continuidade."
+      ],
+      "correta": 3,
+      "comentario": "As características qualitativas fundamentais são a relevância e a representação fidedigna. Comparabilidade, verificabilidade, tempestividade e compreensibilidade são características de melhoria. A prudência apoia a neutralidade e não é característica fundamental; a continuidade é pressuposto básico, e a competência, regime de reconhecimento.",
+      "fundamento": "NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro.",
+      "dificuldade": "facil",
+      "tags": [
+        "caracteristicas-qualitativas",
+        "relevancia",
+        "representacao-fidedigna"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0056",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a correspondência correta entre o princípio da Resolução CFC nº 750/1993 e o conceito que o reflete no CPC 00 (R2).",
+      "alternativas": [
+        "Continuidade — pressuposto básico de continuidade operacional.",
+        "Prudência — característica qualitativa fundamental.",
+        "Oportunidade — base de mensuração pelo custo histórico.",
+        "Entidade — mensuração pelo valor justo.",
+        "Registro pelo Valor Original — característica qualitativa de comparabilidade."
+      ],
+      "correta": 0,
+      "comentario": "O antigo Princípio da Continuidade corresponde ao pressuposto básico de continuidade operacional do CPC 00 (R2). A prudência passou a apoiar a neutralidade, a oportunidade relaciona-se à tempestividade, a entidade corresponde à entidade que reporta e o registro pelo valor original relaciona-se às bases de mensuração — não às associações propostas nas demais opções.",
+      "fundamento": "Resolução CFC nº 750/1993, com redação da Resolução CFC nº 1.282/2010 (revogada pela NBC TSP Estrutura Conceitual); NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro.",
+      "dificuldade": "media",
+      "tags": [
+        "principios-de-contabilidade",
+        "estrutura-conceitual",
+        "correspondencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0057",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "A Distribuidora Vai e Vem Ltda. avaliou seus estoques pelo PEPS em X1, pela média ponderada em X2 e novamente pelo PEPS em X3, sempre escolhendo o critério que resultava em menor lucro naquele ano, sem justificativa técnica e sem divulgação. Esse procedimento compromete principalmente:",
+      "alternativas": [
+        "o Princípio da Oportunidade, pois os registros foram feitos fora do prazo.",
+        "o Princípio da Entidade, pois houve confusão patrimonial.",
+        "a comparabilidade da informação e a exigência legal de métodos ou critérios contábeis uniformes no tempo.",
+        "o pressuposto da continuidade operacional.",
+        "nenhum princípio ou característica, pois a escolha do método de custeio é livre a cada exercício."
+      ],
+      "correta": 2,
+      "comentario": "O art. 177 da Lei nº 6.404/1976 exige métodos ou critérios contábeis uniformes no tempo. Alternar critérios de avaliação de estoques por conveniência, sem justificativa nem divulgação, impede a comparação entre exercícios e caracteriza gerenciamento de resultados. A mudança de política contábil é possível, mas exige justificativa e tratamento próprio. Não há, no caso, atraso de registros, confusão patrimonial nem risco de descontinuidade.",
+      "fundamento": "Lei nº 6.404/1976, art. 177; CPC 23 — Políticas Contábeis, Mudança de Estimativa e Retificação de Erro; NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro.",
+      "dificuldade": "media",
+      "tags": [
+        "comparabilidade",
+        "uniformidade",
+        "politicas-contabeis"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0058",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre a materialidade, segundo o CPC 00 (R2), assinale a afirmativa correta.",
+      "alternativas": [
+        "A Estrutura Conceitual fixa como material todo item superior a 5% do lucro líquido.",
+        "A materialidade é uma característica qualitativa de melhoria, ao lado da comparabilidade.",
+        "A materialidade é um dos três atributos da representação fidedigna.",
+        "A materialidade é avaliada exclusivamente pela magnitude monetária do item.",
+        "A materialidade é um aspecto da relevância específico da entidade, baseado na natureza ou na magnitude dos itens; por isso, a Estrutura Conceitual não especifica um limite quantitativo uniforme."
+      ],
+      "correta": 4,
+      "comentario": "A materialidade é aspecto da relevância específico da entidade, baseado na natureza ou na magnitude dos itens; por isso, a Estrutura Conceitual não especifica limite quantitativo uniforme nem predetermina o que será material. Ela não é característica de melhoria nem atributo da representação fidedigna, e a natureza do item pode torná-lo material ainda que o valor seja pequeno.",
+      "fundamento": "NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro.",
+      "dificuldade": "media",
+      "tags": [
+        "materialidade",
+        "relevancia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "cont-0059",
+      "topico": "3.2.1",
+      "tipo": "multipla",
+      "enunciado": "Segundo o CPC 00 (R2), para ser representação perfeitamente fidedigna, a descrição de um fenômeno econômico deve ter três características. São elas:",
+      "alternativas": [
+        "tempestiva, verificável e comparável.",
+        "completa, neutra e livre de erro.",
+        "exata, auditada e publicada.",
+        "prudente, conservadora e uniforme.",
+        "relevante, material e compreensível."
+      ],
+      "correta": 1,
+      "comentario": "Para ser perfeitamente fidedigna, a representação deve ser completa, neutra e livre de erro. Livre de erro não significa exatidão perfeita em todos os aspectos, mas ausência de erros ou omissões na descrição do fenômeno e no processo de produção da informação. Tempestividade, verificabilidade e comparabilidade são características de melhoria; conservadorismo não é atributo; relevância e materialidade pertencem à outra característica fundamental.",
+      "fundamento": "NBC TG Estrutura Conceitual (CPC 00 R2) — Estrutura Conceitual para Relatório Financeiro.",
+      "dificuldade": "facil",
+      "tags": [
+        "representacao-fidedigna",
+        "neutralidade",
+        "livre-de-erro"
+      ],
+      "fonte": "inédita"
     }
   ]
 }
