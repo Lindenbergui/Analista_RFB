@@ -2477,6 +2477,615 @@
         "analise-integrada"
       ],
       "fonte": "inédita"
+    },
+    {
+      "id": "adm-0112",
+      "topico": "1.3.1",
+      "tipo": "multipla",
+      "enunciado": "Na Delegacia da Receita Federal de um município, o servidor Carlos recebe, com frequência, determinações do chefe da Seção de Fiscalização e do chefe da Seção de Arrecadação. Como as orientações muitas vezes são conflitantes, Carlos não sabe qual priorizar, e suas tarefas atrasam.\n\nÀ luz dos princípios clássicos de organização, a situação descrita evidencia a violação, principalmente, do princípio da:",
+      "alternativas": [
+        "amplitude administrativa.",
+        "unidade de comando.",
+        "unidade de direção.",
+        "especialização.",
+        "equidade."
+      ],
+      "correta": 1,
+      "comentario": "A unidade de comando determina que cada subordinado receba ordens de um único chefe. Carlos tem dois chefes dando ordens — violação direta desse princípio. A) Errada. Amplitude administrativa trata de quantos subordinados um chefe consegue supervisionar, e não de quantos chefes um subordinado tem. C) Errada. É a pegadinha principal: a unidade de direção se refere a um conjunto de atividades com o mesmo objetivo, que deve ter um só plano e um só chefe. O foco do enunciado é a pessoa de Carlos. D) Errada. Especialização trata da divisão do trabalho em tarefas específicas. E) Errada. Equidade é tratar os empregados com justiça e benevolência.",
+      "fundamento": "Fayol, Administração Industrial e Geral; Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "media",
+      "tags": [
+        "fayol",
+        "unidade-de-comando",
+        "principios-de-organizacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0113",
+      "topico": "1.3.1",
+      "tipo": "multipla",
+      "enunciado": "Uma organização pública com 600 servidores decidiu aumentar a amplitude de controle de suas chefias, que passarão de 5 para 15 subordinados diretos por chefe, mantido o total de servidores.\n\nMantidos os demais fatores constantes, a tendência esperada dessa mudança é:",
+      "alternativas": [
+        "o aumento do número de níveis hierárquicos, tornando a estrutura mais alta.",
+        "a redução do número de níveis hierárquicos, tornando a estrutura mais achatada e conferindo maior autonomia aos subordinados.",
+        "a intensificação da supervisão direta sobre cada servidor.",
+        "o aumento dos custos administrativos com cargos de chefia.",
+        "a maior lentidão no fluxo de comunicação entre a cúpula e a base."
+      ],
+      "correta": 1,
+      "comentario": "Se cada chefe passa a coordenar mais pessoas e o total de servidores não muda, são necessárias menos chefias e menos níveis. A estrutura fica achatada, e cada subordinado recebe supervisão menos intensa, o que exige e favorece mais autonomia. A) Errada. Amplitude ampla reduz níveis; mais níveis decorrem de amplitude estreita. C) Errada. Com mais subordinados por chefe, a supervisão de cada um tende a ser menos intensa. D) Errada. Menos chefias significam redução de custos administrativos. E) Errada. Com menos níveis, a comunicação tende a ficar mais rápida.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "media",
+      "tags": [
+        "amplitude-de-controle",
+        "niveis-hierarquicos",
+        "estrutura-achatada"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0114",
+      "topico": "1.3.1",
+      "tipo": "multipla",
+      "enunciado": "O gestor de uma unidade de atendimento precisa definir a amplitude de controle adequada para as suas equipes.\n\nAssinale a situação que mais favorece a adoção de uma amplitude de controle ampla.",
+      "alternativas": [
+        "Equipe recém-contratada, com pouco treinamento e sem manuais de procedimentos.",
+        "Tarefas complexas, pouco padronizadas e muito diferentes entre si.",
+        "Subordinados geograficamente dispersos e sem sistemas de comunicação eficientes.",
+        "Tarefas rotineiras, padronizadas e semelhantes, executadas por servidores experientes.",
+        "Necessidade de coordenação intensa e constante entre os subordinados."
+      ],
+      "correta": 3,
+      "comentario": "Amplitude ampla funciona quando o chefe não precisa intervir muito: tarefas simples, repetitivas e parecidas, padronização e equipe experiente. As alternativas A, B, C e E descrevem fatores que exigem mais supervisão (pouca experiência, complexidade, dispersão sem comunicação e alta necessidade de coordenação), favorecendo amplitude estreita.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "amplitude-de-controle",
+        "principios-de-organizacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0115",
+      "topico": "1.3.1",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, relativas a autoridade, responsabilidade e delegação.\n\nI. A autoridade é o direito formal de dar ordens e tomar decisões, sendo inerente ao cargo, e não à pessoa que o ocupa.\nII. Ao delegar uma tarefa, o superior transfere integralmente a responsabilidade ao subordinado, ficando isento de responder por eventuais falhas na sua execução.\nIII. Segundo a teoria clássica, a autoridade atribuída a um cargo deve ser compatível com a responsabilidade a ele exigida.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "II, apenas.",
+        "I e III, apenas.",
+        "II e III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 2,
+      "comentario": "I – Certa. Autoridade é formal e pertence ao cargo (quem assume o cargo, assume a autoridade). II – Errada. Na delegação transfere-se autoridade, mas a responsabilidade final permanece com quem delegou. O chefe continua respondendo por ter escolhido e supervisionado o delegado. III – Certa. É a ideia de paridade entre autoridade e responsabilidade.",
+      "fundamento": "Fayol; Urwick; Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "media",
+      "tags": [
+        "autoridade",
+        "responsabilidade",
+        "delegacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0116",
+      "topico": "1.3.1",
+      "tipo": "multipla",
+      "enunciado": "Para acelerar a solução de casos urgentes, os chefes das seções de Fiscalização e de Arrecadação de uma Delegacia, que ocupam o mesmo nível hierárquico, passaram a tratar diretamente entre si dos assuntos comuns, com o conhecimento e a concordância do Delegado, sem que cada demanda precisasse subir até ele.\n\nCom base na teoria de Fayol, essa prática:",
+      "alternativas": [
+        "viola o princípio da cadeia escalar e deve ser proibida.",
+        "corresponde à chamada \"ponte\" ou passarela de Fayol, admitida para agilizar a comunicação, desde que os superiores tenham conhecimento.",
+        "caracteriza a adoção de uma estrutura matricial.",
+        "viola o princípio da unidade de comando, pois os chefes passam a receber ordens um do outro.",
+        "é um exemplo de organização informal, por não estar prevista em nenhum documento."
+      ],
+      "correta": 1,
+      "comentario": "Fayol defendia a cadeia escalar, mas reconhecia que ela podia tornar a comunicação lenta. Por isso admitiu a ponte (passarela): comunicação lateral entre pessoas do mesmo nível, com autorização/conhecimento dos superiores. A) Errada. A ponte é justamente a exceção aceita pelo próprio Fayol. C) Errada. Matricial envolve dupla subordinação (funcional + projeto), o que não ocorre. D) Errada. Os chefes não dão ordens um ao outro; apenas se comunicam. E) Errada. A prática foi autorizada pelo Delegado, portanto tem respaldo formal.",
+      "fundamento": "Fayol, Administração Industrial e Geral; Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "media",
+      "tags": [
+        "fayol",
+        "cadeia-escalar",
+        "ponte-de-fayol"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0117",
+      "topico": "1.3.1",
+      "tipo": "multipla",
+      "enunciado": "Em uma Alfândega, servidores de diferentes setores costumam se reunir no intervalo para trocar informações sobre procedimentos. Com o tempo, um servidor experiente passou a ser procurado por todos para tirar dúvidas, embora não ocupe cargo de chefia.\n\nSobre o fenômeno descrito, assinale a afirmativa correta.",
+      "alternativas": [
+        "Trata-se da organização formal, pois envolve atividades relacionadas ao trabalho.",
+        "Trata-se da organização informal, que surge espontaneamente das relações entre as pessoas, não aparece no organograma e pode tanto apoiar quanto prejudicar os objetivos formais.",
+        "A organização informal deve ser eliminada pela chefia, pois sempre contraria a hierarquia.",
+        "O servidor procurado pelos colegas passa a deter autoridade formal sobre eles.",
+        "Esse tipo de relação só ocorre em organizações privadas."
+      ],
+      "correta": 1,
+      "comentario": "As relações espontâneas, as lideranças não oficiais e os grupos que não constam do organograma formam a organização informal. Ela pode ser uma aliada (agiliza a troca de conhecimento) ou um problema (boatos, resistência a mudanças). A) Errada. Falar de trabalho não torna a relação formal; formal é o que foi planejado e oficializado. C) Errada. A organização informal não pode ser eliminada e nem sempre é negativa. D) Errada. O servidor tem liderança informal (influência), não autoridade formal. E) Errada. Ocorre em qualquer organização, pública ou privada.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "organizacao-informal",
+        "organizacao-formal"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0118",
+      "topico": "1.3.2",
+      "tipo": "multipla",
+      "enunciado": "Em determinada organização, cada trabalhador recebe orientações de diversos supervisores especializados: um orienta sobre métodos de trabalho, outro sobre controle de qualidade e outro sobre prazos. Embora as decisões sejam tomadas por especialistas, os trabalhadores relatam dúvidas sobre a quem devem obedecer quando as orientações divergem.\n\nO tipo de estrutura descrito é a:",
+      "alternativas": [
+        "estrutura linear.",
+        "estrutura funcional.",
+        "estrutura linha-staff.",
+        "estrutura matricial.",
+        "estrutura divisional."
+      ],
+      "correta": 1,
+      "comentario": "A estrutura funcional (Taylor) divide a autoridade por especialidade. O trabalhador recebe ordens de vários especialistas, o que gera a principal desvantagem: perda da unidade de comando. A) Errada. Na linear há um único chefe por subordinado. C) Errada. Na linha-staff os especialistas (staff) apenas aconselham; não dão ordens aos executores. D) Errada. A matricial envolve dois chefes: o da área funcional e o do projeto/produto. O enunciado traz vários supervisores por especialidade de tarefa, sem projetos. E) Errada. A divisional cria divisões autônomas por produto, região ou cliente.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "estrutura-funcional",
+        "taylor",
+        "tipos-de-estrutura"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0119",
+      "topico": "1.3.2",
+      "tipo": "multipla",
+      "enunciado": "A respeito da estrutura linha-staff, assinale a afirmativa correta.",
+      "alternativas": [
+        "Os órgãos de staff possuem autoridade de comando sobre os órgãos de linha, em sua área de especialidade.",
+        "Os órgãos de staff prestam assessoria, consultoria e recomendações, sem autoridade linear sobre os órgãos de execução, o que preserva a unidade de comando.",
+        "Essa estrutura elimina os conflitos entre especialistas e executores, por separar claramente suas funções.",
+        "Trata-se de estrutura típica de organizações muito pequenas, pela sua simplicidade.",
+        "Os órgãos de staff são responsáveis pelas atividades-fim da organização."
+      ],
+      "correta": 1,
+      "comentario": "O staff aconselha; a linha decide e executa. Como o staff não dá ordens, cada executor continua com um único chefe (unidade de comando preservada). A) Errada. Dar autoridade de comando ao especialista seria a lógica da estrutura funcional. C) Errada. O conflito linha x staff é justamente a desvantagem mais citada dessa estrutura. D) Errada. É típica de organizações de médio e grande porte; para as pequenas, a linear basta. E) Errada. Atividades-fim são da linha; o staff atua em apoio.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "linha-staff",
+        "assessoria",
+        "tipos-de-estrutura"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0120",
+      "topico": "1.3.2",
+      "tipo": "multipla",
+      "enunciado": "Uma organização atua em ambiente marcado por mudanças tecnológicas rápidas e constante necessidade de inovação.\n\nSegundo os estudos de Burns e Stalker, a estrutura mais adequada a esse contexto apresenta:",
+      "alternativas": [
+        "alta formalização, hierarquia rígida e comunicação predominantemente vertical.",
+        "centralização das decisões na cúpula e tarefas fixas e altamente especializadas.",
+        "descentralização das decisões, baixa formalização e comunicação lateral, com tarefas redefinidas conforme a necessidade.",
+        "grande número de níveis hierárquicos e amplitude de controle reduzida.",
+        "padronização dos processos de trabalho como principal mecanismo de coordenação."
+      ],
+      "correta": 2,
+      "comentario": "Ambiente instável pede estrutura orgânica: flexível, descentralizada, com pouca formalização e comunicação horizontal. As alternativas A, B, D e E descrevem características da estrutura mecanicista, adequada a ambientes estáveis e previsíveis.",
+      "fundamento": "Burns e Stalker; Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "mecanicista",
+        "organica",
+        "burns-e-stalker"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0121",
+      "topico": "1.3.2",
+      "tipo": "multipla",
+      "enunciado": "Para implantar um novo sistema de controle aduaneiro, um órgão público montou uma equipe com servidores das áreas de tecnologia, fiscalização e arrecadação. Durante o projeto, cada servidor permanece vinculado ao chefe de sua área de origem e, ao mesmo tempo, responde ao gerente do projeto.\n\nA principal desvantagem associada ao tipo de estrutura descrito é:",
+      "alternativas": [
+        "a dificuldade de adaptação a mudanças no ambiente.",
+        "a ambiguidade de autoridade decorrente da dupla subordinação, que pode gerar conflitos.",
+        "o excesso de níveis hierárquicos, que torna a comunicação lenta.",
+        "a ausência de especialização técnica dos membros da equipe.",
+        "a impossibilidade de compartilhar especialistas entre diferentes projetos."
+      ],
+      "correta": 1,
+      "comentario": "O caso descreve a estrutura matricial: cada membro tem dois chefes (funcional e de projeto). A desvantagem típica é a dupla subordinação, que contraria a unidade de comando e gera disputas de poder. A) Errada. Flexibilidade é uma vantagem da matricial. C) Errada. A matricial não se caracteriza por excesso de níveis. D) Errada. Ela justamente reúne especialistas de várias áreas. E) Errada. O compartilhamento de especialistas é uma vantagem da matricial.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "estrutura-matricial",
+        "dupla-subordinacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0122",
+      "topico": "1.3.2",
+      "tipo": "multipla",
+      "enunciado": "Na abordagem de Vasconcellos e Hemsley, a estrutura organizacional é composta pelos sistemas de responsabilidade, de autoridade, de comunicação e de decisão.\n\nAs definições sobre amplitude de controle, número de níveis hierárquicos, delegação e grau de centralização integram o sistema de:",
+      "alternativas": [
+        "responsabilidade.",
+        "autoridade.",
+        "comunicação.",
+        "decisão.",
+        "objetivos."
+      ],
+      "correta": 1,
+      "comentario": "O sistema de autoridade trata da distribuição do poder: amplitude, níveis hierárquicos, delegação e centralização/descentralização. A) Errada. O sistema de responsabilidade trata da distribuição de atividades: departamentalização, linha e assessoria e especialização. C) Errada. O de comunicação trata dos fluxos de informação. D) Errada. O de decisão trata de quem decide com base nas informações. E) Errada. Não é um dos quatro sistemas dessa abordagem.",
+      "fundamento": "Vasconcellos e Hemsley, Estrutura das Organizações.",
+      "dificuldade": "media",
+      "tags": [
+        "vasconcellos-e-hemsley",
+        "sistema-de-autoridade",
+        "componentes-da-estrutura"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0123",
+      "topico": "1.3.2",
+      "tipo": "multipla",
+      "enunciado": "Um hospital universitário tem seu trabalho dominado por médicos e enfermeiros altamente qualificados, que possuem grande autonomia técnica. A coordenação entre eles ocorre principalmente porque todos foram formados segundo padrões profissionais semelhantes.\n\nDe acordo com Mintzberg, essa organização se enquadra na configuração denominada:",
+      "alternativas": [
+        "estrutura simples.",
+        "burocracia mecanizada.",
+        "burocracia profissional.",
+        "forma divisionalizada.",
+        "adhocracia."
+      ],
+      "correta": 2,
+      "comentario": "Na burocracia profissional, o núcleo operacional é formado por profissionais especializados, e a coordenação se dá pela padronização das habilidades (a formação deles). A) Errada. Estrutura simples usa supervisão direta. B) Errada. Burocracia mecanizada usa padronização dos processos de trabalho. D) Errada. Forma divisionalizada usa padronização dos resultados. E) Errada. Adhocracia usa ajustamento mútuo.",
+      "fundamento": "Mintzberg, Criando Organizações Eficazes.",
+      "dificuldade": "media",
+      "tags": [
+        "mintzberg",
+        "burocracia-profissional",
+        "configuracoes"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0124",
+      "topico": "1.3.2",
+      "tipo": "multipla",
+      "enunciado": "Uma organização pública alterou sua estratégia, passando a priorizar o atendimento digital ao cidadão. Em seguida, reformulou unidades, cargos e fluxos para viabilizar a nova orientação.\n\nA relação entre estratégia e estrutura descrita no caso está de acordo com a ideia de que:",
+      "alternativas": [
+        "a estratégia segue a estrutura, que deve permanecer estável.",
+        "a estrutura segue a estratégia, devendo ajustar-se a ela.",
+        "a estrutura independe da estratégia e do ambiente.",
+        "existe uma estrutura ideal, aplicável a qualquer organização.",
+        "a estrutura deve ser definida antes do planejamento estratégico."
+      ],
+      "correta": 1,
+      "comentario": "Alfred Chandler concluiu que a estrutura segue a estratégia: quando a estratégia muda, a estrutura deve ser adaptada para executá-la. A e E) Erradas. Invertem a relação. C e D) Erradas. Contrariam a abordagem contingencial: a estrutura depende da estratégia, do ambiente, da tecnologia e do tamanho; não há modelo único ideal.",
+      "fundamento": "Chandler, Strategy and Structure; Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "chandler",
+        "estrategia-e-estrutura",
+        "contingencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0125",
+      "topico": "1.3.3",
+      "tipo": "multipla",
+      "enunciado": "Um órgão de administração tributária reorganizou suas unidades locais: criou uma unidade exclusiva para acompanhar os contribuintes de maior capacidade econômica do país, uma unidade voltada ao atendimento de pessoas físicas e outra dedicada a microempresas.\n\nO critério de departamentalização adotado foi:",
+      "alternativas": [
+        "funcional.",
+        "por produto.",
+        "geográfico.",
+        "por clientela.",
+        "por processo."
+      ],
+      "correta": 3,
+      "comentario": "As unidades foram criadas segundo o tipo de público atendido (grandes contribuintes, pessoas físicas, microempresas) — critério de clientela. A) Errada. Funcional agruparia por área de conhecimento (fiscalização, arrecadação etc.). B) Errada. Produto agruparia pelo que é entregue (tipo de serviço ou tributo). C) Errada. Geográfico agruparia por região. E) Errada. Processo agruparia por etapas de uma sequência.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "departamentalizacao",
+        "clientela"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0126",
+      "topico": "1.3.3",
+      "tipo": "multipla",
+      "enunciado": "Uma central de tratamento de documentos foi estruturada nas seguintes seções: Recepção, Digitalização, Conferência e Arquivamento. Cada documento percorre essas seções, nessa ordem, até a conclusão do trabalho.\n\nEsse arranjo corresponde à departamentalização:",
+      "alternativas": [
+        "por projeto.",
+        "por processo.",
+        "por clientela.",
+        "matricial.",
+        "por quantidade."
+      ],
+      "correta": 1,
+      "comentario": "As seções correspondem a etapas sequenciais de um mesmo fluxo de trabalho: departamentalização por processo. A) Errada. Não há empreendimento temporário com prazo. C) Errada. As seções não se diferenciam pelo tipo de cliente. D) Errada. Não há dupla subordinação. E) Errada. Por quantidade seria agrupar um número fixo de pessoas sob um chefe.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "departamentalizacao",
+        "processo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0127",
+      "topico": "1.3.3",
+      "tipo": "multipla",
+      "enunciado": "Sobre a departamentalização funcional, assinale a afirmativa correta.",
+      "alternativas": [
+        "É especialmente indicada para ambientes instáveis, que exigem rápida adaptação.",
+        "Favorece a especialização e a economia de escala, mas pode gerar visão limitada dos membros e dificuldade de coordenação entre departamentos.",
+        "Tem como principal desvantagem a duplicação de recursos entre as unidades.",
+        "Orienta toda a estrutura para as necessidades específicas de cada grupo de clientes.",
+        "É uma forma temporária de agrupamento, extinta ao fim do objetivo."
+      ],
+      "correta": 1,
+      "comentario": "Reunir especialistas da mesma área gera especialização e economia de escala, mas cada departamento tende a olhar só para sua função, dificultando a coordenação. A) Errada. A funcional é indicada para ambientes estáveis. C) Errada. Duplicação de recursos é desvantagem típica da departamentalização por produto (e também geográfica e por clientela). A funcional, ao contrário, concentra recursos. D) Errada. Essa é a lógica da departamentalização por clientela. E) Errada. Essa é a lógica da departamentalização por projeto.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "departamentalizacao",
+        "funcional"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0128",
+      "topico": "1.3.3",
+      "tipo": "multipla",
+      "enunciado": "Uma empresa estatal, organizada em diretorias funcionais (Produção, Comercial, Finanças), decidiu reorganizar-se em divisões por linha de serviço, cada uma com suas próprias equipes de produção, vendas e finanças.\n\nA tendência esperada dessa mudança é:",
+      "alternativas": [
+        "reduzir os custos pela eliminação de estruturas em duplicidade.",
+        "aumentar a duplicação de recursos, mas ampliar o foco nos resultados e a responsabilização por cada linha de serviço.",
+        "aumentar a especialização técnica, concentrando os especialistas em um único departamento.",
+        "tornar a organização mais adequada a ambientes estáveis e previsíveis.",
+        "reduzir a autonomia das unidades em relação à cúpula."
+      ],
+      "correta": 1,
+      "comentario": "Na departamentalização por produto/serviço, cada divisão tem suas próprias áreas de apoio, o que gera duplicação de recursos (desvantagem), mas também foco nos resultados e responsabilidade clara por linha de serviço (vantagem). A) Errada. A duplicação aumenta. C) Errada. Concentrar especialistas é característica da funcional; aqui eles serão espalhados pelas divisões. D) Errada. A estrutura por produto é mais adequada a ambientes instáveis. E) Errada. As divisões tendem a ganhar mais autonomia.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "media",
+      "tags": [
+        "departamentalizacao",
+        "produto",
+        "duplicacao-de-recursos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0129",
+      "topico": "1.3.3",
+      "tipo": "multipla",
+      "enunciado": "Considere que um órgão federal divide o território nacional em regiões, cada uma com uma unidade regional responsável por coordenar as unidades locais nela situadas. Analise as afirmativas sobre esse arranjo.\n\nI. Trata-se de departamentalização geográfica.\nII. Uma vantagem é a possibilidade de adaptar a atuação às características de cada localidade.\nIII. Uma desvantagem é a dificuldade de manter procedimentos uniformes em todo o país.\nIV. Esse critério elimina a necessidade de unidades centrais de coordenação.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I e II, apenas.",
+        "I, II e III, apenas.",
+        "I, III e IV, apenas.",
+        "II e IV, apenas.",
+        "I, II, III e IV."
+      ],
+      "correta": 1,
+      "comentario": "I – Certa. Agrupar por região/território é o critério geográfico. II – Certa. Proximidade e adaptação às condições locais são a principal vantagem. III – Certa. Cada região tende a desenvolver práticas próprias, o que ameaça a uniformidade. IV – Errada. Justamente pelo risco de falta de uniformidade, as unidades centrais continuam sendo necessárias para normatizar e coordenar.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "media",
+      "tags": [
+        "departamentalizacao",
+        "geografica"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0130",
+      "topico": "1.3.3",
+      "tipo": "multipla",
+      "enunciado": "Em uma grande organização pública, as unidades da sede são divididas por áreas de conhecimento; abaixo delas, há unidades regionais; e, dentro de algumas regionais, há setores específicos para determinados grupos de usuários.\n\nEsse arranjo caracteriza a departamentalização:",
+      "alternativas": [
+        "funcional pura.",
+        "matricial.",
+        "mista.",
+        "por projeto.",
+        "por processo."
+      ],
+      "correta": 2,
+      "comentario": "Quando a organização combina diferentes critérios em diferentes níveis (funcional na sede, geográfico nas regionais, clientela nos setores), a departamentalização é mista (híbrida) — a mais comum na prática. A) Errada. Há mais de um critério. B) Errada. Matricial exige sobreposição simultânea de dois critérios com dupla subordinação, não a combinação em níveis diferentes. D e E) Erradas. Não há projetos temporários nem etapas sequenciais descritos.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "departamentalizacao",
+        "mista"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0131",
+      "topico": "1.3.3",
+      "tipo": "multipla",
+      "enunciado": "Uma secretaria montou uma equipe exclusiva para organizar um grande evento internacional, com duração prevista de dez meses. Ao término do evento, a equipe será desmobilizada.\n\nEm relação ao critério de departamentalização adotado, é correto afirmar que uma de suas desvantagens típicas é:",
+      "alternativas": [
+        "a impossibilidade de concentrar recursos no objetivo.",
+        "a incerteza quanto ao destino dos membros da equipe após a conclusão do trabalho.",
+        "a rigidez decorrente da dependência de uma tecnologia específica.",
+        "a perda da adaptação às condições locais.",
+        "a ausência de prazo definido para a conclusão das atividades."
+      ],
+      "correta": 1,
+      "comentario": "A departamentalização é por projeto (temporária, com objetivo e prazo). Sua desvantagem típica é a incerteza/insegurança sobre o que acontecerá com a equipe quando o projeto terminar. A) Errada. Concentrar recursos no objetivo é uma vantagem do critério por projeto. C) Errada. Rigidez tecnológica é desvantagem da departamentalização por processo. D) Errada. Adaptação local é tema da geográfica. E) Errada. Projetos, por definição, têm prazo definido.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "departamentalizacao",
+        "projeto"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0132",
+      "topico": "1.3.4",
+      "tipo": "multipla",
+      "enunciado": "Um órgão federal possui unidades em todas as capitais e em centenas de municípios. Todas as decisões relevantes, inclusive sobre questões operacionais simples, são tomadas exclusivamente pela direção-geral, em Brasília.\n\nSobre essa organização, é correto afirmar que ela é:",
+      "alternativas": [
+        "descentralizada, pois está presente em todo o território nacional.",
+        "centralizada, pois o grau de descentralização refere-se à distribuição da autoridade decisória, e não à dispersão geográfica das unidades.",
+        "descentralizada, pois a dispersão geográfica implica, necessariamente, delegação de autoridade.",
+        "matricial, pois combina unidades centrais e locais.",
+        "descentralizada quanto às decisões e centralizada quanto à execução."
+      ],
+      "correta": 1,
+      "comentario": "Estar espalhado pelo território (dispersão geográfica) não torna a organização descentralizada. O que define a descentralização é onde as decisões são tomadas. Como tudo é decidido na sede, a organização é centralizada. A e C) Erradas. Caem exatamente na pegadinha de confundir presença territorial com distribuição de poder. D) Errada. Matricial envolve dupla subordinação; não é o caso. E) Errada. Inverte a situação: as decisões é que estão centralizadas; a execução é que ocorre de forma dispersa.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "media",
+      "tags": [
+        "centralizacao",
+        "descentralizacao",
+        "dispersao-geografica"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0133",
+      "topico": "1.3.4",
+      "tipo": "multipla",
+      "enunciado": "Uma organização pública precisa garantir que a interpretação de determinada legislação seja idêntica em todas as suas unidades, evitando que contribuintes em situações iguais recebam tratamentos diferentes.\n\nPara esse tipo de decisão, a alternativa mais coerente com a teoria administrativa é:",
+      "alternativas": [
+        "descentralizar a decisão às unidades locais, para ganhar rapidez.",
+        "centralizar a decisão, pois a centralização favorece a uniformidade de procedimentos e de entendimentos.",
+        "adotar a estrutura funcional, com múltiplas chefias especializadas.",
+        "delegar a decisão a cada servidor, conforme seu entendimento pessoal.",
+        "adotar a departamentalização por clientela para cada interpretação possível."
+      ],
+      "correta": 1,
+      "comentario": "A principal vantagem da centralização é a uniformidade: quando a mesma instância decide, o entendimento é o mesmo para todos. Por isso, decisões normativas e interpretativas costumam ser centralizadas na cúpula. A e D) Erradas. Descentralizar aumentaria o risco de entendimentos divergentes — a principal desvantagem da descentralização. C e E) Erradas. Não resolvem o problema da uniformidade e tratam de outros temas (tipo de estrutura e critério de departamentalização).",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "facil",
+      "tags": [
+        "centralizacao",
+        "uniformidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0134",
+      "topico": "1.3.4",
+      "tipo": "multipla",
+      "enunciado": "Analise os fatores a seguir.\n\nI. Ambiente dinâmico, que exige respostas rápidas aos problemas locais.\nII. Decisões de alto custo e elevado risco para a organização.\nIII. Existência de gestores capacitados e confiáveis nos níveis inferiores.\nIV. Grande porte e ampla dispersão geográfica da organização.\n\nFavorecem a descentralização os fatores:",
+      "alternativas": [
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "I, III e IV, apenas.",
+        "II, III e IV, apenas.",
+        "I, II, III e IV."
+      ],
+      "correta": 2,
+      "comentario": "I – Favorece. Rapidez e proximidade dos fatos pedem decisões nas pontas. II – Não favorece. Decisões de alto custo e alto risco tendem a ser centralizadas na cúpula. III – Favorece. Só faz sentido distribuir poder a quem está preparado para usá-lo. IV – Favorece. Em organizações grandes e dispersas, centralizar tudo tornaria a cúpula um gargalo.",
+      "fundamento": "Chiavenato, Introdução à Teoria Geral da Administração.",
+      "dificuldade": "media",
+      "tags": [
+        "descentralizacao",
+        "fatores-condicionantes"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0135",
+      "topico": "1.3.4",
+      "tipo": "multipla",
+      "enunciado": "O titular de uma unidade administrativa federal pretende delegar algumas de suas competências a um servidor subordinado, com base na Lei nº 9.784/1999.\n\nEntre as competências a seguir, a única que pode ser objeto de delegação é a:",
+      "alternativas": [
+        "edição de atos de caráter normativo.",
+        "decisão de recursos administrativos.",
+        "matéria de competência exclusiva da autoridade.",
+        "assinatura de expedientes de rotina relacionados ao atendimento, inexistindo impedimento legal.",
+        "renúncia definitiva à competência atribuída ao órgão."
+      ],
+      "correta": 3,
+      "comentario": "Atos de rotina, sem impedimento legal, podem ser delegados (art. 12). A, B e C) Erradas. O art. 13 da Lei 9.784/1999 proíbe delegar: atos normativos, decisão de recursos administrativos e matérias de competência exclusiva (lembre: NoRE CE). E) Errada. Segundo o art. 11, a competência é irrenunciável; delegar não é renunciar.",
+      "fundamento": "Lei nº 9.784/1999, arts. 11 a 13.",
+      "dificuldade": "media",
+      "tags": [
+        "delegacao",
+        "lei-9784",
+        "competencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0136",
+      "topico": "1.3.4",
+      "tipo": "multipla",
+      "enunciado": "Sobre delegação e avocação de competência na Lei nº 9.784/1999, analise as afirmativas.\n\nI. O ato de delegação é revogável a qualquer tempo pela autoridade delegante.\nII. As decisões adotadas por delegação devem mencionar explicitamente essa qualidade e consideram-se editadas pelo delegado.\nIII. A avocação de competência de órgão hierarquicamente inferior é admitida em caráter permanente, a critério do superior.\nIV. A delegação somente pode ser feita a órgãos ou titulares hierarquicamente subordinados.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I e II, apenas.",
+        "I e III, apenas.",
+        "II e IV, apenas.",
+        "I, II e III, apenas.",
+        "I, II, III e IV."
+      ],
+      "correta": 0,
+      "comentario": "I – Certa. Art. 14, § 2º. II – Certa. Art. 14, § 3º. III – Errada. A avocação é excepcional, temporária e depende de motivos relevantes devidamente justificados (art. 15). Nunca é permanente nem livre. IV – Errada. O art. 12 permite delegar a órgãos ou titulares ainda que não sejam hierarquicamente subordinados.",
+      "fundamento": "Lei nº 9.784/1999, arts. 12, 14 e 15.",
+      "dificuldade": "dificil",
+      "tags": [
+        "delegacao",
+        "avocacao",
+        "lei-9784"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0137",
+      "topico": "1.3.4",
+      "tipo": "multipla",
+      "enunciado": "A União decidiu ampliar a execução de determinada atividade federal por meio de convênio com estados que dispõem de estrutura adequada para realizá-la.\n\nConsiderando o Decreto-Lei nº 200/1967, essa medida corresponde à descentralização:",
+      "alternativas": [
+        "dentro dos quadros da Administração Federal, distinguindo-se o nível de direção do de execução.",
+        "da Administração Federal para a das unidades federadas, mediante convênio.",
+        "da Administração Federal para a órbita privada, mediante contratos ou concessões.",
+        "por avocação de competência.",
+        "vedada pelo Decreto-Lei, que impõe a centralização da execução."
+      ],
+      "correta": 1,
+      "comentario": "O art. 10, § 1º, \"b\", prevê a descentralização da Administração Federal para a das unidades federadas (estados, DF, municípios), quando devidamente aparelhadas e mediante convênio. A) Errada. Esse é o plano \"a\" (interno à Administração Federal). C) Errada. Esse é o plano \"c\" (para particulares, por contratos ou concessões). D) Errada. Avocação é o movimento inverso (o superior chama para si a competência). E) Errada. O art. 10 determina que a execução seja amplamente descentralizada.",
+      "fundamento": "Decreto-Lei nº 200/1967, art. 10, § 1º.",
+      "dificuldade": "media",
+      "tags": [
+        "descentralizacao",
+        "decreto-lei-200"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "adm-0138",
+      "topico": "1.3.4",
+      "tipo": "multipla",
+      "enunciado": "No âmbito da organização administrativa, a União distribui competências entre seus Ministérios e, dentro destes, entre órgãos como a Secretaria Especial da Receita Federal do Brasil, que por sua vez se divide em unidades centrais, regionais e locais. Já a criação de uma autarquia federal para executar determinado serviço público transfere a atividade a uma nova pessoa jurídica.\n\nTecnicamente, essas duas situações correspondem, respectivamente, a:",
+      "alternativas": [
+        "descentralização e desconcentração.",
+        "desconcentração e descentralização.",
+        "delegação e avocação.",
+        "centralização e desconcentração.",
+        "descentralização e descentralização."
+      ],
+      "correta": 1,
+      "comentario": "Distribuir competências dentro da mesma pessoa jurídica (a União), criando órgãos com hierarquia, é desconcentração. Transferir a atividade para outra pessoa jurídica (a autarquia), sujeita a controle e não a hierarquia, é descentralização. A) Errada. Inverte os conceitos — é a pegadinha preferida. C) Errada. Delegação e avocação tratam de transferir ou chamar para si o exercício de competências, não da criação de órgãos ou entidades. D e E) Erradas. Não correspondem às duas situações descritas.",
+      "fundamento": "Decreto-Lei nº 200/1967; doutrina de Direito Administrativo.",
+      "dificuldade": "media",
+      "tags": [
+        "desconcentracao",
+        "descentralizacao",
+        "direito-administrativo"
+      ],
+      "fonte": "inédita"
     }
   ]
 }
