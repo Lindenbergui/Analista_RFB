@@ -979,6 +979,808 @@
         "aplicacao-subsidiaria"
       ],
       "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0044",
+      "topico": "8.3.1",
+      "tipo": "multipla",
+      "enunciado": "A respeito das regras constitucionais aplicáveis ao Imposto sobre a Propriedade Territorial Rural (ITR), assinale a afirmativa correta.",
+      "alternativas": [
+        "O ITR será progressivo e terá suas alíquotas fixadas de forma a desestimular a manutenção de propriedades improdutivas.",
+        "O ITR não incidirá sobre pequenas glebas rurais, definidas em lei, ainda que o proprietário possua outro imóvel rural de área equivalente.",
+        "A União poderá delegar aos Municípios que assim optarem a competência para instituir e legislar sobre o ITR.",
+        "O ITR será obrigatoriamente fiscalizado e cobrado pelos Municípios em cujo território se situem os imóveis rurais.",
+        "Por ter caráter extrafiscal, o ITR constitui exceção à anterioridade nonagesimal, podendo ser exigido no mesmo exercício da publicação da lei que o majorar."
+      ],
+      "correta": 0,
+      "comentario": "A alternativa correta transcreve o art. 153, §4º, I, da CF. A imunidade do inciso II exige que o proprietário não possua outro imóvel — nenhum, urbano ou rural. A competência tributária é indelegável (CTN, art. 7º): a EC 42/2003 permitiu delegar apenas as atribuições de fiscalizar, lançar e cobrar (capacidade tributária ativa). O texto constitucional fala em Municípios 'que assim optarem', de modo que a fiscalização municipal é faculdade formalizada por convênio. Por fim, o ITR não é exceção nem à anterioridade anual nem à noventena: as exceções à legalidade (art. 153, §1º) e às anterioridades (art. 150, §1º) não o incluem.",
+      "fundamento": "CF/1988, arts. 150, §1º, e 153, VI e §4º; CTN, art. 7º.",
+      "dificuldade": "facil",
+      "tags": [
+        "principios-constitucionais",
+        "progressividade",
+        "imunidade",
+        "anterioridade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0045",
+      "topico": "8.3.1",
+      "tipo": "multipla",
+      "enunciado": "Maria é proprietária de duas chácaras contíguas no interior de Minas Gerais, com 12 hectares e 15 hectares, que explora pessoalmente com o auxílio do marido e dos filhos. Maria é também proprietária de um apartamento em Belo Horizonte, onde a família passa os fins de semana.\n\nDiante desse quadro, e considerando a Constituição Federal e a Lei nº 9.393/1996, é correto afirmar que Maria:",
+      "alternativas": [
+        "é alcançada pela imunidade das pequenas glebas rurais, pois a área de cada imóvel é inferior a 30 hectares.",
+        "é alcançada pela isenção prevista para o conjunto de imóveis rurais do mesmo proprietário, pois a soma das áreas não ultrapassa 30 hectares.",
+        "não faz jus nem à imunidade nem à isenção, sujeitando-se à incidência do ITR.",
+        "faz jus à imunidade apenas em relação ao imóvel de 12 hectares, por ser o de menor área.",
+        "é alcançada pela imunidade, uma vez que a existência de imóvel urbano é irrelevante para o ITR."
+      ],
+      "correta": 2,
+      "comentario": "A imunidade da pequena gleba exige três requisitos cumulativos: área dentro do limite regional, exploração pelo proprietário só ou com a família e inexistência de outro imóvel. Maria possui três imóveis, o que afasta a imunidade. A isenção do art. 3º, II, alcançaria o conjunto de imóveis rurais cuja área total respeite o limite da pequena gleba (27 ha ≤ 30 ha), mas exige que o proprietário não possua imóvel urbano — e o apartamento em Belo Horizonte, sozinho, destrói o benefício. Sem imunidade e sem isenção, incide o imposto normalmente.",
+      "fundamento": "CF/1988, art. 153, §4º, II; Lei nº 9.393/1996, arts. 2º e 3º, II.",
+      "dificuldade": "media",
+      "tags": [
+        "pequena-gleba",
+        "imunidade",
+        "isencao",
+        "imovel-urbano"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0046",
+      "topico": "8.3.1",
+      "tipo": "multipla",
+      "enunciado": "Lei federal publicada em 10 de dezembro de 2026 majorou as alíquotas do ITR previstas no Anexo da Lei nº 9.393/1996, sem dispor expressamente sobre sua vigência.\n\nConsiderando as limitações constitucionais ao poder de tributar e a disciplina do fato gerador do ITR, a nova alíquota será aplicável ao imposto relativo ao fato gerador ocorrido em:",
+      "alternativas": [
+        "10 de dezembro de 2026, por se tratar de tributo extrafiscal.",
+        "1º de janeiro de 2027, por força da anterioridade de exercício.",
+        "1º de janeiro de 2028, pois em 1º de janeiro de 2027 ainda não teria transcorrido o prazo de noventa dias.",
+        "10 de março de 2027, data em que se completam noventa dias da publicação.",
+        "1º de julho de 2027, por aplicação subsidiária da regra geral de vigência das leis."
+      ],
+      "correta": 2,
+      "comentario": "As duas anterioridades são cumulativas e o ITR não é exceção a nenhuma delas. Em 1º/01/2027 a anterioridade anual estaria cumprida, mas a noventena só se completaria por volta de 10/03/2027, depois de já ocorrido o fato gerador daquele exercício — que é instantâneo e se dá em 1º de janeiro (art. 1º). Como a lei não alcança fato gerador pretérito, ela só incide sobre o fato gerador de 1º/01/2028. A alternativa que aponta março de 2027 é a armadilha: nessa data a noventena de fato se esgota, mas não há fato gerador algum ocorrendo.",
+      "fundamento": "CF/1988, art. 150, III, 'a', 'b' e 'c', e §1º; Lei nº 9.393/1996, art. 1º.",
+      "dificuldade": "dificil",
+      "tags": [
+        "anterioridade",
+        "noventena",
+        "fato-gerador",
+        "irretroatividade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0047",
+      "topico": "8.3.1",
+      "tipo": "multipla",
+      "enunciado": "O Município de Boa Terra celebrou convênio com a União, por intermédio da Receita Federal do Brasil, para assumir as atribuições de fiscalização, inclusive de lançamento, e de cobrança do ITR relativo aos imóveis situados em seu território. Em seguida, a Câmara Municipal aprovou lei concedendo redução de 30% do valor do ITR devido pelos produtores rurais domiciliados no Município.\n\nSobre a situação descrita, assinale a afirmativa correta.",
+      "alternativas": [
+        "A lei municipal é válida, pois, com o convênio, o Município passou a deter competência tributária sobre o ITR.",
+        "A lei municipal é válida, desde que a redução seja comunicada previamente à Receita Federal do Brasil.",
+        "A lei municipal é inválida, pois a opção pelo convênio não pode implicar redução do imposto ou qualquer outra forma de renúncia fiscal, e a competência para legislar sobre o ITR permanece com a União.",
+        "A lei municipal é inválida apenas quanto ao percentual, admitindo-se reduções de até 10% como margem de política fiscal local.",
+        "A lei municipal é válida, mas o Município perde o direito à totalidade do produto da arrecadação, voltando a receber 50%."
+      ],
+      "correta": 2,
+      "comentario": "Dois fundamentos expressos sustentam a invalidade. A parte final do art. 153, §4º, III, da CF condiciona a opção municipal a que ela não implique redução do imposto ou qualquer outra forma de renúncia fiscal. Além disso, a competência tributária é indelegável (CTN, art. 7º): o convênio da Lei nº 11.250/2005 transfere apenas atribuições administrativas, de modo que o Município conveniado aplica a legislação federal, sem criar, reduzir ou perdoar. O descumprimento não torna a lei válida com perda de receita: pode levar à denúncia do convênio pela RFB.",
+      "fundamento": "CF/1988, art. 153, §4º, III; CTN, art. 7º; Lei nº 11.250/2005; IN RFB nº 1.640/2016.",
+      "dificuldade": "media",
+      "tags": [
+        "convenio",
+        "renuncia-fiscal",
+        "competencia-tributaria",
+        "municipios"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0048",
+      "topico": "8.3.1",
+      "tipo": "multipla",
+      "enunciado": "Antônio é proprietário de um único imóvel rural de 80 hectares, localizado em município compreendido no Polígono das Secas, que explora pessoalmente com sua família e onde reside. Antônio não possui qualquer outro imóvel.\n\nCom base na Lei nº 9.393/1996, é correto afirmar que o imóvel de Antônio:",
+      "alternativas": [
+        "é imune ao ITR, pois explorado pelo proprietário que não possui outro imóvel.",
+        "é imune ao ITR, pois sua área é inferior a 100 hectares.",
+        "não é alcançado pela imunidade, pois a pequena gleba, naquela região, é a de área igual ou inferior a 50 hectares.",
+        "não é alcançado pela imunidade, pois a pequena gleba, naquela região, é a de área igual ou inferior a 30 hectares.",
+        "é imune ao ITR em relação a 50 hectares, incidindo o imposto sobre os 30 hectares excedentes."
+      ],
+      "correta": 2,
+      "comentario": "Antônio cumpre dois dos três requisitos (exploração familiar e inexistência de outro imóvel), mas falha no tamanho. Pequena gleba é o imóvel de área igual ou inferior a 100 ha na Amazônia Ocidental e no Pantanal, 50 ha no Polígono das Secas e na Amazônia Oriental e 30 ha nos demais municípios. Com 80 ha em município do Polígono das Secas, o imóvel está fora da imunidade, que não é parcial nem fracionada: ou o imóvel inteiro se enquadra no limite, ou o ITR incide sobre a integralidade da área.",
+      "fundamento": "Lei nº 9.393/1996, art. 2º, parágrafo único, I a III.",
+      "dificuldade": "media",
+      "tags": [
+        "pequena-gleba",
+        "imunidade",
+        "limites-regionais",
+        "poligono-das-secas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0049",
+      "topico": "8.3.1",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir sobre o regime constitucional do ITR.\n\nI. A progressividade do ITR leva em conta dois critérios combinados: a área total do imóvel e o seu grau de utilização.\nII. Por se tratar de tributo com função predominantemente extrafiscal, admite-se a majoração de suas alíquotas por ato do Poder Executivo, nos moldes do que ocorre com o IPI e o IOF.\nIII. A faculdade conferida aos Municípios pela Emenda Constitucional nº 42/2003 implica transferência da competência tributária relativa ao ITR ao ente que optar pelo convênio.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "I e III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 0,
+      "comentario": "I está correta: o Anexo da Lei nº 9.393/1996 cruza seis faixas de área total com cinco faixas de grau de utilização, concretizando a progressividade dupla do art. 153, §4º, I. II está errada: extrafiscalidade não dispensa legalidade, e a autorização do art. 153, §1º, alcança apenas II, IE, IPI e IOF. III está errada: o convênio delega capacidade tributária ativa, não competência, que é indelegável (CTN, art. 7º), permanecendo a União titular dela e mantendo a RFB competência supletiva.",
+      "fundamento": "CF/1988, art. 153, §§1º e 4º, I e III; CTN, art. 7º; Lei nº 9.393/1996, Anexo.",
+      "dificuldade": "media",
+      "tags": [
+        "progressividade",
+        "extrafiscalidade",
+        "legalidade",
+        "competencia-tributaria"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0050",
+      "topico": "8.3.2",
+      "tipo": "multipla",
+      "enunciado": "Sobre a competência e a sujeição ativa relativas ao Imposto sobre a Propriedade Territorial Rural, assinale a afirmativa correta.",
+      "alternativas": [
+        "A competência para instituir o ITR é da União, admitindo-se sua delegação aos Municípios que celebrarem convênio com a Receita Federal do Brasil.",
+        "A competência para instituir o ITR é da União e é indelegável, podendo ser delegadas aos Municípios e ao Distrito Federal, mediante convênio, as atribuições de fiscalização, inclusive de lançamento, e de cobrança.",
+        "A competência para instituir o ITR é dos Municípios, cabendo à União apenas estabelecer normas gerais por lei complementar.",
+        "Celebrado o convênio, o Município torna-se sujeito ativo e titular da competência tributária, ficando a União impedida de fiscalizar o imposto no território do ente conveniado.",
+        "A competência para instituir o ITR é da União, vedada qualquer delegação de funções administrativas a outros entes federativos, por força do art. 7º do CTN."
+      ],
+      "correta": 1,
+      "comentario": "A alternativa correta sintetiza o sistema: competência da União (CF, art. 153, VI), indelegabilidade da competência com ressalva das funções de arrecadar e fiscalizar (CTN, art. 7º) e delegação por convênio a Municípios e ao Distrito Federal (CF, art. 153, §4º, III, e Lei nº 11.250/2005). O erro recorrente é falar em delegação 'da competência'. Também é falso que a União fique impedida de atuar: a IN RFB nº 1.640/2016 preserva expressamente a competência supletiva da RFB de fiscalização, lançamento e cobrança.",
+      "fundamento": "CF/1988, art. 153, VI e §4º, III; CTN, arts. 7º e 119; Lei nº 11.250/2005; IN RFB nº 1.640/2016.",
+      "dificuldade": "facil",
+      "tags": [
+        "competencia-tributaria",
+        "capacidade-tributaria-ativa",
+        "sujeito-ativo",
+        "convenio"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0051",
+      "topico": "8.3.2",
+      "tipo": "multipla",
+      "enunciado": "A Fazenda Dois Irmãos é uma área contínua de 3.000 hectares, dos quais 1.900 hectares situam-se no Município de Alfa e 1.100 hectares no Município de Beta. A sede do imóvel — composta pela casa principal, pelos currais e pelo escritório da administração — localiza-se em Beta.\n\nNos termos da Lei nº 9.393/1996, o imóvel deve ser enquadrado no Município de:",
+      "alternativas": [
+        "Alfa, por abrigar a maior parte da área do imóvel.",
+        "Beta, por abrigar a sede do imóvel.",
+        "Alfa e Beta, proporcionalmente à área situada em cada um deles.",
+        "Alfa ou Beta, conforme eleição do contribuinte como domicílio tributário.",
+        "Alfa, por ser a sede critério meramente indicativo, prevalecendo sempre a extensão territorial."
+      ],
+      "correta": 1,
+      "comentario": "O art. 1º, §3º, estabelece ordem sucessiva, e não alternativa: o imóvel pertencente a mais de um município é enquadrado naquele onde fique a sede e, somente se esta não existir, naquele onde se localize a maior parte do imóvel. Havendo sede em Beta, é lá o enquadramento e, por consequência, o domicílio tributário. Não há rateio do ITR entre municípios, nem é admitida a eleição de domicílio diverso do município de localização do imóvel, pois o art. 4º, parágrafo único, afasta a regra geral do art. 127 do CTN.",
+      "fundamento": "Lei nº 9.393/1996, art. 1º, §§2º e 3º, e art. 4º, parágrafo único; CTN, art. 127.",
+      "dificuldade": "media",
+      "tags": [
+        "aspecto-espacial",
+        "sede-do-imovel",
+        "domicilio-tributario"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0052",
+      "topico": "8.3.2",
+      "tipo": "multipla",
+      "enunciado": "O Município de Campo Verde celebrou com a União, por intermédio da Receita Federal do Brasil, o convênio de que trata a Lei nº 11.250/2005. Auditor fiscal municipal, aprovado em concurso público para cargo com atribuição legal de lançamento e devidamente habilitado, lavrou notificação de lançamento de ITR contra determinado contribuinte, que a impugnou sob o argumento de incompetência da autoridade.\n\nA respeito do caso, assinale a afirmativa correta.",
+      "alternativas": [
+        "A impugnação deve ser acolhida, pois o lançamento de tributo federal é atribuição privativa de Auditor-Fiscal da Receita Federal do Brasil, sendo o convênio restrito a atos de cobrança.",
+        "A impugnação deve ser acolhida, pois a delegação de atribuições administrativas não alcança a constituição do crédito tributário.",
+        "A impugnação deve ser rejeitada, pois o convênio pode delegar as atribuições de fiscalização, inclusive a de lançamento de créditos tributários, e de cobrança relativas ao ITR.",
+        "A impugnação deve ser rejeitada, mas o lançamento deverá ser ratificado por Auditor-Fiscal da Receita Federal do Brasil no prazo de trinta dias, sob pena de nulidade.",
+        "A impugnação deve ser acolhida em parte, mantendo-se o imposto e afastando-se a multa de ofício, cuja aplicação é indelegável."
+      ],
+      "correta": 2,
+      "comentario": "A Lei nº 11.250/2005 e a IN RFB nº 1.640/2016 são expressas ao delegar as atribuições de fiscalização, inclusive a de lançamento de créditos tributários, e de cobrança relativas ao ITR. Preenchidos os requisitos — cargo criado por lei com atribuição de lançamento, servidor concursado, capacitado e cadastrado no sistema da RFB —, o ato é válido, sem necessidade de ratificação. O limite da delegação é outro: o ente conveniado não pode afastar-se da legislação federal, alterando alíquota, concedendo desconto ou instituindo parcelamento próprio.",
+      "fundamento": "CTN, arts. 7º e 142; Lei nº 11.250/2005, art. 2º; IN RFB nº 1.640/2016.",
+      "dificuldade": "media",
+      "tags": [
+        "convenio",
+        "lancamento",
+        "delegacao",
+        "municipios"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0053",
+      "topico": "8.3.2",
+      "tipo": "multipla",
+      "enunciado": "Determinada propriedade rural de 60 hectares está situada na zona rural do Distrito Federal, sendo utilizada na produção de hortaliças.\n\nQuanto à tributação dessa propriedade, assinale a afirmativa correta.",
+      "alternativas": [
+        "Incide o ITR, de competência da União, podendo o Distrito Federal celebrar convênio para fiscalizá-lo e cobrá-lo.",
+        "Incide o ITR, de competência do Distrito Federal, por força da competência cumulativa prevista no art. 147 da Constituição Federal.",
+        "Incide o IPTU, de competência do Distrito Federal, pois nele não há Municípios.",
+        "Não incide imposto algum sobre a propriedade, dada a ausência de Municípios no Distrito Federal.",
+        "Incide o ITR, de competência da União, vedada ao Distrito Federal a celebração de convênio, faculdade restrita aos Municípios."
+      ],
+      "correta": 0,
+      "comentario": "O art. 147 da CF confere ao Distrito Federal os impostos municipais, cumulativamente com os estaduais; o ITR, porém, é imposto federal (art. 153, VI) e não é alcançado por essa competência cumulativa. Logo, a propriedade rural situada no DF sujeita-se ao ITR da União. Quanto ao convênio, tanto a Lei nº 11.250/2005 quanto a IN RFB nº 1.640/2016 mencionam expressamente o Distrito Federal ao lado dos municípios, razão pela qual não há a vedação sugerida em uma das alternativas.",
+      "fundamento": "CF/1988, arts. 147 e 153, VI e §4º, III; Lei nº 11.250/2005; IN RFB nº 1.640/2016.",
+      "dificuldade": "media",
+      "tags": [
+        "distrito-federal",
+        "competencia-cumulativa",
+        "convenio"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0054",
+      "topico": "8.3.2",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, relativas à delegação de atribuições quanto ao ITR.\n\nI. Celebrado o convênio, o ente conveniado fará jus a cem por cento do produto da arrecadação do ITR relativo aos imóveis situados em seu território.\nII. A celebração do convênio afasta a competência da Receita Federal do Brasil para fiscalizar e lançar o ITR dos imóveis situados no território do ente conveniado.\nIII. É requisito para a celebração do convênio que o ente federativo disponha de lei vigente instituidora de cargo com atribuição de lançamento de créditos tributários.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "III, apenas.",
+        "I e III, apenas.",
+        "II e III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 2,
+      "comentario": "I está correta: o art. 158, II, parte final, da CF assegura ao ente optante a totalidade do produto da arrecadação, que na prática se efetiva a partir do cadastramento dos servidores no sistema da RFB; sem convênio, a participação é de 50%. II está errada e é a assertiva falsa mais recorrente do tema: a celebração do convênio não prejudica as competências supletivas da RFB de fiscalização, inclusive lançamento, e de cobrança. III está correta: a IN RFB nº 1.640/2016 condiciona o convênio à existência de lei instituidora de cargo com atribuição de lançamento, além de servidor concursado e habilitado, em garantia decorrente do art. 142 do CTN.",
+      "fundamento": "CF/1988, art. 158, II; CTN, art. 142; Lei nº 11.250/2005; IN RFB nº 1.640/2016.",
+      "dificuldade": "media",
+      "tags": [
+        "convenio",
+        "reparticao-de-receitas",
+        "competencia-supletiva",
+        "requisitos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0055",
+      "topico": "8.3.3",
+      "tipo": "multipla",
+      "enunciado": "De acordo com o Código Tributário Nacional, o fato gerador do Imposto sobre a Propriedade Territorial Rural é a propriedade, o domínio útil ou a posse de imóvel:",
+      "alternativas": [
+        "por natureza ou por acessão física, como definido na lei civil, localizado fora da zona urbana do Município.",
+        "por natureza, como definido na lei civil, localizado fora da zona urbana do Município.",
+        "por acessão física, como definido na lei civil, localizado fora do perímetro de expansão urbana do Município.",
+        "por natureza, destinado à exploração agrícola, pecuária, extrativa ou agroindustrial, qualquer que seja a sua localização.",
+        "por natureza ou por acessão física, desde que a área seja superior ao módulo fiscal do Município."
+      ],
+      "correta": 1,
+      "comentario": "Trata-se da literalidade do art. 29 do CTN. A expressão 'por acessão física' pertence ao IPTU (art. 32) e é a troca mais explorada pelas bancas: como o ITR não alcança acessões — tudo o que o homem incorpora ao solo —, a base de cálculo é a terra nua. Também é incorreto erigir a destinação a critério geral: o CTN adota o critério da localização, e a destinação só opera como exceção, pelo art. 15 do DL nº 57/1966, para o imóvel situado em zona urbana comprovadamente utilizado em atividade rural.",
+      "fundamento": "CTN, arts. 29 e 32; Lei nº 9.393/1996, art. 1º; Decreto-Lei nº 57/1966, art. 15.",
+      "dificuldade": "facil",
+      "tags": [
+        "fato-gerador",
+        "imovel-por-natureza",
+        "aspecto-espacial"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0056",
+      "topico": "8.3.3",
+      "tipo": "multipla",
+      "enunciado": "Nelson é proprietário de área de 8 hectares que, por força de lei municipal, passou a integrar a zona urbana do Município, onde existem rede de abastecimento de água e iluminação pública. A área é comprovadamente utilizada por Nelson na exploração agrícola, com produção e venda regular de hortaliças e mudas. O Município lançou IPTU sobre o imóvel.\n\nConsiderando a legislação e a jurisprudência do Superior Tribunal de Justiça firmada em recurso repetitivo, é correto afirmar que:",
+      "alternativas": [
+        "o lançamento é correto, pois o critério adotado pelo CTN para distinguir o IPTU do ITR é exclusivamente o da localização do imóvel.",
+        "o lançamento é correto, pois a existência de dois melhoramentos públicos é suficiente e definitiva para caracterizar a zona urbana.",
+        "o lançamento é incorreto, incidindo o ITR, pois o imóvel, ainda que situado em zona urbana, é comprovadamente utilizado em exploração agrícola.",
+        "o lançamento é incorreto, pois imóvel com área superior a 5 hectares sujeita-se obrigatoriamente ao ITR.",
+        "incidem cumulativamente o IPTU e o ITR, cabendo ao contribuinte optar por um deles no momento da declaração."
+      ],
+      "correta": 2,
+      "comentario": "Aplicam-se o art. 15 do Decreto-Lei nº 57/1966 e o entendimento firmado pelo STJ no REsp nº 1.112.646/SP, julgado sob o rito dos repetitivos: não incide IPTU, mas ITR, sobre imóvel localizado na área urbana do município desde que comprovadamente utilizado em exploração extrativa vegetal, agrícola, pecuária ou agroindustrial. O critério da localização é a regra, mas convive com a exceção da destinação — daí ser incorreta a alternativa que o qualifica como 'exclusivo'. Não existe limite de 5 hectares para essa finalidade, nem incidência cumulativa dos dois impostos, que são excludentes.",
+      "fundamento": "Decreto-Lei nº 57/1966, art. 15; CTN, arts. 29 e 32; STJ, REsp nº 1.112.646/SP (recurso repetitivo).",
+      "dificuldade": "media",
+      "tags": [
+        "iptu-x-itr",
+        "criterio-da-destinacao",
+        "jurisprudencia-stj"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0057",
+      "topico": "8.3.3",
+      "tipo": "multipla",
+      "enunciado": "Em 15 de março de 2026, lei municipal ampliou o perímetro urbano, passando a incluir na zona urbana determinada área que, até então, situava-se em zona rural e era utilizada exclusivamente como depósito de materiais de construção, sem qualquer exploração agropecuária.\n\nConsiderando o aspecto temporal do fato gerador, é correto afirmar que:",
+      "alternativas": [
+        "o ITR é devido relativamente ao exercício de 2026, pois o fato gerador ocorreu em 1º de janeiro de 2026, quando a área ainda se situava em zona rural.",
+        "o ITR deixa de ser devido a partir de 15 de março de 2026, devendo o imposto ser calculado proporcionalmente a dois meses e quinze dias.",
+        "o ITR nunca foi devido, pois a área não era utilizada em exploração agropecuária.",
+        "o IPTU é devido relativamente ao exercício de 2026 e o ITR deve ser integralmente restituído.",
+        "a definição do imposto aplicável ao exercício de 2026 dependerá de convênio entre o Município e a Receita Federal do Brasil."
+      ],
+      "correta": 0,
+      "comentario": "O fato gerador do ITR ocorre em 1º de janeiro de cada ano e é instantâneo: vale a situação jurídica daquele dia. Em 1º/01/2026 o imóvel ainda estava em zona rural, de modo que o ITR daquele exercício é devido; a alteração de perímetro só produzirá efeito sobre o fato gerador de 1º/01/2027, quando então incidirá o IPTU, já que não há exploração rural que atraia a exceção do DL nº 57/1966. Não existe ITR proporcional ao tempo, e a destinação rural não é requisito para a incidência sobre imóvel situado em zona rural — o depósito apenas resultará em grau de utilização baixo e alíquota elevada.",
+      "fundamento": "Lei nº 9.393/1996, art. 1º; CTN, arts. 29 e 32; Decreto-Lei nº 57/1966, art. 15.",
+      "dificuldade": "media",
+      "tags": [
+        "aspecto-temporal",
+        "perimetro-urbano",
+        "iptu-x-itr"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0058",
+      "topico": "8.3.3",
+      "tipo": "multipla",
+      "enunciado": "Imóvel rural de 1.500 hectares foi integralmente invadido por famílias integrantes de movimento social em janeiro de 2023. O proprietário ajuizou ação possessória e obteve liminar de reintegração de posse, jamais cumprida pelo Poder Público, ficando privado, desde então, do uso, do gozo e da exploração econômica do bem. Lançado o ITR dos exercícios subsequentes, e de acordo com a jurisprudência do Superior Tribunal de Justiça, é correto afirmar que:",
+      "alternativas": [
+        "o imposto é integralmente devido, pois o proprietário permanece como titular do direito de propriedade registrado no cartório de imóveis.",
+        "o imposto é devido pela metade, por aplicação analógica do princípio da capacidade contributiva.",
+        "o imposto é inexigível do proprietário, pois o esvaziamento dos poderes inerentes à propriedade faz desaparecer a base material do fato gerador.",
+        "o imposto é devido, mas o proprietário tem direito a crédito de igual valor contra o ente expropriante.",
+        "o imposto é inexigível, por expressa previsão de isenção na Lei nº 9.393/1996 para imóveis objeto de esbulho possessório."
+      ],
+      "correta": 2,
+      "comentario": "É a tese consagrada pelo STJ (REsp nº 1.144.982/PR, entre outros precedentes das duas Turmas de Direito Público): com a invasão e a inércia estatal, o direito de propriedade fica desprovido de praticamente todos os seus elementos, desaparecendo a base material do fato gerador, o que torna o ITR inexigível do proprietário despojado no período do esbulho. A alternativa mais perigosa é a que atribui o resultado a uma isenção legal: a solução é jurisprudencial, e as isenções da Lei nº 9.393/1996 (arts. 3º e 3º-A) tratam de assentamentos, conjunto de pequenos imóveis e áreas de remanescentes de quilombos.",
+      "fundamento": "CTN, art. 29; Lei nº 9.393/1996, art. 1º; STJ, REsp nº 1.144.982/PR.",
+      "dificuldade": "media",
+      "tags": [
+        "esbulho-possessorio",
+        "fato-gerador",
+        "jurisprudencia-stj"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0059",
+      "topico": "8.3.3",
+      "tipo": "multipla",
+      "enunciado": "Decreto expropriatório para fins de reforma agrária relativo a determinado imóvel rural foi publicado em agosto de 2025. A imissão prévia do expropriante na posse ocorreu em 10 de março de 2026 e a transferência da propriedade somente se efetivou em 2027.\n\nNos termos da Lei nº 9.393/1996, o ITR relativo ao exercício de 2026:",
+      "alternativas": [
+        "não é devido, pois a publicação do decreto expropriatório, por si só, afasta a incidência do imposto.",
+        "é devido pelo expropriado, pois em 1º de janeiro de 2026 ainda não havia ocorrido a perda da posse nem a transferência da propriedade.",
+        "é devido pelo expropriante desde 1º de janeiro de 2026, por força da imissão provisória deferida nos autos.",
+        "é devido pelo expropriado, mas apenas na proporção de dois meses e dez dias, correspondentes ao período anterior à imissão na posse.",
+        "não é devido, uma vez que o expropriado ficou dispensado, inclusive, de apresentar a declaração relativa àquele exercício."
+      ],
+      "correta": 1,
+      "comentario": "Conjugam-se duas regras: o fato gerador ocorre em 1º de janeiro (art. 1º) e o ITR continua devido pelo proprietário do imóvel objeto de desapropriação enquanto não transferida a propriedade, ressalvada a imissão prévia na posse (art. 1º, §1º). Em 1º/01/2026 o expropriado ainda era proprietário e possuidor, pois a imissão ocorreu em março; logo, o ITR de 2026 é dele, sem proporcionalidade, deixando de ser devido a partir do exercício de 2027. Vale lembrar que quem perde a posse ou a propriedade por desapropriação entre 1º de janeiro e a data de entrega permanece obrigado a apresentar a declaração.",
+      "fundamento": "Lei nº 9.393/1996, art. 1º, caput e §1º; IN RFB nº 2.330/2026, art. 2º.",
+      "dificuldade": "media",
+      "tags": [
+        "desapropriacao",
+        "imissao-na-posse",
+        "aspecto-temporal",
+        "ditr"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0060",
+      "topico": "8.3.3",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir sobre o fato gerador do ITR.\n\nI. O arrendatário de imóvel rural, por exercer posse direta sobre o bem, é alcançado pelo fato gerador do imposto.\nII. O ITR é de apuração anual e seu fato gerador considera-se ocorrido em 1º de janeiro de cada ano.\nIII. Imóvel rural que pertença a mais de um Município deve ser enquadrado no Município onde fique a sede do imóvel e, se esta não existir, no Município onde se localize a maior parte do imóvel.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I e II, apenas.",
+        "I e III, apenas.",
+        "II e III, apenas.",
+        "III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 2,
+      "comentario": "I está errada: apesar da literalidade 'possuidor a qualquer título', somente a posse exercida com animus domini realiza o fato gerador, de modo que arrendatário, locatário, parceiro e comodatário, cuja posse é derivada e precária, não são contribuintes. Vale a pegadinha cruzada: os dados de exploração do arrendatário ou parceiro podem ser usados para apurar o grau de utilização (art. 10, §4º), sem que isso os torne sujeitos passivos. II e III reproduzem, respectivamente, o caput e o §3º do art. 1º da Lei nº 9.393/1996, este último com os critérios na ordem correta.",
+      "fundamento": "CTN, arts. 29 e 31; Lei nº 9.393/1996, art. 1º, caput e §3º, art. 4º e art. 10, §4º.",
+      "dificuldade": "media",
+      "tags": [
+        "fato-gerador",
+        "posse",
+        "arrendatario",
+        "aspecto-espacial"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0061",
+      "topico": "8.3.4",
+      "tipo": "multipla",
+      "enunciado": "Nos termos do Código Tributário Nacional e da Lei nº 9.393/1996, é contribuinte do Imposto sobre a Propriedade Territorial Rural:",
+      "alternativas": [
+        "o proprietário do imóvel rural, o titular de seu domínio útil ou o seu possuidor a qualquer título.",
+        "o proprietário do imóvel rural ou o arrendatário que explore a atividade agropecuária.",
+        "exclusivamente o proprietário do imóvel rural, assim considerado o titular do domínio registrado no cartório de registro de imóveis.",
+        "o proprietário do imóvel rural, o titular de seu domínio útil ou o administrador por ele contratado.",
+        "o proprietário do imóvel rural e, solidariamente, o parceiro rural, na proporção de sua participação nos frutos."
+      ],
+      "correta": 0,
+      "comentario": "A alternativa correta reproduz o art. 31 do CTN e o art. 4º da Lei nº 9.393/1996. O contribuinte espelha o fato gerador: propriedade, domínio útil e posse. Arrendatário e parceiro exercem posse derivada, sem animus domini, e não são contribuintes — embora seus dados de exploração possam ser considerados no cálculo do grau de utilização (art. 10, §4º). O administrador é mero detentor (fâmulo da posse), atuando em nome do proprietário. A palavra 'exclusivamente' também invalida alternativa, por eliminar o domínio útil e a posse.",
+      "fundamento": "CTN, art. 31; Lei nº 9.393/1996, arts. 4º e 10, §4º.",
+      "dificuldade": "facil",
+      "tags": [
+        "contribuinte",
+        "sujeicao-passiva",
+        "posse"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0062",
+      "topico": "8.3.4",
+      "tipo": "multipla",
+      "enunciado": "Osvaldo doou a seus dois filhos a nua-propriedade de imóvel rural de 400 hectares, reservando para si o usufruto vitalício. Desde então, Osvaldo permanece explorando a atividade agropecuária no imóvel e percebendo integralmente os seus frutos.\n\nQuanto à sujeição passiva do ITR, é correto afirmar que o contribuinte é:",
+      "alternativas": [
+        "Osvaldo, na condição de usufrutuário, por ser o possuidor com poderes de uso e fruição do imóvel.",
+        "cada um dos filhos, na proporção de 50%, por serem os titulares do direito de propriedade.",
+        "o espólio de Osvaldo, a partir da instituição do usufruto vitalício.",
+        "Osvaldo e os filhos, solidariamente, por disposição expressa da Lei nº 9.393/1996.",
+        "indefinido, cabendo aos interessados eleger, em comum acordo, o responsável perante a Receita Federal do Brasil."
+      ],
+      "correta": 0,
+      "comentario": "O ITR alcança quem detém a disponibilidade econômica do imóvel. Instituído o usufruto, os nus-proprietários ficam com título esvaziado, enquanto o usufrutuário concentra posse, uso e fruição, enquadrando-se como possuidor a qualquer título; a legislação da DITR o arrola expressamente entre os obrigados à declaração. Não há solidariedade legal nessa hipótese, espólio pressupõe falecimento e a sujeição passiva decorre de lei, não podendo ser eleita por acordo entre particulares, que não é oponível à Fazenda Pública (CTN, art. 123).",
+      "fundamento": "CTN, arts. 31 e 123; Lei nº 9.393/1996, art. 4º; IN RFB nº 2.330/2026, art. 2º.",
+      "dificuldade": "media",
+      "tags": [
+        "contribuinte",
+        "usufruto",
+        "sujeicao-passiva"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0063",
+      "topico": "8.3.4",
+      "tipo": "multipla",
+      "enunciado": "Carlos era proprietário de imóvel rural em 1º de janeiro de 2026 e o alienou a Beatriz em 20 de março do mesmo ano, não constando do título qualquer prova de quitação do ITR dos exercícios anteriores, que se encontravam em aberto.\n\nA respeito da sujeição passiva, assinale a afirmativa correta.",
+      "alternativas": [
+        "Beatriz é contribuinte do ITR de 2026, pois era a proprietária na data de entrega da declaração.",
+        "Carlos é contribuinte do ITR de 2026, e Beatriz responde, como sucessora, pelos créditos tributários relativos ao imóvel, que se sub-rogam em sua pessoa.",
+        "Carlos e Beatriz são contribuintes do ITR de 2026, cada um na proporção do período em que foram proprietários no ano-calendário.",
+        "Beatriz não responde pelos créditos anteriores à aquisição, em razão do princípio da pessoalidade dos tributos.",
+        "Carlos permanece como único sujeito passivo, sendo vedada a cobrança do adquirente por créditos de ITR anteriores à alienação."
+      ],
+      "correta": 1,
+      "comentario": "São duas conclusões em uma só alternativa. O contribuinte de 2026 é Carlos, porque o fato gerador ocorreu em 1º de janeiro, quando ele era o proprietário — a titularidade na data da entrega da declaração é irrelevante e não há rateio proporcional. Beatriz, por sua vez, é responsável por sucessão: o art. 5º da Lei nº 9.393/1996 remete aos arts. 128 a 133 do CTN, e o art. 130 determina que os créditos de impostos sobre a propriedade imobiliária se sub-rogam na pessoa do adquirente, salvo quando conste do título a prova de quitação — ressalva aqui inexistente. Na arrematação em hasta pública, a sub-rogação ocorreria sobre o preço.",
+      "fundamento": "CTN, arts. 130 e 131; Lei nº 9.393/1996, arts. 1º, 4º e 5º.",
+      "dificuldade": "media",
+      "tags": [
+        "responsabilidade-por-sucessao",
+        "sub-rogacao",
+        "contribuinte"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0064",
+      "topico": "8.3.4",
+      "tipo": "multipla",
+      "enunciado": "A Fazenda São Jorge, de propriedade de pessoa jurídica, foi integralmente arrendada a terceiro, que nela desenvolve lavoura de milho com elevada produtividade.\n\nSobre a situação, é correto afirmar que:",
+      "alternativas": [
+        "o arrendatário é o contribuinte do ITR, por ser o possuidor direto e o explorador da atividade rural.",
+        "a proprietária é a contribuinte do ITR, sendo vedada a utilização de dados do arrendatário para apuração do grau de utilização do imóvel.",
+        "a proprietária é a contribuinte do ITR, podendo os dados relativos à exploração do arrendatário ser considerados na apuração do grau de utilização do imóvel.",
+        "proprietária e arrendatário são solidariamente obrigados ao pagamento do ITR, nos termos do contrato de arrendamento.",
+        "a definição do contribuinte depende do que dispuser o contrato de arrendamento, que é oponível à Fazenda Pública quando registrado em cartório."
+      ],
+      "correta": 2,
+      "comentario": "A alternativa correta reúne regra e complemento. O arrendatário tem posse derivada, sem animus domini, e não é contribuinte — a contribuinte é a proprietária. Por outro lado, o art. 10, §4º, da Lei nº 9.393/1996 autoriza que, nos casos de imóvel arrendado ou objeto de parceria, sejam considerados os dados da área utilizada pelo arrendatário ou parceiro para apurar o grau de utilização, pois o que interessa à extrafiscalidade é se a terra está produzindo, e não quem produz. Convenções particulares não podem ser opostas à Fazenda Pública para alterar a definição legal do sujeito passivo (CTN, art. 123).",
+      "fundamento": "CTN, arts. 31 e 123; Lei nº 9.393/1996, arts. 4º e 10, §4º.",
+      "dificuldade": "media",
+      "tags": [
+        "arrendamento",
+        "contribuinte",
+        "grau-de-utilizacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0065",
+      "topico": "8.3.4",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir.\n\nI. Considera-se domicílio tributário do contribuinte do ITR o município de localização do imóvel, vedada a eleição de qualquer outro.\nII. Falecido o proprietário, a obrigação relativa ao imóvel rural recai sobre o espólio até a partilha ou a adjudicação, cabendo ao inventariante a apresentação da declaração.\nIII. Os imóveis rurais alcançados por imunidade ou isenção estão dispensados de inscrição no Cadastro de Imóveis Rurais (Cafir).\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "I e III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 1,
+      "comentario": "I está correta: o art. 4º, parágrafo único, da Lei nº 9.393/1996 é regra especial que afasta a faculdade de eleição do art. 127 do CTN. II está correta: o espólio responde até a partilha ou adjudicação, cabendo a declaração ao inventariante e, na sua falta, ao cônjuge meeiro, ao companheiro ou ao sucessor. III está errada: a inscrição no Cafir é obrigatória para todos os imóveis rurais, inclusive os imunes e os isentos; o que a imunidade e a isenção dispensam, em regra, é a apresentação da DITR. Separe os três planos: pagar (obrigação principal), declarar (obrigação acessória) e cadastrar (dever cadastral).",
+      "fundamento": "CTN, art. 127; Lei nº 9.393/1996, arts. 4º, parágrafo único, 6º e 8º, §3º; legislação do Cafir.",
+      "dificuldade": "media",
+      "tags": [
+        "domicilio-tributario",
+        "espolio",
+        "cafir",
+        "obrigacao-acessoria"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0066",
+      "topico": "8.3.5",
+      "tipo": "multipla",
+      "enunciado": "A base de cálculo do Imposto sobre a Propriedade Territorial Rural é:",
+      "alternativas": [
+        "o valor venal do imóvel rural, incluídas as construções, instalações e benfeitorias nele existentes.",
+        "o Valor da Terra Nua tributável, obtido mediante a multiplicação do Valor da Terra Nua pelo quociente entre a área tributável e a área total do imóvel.",
+        "o valor da produção agropecuária obtida no imóvel no ano anterior ao da apuração.",
+        "o valor da terra nua, assim considerado o valor de mercado do imóvel na data da entrega da declaração.",
+        "o valor da área aproveitável do imóvel, excluídas as áreas ocupadas por benfeitorias úteis e necessárias."
+      ],
+      "correta": 1,
+      "comentario": "A alternativa correta traz a definição do art. 10, §1º, III, da Lei nº 9.393/1996, na linha do 'valor fundiário' referido no art. 30 do CTN. O valor venal com acessões é base do IPTU, não do ITR, que alcança apenas o imóvel por natureza. O valor da produção do ano anterior serve para apurar o grau de utilização, que influencia a alíquota, e não a base de cálculo. A data de referência do VTN é 1º de janeiro, e não a da entrega da declaração. Por fim, área aproveitável e exclusão de benfeitorias pertencem ao cálculo do grau de utilização.",
+      "fundamento": "CTN, art. 30; Lei nº 9.393/1996, art. 10, §1º, I a III; Decreto nº 4.382/2002, arts. 32 e 33.",
+      "dificuldade": "facil",
+      "tags": [
+        "base-de-calculo",
+        "vtn",
+        "vtnt",
+        "valor-fundiario"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0067",
+      "topico": "8.3.5",
+      "tipo": "multipla",
+      "enunciado": "Para fins de apuração do Valor da Terra Nua (VTN), devem ser excluídos do valor de mercado do imóvel rural os valores de mercado relativos a:",
+      "alternativas": [
+        "construções, instalações e benfeitorias; culturas permanentes e temporárias; pastagens cultivadas e melhoradas; e florestas plantadas.",
+        "construções, instalações e benfeitorias; culturas permanentes; pastagens naturais; e florestas nativas em estágio avançado de regeneração.",
+        "áreas de preservação permanente, de reserva legal e sob regime de servidão ambiental.",
+        "exclusivamente as construções, instalações e benfeitorias, mantidas na base de cálculo as culturas e as florestas.",
+        "construções e instalações, as áreas alagadas por reservatório de usina hidrelétrica e as áreas comprovadamente imprestáveis."
+      ],
+      "correta": 0,
+      "comentario": "A alternativa correta reproduz a lista do art. 10, §1º, I. O erro das demais nasce da confusão entre dois mecanismos distintos: as exclusões de valor, que levam ao VTN, alcançam o que o homem incorporou à terra (benfeitorias, culturas, pastagem cultivada e floresta plantada); já as exclusões de área, que levam à área tributável, alcançam o que a lei ambiental protege (APP, reserva legal, servidão ambiental, floresta nativa, áreas imprestáveis declaradas de interesse ecológico e áreas alagadas por hidrelétrica autorizada).",
+      "fundamento": "Lei nº 9.393/1996, art. 10, §1º, I e II; Decreto nº 4.382/2002, art. 32.",
+      "dificuldade": "media",
+      "tags": [
+        "vtn",
+        "exclusoes",
+        "base-de-calculo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0068",
+      "topico": "8.3.5",
+      "tipo": "multipla",
+      "enunciado": "Determinado imóvel rural possui área total de 2.000 hectares, dos quais 300 hectares correspondem a área de preservação permanente e 400 hectares a área de reserva legal regularmente registrada. O imóvel foi avaliado, a preço de mercado em 1º de janeiro, em R$ 30.000.000,00, dos quais R$ 6.000.000,00 correspondem a construções, instalações, benfeitorias, culturas e pastagens cultivadas.\n\nNesse caso, o Valor da Terra Nua tributável (VTNt) é de:",
+      "alternativas": [
+        "R$ 30.000.000,00",
+        "R$ 24.000.000,00",
+        "R$ 15.600.000,00",
+        "R$ 19.500.000,00",
+        "R$ 8.400.000,00"
+      ],
+      "correta": 2,
+      "comentario": "A apuração segue três degraus. VTN: R$ 30.000.000 − R$ 6.000.000 = R$ 24.000.000. Área tributável: 2.000 ha − (300 + 400) = 1.300 ha. VTNt: R$ 24.000.000 × (1.300 ÷ 2.000) = R$ 15.600.000. As demais alternativas correspondem a etapas esquecidas ou invertidas: não excluir nada; parar no VTN sem proporcionalizar; aplicar o percentual de 65% sobre o valor total do imóvel; ou subtrair duas vezes o valor das benfeitorias. A ordem segura é fazer primeiro a conta de dinheiro, depois a de hectares e só então multiplicar.",
+      "fundamento": "Lei nº 9.393/1996, art. 10, §1º, I a III; Decreto nº 4.382/2002, arts. 32 e 33.",
+      "dificuldade": "media",
+      "tags": [
+        "base-de-calculo",
+        "calculo",
+        "vtnt",
+        "area-tributavel"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0069",
+      "topico": "8.3.5",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que indica área que NÃO é excluída da área total do imóvel para fins de apuração da área tributável do ITR.",
+      "alternativas": [
+        "Área de reserva legal prevista na Lei nº 12.651/2012.",
+        "Área sob regime de servidão ambiental.",
+        "Área coberta por florestas nativas, primárias ou secundárias em estágio médio ou avançado de regeneração.",
+        "Área ocupada por benfeitorias úteis e necessárias destinadas à atividade rural.",
+        "Área alagada para fins de constituição de reservatório de usina hidrelétrica autorizada pelo poder público."
+      ],
+      "correta": 3,
+      "comentario": "As áreas de reserva legal, sob servidão ambiental, cobertas por florestas nativas em estágio médio ou avançado de regeneração e alagadas por hidrelétrica autorizada constam do art. 10, §1º, II, e reduzem a área tributável, logo a base de cálculo. Já a área ocupada por benfeitorias úteis e necessárias é deduzida para apurar a área aproveitável (art. 10, §1º, IV), que é o denominador do grau de utilização: influencia a alíquota, não a base. A coerência é evidente, pois o curral é prova de que a terra está sendo usada.",
+      "fundamento": "Lei nº 9.393/1996, art. 10, §1º, II e IV.",
+      "dificuldade": "media",
+      "tags": [
+        "area-tributavel",
+        "area-aproveitavel",
+        "benfeitorias",
+        "areas-ambientais"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0070",
+      "topico": "8.3.5",
+      "tipo": "multipla",
+      "enunciado": "A respeito da comprovação das áreas não tributáveis do imóvel rural, assinale a afirmativa correta.",
+      "alternativas": [
+        "A declaração relativa a áreas de preservação permanente e sob regime de servidão ambiental está sujeita a prévia comprovação documental, sem a qual a Receita Federal do Brasil não recepciona a declaração.",
+        "A declaração relativa a essas áreas não está sujeita a prévia comprovação, respondendo o declarante pelo imposto, com juros e multa, caso se comprove que a declaração não é verdadeira.",
+        "A apresentação do Ato Declaratório Ambiental (ADA) permanece obrigatória, por força de lei, como condição para a exclusão das áreas ambientais.",
+        "O Cadastro Ambiental Rural (CAR) é vedado como meio de apuração da área tributável, por ter finalidade exclusivamente ambiental.",
+        "Comprovada a falsidade da declaração, aplica-se apenas sanção administrativa de advertência, mantida a exclusão das áreas declaradas."
+      ],
+      "correta": 1,
+      "comentario": "A alternativa correta reproduz o art. 10, §7º, da Lei nº 9.393/1996: a declaração não se sujeita a prévia comprovação, mas o declarante responde pelo imposto, com juros e multa, se comprovada a falsidade, sem prejuízo de outras sanções — controle a posteriori típico do lançamento por homologação. Quanto ao ADA, a Lei nº 14.932/2024 revogou o §1º do art. 17-O da Lei nº 6.938/1981, retirando-lhe o caráter obrigatório (o STJ já o considerava dispensável), e alterou o art. 29 do Código Florestal para autorizar expressamente a apresentação do CAR na apuração da área tributável.",
+      "fundamento": "Lei nº 9.393/1996, art. 10, §7º; Lei nº 14.932/2024; Lei nº 6.938/1981, art. 17-O; Lei nº 12.651/2012, art. 29.",
+      "dificuldade": "media",
+      "tags": [
+        "areas-nao-tributaveis",
+        "ada",
+        "car",
+        "lei-14932-2024"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0071",
+      "topico": "8.3.5",
+      "tipo": "multipla",
+      "enunciado": "Em procedimento de fiscalização, constatou-se que o Valor da Terra Nua declarado por determinado contribuinte era muito inferior ao preço de mercado da região. A autoridade fiscal lançou o imposto de ofício, arbitrando o VTN a partir do valor médio das declarações do município, sem distinguir as classes de aptidão agrícola das terras.\n\nConsiderando a Lei nº 9.393/1996 e a jurisprudência administrativa consolidada do CARF, é correto afirmar que:",
+      "alternativas": [
+        "o arbitramento é válido, pois a lei autoriza o uso de qualquer informação de preços de terras disponível ao Fisco.",
+        "o arbitramento é inválido, pois o lançamento de ofício do ITR só é admitido na hipótese de falta de entrega da declaração.",
+        "o arbitramento é incabível quando o VTN é apurado sem levar em conta a aptidão agrícola do imóvel, embora deva prevalecer eventual VTN maior reconhecido pelo próprio contribuinte.",
+        "o arbitramento é válido, pois o VTN declarado não goza de presunção de veracidade, cabendo ao contribuinte o ônus de provar o valor correto em ação judicial própria.",
+        "o arbitramento é inválido, devendo prevalecer, em qualquer hipótese, o valor originalmente declarado pelo contribuinte na DITR."
+      ],
+      "correta": 2,
+      "comentario": "A alternativa correta reproduz o conteúdo da Súmula CARF nº 200: é incabível manter o arbitramento com base no SIPT quando o VTN é apurado sem levar em conta a aptidão agrícola do imóvel; rejeitado o valor arbitrado, e tendo o contribuinte reconhecido VTN maior do que o declarado na DITR, adota-se esse valor. O fundamento legal está no art. 14, §1º, que vincula o Fisco a levantamentos técnicos de preços de terras, organizados por classes de aptidão agrícola. O lançamento de ofício também cabe nos casos de subavaliação e de informações inexatas, incorretas ou fraudulentas, e o VTN declarado vale como autoavaliação.",
+      "fundamento": "Lei nº 9.393/1996, arts. 8º, §2º, e 14 e §1º; Lei nº 8.629/1993, art. 12, §1º, II; Súmula CARF nº 200.",
+      "dificuldade": "dificil",
+      "tags": [
+        "arbitramento",
+        "sipt",
+        "aptidao-agricola",
+        "sumula-carf-200"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0072",
+      "topico": "8.3.6",
+      "tipo": "multipla",
+      "enunciado": "A apuração e o pagamento do ITR, nos termos da Lei nº 9.393/1996, são efetuados pelo contribuinte, independentemente de prévio procedimento da administração tributária, sujeitando-se a homologação posterior.\n\nTrata-se, portanto, de tributo sujeito a lançamento:",
+      "alternativas": [
+        "de ofício, por ser o ITR imposto sobre o patrimônio, a exemplo do IPTU e do IPVA.",
+        "por declaração, pois o contribuinte presta informações e aguarda a notificação da autoridade administrativa.",
+        "por homologação, cabendo o lançamento de ofício apenas nas hipóteses de falta de entrega da declaração, subavaliação ou prestação de informações inexatas, incorretas ou fraudulentas.",
+        "por arbitramento, modalidade autônoma prevista no art. 148 do Código Tributário Nacional para os tributos sobre a propriedade rural.",
+        "misto, por homologação quanto à base de cálculo e de ofício quanto à alíquota aplicável."
+      ],
+      "correta": 2,
+      "comentario": "O art. 10, caput, descreve exatamente a modalidade do art. 150 do CTN: apuração e pagamento pelo contribuinte, sem prévio exame da autoridade, com homologação posterior; o lançamento de ofício é a exceção do art. 14. Ser imposto sobre o patrimônio não determina a modalidade — historicamente o ITR era lançado de ofício, regime alterado pela Lei nº 9.393/1996. No lançamento por declaração (art. 147), o Fisco é quem calcula e notifica. O arbitramento não é modalidade autônoma, mas técnica de determinação da base de cálculo dentro de um lançamento de ofício.",
+      "fundamento": "CTN, arts. 147, 148 e 150; Lei nº 9.393/1996, arts. 10, caput, e 14.",
+      "dificuldade": "facil",
+      "tags": [
+        "lancamento",
+        "homologacao",
+        "apuracao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0073",
+      "topico": "8.3.6",
+      "tipo": "multipla",
+      "enunciado": "Determinado imóvel rural localizado no Estado de São Paulo apresenta, no exercício de referência, os seguintes dados: área total de 600 hectares; áreas de preservação permanente e de reserva legal somando 100 hectares; área ocupada por benfeitorias úteis e necessárias destinadas à atividade rural de 20 hectares; área efetivamente utilizada no ano anterior de 240 hectares; e Valor da Terra Nua de R$ 6.000.000,00.\n\nConsiderando a tabela de alíquotas do Anexo da Lei nº 9.393/1996, o valor do ITR devido é de:",
+      "alternativas": [
+        "R$ 165.000,00",
+        "R$ 198.000,00",
+        "R$ 115.000,00",
+        "R$ 7.500,00",
+        "R$ 1.650.000,00"
+      ],
+      "correta": 0,
+      "comentario": "São quatro passos. Área tributável: 600 − 100 = 500 ha. Base de cálculo (VTNt): 6.000.000 × (500 ÷ 600) = R$ 5.000.000. Área aproveitável: 500 − 20 = 480 ha, logo GU = 240 ÷ 480 = 50%, faixa 'maior que 30 até 50%'. Alíquota: a linha da tabela é definida pela área total de 600 ha, faixa 'maior que 500 até 1.000', resultando em 3,30%. Imposto: R$ 5.000.000 × 3,30% = R$ 165.000. Os distratores correspondem a esquecer a proporcionalização, escolher a linha pela área tributável (2,30%), usar a alíquota de GU superior a 80% (0,15%) ou errar a casa decimal.",
+      "fundamento": "Lei nº 9.393/1996, art. 10, §1º, e art. 11 e Anexo; Decreto nº 4.382/2002, art. 34.",
+      "dificuldade": "dificil",
+      "tags": [
+        "calculo",
+        "grau-de-utilizacao",
+        "aliquota",
+        "area-total"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0074",
+      "topico": "8.3.6",
+      "tipo": "multipla",
+      "enunciado": "Imóvel rural com área total de 800 hectares possui 700 hectares cobertos por área de preservação permanente e reserva legal, estando os 100 hectares restantes integralmente ocupados por benfeitorias úteis e necessárias destinadas à atividade rural, de modo que não remanesce área aproveitável.\n\nNessa hipótese, nos termos da Lei nº 9.393/1996, aplica-se:",
+      "alternativas": [
+        "a alíquota correspondente aos imóveis com grau de utilização até 30%, observada a área total do imóvel.",
+        "a alíquota correspondente aos imóveis com grau de utilização superior a 80%, observada a área total do imóvel.",
+        "a alíquota máxima de 20%, por se tratar de imóvel sem qualquer utilização econômica.",
+        "a alíquota correspondente aos imóveis com grau de utilização superior a 80%, observada a área tributável do imóvel.",
+        "a regra da não incidência, por ausência de área aproveitável."
+      ],
+      "correta": 1,
+      "comentario": "É a literalidade do art. 11, §1º: inexistindo área aproveitável após as exclusões, aplicam-se as alíquotas correspondentes aos imóveis com grau de utilização superior a 80%, observada a área total do imóvel — no caso, 800 ha, faixa 'maior que 500 até 1.000', alíquota de 0,15%. Punir esse contribuinte com alíquota de terra ociosa seria equivocado, pois não houve ociosidade, mas impossibilidade de exploração. A alternativa mais sutil acerta o grau de utilização e erra o parâmetro da linha, ao falar em área tributável. Também não há não incidência: existem 100 ha tributáveis, observado o imposto mínimo de R$ 10,00.",
+      "fundamento": "Lei nº 9.393/1996, art. 11, §§1º e 2º, e Anexo.",
+      "dificuldade": "media",
+      "tags": [
+        "aliquota",
+        "area-aproveitavel",
+        "grau-de-utilizacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0075",
+      "topico": "8.3.6",
+      "tipo": "multipla",
+      "enunciado": "Contribuinte apresentou espontaneamente a declaração do ITR após o prazo fixado pela Receita Federal do Brasil.\n\nNos termos da Lei nº 9.393/1996, será cobrada multa de:",
+      "alternativas": [
+        "1% ao mês-calendário ou fração de atraso, calculada sobre o imposto devido, não inferior a R$ 50,00.",
+        "2% ao mês-calendário ou fração de atraso, calculada sobre o imposto devido, limitada a 20%, não inferior a R$ 165,74.",
+        "20% sobre o imposto devido, reduzida a 10% em caso de pagamento no prazo da notificação.",
+        "0,33% por dia de atraso, calculada sobre o imposto devido, limitada a 20%.",
+        "75% sobre o imposto devido, por caracterizar infração à obrigação acessória."
+      ],
+      "correta": 0,
+      "comentario": "Os arts. 7º e 9º da Lei nº 9.393/1996 preveem, para a apresentação espontânea fora do prazo, multa de 1% ao mês ou fração sobre o imposto devido, não inferior a R$ 50,00 — regra repetida anualmente nas instruções normativas da DITR. A alternativa com 2% ao mês, teto de 20% e mínimo de R$ 165,74 transplanta as regras do IRPF e é a pegadinha predileta das bancas. Já o percentual de 75% é a multa de ofício da Lei nº 9.430/1996, aplicável ao lançamento de ofício, e não ao atraso na entrega de declaração apresentada espontaneamente.",
+      "fundamento": "Lei nº 9.393/1996, arts. 7º e 9º; IN RFB nº 2.330/2026, art. 9º; Lei nº 9.430/1996, art. 44.",
+      "dificuldade": "facil",
+      "tags": [
+        "multa",
+        "ditr",
+        "atraso-na-entrega"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0076",
+      "topico": "8.3.6",
+      "tipo": "multipla",
+      "enunciado": "Sobre as obrigações acessórias relativas ao ITR, assinale a afirmativa correta.",
+      "alternativas": [
+        "Os imóveis rurais alcançados por imunidade ou isenção estão dispensados tanto da apresentação da declaração quanto da inscrição no Cadastro de Imóveis Rurais (Cafir).",
+        "O contribuinte que perdeu a posse do imóvel em razão de desapropriação ocorrida entre 1º de janeiro e a data de entrega da declaração fica dispensado de apresentá-la naquele exercício.",
+        "As alterações cadastrais decorrentes de desmembramento, anexação, transmissão ou constituição de usufruto devem ser comunicadas à Receita Federal do Brasil no prazo de sessenta dias.",
+        "O Valor da Terra Nua a ser declarado corresponde ao preço de mercado da terra nua na data da entrega da declaração.",
+        "A apresentação da declaração é obrigatória apenas para os imóveis rurais com área superior a 200 hectares."
+      ],
+      "correta": 2,
+      "comentario": "O art. 6º, §1º, fixa o prazo de 60 dias para comunicar desmembramento, anexação, transmissão, sucessão, cessão de direitos e constituição de reservas ou usufruto. A imunidade e a isenção dispensam, em regra, a declaração, mas não a inscrição no Cafir. Quem perdeu a posse ou a propriedade por desapropriação ou alienação ao Poder Público entre 1º de janeiro e a data de entrega continua obrigado a declarar. O VTN tem como referência 1º de janeiro, data do fato gerador (art. 8º, §2º). Os 200 hectares dizem respeito à dispensa dos índices de lotação e rendimento (art. 10, §3º), não à obrigatoriedade de declarar.",
+      "fundamento": "Lei nº 9.393/1996, arts. 6º, 8º, §§2º e 3º, e 10, §3º; IN RFB nº 2.330/2026, art. 2º.",
+      "dificuldade": "media",
+      "tags": [
+        "obrigacao-acessoria",
+        "diac",
+        "ditr",
+        "cafir"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "ltrib-0077",
+      "topico": "8.3.6",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir sobre a apuração do ITR.\n\nI. Consideram-se efetivamente utilizadas as áreas atingidas por calamidade pública decretada e reconhecida, de que resulte frustração de safras ou destruição de pastagens.\nII. Ficam dispensados da aplicação dos índices de lotação e de rendimento os imóveis com área inferior a 1.000 hectares, se localizados em município compreendido na Amazônia Ocidental ou no Pantanal mato-grossense e sul-mato-grossense.\nIII. Em nenhuma hipótese o valor do imposto devido será inferior a R$ 50,00.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "II, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 2,
+      "comentario": "I está correta (art. 10, §6º), que também alcança as áreas oficialmente destinadas a pesquisa e experimentação em agricultura e pecuária. II está correta (art. 10, §3º): a dispensa alcança imóveis com área inferior a 1.000 ha na Amazônia Ocidental e no Pantanal, 500 ha no Polígono das Secas e na Amazônia Oriental e 200 ha nos demais municípios — números que não se confundem com os da pequena gleba (100, 50 e 30 ha). III está errada: o imposto mínimo é de R$ 10,00 (art. 11, §2º); os R$ 50,00 correspondem ao valor mínimo de cada quota do parcelamento e ao piso da multa por atraso na entrega da declaração.",
+      "fundamento": "Lei nº 9.393/1996, arts. 2º, parágrafo único, 7º, 10, §§3º e 6º, 11, §2º, e 12, parágrafo único.",
+      "dificuldade": "media",
+      "tags": [
+        "indices-de-lotacao",
+        "calamidade-publica",
+        "imposto-minimo",
+        "quotas"
+      ],
+      "fonte": "inédita"
     }
   ]
 }
