@@ -2094,6 +2094,1410 @@
         "independencia-das-instancias"
       ],
       "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0093",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "A Secretaria Especial da Receita Federal do Brasil, por meio de sua unidade local, realiza as seguintes condutas: (i) celebra contrato administrativo de prestação de serviços de vigilância, após regular licitação; (ii) lavra auto de infração contra contribuinte que omitiu receitas; (iii) promove a demolição material de um barracão irregular situado em área da União, já determinada por decisão anterior; (iv) edita portaria disciplinando o fluxo interno de processos de restituição.\n\nConsiderando a doutrina majoritária de Direito Administrativo, são atos administrativos, apenas:",
+      "alternativas": [
+        "(ii) e (iv).",
+        "(i), (ii) e (iv).",
+        "(ii), (iii) e (iv).",
+        "(i), (iii) e (iv).",
+        "(i) e (ii)."
+      ],
+      "correta": 0,
+      "comentario": "O contrato administrativo não é ato administrativo porque lhe falta a unilateralidade: há acordo de vontades. Atos administrativos, no procedimento licitatório, são a adjudicação e a homologação que antecedem o contrato. O auto de infração é ato administrativo típico: manifestação unilateral, em regime de direito público, com efeito jurídico imediato. A demolição material é fato administrativo, pois consiste na execução material de decisão anterior, sem conteúdo decisório próprio — o candidato costuma confundir a ordem de demolir (ato) com o ato de demolir (fato). A portaria é ato administrativo normativo, de efeitos gerais e abstratos, mas infralegais.",
+      "fundamento": "Doutrina administrativista (Hely Lopes Meirelles; Di Pietro).",
+      "dificuldade": "media",
+      "tags": [
+        "conceito",
+        "ato-x-fato",
+        "identificacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0094",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre o conceito de ato administrativo, assinale a afirmativa correta.",
+      "alternativas": [
+        "O ato administrativo pode inovar originariamente na ordem jurídica, desde que fundado no poder regulamentar autônomo.",
+        "O ato administrativo é infralegal e está sujeito a controle de legalidade pelo Poder Judiciário, ao qual não é dado substituir o juízo de conveniência e oportunidade do administrador.",
+        "Por decorrer do regime jurídico de direito público, o ato administrativo somente pode ser praticado por pessoa jurídica de direito público, excluídas as concessionárias de serviço público.",
+        "O ato administrativo caracteriza-se pela bilateralidade, uma vez que depende da aceitação do destinatário para produzir efeitos.",
+        "Somente os órgãos integrantes do Poder Executivo podem praticar atos administrativos, em razão da repartição constitucional de funções."
+      ],
+      "correta": 1,
+      "comentario": "O ato administrativo é infralegal: aplica a lei ao caso concreto e não inova originariamente na ordem jurídica, e submete-se sempre ao controle judicial de legalidade e legitimidade, vedada a substituição do mérito. O critério definidor é funcional, e não orgânico: Legislativo e Judiciário praticam atos administrativos em função atípica, e concessionárias e delegatários os praticam nos limites da delegação. A regra é a unilateralidade, de que decorre, inclusive, o atributo da imperatividade. O decreto autônomo do art. 84, VI, da CF é exceção restrita e não cria obrigações aos particulares.",
+      "fundamento": "CF/1988, arts. 5º, XXXV, e 84, VI; doutrina administrativista.",
+      "dificuldade": "media",
+      "tags": [
+        "conceito",
+        "infralegalidade",
+        "controle-judicial"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0095",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "O Senado Federal, no âmbito de sua estrutura administrativa, nomeia candidato aprovado em concurso público para o cargo de analista legislativo.\n\nA respeito desse ato, é correto afirmar que:",
+      "alternativas": [
+        "trata-se de fato administrativo, por consistir em providência material de provimento de cargo.",
+        "não se trata de ato administrativo, mas de ato legislativo, pois praticado por órgão do Poder Legislativo.",
+        "trata-se de ato administrativo, praticado no exercício de função atípica pelo Poder Legislativo, submetido ao regime jurídico administrativo.",
+        "trata-se de ato político, insuscetível de controle de legalidade pelo Poder Judiciário.",
+        "trata-se de ato de direito privado, pois a relação funcional tem natureza contratual."
+      ],
+      "correta": 2,
+      "comentario": "O que define o ato administrativo é a função exercida, não o órgão que o pratica. Ao nomear servidor, o Legislativo exerce função administrativa atípica, e o ato se submete integralmente ao regime jurídico administrativo, inclusive à possibilidade de anulação e ao controle judicial. Atos políticos são os de direção superior do Estado, como sanção, veto e declaração de guerra. O vínculo estatutário é legal, e não contratual, e a nomeação é declaração de vontade com efeito jurídico, e não mera atividade material.",
+      "fundamento": "Doutrina administrativista; critério funcional de identificação do ato administrativo.",
+      "dificuldade": "facil",
+      "tags": [
+        "conceito",
+        "funcao-atipica",
+        "ato-politico"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0096",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Determinada concessionária de serviço público de transporte coletivo, com base em cláusula do contrato de concessão e na legislação de regência, aplica multa a passageiro que viajava sem o pagamento da tarifa.\n\nSobre a natureza desse ato, assinale a afirmativa correta.",
+      "alternativas": [
+        "É ato de império imune a controle judicial, por decorrer de cláusula contratual livremente pactuada.",
+        "Não é ato administrativo, pois praticado por pessoa jurídica de direito privado.",
+        "Não é ato administrativo, porque a concessionária atua exclusivamente sob regime de direito privado.",
+        "É ato administrativo, pois praticado por quem exerce função administrativa por delegação, sob regime de direito público, no limite dessa delegação.",
+        "É ato administrativo apenas se posteriormente ratificado pelo poder concedente."
+      ],
+      "correta": 3,
+      "comentario": "O ato administrativo não se define pela natureza jurídica de quem o pratica, mas pelo exercício de função administrativa sob regime de direito público. A concessionária tem duas faces: nas relações privadas atua sob direito privado; no exercício do poder delegado pratica atos administrativos, mas apenas nos limites da delegação, pois não dispõe de poder de polícia em sentido amplo. Não há exigência de ratificação pelo poder concedente, e nenhum ato administrativo é imune ao controle judicial.",
+      "fundamento": "CF/1988, art. 5º, XXXV; Lei nº 8.987/1995; doutrina administrativista.",
+      "dificuldade": "media",
+      "tags": [
+        "conceito",
+        "concessionaria",
+        "delegacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0097",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que apresenta corretamente um elemento integrante do conceito de ato administrativo, segundo a doutrina majoritária.",
+      "alternativas": [
+        "A possibilidade de inovar originariamente na ordem jurídica, criando direitos e obrigações não previstos em lei.",
+        "A produção de efeitos jurídicos mediatos e eventuais, dependentes de ulterior deliberação legislativa.",
+        "A necessária publicidade prévia, sem a qual o ato é inexistente.",
+        "A sujeição a controle de mérito pelo Poder Judiciário, em homenagem à inafastabilidade da jurisdição.",
+        "A manifestação unilateral de vontade, sob regime jurídico de direito público, com produção de efeitos jurídicos imediatos."
+      ],
+      "correta": 4,
+      "comentario": "São elementos nucleares do conceito a manifestação unilateral de vontade, o regime jurídico de direito público e a produção de efeitos jurídicos imediatos, além do caráter infralegal e da sujeição a controle judicial. Efeitos mediatos dependentes de deliberação legislativa caracterizam ato político. A publicidade é, em regra, requisito de eficácia, e não de existência: o ato não publicado já existe e pode ser válido, apenas não produz ainda efeitos externos. O Judiciário controla legalidade e legitimidade, nunca o mérito.",
+      "fundamento": "Doutrina administrativista (Hely Lopes Meirelles; Di Pietro; Carvalho Filho).",
+      "dificuldade": "facil",
+      "tags": [
+        "conceito",
+        "elementos",
+        "eficacia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0098",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "João, servidor público federal estável, falece em 10 de março. Em razão desse acontecimento, o cargo que ocupava torna-se vago, e a Administração providencia a publicação do ato declaratório de vacância.\n\nSobre a situação narrada, assinale a afirmativa correta.",
+      "alternativas": [
+        "O falecimento é fato administrativo, e a declaração de vacância é ato administrativo.",
+        "Tanto o falecimento quanto a declaração de vacância são fatos administrativos, porque independem da vontade da Administração.",
+        "O falecimento é ato administrativo complexo, pois exige a conjugação de vontades do servidor e da Administração.",
+        "A declaração de vacância é fato administrativo, pois apenas constata um acontecimento do mundo real.",
+        "O falecimento é ato administrativo, pois produz efeitos jurídicos no âmbito da Administração Pública."
+      ],
+      "correta": 0,
+      "comentario": "A morte é acontecimento natural a que a lei atribui consequência jurídica: é fato jurídico administrativo, pois não há manifestação de vontade. Já a declaração de vacância é manifestação de vontade da Administração, formalizada e publicada, e por isso é ato administrativo — da espécie enunciativa ou declaratória, que apenas certifica situação preexistente. O fato de o ato apenas constatar não lhe retira a natureza de ato, como ocorre com certidões, atestados e apostilas.",
+      "fundamento": "Doutrina administrativista; Lei nº 8.112/1990, art. 33.",
+      "dificuldade": "facil",
+      "tags": [
+        "fato-administrativo",
+        "ato-enunciativo",
+        "vacancia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0099",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "A respeito da distinção entre atos da Administração e atos administrativos, assinale a afirmativa correta.",
+      "alternativas": [
+        "Os atos administrativos constituem categoria mais ampla, que abrange os atos da Administração regidos pelo direito privado.",
+        "Há atos da Administração que não são atos administrativos, como os atos regidos pelo direito privado e os atos materiais, assim como há atos administrativos praticados por quem não integra a Administração Pública.",
+        "O veto a projeto de lei é ato administrativo de efeitos concretos, sujeito a controle amplo de legalidade e de mérito pelo Judiciário.",
+        "Os atos praticados por delegatários de serviço público nunca se qualificam como atos administrativos, por ausência de vínculo estatutário com o Estado.",
+        "As expressões são sinônimas, pois todo ato praticado pela Administração submete-se ao regime jurídico administrativo."
+      ],
+      "correta": 1,
+      "comentario": "Ato da Administração é o conjunto orgânico mais amplo; ato administrativo define-se por critério funcional e de regime jurídico. Por isso, há atos da Administração que não são administrativos — os de direito privado, como a emissão de cheque e a locação, os atos materiais e os atos políticos — e há atos administrativos praticados fora da Administração em sentido estrito, por concessionárias e pelo Legislativo e Judiciário em função atípica. O veto é ato político, de fundamento constitucional direto, com controle judicial bastante restrito e jamais de mérito político.",
+      "fundamento": "Doutrina administrativista (Di Pietro; Carvalho Filho).",
+      "dificuldade": "media",
+      "tags": [
+        "ato-da-administracao",
+        "ato-politico",
+        "conceito"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0100",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Contribuinte protocola, em uma unidade da Receita Federal, pedido de reconhecimento de imunidade tributária. Transcorridos dois anos, a Administração não profere qualquer decisão.\n\nDiante do silêncio administrativo, é correto afirmar que:",
+      "alternativas": [
+        "o silêncio constitui ato administrativo tácito de indeferimento, por aplicação do princípio da eficiência.",
+        "o silêncio constitui ato administrativo tácito de deferimento, por aplicação do princípio da boa-fé objetiva.",
+        "o silêncio é, em regra, fato administrativo, e somente produzirá efeito de deferimento ou de indeferimento quando a lei expressamente lhe atribuir tal consequência.",
+        "o silêncio é ato administrativo nulo por vício de forma, cabendo apenas sua convalidação.",
+        "o silêncio é irrelevante juridicamente, não gerando ao interessado qualquer pretensão exigível."
+      ],
+      "correta": 2,
+      "comentario": "Sem manifestação de vontade não há ato: o silêncio é fato administrativo. Só a lei pode convertê-lo em efeito jurídico específico, como o deferimento tácito — e, nessa hipótese, quem produz o efeito é a lei incidindo sobre o fato do silêncio. Não existe deferimento ou indeferimento tácito por força de princípio. Ainda assim, a omissão é juridicamente relevante: a Lei nº 9.784/1999 impõe o dever de decidir e fixa prazo de trinta dias após concluída a instrução, prorrogável uma vez, cabendo ao interessado exigir a decisão em juízo.",
+      "fundamento": "Lei nº 9.784/1999, arts. 48 e 49; doutrina administrativista.",
+      "dificuldade": "media",
+      "tags": [
+        "silencio-administrativo",
+        "fato-administrativo",
+        "dever-de-decidir"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0101",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que indica apenas fatos administrativos.",
+      "alternativas": [
+        "A homologação de licitação e a demolição de edifício em ruínas.",
+        "A expedição de certidão negativa de débitos e o pagamento de fatura por ordem bancária.",
+        "A nomeação de servidor e a lavratura de auto de infração.",
+        "A apreensão física de mercadoria já determinada por termo anterior e a prescrição do direito de a Administração punir.",
+        "A edição de decreto regulamentar e a concessão de licença para tratamento de saúde."
+      ],
+      "correta": 3,
+      "comentario": "O fato administrativo apresenta duas faces: a execução material de decisão anterior, como a apreensão física da mercadoria já determinada em termo, e o evento a que a lei atribui efeito jurídico, como o decurso do prazo que gera a prescrição. As demais opções trazem atos administrativos — nomeação, auto de infração, decreto, licença, homologação e certidão — ou os misturam com fatos, como a alternativa que reúne homologação (ato) e demolição (fato), o que não atende ao comando de indicar apenas fatos.",
+      "fundamento": "Doutrina administrativista.",
+      "dificuldade": "media",
+      "tags": [
+        "fato-administrativo",
+        "identificacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0102",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "De acordo com a Lei nº 4.717/1965 e com a doutrina majoritária, os requisitos (elementos) do ato administrativo são:",
+      "alternativas": [
+        "competência, publicidade, forma, motivação e mérito.",
+        "sujeito, eficácia, forma, causa e tipicidade.",
+        "legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+        "presunção de legitimidade, imperatividade, exigibilidade, autoexecutoriedade e tipicidade.",
+        "competência, finalidade, forma, motivo e objeto."
+      ],
+      "correta": 4,
+      "comentario": "A lista quinária é extraída, a contrario sensu, do art. 2º da Lei da Ação Popular, que enumera os vícios de incompetência, vício de forma, ilegalidade do objeto, inexistência dos motivos e desvio de finalidade. Publicidade é, em regra, requisito de eficácia; motivação integra a forma; e mérito não é requisito, mas o espaço de liberdade situado no motivo e no objeto. A opção que enumera presunção de legitimidade, imperatividade, exigibilidade, autoexecutoriedade e tipicidade apresenta os atributos do ato administrativo, e não seus requisitos — troca clássica da banca.",
+      "fundamento": "Lei nº 4.717/1965, art. 2º; doutrina administrativista.",
+      "dificuldade": "facil",
+      "tags": [
+        "requisitos",
+        "lei-4717",
+        "elementos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0103",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre a vinculação e a discricionariedade nos requisitos do ato administrativo, assinale a afirmativa correta.",
+      "alternativas": [
+        "A competência e a finalidade são sempre vinculadas, ainda que o ato seja discricionário; a discricionariedade pode residir no motivo e no objeto.",
+        "A finalidade é discricionária nos atos de polícia administrativa, pois o administrador escolhe o interesse público a ser tutelado.",
+        "A competência é discricionária quando a lei admite delegação, pois o agente escolhe se exerce ou não a atribuição.",
+        "O objeto é sempre vinculado, pois corresponde ao efeito jurídico determinado pela lei.",
+        "Nos atos discricionários, todos os cinco requisitos admitem juízo de conveniência e oportunidade."
+      ],
+      "correta": 0,
+      "comentario": "Mesmo no ato discricionário, competência, finalidade e, em regra, forma permanecem vinculadas: a discricionariedade é margem de escolha dentro da lei, e não liberdade total. O mérito administrativo aloja-se no motivo e no objeto. A finalidade nunca é discricionária — escolher outro fim configura desvio de finalidade. A competência é poder-dever irrenunciável, e a possibilidade de delegação não a torna discricionária. O objeto, por sua vez, pode comportar escolha quando a lei oferece opções.",
+      "fundamento": "Lei nº 9.784/1999, art. 11; doutrina administrativista.",
+      "dificuldade": "media",
+      "tags": [
+        "requisitos",
+        "vinculacao",
+        "discricionariedade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0104",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "A Administração aplica a um servidor a penalidade de suspensão por 40 dias, embora a lei de regência estabeleça, para a infração apurada, limite máximo de 30 dias.\n\nNesse caso, o vício recai sobre o requisito:",
+      "alternativas": [
+        "motivo.",
+        "objeto.",
+        "competência.",
+        "finalidade.",
+        "forma."
+      ],
+      "correta": 1,
+      "comentario": "O defeito está no conteúdo da decisão, isto é, no efeito jurídico produzido: a autoridade era competente, o fim era público, a forma foi observada e o motivo existiu; o que extrapolou foi a medida do que se decidiu. É exatamente a hipótese da letra 'c' do art. 2º da Lei nº 4.717/1965, segundo a qual há ilegalidade do objeto quando o resultado do ato importa violação de lei. Sempre que o enunciado mencionar penalidade acima do limite legal ou conteúdo não previsto, o vício é de objeto.",
+      "fundamento": "Lei nº 4.717/1965, art. 2º, 'c' e parágrafo único, 'c'.",
+      "dificuldade": "media",
+      "tags": [
+        "objeto",
+        "vicio-de-objeto",
+        "identificacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0105",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "À luz da Lei nº 9.784/1999, assinale a afirmativa correta a respeito da delegação e da avocação de competência.",
+      "alternativas": [
+        "A competência é renunciável por ato formal e motivado do agente, desde que publicado no meio oficial.",
+        "A delegação somente é admitida entre órgãos ou titulares vinculados por relação de hierarquia, e a avocação dispensa justificativa.",
+        "A delegação pode alcançar órgãos ou titulares não hierarquicamente subordinados, e a avocação é admitida em caráter excepcional, de forma temporária e mediante motivos relevantes justificados, em relação a órgão hierarquicamente inferior.",
+        "É vedada a delegação da edição de atos de caráter normativo, mas é permitida a delegação da decisão de recursos administrativos quando houver acúmulo de serviço.",
+        "A delegação transfere a titularidade da competência ao delegado, que passa a exercê-la em caráter definitivo e irrevogável."
+      ],
+      "correta": 2,
+      "comentario": "O art. 12 admite expressamente a delegação a órgãos ou titulares não subordinados, de modo que a delegação dispensa hierarquia; já o art. 15 exige hierarquia para a avocação, além de caráter excepcional, temporário e motivos relevantes devidamente justificados. O art. 13, II, veda a delegação da decisão de recursos administrativos sem qualquer exceção por conveniência. A delegação transfere apenas o exercício, é parcial e revogável a qualquer tempo, e a competência é irrenunciável por força do art. 11.",
+      "fundamento": "Lei nº 9.784/1999, arts. 11 a 15.",
+      "dificuldade": "media",
+      "tags": [
+        "competencia",
+        "delegacao",
+        "avocacao",
+        "lei-9784"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0106",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Autoridade administrativa, no exercício de competência que lhe foi delegada por portaria regularmente publicada, indefere requerimento formulado por particular. Pretendendo impugnar judicialmente o ato por meio de mandado de segurança, o particular deverá apontar como autoridade coatora:",
+      "alternativas": [
+        "o dirigente máximo do órgão, independentemente de quem praticou o ato.",
+        "a pessoa jurídica de direito público a que se vincula o órgão, pois o ato é impessoal.",
+        "a autoridade delegante, por ser a titular originária da competência.",
+        "a autoridade delegada, que praticou o ato no exercício da competência delegada.",
+        "solidariamente a autoridade delegante e a delegada, por força do princípio da hierarquia."
+      ],
+      "correta": 3,
+      "comentario": "A Súmula 510 do STF estabelece que, praticado o ato por autoridade no exercício de competência delegada, contra ela cabe o mandado de segurança ou a medida judicial. A orientação harmoniza-se com o art. 14, §3º, da Lei nº 9.784/1999, segundo o qual as decisões adotadas por delegação consideram-se editadas pelo delegado. A intuição de hierarquia não se aplica: o delegante não é autoridade coatora. No mandado de segurança indica-se a autoridade, e não a pessoa jurídica.",
+      "fundamento": "STF, Súmula 510; Lei nº 9.784/1999, art. 14, §3º.",
+      "dificuldade": "media",
+      "tags": [
+        "competencia",
+        "delegacao",
+        "sumula-510",
+        "mandado-de-seguranca"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0107",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Durante dois anos, Lucas exerceu cargo público para o qual havia sido nomeado após aprovação em concurso posteriormente anulado por fraude praticada por terceiros, sem qualquer participação sua. Nesse período, expediu diversas certidões a particulares de boa-fé.\n\nSobre os atos praticados por Lucas, é correto afirmar que:",
+      "alternativas": [
+        "são anuláveis, dependendo de ratificação expressa pela autoridade competente no prazo decadencial de cinco anos.",
+        "são válidos apenas se posteriormente convalidados por decreto do Chefe do Poder Executivo.",
+        "são inexistentes, por configurar usurpação de função pública.",
+        "são nulos de pleno direito, sem possibilidade de produção de qualquer efeito.",
+        "são reputados válidos em relação a terceiros de boa-fé, em razão da teoria da aparência, configurando hipótese de função de fato."
+      ],
+      "correta": 4,
+      "comentario": "A hipótese é de função de fato: havia investidura, ainda que irregular. A teoria da aparência preserva os atos praticados perante terceiros de boa-fé, em homenagem à segurança jurídica e à confiança legítima, sem necessidade de ratificação ou convalidação. Não se trata de usurpação de função, figura que exige ausência total de investidura e configura crime do art. 328 do Código Penal, hipótese em que os atos são considerados inexistentes.",
+      "fundamento": "Doutrina administrativista; teoria da aparência; CP, art. 328.",
+      "dificuldade": "media",
+      "tags": [
+        "competencia",
+        "funcao-de-fato",
+        "teoria-da-aparencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0108",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Considere que determinado ato administrativo tenha sido praticado por autoridade incompetente.\n\nSobre a possibilidade de convalidação, assinale a afirmativa correta.",
+      "alternativas": [
+        "O vício de competência quanto à pessoa admite convalidação por ratificação da autoridade competente, salvo se se tratar de competência exclusiva; o vício quanto à matéria é insanável.",
+        "O vício de competência somente pode ser convalidado pelo Poder Judiciário, mediante provocação do interessado.",
+        "Qualquer vício de competência pode ser convalidado, inclusive nas hipóteses de competência exclusiva, desde que haja interesse público.",
+        "A convalidação do vício de competência opera efeitos apenas prospectivos, a partir da ratificação.",
+        "O vício de competência é sempre insanável, por tratar-se de matéria de ordem pública."
+      ],
+      "correta": 0,
+      "comentario": "O art. 55 da Lei nº 9.784/1999 autoriza a convalidação de defeitos sanáveis, desde que não haja lesão ao interesse público nem prejuízo a terceiros. Em matéria de competência, a linha divisória é a distinção entre vício quanto à pessoa, sanável por ratificação, e vício quanto à matéria, insanável, ressalvada ainda a competência exclusiva, que é indelegável. A convalidação é ato da própria Administração, em autotutela, e produz efeitos retroativos (ex tunc), pois serve justamente para salvar o ato desde a origem.",
+      "fundamento": "Lei nº 9.784/1999, art. 55; doutrina administrativista.",
+      "dificuldade": "media",
+      "tags": [
+        "competencia",
+        "convalidacao",
+        "ratificacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0109",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "A respeito das características da competência administrativa, assinale a afirmativa INCORRETA.",
+      "alternativas": [
+        "A competência é imprescritível, não se extinguindo pelo seu não exercício.",
+        "A competência é prorrogável, de modo que o agente inicialmente incompetente se torna competente se o interessado não impugnar o ato no prazo legal.",
+        "A competência é irrenunciável, admitindo-se apenas delegação e avocação nos termos legalmente previstos.",
+        "A competência decorre de lei e não pode ser modificada pela vontade do agente.",
+        "O exercício da competência é obrigatório, configurando poder-dever do agente público."
+      ],
+      "correta": 1,
+      "comentario": "A competência administrativa é improrrogável: a inércia do interessado não transforma o agente incompetente em competente, e não se deve transportar para o Direito Administrativo a lógica da prorrogação da competência relativa do processo civil. As demais assertivas reproduzem as características clássicas: origem legal, exercício obrigatório como poder-dever, imprescritibilidade, irrenunciabilidade e imodificabilidade pela vontade do agente.",
+      "fundamento": "Lei nº 9.784/1999, art. 11; doutrina administrativista.",
+      "dificuldade": "media",
+      "tags": [
+        "competencia",
+        "caracteristicas",
+        "improrrogabilidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0110",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Prefeito municipal, competente para tanto, decreta a desapropriação de imóvel por utilidade pública. Comprova-se, posteriormente, que a medida teve por objetivo exclusivo prejudicar o proprietário, adversário político do Chefe do Executivo, não havendo qualquer destinação pública projetada para o bem.\n\nNesse caso, o ato apresenta vício de:",
+      "alternativas": [
+        "competência, caracterizando excesso de poder.",
+        "forma, por ausência de motivação adequada.",
+        "finalidade, caracterizando desvio de poder, sendo vício insanável.",
+        "objeto, por impossibilidade material de seu cumprimento.",
+        "motivo, podendo ser convalidado mediante nova motivação da autoridade competente."
+      ],
+      "correta": 2,
+      "comentario": "O enunciado afirma que a autoridade era competente, o que afasta o excesso de poder. O defeito está no fim perseguido — perseguição pessoal em vez de utilidade pública —, caracterizando desvio de finalidade, também chamado desvio de poder. Trata-se de vício insanável, que não comporta convalidação, ao contrário dos vícios de competência quanto à pessoa e de forma não essencial. Desapropriar é conteúdo juridicamente possível, de modo que o objeto, em si, é lícito.",
+      "fundamento": "Lei nº 4.717/1965, art. 2º, 'e' e parágrafo único, 'e'; Lei nº 9.784/1999, art. 55.",
+      "dificuldade": "facil",
+      "tags": [
+        "finalidade",
+        "desvio-de-poder",
+        "convalidacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0111",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre a finalidade do ato administrativo, assinale a afirmativa correta.",
+      "alternativas": [
+        "O controle judicial do desvio de finalidade é vedado, por implicar exame do mérito administrativo.",
+        "O desvio de finalidade é vício de forma, sanável mediante ratificação pela autoridade superior.",
+        "Nos atos discricionários, o administrador pode eleger, entre diversos fins públicos, aquele que considerar mais conveniente e oportuno.",
+        "A finalidade é requisito vinculado, de modo que a prática do ato visando a fim público diverso do previsto na regra de competência também configura desvio de finalidade.",
+        "O desvio de finalidade somente se configura quando o agente busca interesse estritamente privado, pois a persecução de outro interesse público convalida o ato."
+      ],
+      "correta": 3,
+      "comentario": "A finalidade é requisito sempre vinculado, inclusive nos atos discricionários: a discricionariedade incide sobre motivo e objeto, nunca sobre o fim. O desvio de finalidade abrange duas modalidades: a busca de fim privado e a busca de outro fim público diverso daquele específico do ato — como usar a desapropriação para punir o proprietário. Controlar a finalidade é controlar legalidade, e não mérito, e o vício é insanável.",
+      "fundamento": "Lei nº 4.717/1965, art. 2º, parágrafo único, 'e'; doutrina administrativista.",
+      "dificuldade": "media",
+      "tags": [
+        "finalidade",
+        "desvio-de-finalidade",
+        "controle-judicial"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0112",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Autoridade fiscal determina a realização de sucessivas fiscalizações em estabelecimento de determinado contribuinte, em curto intervalo de tempo e sem indicação de qualquer critério de seleção, restando demonstrado nos autos que a providência decorreu de desentendimento pessoal entre o agente e o sócio da empresa.\n\nA respeito do caso, assinale a afirmativa correta.",
+      "alternativas": [
+        "Há usurpação de função pública, já que o agente atuou movido por interesse privado.",
+        "Há vício de objeto, pois a fiscalização reiterada é conteúdo vedado pela legislação.",
+        "Não há ilegalidade, pois a fiscalização é atividade vinculada e de exercício obrigatório.",
+        "Há mero vício de motivação, sanável mediante a indicação posterior dos critérios de seleção.",
+        "Há abuso de poder na modalidade desvio de finalidade, viciando os atos de fiscalização, o que não impede a Administração de, por critérios legítimos, exercer regularmente sua competência fiscalizatória."
+      ],
+      "correta": 4,
+      "comentario": "A competência fiscalizatória foi usada como instrumento de perseguição pessoal: há desvio de finalidade, espécie de abuso de poder. O fato de a fiscalização ser atividade obrigatória não a imuniza contra o desvio. O vício é de fim, insanável, de modo que indicar critérios posteriormente apenas maquiaria a motivação. Não há usurpação, que pressupõe ausência de investidura, nem vício de objeto, pois fiscalizar é conteúdo lícito. Reconhecido o vício, a Administração permanece livre para fiscalizar por critérios legítimos.",
+      "fundamento": "Lei nº 4.717/1965, art. 2º, 'e'; CTN, art. 142; doutrina administrativista.",
+      "dificuldade": "media",
+      "tags": [
+        "finalidade",
+        "abuso-de-poder",
+        "fiscalizacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0113",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que corretamente relaciona a modalidade de abuso de poder ao requisito do ato administrativo por ela afetado.",
+      "alternativas": [
+        "Excesso de poder — competência; desvio de poder — finalidade.",
+        "Excesso de poder — objeto; desvio de poder — motivo.",
+        "Excesso de poder — forma; desvio de poder — objeto.",
+        "Excesso de poder — motivo; desvio de poder — forma.",
+        "Excesso de poder — finalidade; desvio de poder — competência."
+      ],
+      "correta": 0,
+      "comentario": "No excesso de poder, o agente competente ultrapassa os limites de sua competência, configurando vício de competência. No desvio de poder, o agente competente busca fim diverso do previsto na regra de competência, configurando vício de finalidade. Ambos são espécies do gênero abuso de poder. Para fixar: a pergunta 'quanto poder?' remete ao excesso e à competência; a pergunta 'para que o poder foi usado?' remete ao desvio e à finalidade.",
+      "fundamento": "Lei nº 4.717/1965, art. 2º; doutrina administrativista.",
+      "dificuldade": "facil",
+      "tags": [
+        "abuso-de-poder",
+        "excesso-de-poder",
+        "desvio-de-poder"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0114",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "De acordo com a Lei nº 9.784/1999, a motivação dos atos administrativos é obrigatória, entre outras hipóteses, quando os atos:",
+      "alternativas": [
+        "tenham por objeto a mera organização interna de serviços, sem repercussão externa.",
+        "neguem, limitem ou afetem direitos ou interesses, bem como quando decidam recursos administrativos.",
+        "sejam de natureza discricionária, apenas, dispensando-se a motivação dos atos vinculados.",
+        "impliquem a abertura de processo licitatório, dispensando-se a motivação nas hipóteses de dispensa e inexigibilidade.",
+        "sejam praticados por autoridade no exercício de competência delegada."
+      ],
+      "correta": 1,
+      "comentario": "O art. 50 exige motivação, entre outras hipóteses, quando os atos neguem, limitem ou afetem direitos ou interesses (inciso I) e quando decidam recursos administrativos (inciso V). A lista não distingue atos vinculados de discricionários: um indeferimento vinculado também deve ser motivado. O exercício por delegação exige a menção à delegação (art. 14, §3º), o que é coisa distinta. E o inciso IV impõe motivação exatamente nos casos de dispensa e inexigibilidade de licitação, por serem exceções ao dever de licitar.",
+      "fundamento": "Lei nº 9.784/1999, art. 50.",
+      "dificuldade": "media",
+      "tags": [
+        "forma",
+        "motivacao",
+        "lei-9784"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0115",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Autoridade administrativa profere decisão em recurso administrativo nos seguintes termos: “Acolho, como razões de decidir, os fundamentos do Parecer nº 44/2026, que passa a integrar o presente ato”. O parecer referido consta dos autos e analisa detalhadamente os fatos e os fundamentos jurídicos.\n\nSobre a decisão, é correto afirmar que:",
+      "alternativas": [
+        "é inexistente, por ausência de requisito de forma essencial.",
+        "é nula, por ausência de motivação própria da autoridade decisória.",
+        "é válida, pois a Lei nº 9.784/1999 admite que a motivação consista em declaração de concordância com fundamentos de pareceres anteriores, que passam a integrar o ato.",
+        "é anulável, salvo se houver ratificação posterior pela autoridade superior.",
+        "é válida apenas se o parecer tiver caráter vinculante."
+      ],
+      "correta": 2,
+      "comentario": "Trata-se da motivação aliunde, ou per relationem, expressamente autorizada pelo art. 50, §1º, da Lei nº 9.784/1999: a motivação pode consistir em declaração de concordância com fundamentos de anteriores pareceres, informações, decisões ou propostas, que passam a integrar o ato. Dois elementos tornam a técnica legítima no caso: o parecer consta dos autos, de modo que o interessado tem acesso, e analisa fatos e fundamentos, atendendo à exigência de motivação explícita, clara e congruente. A natureza vinculante do parecer é irrelevante.",
+      "fundamento": "Lei nº 9.784/1999, art. 50, V e §1º.",
+      "dificuldade": "media",
+      "tags": [
+        "forma",
+        "motivacao-aliunde",
+        "lei-9784"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0116",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre o requisito forma do ato administrativo, assinale a afirmativa correta.",
+      "alternativas": [
+        "O reconhecimento de firma é exigência geral e indispensável nos requerimentos dirigidos à Administração.",
+        "A forma compreende exclusivamente a exteriorização da vontade, não abrangendo as formalidades do procedimento que antecede o ato.",
+        "A forma escrita é requisito absoluto de validade de todo ato administrativo, sendo nulos os atos praticados por ordens verbais, gestos ou sinais.",
+        "Vigora, no processo administrativo federal, o formalismo moderado: os atos não dependem de forma determinada, salvo quando a lei expressamente a exigir, devendo, porém, observar o mínimo documental legalmente previsto.",
+        "O vício de forma é sempre insanável, por tratar-se de requisito vinculado."
+      ],
+      "correta": 3,
+      "comentario": "O art. 22 da Lei nº 9.784/1999 consagra o formalismo moderado: os atos não dependem de forma determinada senão quando a lei a exigir, mas devem ser produzidos por escrito, em vernáculo, com data, local e assinatura. Há atos válidos praticados por gestos e sinais, como a sinalização de trânsito, e ordens verbais em situações de urgência. O vício de forma é, ao lado do vício de competência quanto à pessoa, o tipicamente sanável, quando a formalidade não é essencial. O §2º dispensa o reconhecimento de firma salvo dúvida de autenticidade. E a forma, em sentido amplo, abrange as formalidades procedimentais.",
+      "fundamento": "Lei nº 9.784/1999, art. 22 e §§1º e 2º; art. 55.",
+      "dificuldade": "media",
+      "tags": [
+        "forma",
+        "formalismo-moderado",
+        "lei-9784"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0117",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "A Administração aplica sanção a empresa sem que lhe tenha sido oportunizada a apresentação de defesa no processo administrativo. Posteriormente, pretende convalidar o ato.\n\nAssinale a afirmativa correta.",
+      "alternativas": [
+        "A convalidação é inviável, porque o vício é de objeto.",
+        "A convalidação independe de qualquer requisito, por constituir faculdade discricionária da Administração insuscetível de controle.",
+        "A convalidação é possível, pois o vício de forma é sempre sanável.",
+        "A convalidação é possível, desde que a Administração reduza o valor da sanção aplicada.",
+        "A convalidação é inviável, pois a supressão do contraditório e da ampla defesa constitui vício de formalidade essencial, que acarreta prejuízo ao interessado."
+      ],
+      "correta": 4,
+      "comentario": "O art. 55 da Lei nº 9.784/1999 só permite convalidar defeitos sanáveis e apenas quando não houver lesão ao interesse público nem prejuízo a terceiros. A supressão do contraditório e da ampla defesa, garantidos pelo art. 5º, LV, da Constituição, causa prejuízo direto ao administrado e configura vício de formalidade essencial, insanável. O caminho correto é anular o ato e reinstaurar o processo com defesa. Reduzir a sanção não repara o prejuízo processual, e o conteúdo da sanção pode ser legal — o defeito está no procedimento.",
+      "fundamento": "Lei nº 9.784/1999, art. 55; CF/1988, art. 5º, LV.",
+      "dificuldade": "media",
+      "tags": [
+        "forma",
+        "convalidacao",
+        "ampla-defesa"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0118",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Autoridade competente exonera ocupante de cargo em comissão, de livre nomeação e exoneração, consignando expressamente no ato que a medida decorreu de reiteradas faltas injustificadas ao serviço. Comprova-se, em seguida, que o servidor não registrou qualquer falta no período.\n\nSobre o ato de exoneração, assinale a afirmativa correta.",
+      "alternativas": [
+        "É inválido, pois, enunciados os motivos, o ato a eles se vincula, aplicando-se a teoria dos motivos determinantes.",
+        "É inválido por vício de competência, uma vez que a imputação de faltas exige processo disciplinar conduzido por comissão.",
+        "É anulável, mas pode ser convalidado mediante a substituição da motivação por outra verdadeira.",
+        "É válido, pois a exoneração de cargo em comissão é discricionária e independe de motivação.",
+        "É válido, pois o vício de motivo em ato discricionário é irrelevante para a sua validade."
+      ],
+      "correta": 0,
+      "comentario": "É a aplicação clássica da teoria dos motivos determinantes: a autoridade não precisava motivar, mas, tendo motivado, vinculou-se ao motivo declarado, que se revelou materialmente inexistente. A dispensa de motivação não autoriza motivação falsa, e o vício de motivo contamina tanto o ato vinculado quanto o discricionário. A autoridade tinha competência para exonerar, de modo que o vício não é de competência. E o vício de motivo é insanável: substituir a motivação equivaleria a praticar ato novo.",
+      "fundamento": "Doutrina e jurisprudência sobre a teoria dos motivos determinantes; Lei nº 4.717/1965, art. 2º, 'd'.",
+      "dificuldade": "media",
+      "tags": [
+        "motivo",
+        "motivos-determinantes",
+        "cargo-em-comissao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0119",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a afirmativa que distingue corretamente motivo, motivação e móvel do ato administrativo.",
+      "alternativas": [
+        "Motivo é a exposição escrita dos fundamentos; motivação é o pressuposto de fato e de direito; móvel é o fim legal do ato.",
+        "Motivo é o pressuposto de fato e de direito do ato; motivação é a exposição desses pressupostos, integrando o requisito forma; móvel é a intenção subjetiva do agente.",
+        "Motivo, motivação e móvel são expressões sinônimas, todas designando o requisito finalidade.",
+        "Motivo é a intenção do agente; motivação é o resultado de interesse público; móvel é o conteúdo do ato.",
+        "Motivo é requisito de eficácia; motivação é requisito de existência; móvel é requisito de validade."
+      ],
+      "correta": 1,
+      "comentario": "Motivo é o pressuposto de fato e de direito que autoriza ou determina o ato, e constitui requisito autônomo. Motivação é a exposição escrita desses pressupostos e integra o requisito forma, para a doutrina majoritária. Móvel é a intenção subjetiva do agente, elemento psicológico que não é requisito do ato, mas que, quando ilegítimo e determinante, contamina o ato por desvio de finalidade. Nenhum dos três é requisito de eficácia: esse plano é afetado por publicidade, condição e termo.",
+      "fundamento": "Doutrina administrativista (Di Pietro; Celso Antônio Bandeira de Mello).",
+      "dificuldade": "media",
+      "tags": [
+        "motivo",
+        "motivacao",
+        "movel"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0120",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Servidor público registra três atrasos de dez minutos no mês. Com base exclusivamente nesse fato, a Administração aplica-lhe a penalidade de demissão, após regular processo disciplinar conduzido por autoridade competente, com observância do contraditório.\n\nNesse caso, o ato apresenta vício de:",
+      "alternativas": [
+        "forma, por insuficiência da motivação apresentada.",
+        "competência, pela inadequação da autoridade sancionadora.",
+        "motivo, por inadequação jurídica do pressuposto de fato ao resultado obtido, com ofensa à proporcionalidade.",
+        "finalidade, pois toda sanção desproporcional revela desvio de poder.",
+        "nenhum, pois a dosimetria da pena integra o mérito administrativo, insuscetível de controle."
+      ],
+      "correta": 2,
+      "comentario": "O fato existiu, mas é juridicamente inadequado ao resultado obtido — exatamente a hipótese da letra 'd' do parágrafo único do art. 2º da Lei nº 4.717/1965. O enunciado neutraliza de propósito competência, forma e procedimento, para evidenciar que o defeito está na relação entre o motivo e a consequência. Desproporção, por si, não é desvio de finalidade, que pressupõe fim diverso: aqui o fim era disciplinar. E a dosimetria não é zona imune, pois a proporcionalidade é parâmetro de legalidade em sentido amplo.",
+      "fundamento": "Lei nº 4.717/1965, art. 2º, parágrafo único, 'd'; Lei nº 9.784/1999, art. 2º, parágrafo único, VI.",
+      "dificuldade": "media",
+      "tags": [
+        "motivo",
+        "proporcionalidade",
+        "dosimetria"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0121",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "A respeito da teoria dos motivos determinantes, assinale a afirmativa correta.",
+      "alternativas": [
+        "Autoriza a Administração a substituir, no curso do processo judicial, o motivo declarado por outro superveniente, de modo a preservar o ato.",
+        "Aplica-se exclusivamente aos atos vinculados, nos quais a lei predetermina o motivo.",
+        "Aplica-se exclusivamente aos atos cuja motivação é legalmente obrigatória.",
+        "Determina que, enunciados os motivos do ato, sua validade passa a depender da efetiva existência e veracidade desses motivos, ainda que a motivação fosse dispensável.",
+        "Impede que o Poder Judiciário examine a veracidade dos fatos alegados pela Administração, por implicar invasão do mérito administrativo."
+      ],
+      "correta": 3,
+      "comentario": "A teoria alcança atos vinculados e discricionários, com motivação obrigatória ou facultativa — e é justamente nos atos não sujeitos a motivação que produz seus efeitos mais notáveis. Longe de impedir o controle judicial, ela o viabiliza, pois transforma a veracidade do motivo em questão de legalidade. E veda precisamente a substituição, no curso do processo, do motivo declarado por outro superveniente: a Administração não pode trocar o fundamento para salvar o ato, vedação que a doutrina trata como proibição de motivação ulterior substitutiva.",
+      "fundamento": "Doutrina e jurisprudência sobre a teoria dos motivos determinantes.",
+      "dificuldade": "media",
+      "tags": [
+        "motivo",
+        "motivos-determinantes",
+        "controle-judicial"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0122",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Acerca dos vícios do ato administrativo e da possibilidade de convalidação, assinale a afirmativa correta.",
+      "alternativas": [
+        "Todos os vícios são sanáveis, desde que haja autorização judicial.",
+        "Nenhum vício é sanável, em razão do princípio da legalidade estrita.",
+        "São sanáveis apenas os vícios de objeto, mediante redução do conteúdo do ato aos limites legais.",
+        "São sanáveis os vícios de motivo e de finalidade, por não afetarem o conteúdo do ato.",
+        "São sanáveis, em regra, os vícios de competência quanto à pessoa — ressalvada a competência exclusiva — e os vícios de forma, quando a formalidade não for essencial."
+      ],
+      "correta": 4,
+      "comentario": "É a síntese da doutrina majoritária articulada com o art. 55 da Lei nº 9.784/1999: convalidam-se forma não essencial e competência quanto à pessoa, ressalvada a competência exclusiva. Motivo, finalidade e objeto são insanáveis. A convalidação é manifestação da autotutela administrativa e não depende de autorização judicial — o Judiciário anula, mas não convalida ato administrativo. Quanto ao objeto, existe a figura doutrinária da conversão nos atos de objeto plúrimo, que não o transforma no vício sanável da lista.",
+      "fundamento": "Lei nº 9.784/1999, art. 55; doutrina administrativista.",
+      "dificuldade": "media",
+      "tags": [
+        "convalidacao",
+        "vicios",
+        "lei-9784"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0123",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "A respeito do objeto (conteúdo) do ato administrativo, assinale a afirmativa correta.",
+      "alternativas": [
+        "Corresponde ao efeito jurídico imediato produzido pelo ato, devendo ser lícito, possível, certo e moral.",
+        "Corresponde ao resultado de interesse público que o ato deve alcançar, sendo sempre vinculado.",
+        "Corresponde ao modo de exteriorização da vontade administrativa.",
+        "Corresponde à atribuição legal conferida ao agente para a prática do ato.",
+        "Corresponde ao pressuposto de fato e de direito que autoriza a prática do ato."
+      ],
+      "correta": 0,
+      "comentario": "Objeto, também chamado conteúdo, é o efeito jurídico imediato do ato — aquilo que ele dispõe, decide, autoriza ou certifica — e deve ser lícito, possível, certo e moral. As demais opções trazem as definições de motivo (o pressuposto de fato e de direito), finalidade (o resultado de interesse público a ser alcançado), forma (o modo de exteriorização da vontade) e competência (a atribuição legal do agente). A questão premia quem fixou os cinco conceitos com precisão: se o motivo responde 'por quê?', o objeto responde 'o quê?'.",
+      "fundamento": "Lei nº 4.717/1965, art. 2º, 'c'; doutrina administrativista.",
+      "dificuldade": "facil",
+      "tags": [
+        "objeto",
+        "conteudo",
+        "conceitos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0124",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "A Administração expede ato de nomeação de candidato que, na data da publicação, já havia falecido.\n\nSobre esse ato, assinale a afirmativa correta.",
+      "alternativas": [
+        "Apresenta vício de forma, sanável por republicação.",
+        "Apresenta vício de objeto, por impossibilidade jurídica de seu conteúdo.",
+        "Apresenta vício de competência, pois a autoridade deveria ter verificado previamente a situação do candidato.",
+        "Apresenta vício de finalidade, por não atender ao interesse público.",
+        "É válido, pois a nomeação é ato vinculado decorrente da aprovação em concurso público."
+      ],
+      "correta": 1,
+      "comentario": "O conteúdo do ato — investir alguém em cargo público — é juridicamente impossível em relação a quem não tem personalidade jurídica, configurando vício de objeto. A vinculação do ato não salva conteúdo impossível, e republicar não resolve a impossibilidade, de modo que não se trata de vício de forma. A falta de diligência da autoridade não desloca o vício para a competência, que existia; tampouco houve perseguição de fim diverso, o que afastaria a hipótese de desvio de finalidade.",
+      "fundamento": "Lei nº 4.717/1965, art. 2º, 'c'; doutrina administrativista.",
+      "dificuldade": "media",
+      "tags": [
+        "objeto",
+        "impossibilidade-juridica",
+        "nomeacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0125",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Autorização de uso de bem público é expedida com a seguinte cláusula: “válida pelo prazo de 12 (doze) meses, ficando o beneficiário obrigado a manter a área conservada e a arcar com os custos de energia elétrica”.\n\nSobre essas cláusulas, assinale a afirmativa correta.",
+      "alternativas": [
+        "Constituem vício de objeto por indeterminação do conteúdo.",
+        "São nulas, pois o ato administrativo unilateral não admite cláusulas acessórias.",
+        "Integram o objeto acidental do ato, compreendendo termo e encargo, admissíveis quando compatíveis com a lei.",
+        "Integram o requisito finalidade, por delimitarem o interesse público a ser atendido.",
+        "Transformam o ato administrativo em contrato administrativo, por criarem obrigações recíprocas."
+      ],
+      "correta": 2,
+      "comentario": "O prazo de doze meses é termo e a obrigação de conservar e pagar a energia é encargo, ou modo: ambos compõem o objeto acidental, na classificação de Hely Lopes Meirelles, ao lado da condição. Atos unilaterais admitem cláusulas acessórias desde que compatíveis com a lei e com a natureza do ato, e impor encargo unilateralmente não gera bilateralidade — a autorização permanece ato unilateral, discricionário e precário. O conteúdo está determinado com precisão, afastando a indeterminação.",
+      "fundamento": "Hely Lopes Meirelles, Direito Administrativo Brasileiro; doutrina administrativista.",
+      "dificuldade": "media",
+      "tags": [
+        "objeto",
+        "objeto-acidental",
+        "termo-condicao-encargo"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0126",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre o controle judicial dos atos administrativos discricionários, assinale a afirmativa correta.",
+      "alternativas": [
+        "Restringe-se à verificação da competência da autoridade, não alcançando os demais requisitos.",
+        "Somente é admitido após o esgotamento das instâncias administrativas.",
+        "É integralmente vedado, por força da separação dos Poderes.",
+        "Abrange a legalidade do ato, inclusive a observância dos princípios da razoabilidade e da proporcionalidade, sendo vedada a substituição do juízo de conveniência e oportunidade do administrador.",
+        "Abrange o mérito administrativo, desde que haja pedido expresso do interessado."
+      ],
+      "correta": 3,
+      "comentario": "O controle judicial é de legalidade em sentido amplo, abrangendo os princípios constitucionais — razoabilidade, proporcionalidade, moralidade, impessoalidade —, mas não autoriza o juiz a substituir o administrador no juízo de conveniência e oportunidade. Nenhum ato está fora do alcance do Judiciário (CF, art. 5º, XXXV), e o exame alcança todos os cinco requisitos sob o ângulo da legalidade. Pedido da parte não cria competência para decidir sobre conveniência, e não se exige o exaurimento da via administrativa.",
+      "fundamento": "CF/1988, art. 5º, XXXV; doutrina administrativista.",
+      "dificuldade": "media",
+      "tags": [
+        "merito",
+        "discricionariedade",
+        "controle-judicial"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0127",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que indica, respectivamente, um ato administrativo vinculado e um ato administrativo discricionário.",
+      "alternativas": [
+        "Remoção de ofício no interesse do serviço e concessão de aposentadoria a quem preenche os requisitos legais.",
+        "Licença para construir, atendidos os requisitos legais, e expedição de certidão negativa de débitos.",
+        "Autorização de uso de bem público e lançamento tributário.",
+        "Permissão de uso e nomeação para cargo em comissão.",
+        "Lançamento tributário e autorização de uso de bem público."
+      ],
+      "correta": 4,
+      "comentario": "O lançamento tributário é expressamente atividade administrativa vinculada e obrigatória, nos termos do art. 142, parágrafo único, do CTN; a autorização de uso de bem público é ato discricionário e precário. As alternativas que invertem a ordem exigida pelo enunciado ('respectivamente') constituem armadilha de atenção clássica. Permissão de uso e nomeação para cargo em comissão são ambos discricionários; licença preenchidos os requisitos e certidão negativa são ambos vinculados.",
+      "fundamento": "CTN, art. 142, parágrafo único; doutrina administrativista.",
+      "dificuldade": "media",
+      "tags": [
+        "vinculado",
+        "discricionario",
+        "identificacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0128",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "A respeito da distinção entre discricionariedade e arbitrariedade, assinale a afirmativa correta.",
+      "alternativas": [
+        "A discricionariedade é liberdade de escolha dentro dos limites da lei; a arbitrariedade é atuação contrária à lei e, por isso, sempre inválida.",
+        "A arbitrariedade é admitida em situações de urgência, quando a lei for omissa.",
+        "A discricionariedade dispensa a observância da finalidade legal, pois esta se confunde com a conveniência administrativa.",
+        "A arbitrariedade configura mero vício de forma, sanável por motivação superveniente.",
+        "São sinônimos, pois ambas designam a liberdade de atuação do administrador público."
+      ],
+      "correta": 0,
+      "comentario": "Discricionariedade é liberdade dentro da lei; arbitrariedade é atuação contra a lei, sempre inválida. A urgência pode justificar medidas excepcionais previstas no sistema jurídico, nunca atuação arbitrária. A finalidade permanece vinculada mesmo nos atos discricionários e não se confunde com conveniência. E a atuação arbitrária é ilegalidade substancial, não defeito formal passível de convalidação por motivação posterior.",
+      "fundamento": "Doutrina administrativista.",
+      "dificuldade": "facil",
+      "tags": [
+        "discricionariedade",
+        "arbitrariedade",
+        "merito"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0129",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "A Administração, verificando que determinado ato administrativo discricionário, embora válido, deixou de atender ao interesse público em razão de alteração das circunstâncias de fato, pretende retirá-lo do mundo jurídico.\n\nNesse caso, o instrumento adequado é a:",
+      "alternativas": [
+        "anulação, com efeitos retroativos.",
+        "revogação, com efeitos, em regra, prospectivos.",
+        "convalidação, com efeitos retroativos.",
+        "cassação, por descumprimento de condições pelo beneficiário.",
+        "caducidade, por superveniência de norma jurídica incompatível."
+      ],
+      "correta": 1,
+      "comentario": "O enunciado indica ato válido e invoca interesse público e alteração de circunstâncias: trata-se de juízo de mérito, cujo instrumento é a revogação, com efeitos em regra ex nunc, privativa da Administração e incidente sobre atos discricionários válidos. A anulação pressupõe ilegalidade e opera ex tunc; a convalidação pressupõe vício sanável; a cassação decorre de descumprimento pelo beneficiário; e a caducidade, na acepção de extinção do ato, decorre de norma superveniente incompatível.",
+      "fundamento": "Súmula 473 do STF; Lei nº 9.784/1999, arts. 53 e 55; doutrina administrativista.",
+      "dificuldade": "media",
+      "tags": [
+        "revogacao",
+        "anulacao",
+        "extincao-do-ato"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0130",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre os atributos do ato administrativo, assinale a afirmativa correta.",
+      "alternativas": [
+        "Os atributos do ato administrativo são os mesmos requisitos previstos no art. 2º da Lei nº 4.717/1965.",
+        "Todos os atos administrativos são dotados de autoexecutoriedade, por decorrência da supremacia do interesse público.",
+        "A presunção de legitimidade e de veracidade está presente em todos os atos administrativos, enquanto a imperatividade, a exigibilidade e a autoexecutoriedade não são atributos universais.",
+        "A tipicidade aplica-se igualmente aos atos unilaterais e aos contratos administrativos.",
+        "A imperatividade é atributo de todos os atos, inclusive dos atos enunciativos, como as certidões."
+      ],
+      "correta": 2,
+      "comentario": "A presunção de legitimidade e de veracidade é o único atributo presente em todos os atos administrativos. A autoexecutoriedade é excepcional, exigindo previsão legal ou urgência. A tipicidade, para Di Pietro, alcança apenas atos unilaterais, admitindo-se figura atípica nos contratos. Atos enunciativos, como certidões e atestados, não têm imperatividade, pois certificam em vez de impor. E atributos não se confundem com requisitos: estes são competência, finalidade, forma, motivo e objeto.",
+      "fundamento": "Doutrina administrativista (Hely Lopes Meirelles; Di Pietro; Celso Antônio Bandeira de Mello).",
+      "dificuldade": "media",
+      "tags": [
+        "atributos",
+        "presuncao-de-legitimidade",
+        "visao-geral"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0131",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Os atributos do ato administrativo decorrem, fundamentalmente, do:",
+      "alternativas": [
+        "princípio da autotutela, que autoriza a Administração a rever seus próprios atos.",
+        "princípio da inafastabilidade da jurisdição.",
+        "princípio da autonomia da vontade, aplicável subsidiariamente à Administração.",
+        "regime jurídico administrativo, marcado por prerrogativas e sujeições, e do poder extroverso do Estado.",
+        "poder discricionário, exclusivamente."
+      ],
+      "correta": 3,
+      "comentario": "Os atributos são a face de prerrogativa do regime jurídico administrativo, viabilizada pelo poder extroverso, isto é, pela aptidão estatal de criar obrigações a terceiros unilateralmente. A autonomia da vontade é categoria do direito privado. Atos vinculados também possuem atributos, de modo que a discricionariedade não os explica. A autotutela é consequência do regime, e não sua fonte — distrator plausível que o advérbio 'fundamentalmente' ajuda a descartar. E a inafastabilidade da jurisdição é limite, não fonte.",
+      "fundamento": "Doutrina administrativista; Celso Antônio Bandeira de Mello.",
+      "dificuldade": "media",
+      "tags": [
+        "atributos",
+        "regime-juridico-administrativo",
+        "poder-extroverso"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0132",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre o atributo da presunção de legitimidade e de veracidade dos atos administrativos, assinale a afirmativa correta.",
+      "alternativas": [
+        "Trata-se de presunção que incide apenas sobre a legalidade do ato, não alcançando os fatos nele afirmados.",
+        "Trata-se de presunção que somente se aplica aos atos discricionários.",
+        "Trata-se de presunção que depende de expressa previsão legal para cada espécie de ato.",
+        "Trata-se de presunção absoluta, que impede a discussão judicial dos fatos afirmados pela Administração.",
+        "Trata-se de presunção relativa, que acarreta a inversão do ônus da prova em favor da Administração e permite que o ato produza efeitos desde logo."
+      ],
+      "correta": 4,
+      "comentario": "São três as consequências do atributo: a presunção é relativa (juris tantum), inverte o ônus da prova, de modo que cabe a quem alega o vício demonstrá-lo, e permite a produção imediata de efeitos. Presunção absoluta violaria a inafastabilidade da jurisdição e o contraditório. O atributo tem duas faces — legitimidade quanto ao direito e veracidade quanto aos fatos —, aplica-se a todos os atos, vinculados e discricionários, e decorre do regime jurídico administrativo, independentemente de previsão específica.",
+      "fundamento": "Doutrina administrativista; CF/1988, art. 5º, XXXV e LV.",
+      "dificuldade": "facil",
+      "tags": [
+        "presuncao-de-legitimidade",
+        "presuncao-de-veracidade",
+        "onus-da-prova"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0133",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Contribuinte é executado com base em Certidão de Dívida Ativa regularmente inscrita. Em sua defesa, alega genericamente que o débito é indevido, sem produzir qualquer prova.\n\nÀ luz do CTN e dos atributos do ato administrativo, é correto afirmar que:",
+      "alternativas": [
+        "a dívida regularmente inscrita goza de presunção relativa de certeza e liquidez, com efeito de prova pré-constituída, incumbindo ao sujeito passivo ilidi-la por prova inequívoca.",
+        "a presunção de certeza e liquidez é absoluta, não podendo ser afastada nem por prova inequívoca.",
+        "a alegação genérica do contribuinte é suficiente para afastar a presunção, por força do princípio do contraditório.",
+        "a presunção de veracidade dos atos administrativos não alcança os atos de inscrição em dívida ativa, por se tratar de ato de natureza interna.",
+        "cabe à Fazenda Pública comprovar a higidez do crédito, pois a presunção de certeza e liquidez não se aplica à dívida ativa."
+      ],
+      "correta": 0,
+      "comentario": "O art. 204 do CTN dispõe que a dívida regularmente inscrita goza da presunção de certeza e liquidez e tem efeito de prova pré-constituída, e seu parágrafo único esclarece que a presunção é relativa, podendo ser ilidida por prova inequívoca a cargo do sujeito passivo ou do terceiro a quem aproveite. É a presunção de legitimidade escrita em letra de lei tributária. O contraditório garante o direito de provar, mas não dispensa a prova: alegação genérica não afasta a presunção.",
+      "fundamento": "CTN, art. 204 e parágrafo único; Lei nº 6.830/1980.",
+      "dificuldade": "media",
+      "tags": [
+        "presuncao-de-legitimidade",
+        "divida-ativa",
+        "ctn"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0134",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "A respeito das consequências práticas da presunção de legitimidade dos atos administrativos, assinale a afirmativa INCORRETA.",
+      "alternativas": [
+        "A mera impugnação administrativa do ato, por si, não lhe retira a eficácia, salvo previsão legal ou decisão em sentido contrário.",
+        "A presunção impede que a própria Administração reveja o ato de ofício, dependendo de provocação do interessado.",
+        "A presunção não afasta o controle judicial do ato, que permanece possível a qualquer tempo, observados os prazos legais.",
+        "O ato administrativo produz efeitos desde a sua edição, ainda que posteriormente venha a ser invalidado.",
+        "O ônus de demonstrar eventual vício recai, em regra, sobre quem o alega."
+      ],
+      "correta": 1,
+      "comentario": "A presunção de legitimidade em nada limita a autotutela: a Administração pode e deve rever seus atos de ofício, anulando os ilegais e revogando os inconvenientes, conforme as Súmulas 346 e 473 do STF e o art. 53 da Lei nº 9.784/1999. As demais assertivas são corretas e traduzem a produção imediata de efeitos, a inversão do ônus da prova, a ausência de efeito suspensivo automático da impugnação e a permanência do controle judicial.",
+      "fundamento": "Súmulas 346 e 473 do STF; Lei nº 9.784/1999, art. 53.",
+      "dificuldade": "media",
+      "tags": [
+        "presuncao-de-legitimidade",
+        "autotutela",
+        "eficacia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0135",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "A presunção de veracidade dos atos administrativos significa que se presumem verdadeiros:",
+      "alternativas": [
+        "os interesses privados declarados pelo administrado em seus requerimentos.",
+        "os juízos de conveniência e oportunidade formulados pelo administrador.",
+        "os fatos alegados e certificados pela Administração, em razão da fé pública de que se revestem seus documentos.",
+        "os fundamentos jurídicos invocados no ato, que não podem ser rediscutidos.",
+        "os efeitos futuros do ato, independentemente de sua implementação."
+      ],
+      "correta": 2,
+      "comentario": "A veracidade diz respeito à matéria de fato, com apoio na fé pública dos documentos administrativos. O mérito não é objeto de presunção de veracidade, mas espaço de discricionariedade. Os fundamentos jurídicos são sempre rediscutíveis, pois a presunção de legitimidade é relativa. Presunção não substitui execução, de modo que efeitos futuros dependem da eficácia do ato. E a fé pública protege as declarações da Administração, não as do particular, cujas declarações contam com presunção de boa-fé, instituto diverso.",
+      "fundamento": "Doutrina administrativista.",
+      "dificuldade": "facil",
+      "tags": [
+        "presuncao-de-veracidade",
+        "fe-publica"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0136",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "A imperatividade, como atributo do ato administrativo, caracteriza-se por:",
+      "alternativas": [
+        "presumir verdadeiros os fatos afirmados pela Administração.",
+        "exigir que o ato corresponda a figura típica prevista em lei.",
+        "permitir que a Administração execute materialmente suas decisões sem recorrer ao Poder Judiciário.",
+        "conferir ao ato a aptidão para criar obrigações ao destinatário independentemente de sua concordância, decorrendo do poder extroverso do Estado.",
+        "estar presente em todos os atos administrativos, inclusive nos enunciativos e negociais."
+      ],
+      "correta": 3,
+      "comentario": "Imperatividade é a aptidão do ato para se impor ao destinatário independentemente de sua concordância, criando-lhe obrigações unilateralmente — tradução jurídica do poder extroverso. Executar materialmente as decisões é autoexecutoriedade, distrator mais frequente do tema; presumir verdadeiros os fatos é a presunção de veracidade; e exigir correspondência a figura legal é tipicidade. O atributo não é universal: falta nos atos enunciativos, como certidões, e nos negociais, como licenças e autorizações requeridas.",
+      "fundamento": "Doutrina administrativista (Hely Lopes Meirelles; Celso Antônio Bandeira de Mello).",
+      "dificuldade": "facil",
+      "tags": [
+        "imperatividade",
+        "poder-extroverso",
+        "atributos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0137",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que indica atos administrativos aos quais, segundo a doutrina, NÃO se atribui imperatividade.",
+      "alternativas": [
+        "Ordem de demolição e apreensão de mercadorias.",
+        "Desapropriação e requisição administrativa.",
+        "Termo de intimação fiscal e aplicação de multa.",
+        "Auto de infração e interdição de estabelecimento.",
+        "Certidão de regularidade fiscal e licença requerida pelo interessado."
+      ],
+      "correta": 4,
+      "comentario": "A certidão é ato enunciativo e a licença requerida é ato negocial: nenhum dos dois impõe conduta ao particular — o primeiro certifica, o segundo é expedido a pedido e no interesse do próprio interessado. As demais opções reúnem atos que impõem obrigações, restrições ou sacrifícios unilateralmente, com imperatividade em grau máximo. O teste prático é perguntar se o ato cria um dever para alguém que não pediu nada.",
+      "fundamento": "Doutrina administrativista (Di Pietro).",
+      "dificuldade": "media",
+      "tags": [
+        "imperatividade",
+        "atos-enunciativos",
+        "atos-negociais"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0138",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Multa administrativa é aplicada a empresa, que não a paga no prazo assinalado.\n\nSobre a situação, assinale a afirmativa correta.",
+      "alternativas": [
+        "O ato que aplicou a multa é imperativo, mas a sua cobrança forçada não é autoexecutória, dependendo de execução fiscal perante o Poder Judiciário.",
+        "O ato não é imperativo, pois a empresa pode optar por não pagar a multa.",
+        "O ato perde a imperatividade com o inadimplemento, convertendo-se em título de natureza privada.",
+        "A Administração deve requerer autorização judicial prévia para aplicar a multa.",
+        "O ato que aplicou a multa é imperativo e autoexecutório, autorizando a Administração a promover, por seus próprios meios, a constrição do patrimônio da empresa."
+      ],
+      "correta": 0,
+      "comentario": "É o exemplo-padrão da separação entre imperatividade e autoexecutoriedade: a Administração impõe a multa unilateralmente, mas, para cobrá-la à força, precisa inscrever o crédito em dívida ativa e ajuizar execução fiscal, na forma da Lei nº 6.830/1980. Constrição patrimonial por conta própria seria autotutela executiva vedada. A imperatividade não se confunde com efetividade: o dever existe ainda que descumprido, e o inadimplemento não desnatura o crédito público. Para aplicar a multa não se exige autorização judicial.",
+      "fundamento": "Lei nº 6.830/1980; doutrina administrativista.",
+      "dificuldade": "media",
+      "tags": [
+        "imperatividade",
+        "autoexecutoriedade",
+        "multa"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0139",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "A exigibilidade, como atributo do ato administrativo, consiste na:",
+      "alternativas": [
+        "possibilidade de a Administração executar materialmente o ato, substituindo-se ao particular.",
+        "possibilidade de a Administração exigir o cumprimento do ato mediante meios indiretos de coação, sem necessidade de recorrer ao Poder Judiciário.",
+        "aptidão do ato para criar obrigações independentemente da concordância do destinatário.",
+        "presunção de que o ato foi praticado em conformidade com o ordenamento jurídico.",
+        "necessidade de que o ato corresponda a espécie legalmente prevista."
+      ],
+      "correta": 1,
+      "comentario": "A marca da exigibilidade é a coerção indireta: a Administração pressiona o particular a cumprir, criando-lhe consequências desvantajosas como multa, recusa de certidão, não renovação de licença ou inscrição em cadastro restritivo. Executar materialmente é autoexecutoriedade (coerção direta); criar obrigação unilateralmente é imperatividade; presumir conformidade com o direito é presunção de legitimidade; e exigir correspondência a figura legal é tipicidade. As cinco alternativas correspondem aos cinco atributos.",
+      "fundamento": "Celso Antônio Bandeira de Mello, Curso de Direito Administrativo.",
+      "dificuldade": "facil",
+      "tags": [
+        "exigibilidade",
+        "coercao-indireta",
+        "atributos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0140",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que exemplifica exclusivamente meio indireto de coação (exigibilidade).",
+      "alternativas": [
+        "Demolição de edificação que ameaça ruir.",
+        "Dissolução de passeata que se tornou violenta.",
+        "Aplicação de multa diária pelo descumprimento de notificação para regularização.",
+        "Apreensão de mercadorias desacompanhadas de documentação fiscal.",
+        "Interdição imediata de restaurante com risco sanitário grave."
+      ],
+      "correta": 2,
+      "comentario": "A multa diária pressiona o particular a cumprir sem que a Administração realize materialmente qualquer providência: é coerção indireta por excelência. As demais alternativas descrevem coerção direta, isto é, autoexecutoriedade, em que a Administração atua fisicamente sobre a pessoa, o bem ou a atividade — demolindo, dissolvendo, apreendendo ou interditando.",
+      "fundamento": "Celso Antônio Bandeira de Mello; Di Pietro.",
+      "dificuldade": "media",
+      "tags": [
+        "exigibilidade",
+        "autoexecutoriedade",
+        "identificacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0141",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre a relação entre exigibilidade e autoexecutoriedade, assinale a afirmativa correta.",
+      "alternativas": [
+        "A autoexecutoriedade é atributo de todos os atos administrativos; a exigibilidade, apenas dos atos sancionatórios.",
+        "São expressões sinônimas, pois ambas dispensam a intervenção do Poder Judiciário.",
+        "Todo ato exigível é autoexecutório, mas não todo ato autoexecutório é exigível.",
+        "Todo ato autoexecutório é exigível, mas não todo ato exigível é autoexecutório.",
+        "A exigibilidade pressupõe prévia autorização judicial; a autoexecutoriedade, não."
+      ],
+      "correta": 3,
+      "comentario": "A autoexecutoriedade é o grau mais intenso de coerção: quem pode executar materialmente também pode pressionar. O inverso não se verifica — a multa é exigível, mas sua cobrança não é autoexecutória. Dispensar o Judiciário é característica comum aos dois atributos, mas a natureza da coerção difere (indireta e direta). Nenhum deles pressupõe autorização judicial prévia, e a autoexecutoriedade não é universal, nem a exigibilidade se restringe a atos sancionatórios.",
+      "fundamento": "Celso Antônio Bandeira de Mello, Curso de Direito Administrativo.",
+      "dificuldade": "dificil",
+      "tags": [
+        "exigibilidade",
+        "autoexecutoriedade",
+        "relacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0142",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre o atributo da autoexecutoriedade, assinale a afirmativa correta.",
+      "alternativas": [
+        "Autoriza a Administração a promover, por seus próprios meios, a cobrança forçada das multas que aplicar.",
+        "Exclui a apreciação judicial do ato, em razão da presunção de legitimidade.",
+        "Depende, em qualquer hipótese, de autorização judicial prévia, sob pena de nulidade.",
+        "Está presente em todos os atos administrativos, como decorrência da supremacia do interesse público.",
+        "Permite à Administração executar materialmente suas decisões sem prévia autorização judicial, quando houver previsão legal ou situação de urgência, sem excluir o controle judicial posterior."
+      ],
+      "correta": 4,
+      "comentario": "A alternativa correta reúne os três pontos exigíveis: fundamento (previsão legal ou urgência), dispensa de autorização judicial prévia e manutenção do controle judicial posterior. O atributo é excepcional, e não universal. A cobrança forçada de multa é a exceção consagrada, pois exige execução fiscal. Nenhum atributo afasta a jurisdição (CF, art. 5º, XXXV), e exigir autorização prévia seria negar o próprio atributo.",
+      "fundamento": "CF/1988, art. 5º, XXXV; Lei nº 6.830/1980; doutrina administrativista.",
+      "dificuldade": "facil",
+      "tags": [
+        "autoexecutoriedade",
+        "atributos",
+        "controle-judicial"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0143",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Autoridade administrativa, constatando risco iminente de desabamento de edificação, determina e executa sua demolição imediata, sem prévia manifestação do proprietário.\n\nSobre a situação, assinale a afirmativa correta.",
+      "alternativas": [
+        "A conduta é legítima, por força da autoexecutoriedade fundada em situação de urgência, sem prejuízo do posterior controle de legalidade e de eventual dever de indenizar em caso de excesso.",
+        "A conduta é legítima e definitiva, não podendo ser revista pelo Poder Judiciário.",
+        "A conduta configura exercício de exigibilidade, por constituir meio indireto de coação.",
+        "A conduta é ilegal, pois toda demolição exige prévia autorização judicial.",
+        "A conduta é ilegal, pois o contraditório prévio é exigência absoluta em qualquer atuação administrativa restritiva."
+      ],
+      "correta": 0,
+      "comentario": "Trata-se de caso-escola de urgência: aguardar decisão judicial poderia resultar em vítimas. A alternativa correta é a mais completa porque ressalva o controle posterior e a responsabilidade por eventual excesso. O contraditório é regra, mas admite diferimento em situações de urgência, sendo exercido posteriormente. Afirmações de que o ato é definitivo e irreversível são incompatíveis com a inafastabilidade da jurisdição. Demolir é coerção direta, logo autoexecutoriedade, e não exigibilidade.",
+      "fundamento": "CF/1988, arts. 5º, XXXV e LV, e 37, §6º; doutrina administrativista.",
+      "dificuldade": "media",
+      "tags": [
+        "autoexecutoriedade",
+        "urgencia",
+        "contraditorio-diferido"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0144",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Assinale a opção que indica hipótese em que NÃO há autoexecutoriedade do ato administrativo.",
+      "alternativas": [
+        "Interdição de estabelecimento com risco sanitário grave.",
+        "Cobrança forçada de multa aplicada e não paga, mediante constrição do patrimônio do devedor.",
+        "Remoção de veículo estacionado em local proibido.",
+        "Destruição de alimentos deteriorados apreendidos em estabelecimento comercial.",
+        "Apreensão de mercadorias introduzidas irregularmente no território nacional."
+      ],
+      "correta": 1,
+      "comentario": "Para alcançar o patrimônio do devedor é indispensável o processo judicial de execução fiscal: a Administração não dispõe de autotutela executiva patrimonial. As demais hipóteses são atuações materiais clássicas de polícia administrativa, com previsão legal e, em vários casos, urgência, plenamente autoexecutórias. Em prova, verbos como apreender, interditar, remover, demolir, destruir e lacrar apontam autoexecutoriedade; cobrar, executar valor e penhorar apontam a necessidade de ir ao Judiciário.",
+      "fundamento": "Lei nº 6.830/1980; CTN, art. 204; doutrina administrativista.",
+      "dificuldade": "media",
+      "tags": [
+        "autoexecutoriedade",
+        "execucao-fiscal",
+        "identificacao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0145",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Acerca dos fundamentos da autoexecutoriedade, assinale a afirmativa correta.",
+      "alternativas": [
+        "Decorre exclusivamente de previsão legal expressa, não se admitindo outro fundamento.",
+        "Decorre exclusivamente de situação de urgência, independentemente de previsão legal.",
+        "Decorre de previsão legal ou de situação de urgência, em que a demora na obtenção de provimento judicial possa causar dano ao interesse público.",
+        "Decorre da presunção de veracidade dos atos administrativos.",
+        "Decorre do poder discricionário, sendo incompatível com atos vinculados."
+      ],
+      "correta": 2,
+      "comentario": "A doutrina majoritária reconhece dois fundamentos autônomos: a previsão legal e a situação de urgência. As alternativas que empregam o advérbio 'exclusivamente' eliminam um deles e por isso estão erradas. A presunção de veracidade é atributo diverso, com função ligada ao ônus da prova. E atos vinculados também podem ser autoexecutórios, como a apreensão de mercadoria em situação legalmente tipificada.",
+      "fundamento": "Doutrina administrativista (Di Pietro; Hely Lopes Meirelles).",
+      "dificuldade": "media",
+      "tags": [
+        "autoexecutoriedade",
+        "fundamentos",
+        "urgencia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0146",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Empresa sofre interdição de suas atividades por decisão administrativa autoexecutória e, dias depois, obtém decisão judicial reconhecendo a ilegalidade da medida, já tendo suportado prejuízos.\n\nSobre o caso, assinale a afirmativa correta.",
+      "alternativas": [
+        "O reconhecimento judicial da ilegalidade converte o ato em ato de direito privado, afastando o regime público de responsabilidade.",
+        "A empresa não poderá pleitear indenização, pois assumiu o risco da atividade regulada.",
+        "A autoexecutoriedade, por dispensar autorização judicial, impede a responsabilização do Estado pelos danos causados.",
+        "A autoexecutoriedade dispensa a autorização judicial prévia, mas não exclui o controle judicial posterior nem a responsabilidade civil do Estado pelos danos decorrentes de atuação ilegal.",
+        "A responsabilização do Estado dependerá, necessariamente, da comprovação de dolo do agente público."
+      ],
+      "correta": 3,
+      "comentario": "O atributo antecipa a atuação material, mas prerrogativa não é imunidade: o Estado responde pelos danos decorrentes de atuação ilegal, de forma objetiva quanto às condutas comissivas, nos termos do art. 37, §6º, da Constituição. Dolo ou culpa importam apenas na ação de regresso contra o agente. A ilegalidade não altera o regime jurídico do ato, e o risco da atividade regulada não legitima atuação estatal ilegal.",
+      "fundamento": "CF/1988, art. 37, §6º.",
+      "dificuldade": "media",
+      "tags": [
+        "autoexecutoriedade",
+        "responsabilidade-objetiva",
+        "controle-judicial"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0147",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "A tipicidade, como atributo do ato administrativo, significa que:",
+      "alternativas": [
+        "o ato deve observar a forma escrita, em vernáculo, com data, local e assinatura.",
+        "o ato deve ser executado materialmente pela própria Administração.",
+        "o ato deve sempre ser motivado, com indicação dos fatos e dos fundamentos jurídicos.",
+        "o ato deve ser praticado por autoridade competente, segundo a repartição legal de atribuições.",
+        "o ato deve corresponder a figura previamente definida em lei como apta a produzir determinado resultado, decorrendo do princípio da legalidade."
+      ],
+      "correta": 4,
+      "comentario": "A tipicidade, formulada por Maria Sylvia Zanella Di Pietro, exige que o ato corresponda a figura previamente definida em lei como apta a produzir determinado resultado, e decorre do princípio da legalidade. Ela afasta o ato inominado e protege a segurança jurídica e a previsibilidade. As demais opções descrevem o requisito competência, o requisito forma (art. 22, §1º, da Lei nº 9.784/1999), o atributo da autoexecutoriedade e o dever de motivação (art. 50).",
+      "fundamento": "Di Pietro, Direito Administrativo; CF/1988, art. 37, caput.",
+      "dificuldade": "facil",
+      "tags": [
+        "tipicidade",
+        "legalidade",
+        "atributos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0148",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre o alcance do atributo da tipicidade, assinale a afirmativa correta.",
+      "alternativas": [
+        "Aplica-se apenas aos atos unilaterais, admitindo-se, nos contratos administrativos, figuras atípicas compatíveis com o interesse público.",
+        "Aplica-se apenas aos atos discricionários, pois os vinculados já estão predeterminados em lei.",
+        "Aplica-se apenas aos atos sancionatórios, por força do princípio da legalidade estrita em matéria punitiva.",
+        "Não encontra fundamento no princípio da legalidade, derivando exclusivamente do princípio da eficiência.",
+        "Aplica-se aos atos unilaterais e aos contratos administrativos, vedando-se, em ambos os casos, figuras atípicas."
+      ],
+      "correta": 0,
+      "comentario": "A tipicidade é fenômeno dos atos unilaterais: nos contratos administrativos admite-se figura atípica, desde que compatível com o interesse público e com o ordenamento, porque ali a vontade do particular participa da formação do vínculo. O atributo alcança atos vinculados e discricionários — nestes é ainda mais relevante, pois delimita o leque de escolhas possíveis — e não se restringe a atos punitivos. Seu fundamento é a legalidade, e não a eficiência.",
+      "fundamento": "Di Pietro, Direito Administrativo.",
+      "dificuldade": "media",
+      "tags": [
+        "tipicidade",
+        "atos-unilaterais",
+        "contratos"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0149",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Autoridade administrativa, para alcançar resultado que a lei condiciona a procedimento específico com contraditório, expede ato sem qualquer previsão normativa, denominando-o “medida administrativa preventiva”.\n\nSobre o caso, assinale a afirmativa correta.",
+      "alternativas": [
+        "O ato é válido, pois a Administração dispõe de liberdade de forma para atingir o interesse público.",
+        "O ato é válido, desde que posteriormente seja oportunizada a defesa do interessado.",
+        "O ato é inválido, por violação à tipicidade, podendo ainda apresentar vício de forma e desvio de finalidade.",
+        "O ato é inválido apenas por vício de competência, uma vez que a autoridade não poderia criar nova espécie de ato.",
+        "O ato é inexistente, pois a ausência de previsão legal configura usurpação de função."
+      ],
+      "correta": 2,
+      "comentario": "Há cumulação de defeitos: o ato não corresponde a figura legalmente prevista, violando a tipicidade; suprime o procedimento e o contraditório exigidos em lei, configurando vício de forma essencial; e utiliza via imprópria para alcançar resultado que a lei submeteu a outro caminho, indiciando desvio de finalidade. Liberdade de forma não autoriza criar atos que a lei não prevê, e defesa posterior não supre a ausência de base legal para a figura. Usurpação de função exige ausência de investidura do agente.",
+      "fundamento": "Di Pietro, Direito Administrativo; Lei nº 9.784/1999, arts. 22 e 55; CF/1988, art. 5º, LV.",
+      "dificuldade": "media",
+      "tags": [
+        "tipicidade",
+        "vicio-de-forma",
+        "desvio-de-finalidade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0150",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Ato administrativo cujo ciclo de formação se encontra concluído, praticado em desconformidade com a lei, mas que vem produzindo seus efeitos típicos por não ter sido impugnado, classifica-se como:",
+      "alternativas": [
+        "imperfeito, inválido e ineficaz.",
+        "perfeito, válido e ineficaz.",
+        "imperfeito, válido e eficaz.",
+        "perfeito, válido e eficaz.",
+        "perfeito, inválido e eficaz."
+      ],
+      "correta": 4,
+      "comentario": "Decompondo o enunciado: ciclo de formação concluído corresponde à perfeição; desconformidade com a lei, à invalidade; e produção de efeitos, à eficácia. A convivência entre invalidade e eficácia é possível justamente por força da presunção de legitimidade, que sustenta o ato até que seja invalidado. Perfeição, validade e eficácia são planos distintos: o ato pode ser perfeito e inválido, assim como pode ser válido e ainda ineficaz.",
+      "fundamento": "Doutrina administrativista (Celso Antônio Bandeira de Mello; Di Pietro).",
+      "dificuldade": "media",
+      "tags": [
+        "perfeicao",
+        "validade",
+        "eficacia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0151",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre os planos de existência, validade e eficácia do ato administrativo, assinale a afirmativa correta.",
+      "alternativas": [
+        "Ato perfeito é aquele que concluiu seu ciclo de formação, podendo ser inválido; a eficácia diz respeito à aptidão para produzir efeitos.",
+        "A publicidade, quando exigida pela lei, é requisito de existência do ato administrativo.",
+        "Ato inválido é necessariamente ineficaz, por ausência de aptidão para produzir efeitos jurídicos.",
+        "Ato perfeito é sinônimo de ato válido, pois a perfeição pressupõe conformidade com a lei.",
+        "A pendência de condição suspensiva ou de termo inicial afeta a validade do ato."
+      ],
+      "correta": 0,
+      "comentario": "Perfeição é plano de formação; validade, de conformidade com o direito; eficácia, de aptidão para produzir efeitos. Por isso o ato pode ser perfeito e inválido. Condição suspensiva e termo inicial afetam a eficácia, não a validade. A publicidade é, em regra, requisito de eficácia — e, em certas leituras, de forma —, mas não de existência. E o ato inválido produz efeitos até ser invalidado, em razão da presunção de legitimidade.",
+      "fundamento": "Doutrina administrativista (Celso Antônio Bandeira de Mello; Di Pietro).",
+      "dificuldade": "media",
+      "tags": [
+        "perfeicao",
+        "validade",
+        "eficacia"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0152",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "A desapropriação de imóvel locado atinge, além do proprietário, a esfera jurídica do locatário, que não integra a relação expropriatória.\n\nEsse efeito do ato administrativo é classificado como efeito:",
+      "alternativas": [
+        "típico ou próprio.",
+        "atípico prodrômico.",
+        "atípico reflexo.",
+        "preliminar vinculado.",
+        "diferido condicional."
+      ],
+      "correta": 2,
+      "comentario": "Efeito reflexo é o efeito atípico que atinge terceiro estranho à relação jurídica do ato, hipótese exata do locatário na desapropriação. O efeito típico da desapropriação é a transferência compulsória da propriedade ao expropriante. O efeito prodrômico, ou preliminar, surge durante a formação do ato ainda imperfeito, consistindo no dever de a autoridade competente manifestar-se sobre ato que dependa de sua aprovação. As opções que falam em “preliminar vinculado” e em “diferido condicional” apresentam categorias inexistentes na classificação doutrinária.",
+      "fundamento": "Doutrina administrativista (Celso Antônio Bandeira de Mello; Di Pietro).",
+      "dificuldade": "media",
+      "tags": [
+        "efeitos-atipicos",
+        "efeito-reflexo",
+        "efeito-prodromico"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "dadm-0153",
+      "topico": "5.3.1",
+      "tipo": "multipla",
+      "enunciado": "Determinado ato administrativo é editado por autoridade competente, com observância de todos os requisitos legais, prevendo expressamente que produzirá efeitos a partir do primeiro dia do exercício financeiro seguinte.\n\nNo período anterior a essa data, o ato é:",
+      "alternativas": [
+        "perfeito, válido e ineficaz.",
+        "perfeito, inválido e ineficaz.",
+        "inexistente, por ausência de eficácia.",
+        "perfeito, válido e eficaz, pois a eficácia independe de termo.",
+        "imperfeito e inválido."
+      ],
+      "correta": 0,
+      "comentario": "O ciclo de formação está concluído, o que o torna perfeito; os requisitos legais foram observados, o que o torna válido; e o termo inicial ainda não ocorreu, o que o torna ineficaz. Não há vício descrito que justifique falar em invalidade, e ineficácia não se confunde com inexistência: o ato existe e apenas aguarda o termo. O termo é precisamente elemento que condiciona a eficácia, e não a validade.",
+      "fundamento": "Doutrina administrativista; teoria dos planos do ato administrativo.",
+      "dificuldade": "media",
+      "tags": [
+        "perfeicao",
+        "validade",
+        "eficacia",
+        "termo"
+      ],
+      "fonte": "inédita"
     }
   ]
 }
