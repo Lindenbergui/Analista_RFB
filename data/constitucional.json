@@ -2072,6 +2072,751 @@
         "efeitos-da-decisao"
       ],
       "fonte": "inédita"
+    },
+    {
+      "id": "const-0092",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "A classificação das Constituições é construída a partir de critérios distintos, cada um deles responsável por responder a uma indagação específica sobre o documento constitucional.\n\nConsiderando a técnica classificatória adotada pela doutrina constitucionalista, assinale a afirmativa correta.",
+      "alternativas": [
+        "Os critérios de classificação são cumulativos e interdependentes, de modo que a definição de um deles determina logicamente a dos demais.",
+        "Cada critério responde a uma indagação própria, podendo uma mesma Constituição receber qualificações distintas conforme o critério adotado.",
+        "A classificação quanto à estabilidade é a única com repercussão jurídica, sendo as demais de interesse meramente histórico.",
+        "Uma Constituição escrita será necessariamente rígida, pois a forma escrita pressupõe procedimento agravado de reforma.",
+        "A existência de sinônimos doutrinários para um mesmo tipo constitucional revela divergência conceitual insuperável, razão pela qual as bancas não os utilizam."
+      ],
+      "correta": 1,
+      "comentario": "Cada critério faz uma pergunta diferente, e a mesma Constituição acumula qualificações: a CF/1988 é, simultaneamente, promulgada (origem), escrita (forma), analítica (extensão), formal (conteúdo) e rígida (estabilidade). Os critérios são independentes: saber que uma Constituição é escrita não permite deduzir se é sintética ou analítica, rígida ou flexível. A estabilidade é o critério de maior consequência prática, mas não o único relevante, e os sinônimos doutrinários (analítica = prolixa = extensa) são terminologia consagrada, amplamente usada em prova.",
+      "fundamento": "Doutrina constitucional — critérios de classificação das Constituições.",
+      "dificuldade": "facil",
+      "tags": [
+        "classificacao",
+        "criterios",
+        "tipos-de-constituicao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0093",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "Em aula sobre teoria da Constituição, um professor afirmou: \"Quanto ao conteúdo, a Constituição Federal de 1988 é rígida, pois somente pode ser alterada mediante procedimento mais dificultoso do que o previsto para a legislação ordinária\".\n\nA respeito dessa afirmação, é correto concluir que:",
+      "alternativas": [
+        "está integralmente correta, pois rigidez e conteúdo formal são expressões sinônimas.",
+        "está integralmente incorreta, pois a CF/1988 é classificada como semirrígida.",
+        "contém equívoco quanto ao critério invocado, embora a qualificação de rigidez e a justificativa apresentada sejam adequadas ao critério da estabilidade.",
+        "está correta apenas em relação às normas materialmente constitucionais, aplicando-se às demais o processo legislativo ordinário.",
+        "está incorreta porque, quanto à estabilidade, a CF/1988 somente admite alteração pelo poder constituinte originário."
+      ],
+      "correta": 2,
+      "comentario": "Erro de endereçamento do critério: a rigidez responde ao critério da estabilidade (alterabilidade), e não ao do conteúdo — quanto ao conteúdo, a CF/1988 é formal. A definição apresentada (processo mais dificultoso que o das leis comuns) está correta, mas foi atribuída ao critério errado. Semirrígida foi a Constituição de 1824 (art. 178); por ser formalmente constitucional, toda norma do texto de 1988 só se altera por emenda; e a Constituição que só pode ser alterada pelo poder que a criou é a fixa (silenciosa).",
+      "fundamento": "CF/1988, art. 60; classificação quanto à estabilidade e quanto ao conteúdo.",
+      "dificuldade": "media",
+      "tags": [
+        "classificacao",
+        "rigidez",
+        "formal",
+        "criterios"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0094",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "No Estado fictício de Nordávia, após longo período de governo autoritário, o Chefe de Estado determinou que um grupo de notáveis por ele designados elaborasse o texto de uma nova Constituição. Concluída a redação, o texto foi submetido à consulta popular por meio de referendo, no qual se admitia apenas sua aprovação ou rejeição integral, sem possibilidade de emendas.\n\nQuanto à origem, a Constituição de Nordávia é classificada como:",
+      "alternativas": [
+        "promulgada, em razão da participação popular direta no processo de aprovação.",
+        "pactuada, pois houve composição entre o Chefe de Estado e o corpo eleitoral.",
+        "cesarista, pois a participação popular se limitou à ratificação de texto elaborado unilateralmente pelo detentor do poder.",
+        "outorgada, uma vez que a existência de referendo não afasta a natureza impositiva do ato.",
+        "dualista, por conjugar a vontade do governante e a vontade popular em igualdade de condições."
+      ],
+      "correta": 2,
+      "comentario": "A Constituição cesarista (ou bonapartista) é elaborada unilateralmente pelo autocrata e submetida a plebiscito ou referendo apenas para ratificação — a participação popular é meramente homologatória, o que a impossibilidade de emendar o texto confirma. Promulgada exige que o povo eleja a Assembleia Constituinte que elabora o texto; pactuada (dualista) pressupõe acordo entre duas forças políticas em equilíbrio, como na Magna Carta de 1215; e outorgada é a imposta sem qualquer consulta popular. Havendo referendo ratificador, a resposta é cesarista.",
+      "fundamento": "Classificação das Constituições quanto à origem.",
+      "dificuldade": "media",
+      "tags": [
+        "classificacao",
+        "origem",
+        "cesarista",
+        "bonapartista"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0095",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre a classificação das Constituições brasileiras quanto à origem, assinale a afirmativa correta.",
+      "alternativas": [
+        "As Constituições de 1824, 1891 e 1937 foram outorgadas, e as de 1934, 1946 e 1988, promulgadas.",
+        "As Constituições de 1891, 1934, 1946 e 1988 foram promulgadas, enquanto as de 1824, 1937 e 1967 são tratadas pela doutrina majoritária como outorgadas.",
+        "A Constituição de 1937 é classificada como cesarista, pois seu texto previa plebiscito nacional de ratificação.",
+        "Todas as Constituições brasileiras do período republicano foram promulgadas, pois elaboradas com participação do Congresso Nacional.",
+        "A Constituição de 1988 é classificada como pactuada, por resultar de compromisso entre as diversas forças políticas representadas na Assembleia Nacional Constituinte."
+      ],
+      "correta": 1,
+      "comentario": "Promulgadas: 1891, 1934, 1946 e 1988 — todas nascidas após a queda de um regime. Outorgadas: 1824, 1937 e 1967, além da EC nº 1/1969, tida por boa parte da doutrina como nova Constituição outorgada pela junta militar. A Carta de 1937 previu plebiscito em seu art. 187, jamais realizado, razão pela qual não se configura a cesarista. A participação do Congresso em 1967 ocorreu sob coação e com mandatos cassados. Por fim, o compromisso entre forças políticas diversas torna a CF/1988 eclética quanto à ideologia, não pactuada quanto à origem.",
+      "fundamento": "História constitucional brasileira; classificação quanto à origem.",
+      "dificuldade": "media",
+      "tags": [
+        "classificacao",
+        "origem",
+        "historia-constitucional"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0096",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "A doutrina identifica como Constituição pactuada (ou dualista) aquela que:",
+      "alternativas": [
+        "é elaborada por assembleia eleita e, posteriormente, ratificada pelo povo em referendo.",
+        "resulta de compromisso instável entre duas forças políticas rivais, como o monarca e a nobreza ou o parlamento.",
+        "é imposta pelo governante, mas admite alteração por processo legislativo ordinário.",
+        "é elaborada fora do território do Estado que irá reger, mediante tratado internacional.",
+        "conjuga, em seu texto, ideologias antagônicas, como o liberalismo econômico e o dirigismo estatal."
+      ],
+      "correta": 1,
+      "comentario": "A pactuada (dualista) nasce de pacto entre duas forças políticas que não conseguem se impor isoladamente — exemplos históricos são a Magna Carta de 1215 e a Constituição francesa de 1791 —, e a doutrina destaca a instabilidade desse arranjo. A ratificação popular de texto pronto caracteriza a cesarista; a elaboração fora do Estado, a heteroconstituição (critério do local da decretação); e a convivência de ideologias antagônicas, a Constituição eclética ou compromissória (critério ideológico).",
+      "fundamento": "Classificação das Constituições quanto à origem.",
+      "dificuldade": "facil",
+      "tags": [
+        "classificacao",
+        "origem",
+        "pactuada",
+        "dualista"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0097",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "A respeito da classificação das Constituições quanto à forma, assinale a afirmativa correta.",
+      "alternativas": [
+        "A Constituição não escrita caracteriza-se pela inexistência de qualquer documento escrito de natureza constitucional, baseando-se exclusivamente em costumes.",
+        "A Constituição escrita pode ser codificada, quando reunida em documento único, ou legal, quando suas normas se distribuem em diversos textos escritos.",
+        "Toda Constituição escrita é necessariamente codificada, pois a sistematização em documento único integra o próprio conceito de forma escrita.",
+        "A Constituição brasileira de 1988, por regular matérias diversas em seu texto e no Ato das Disposições Constitucionais Transitórias, é classificada como escrita legal ou pluritextual.",
+        "A classificação quanto à forma não produz efeitos jurídicos, pois a supremacia constitucional decorre exclusivamente do conteúdo das normas."
+      ],
+      "correta": 1,
+      "comentario": "A Constituição escrita subdivide-se em codificada (unitextual, como a CF/1988) e legal, variada ou pluritextual (normas escritas espalhadas em vários textos, como a Constituição francesa de 1875 e as leis básicas de Israel). Na Inglaterra existem documentos escritos relevantes — Magna Carta, Habeas Corpus Act, Bill of Rights —, mas não há codificação em texto único: por isso é não escrita. O ADCT integra a Constituição de 1988, que permanece escrita codificada, e a forma escrita é pressuposto prático da supremacia formal.",
+      "fundamento": "Classificação das Constituições quanto à forma.",
+      "dificuldade": "media",
+      "tags": [
+        "classificacao",
+        "forma",
+        "escrita",
+        "codificada"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0098",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "Comparando a Constituição dos Estados Unidos da América de 1787 com a Constituição da República Federativa do Brasil de 1988, no que se refere ao critério da extensão, é correto afirmar que:",
+      "alternativas": [
+        "ambas são analíticas, pois disciplinam a organização dos poderes e os direitos fundamentais.",
+        "a norte-americana é sintética e a brasileira é analítica, o que ajuda a explicar o elevado número de emendas à CF/1988.",
+        "a norte-americana é analítica, por abrigar numerosas emendas ao longo de mais de dois séculos, e a brasileira é sintética.",
+        "ambas são sintéticas, uma vez que o critério da extensão considera apenas o número de emendas aprovadas.",
+        "a brasileira é analítica apenas no Ato das Disposições Constitucionais Transitórias, sendo sintética em seu corpo permanente."
+      ],
+      "correta": 1,
+      "comentario": "A Constituição americana é o modelo de Constituição sintética (concisa): poucos artigos, tratando do essencial, com o preenchimento a cargo do legislador e da Suprema Corte. A CF/1988 é analítica (prolixa), com mais de 250 artigos e descendo a minúcias. A relação causal é correta: quanto mais detalhado o texto, mais frequentemente ele precisa ser emendado. O critério da extensão mede o grau de detalhamento das matérias tratadas, e não o número de emendas, que é consequência provável.",
+      "fundamento": "Classificação das Constituições quanto à extensão.",
+      "dificuldade": "facil",
+      "tags": [
+        "classificacao",
+        "extensao",
+        "analitica",
+        "sintetica"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0099",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "Determinado Estado possui um texto constitucional de apenas dezoito artigos, limitado à organização dos poderes, à repartição de competências entre os entes federados e a um rol básico de direitos fundamentais, remetendo todos os demais temas à legislação ordinária.\n\nQuanto à extensão e à forma, respectivamente, essa Constituição é classificada como:",
+      "alternativas": [
+        "analítica e escrita.",
+        "sintética e não escrita.",
+        "sintética e escrita.",
+        "material e codificada.",
+        "flexível e sintética."
+      ],
+      "correta": 2,
+      "comentario": "Texto enxuto, cuidando apenas do essencial, é Constituição sintética (concisa, breve); a existência de texto constitucional articulado em artigos revela a forma escrita. A alternativa que fala em Constituição material troca o critério: material responde ao conteúdo, não à extensão. E a referência à flexibilidade também é imprópria, pois o enunciado nada diz sobre o processo de alteração — tamanho do texto não permite deduzir rigidez ou flexibilidade.",
+      "fundamento": "Classificação das Constituições quanto à extensão e à forma.",
+      "dificuldade": "facil",
+      "tags": [
+        "classificacao",
+        "extensao",
+        "forma",
+        "sintetica"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0100",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "O art. 242, §2º, da Constituição da República de 1988 estabelece que o Colégio Pedro II, localizado na cidade do Rio de Janeiro, será mantido na órbita federal.\n\nA existência desse dispositivo no texto constitucional é frequentemente citada pela doutrina para demonstrar que a Constituição brasileira, quanto ao conteúdo, é:",
+      "alternativas": [
+        "material, pois apenas as normas sobre organização do Estado e direitos fundamentais possuem natureza constitucional.",
+        "formal, de modo que o dispositivo somente pode ser alterado mediante emenda constitucional e pode servir de parâmetro no controle de constitucionalidade.",
+        "formal, razão pela qual o dispositivo, por não versar matéria tipicamente constitucional, pode ser revogado por lei complementar.",
+        "material no corpo permanente e formal no Ato das Disposições Constitucionais Transitórias.",
+        "analítica, pois o critério do conteúdo se confunde com o critério da extensão."
+      ],
+      "correta": 1,
+      "comentario": "Por ser formal, é constitucional tudo o que integra o documento constitucional, independentemente da matéria. Disso decorrem duas consequências práticas: a norma só se altera por emenda (art. 60) e serve de parâmetro para aferir a validade das leis. A irrelevância material não rebaixa o dispositivo, que permanece imune a alteração por lei complementar ou ordinária. O ADCT tem a mesma natureza formal, e conteúdo não se confunde com extensão.",
+      "fundamento": "CF/1988, arts. 60 e 242, §2º; classificação quanto ao conteúdo.",
+      "dificuldade": "media",
+      "tags": [
+        "classificacao",
+        "conteudo",
+        "formal",
+        "colegio-pedro-ii"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0101",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre as acepções material e formal de Constituição, assinale a afirmativa correta.",
+      "alternativas": [
+        "Em sentido material, somente são constitucionais as normas inseridas no documento solene elaborado pelo poder constituinte originário.",
+        "Em sentido formal, uma norma pode ser constitucional ainda que não trate de matéria tipicamente constitucional, bastando sua inserção no texto da Constituição.",
+        "As acepções material e formal são excludentes, de modo que nenhuma norma pode ser simultaneamente material e formalmente constitucional.",
+        "Os tratados internacionais de direitos humanos aprovados na forma do art. 5º, §3º, da CF/1988 são apenas materialmente constitucionais, pois não integram fisicamente o texto da Constituição.",
+        "A adoção do sentido material impede a existência de controle de constitucionalidade, por ausência de parâmetro normativo escrito."
+      ],
+      "correta": 1,
+      "comentario": "No sentido formal, o que importa é o continente — estar na Constituição —, e não o conteúdo; estar no documento é justamente o critério formal, enquanto o material olha para o assunto. As acepções não são excludentes: a maior parte das normas da CF/1988, como o art. 5º, é simultaneamente material e formalmente constitucional. Os tratados aprovados pelo rito do art. 5º, §3º, equivalem a emendas e, por isso, têm também força formal de norma constitucional. O que viabiliza o controle de constitucionalidade é a rigidez, e não a opção entre os sentidos material e formal.",
+      "fundamento": "CF/1988, art. 5º, §3º; doutrina constitucional.",
+      "dificuldade": "media",
+      "tags": [
+        "classificacao",
+        "conteudo",
+        "material-formal",
+        "tratados"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0102",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "Quanto ao modo de elaboração, as Constituições classificam-se em dogmáticas e históricas.\n\nA respeito dessa classificação, assinale a afirmativa correta.",
+      "alternativas": [
+        "A Constituição histórica resulta de elaboração por órgão constituinte em momento determinado, consolidando as ideias dominantes da época.",
+        "A Constituição dogmática é sempre escrita e reflete os dogmas e as concepções políticas predominantes no momento de sua elaboração.",
+        "A Constituição dogmática é necessariamente flexível, pois os dogmas que a inspiram variam com o tempo.",
+        "A Constituição histórica é sempre escrita e codificada, sendo o exemplo clássico a Constituição dos Estados Unidos de 1787.",
+        "A Constituição de 1988 é classificada como histórica, pois seu conteúdo resulta da evolução das Constituições brasileiras anteriores."
+      ],
+      "correta": 1,
+      "comentario": "A dogmática nasce de um ato de vontade, em momento certo, e cristaliza os dogmas vigentes — por isso é sempre escrita. A histórica se forma lentamente, por sedimentação de costumes e tradições, sendo por natureza não escrita (Inglaterra). Modo de elaboração nada decide sobre estabilidade: a CF/1988 é dogmática e rígida. E a inspiração em textos anteriores não a torna histórica, pois foi elaborada por Assembleia Nacional Constituinte em momento determinado.",
+      "fundamento": "Classificação das Constituições quanto ao modo de elaboração.",
+      "dificuldade": "facil",
+      "tags": [
+        "classificacao",
+        "modo-de-elaboracao",
+        "dogmatica",
+        "historica"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0103",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "A classificação das Constituições quanto à estabilidade guarda relação direta com a existência do controle de constitucionalidade.\n\nA respeito desse tema, assinale a afirmativa correta.",
+      "alternativas": [
+        "A Constituição flexível assegura a supremacia formal, pois a lei ordinária que a contrarie é nula de pleno direito.",
+        "A rigidez constitucional é pressuposto da supremacia formal da Constituição e, por consequência, do controle de constitucionalidade das leis.",
+        "A Constituição rígida é aquela que não admite qualquer alteração em seu texto, salvo por nova manifestação do poder constituinte originário.",
+        "A Constituição semirrígida é a que possui cláusulas pétreas, a exemplo da Constituição brasileira de 1988.",
+        "A Constituição fixa admite alteração por maioria absoluta do órgão legislativo, em turno único de votação."
+      ],
+      "correta": 1,
+      "comentario": "A cadeia lógica é rigidez, supremacia formal, hierarquia e controle de constitucionalidade: como a Constituição só se altera por processo especial, a lei que a contrarie não a modifica, sendo inválida. Na flexível não há supremacia formal, pois a lei posterior altera a norma constitucional anterior. A Constituição que só pode ser alterada pelo poder constituinte originário é a fixa (silenciosa); a rígida admite alteração pelo poder derivado. E cláusulas pétreas conduzem à classificação de super-rígida, jamais de semirrígida, que pressupõe parte do texto alterável por lei comum.",
+      "fundamento": "CF/1988, art. 60; classificação quanto à estabilidade.",
+      "dificuldade": "facil",
+      "tags": [
+        "classificacao",
+        "estabilidade",
+        "rigidez",
+        "supremacia-formal"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0104",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "A Constituição Política do Império do Brasil, de 1824, estabelecia em seu art. 178 que era constitucional apenas o que dissesse respeito aos limites e atribuições respectivos dos poderes políticos e aos direitos políticos e individuais dos cidadãos, podendo o restante ser alterado pelas legislaturas ordinárias.\n\nDiante desse dispositivo, a Constituição de 1824 é classificada, quanto à estabilidade e quanto ao conteúdo, respectivamente, como:",
+      "alternativas": [
+        "rígida e formal.",
+        "flexível e material.",
+        "semirrígida e material.",
+        "super-rígida e formal.",
+        "transitoriamente flexível e material."
+      ],
+      "correta": 2,
+      "comentario": "O art. 178 dividiu a Constituição em duas partes: a constitucional em sentido estrito, que exigia procedimento especial, e o restante, alterável por lei ordinária — isso é semirrigidez. Ao definir o que era constitucional pelo assunto, adotou o critério material. Não era rígida, pois nem todo o texto exigia processo agravado; não era super-rígida, pois inexistiam cláusulas pétreas; e não era transitoriamente flexível, modalidade em que a flexibilidade é temporal, e não material.",
+      "fundamento": "Constituição de 1824, art. 178; classificação quanto à estabilidade e ao conteúdo.",
+      "dificuldade": "dificil",
+      "tags": [
+        "classificacao",
+        "semirrigida",
+        "1824",
+        "material"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0105",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "A Emenda Constitucional nº 3/1993 autorizou a instituição do Imposto sobre Movimentação Financeira (IPMF) e afastou, quanto a ele, a aplicação do princípio da anterioridade e de determinadas imunidades tributárias. Ao julgar a ADI 939, o Supremo Tribunal Federal declarou a inconstitucionalidade da emenda nesse ponto.\n\nEssa decisão evidencia que:",
+      "alternativas": [
+        "a Constituição de 1988, quanto à estabilidade, é flexível, pois admite controle de emendas constitucionais.",
+        "o poder constituinte derivado reformador é ilimitado, submetendo-se apenas a restrições procedimentais.",
+        "o poder de reforma encontra limites materiais no art. 60, §4º, da CF/1988, o que embasa a classificação da Constituição como rígida — ou super-rígida, na expressão de Alexandre de Moraes.",
+        "as normas do Sistema Tributário Nacional, por serem apenas formalmente constitucionais, não integram o núcleo protegido pelas cláusulas pétreas.",
+        "a anterioridade tributária, por ser princípio de natureza orçamentária, não constitui garantia individual do contribuinte."
+      ],
+      "correta": 2,
+      "comentario": "A ADI 939 é o exemplo paradigmático de limite material ao poder de reforma: o STF entendeu que a anterioridade tributária é garantia individual do contribuinte e, portanto, cláusula pétrea (art. 60, §4º, IV). A existência desse núcleo intangível é o fundamento da tese da super-rigidez. O controle de emendas decorre da rigidez, não da flexibilidade; o poder derivado é limitado nos planos formal, circunstancial e material; e normas tributárias que veiculam garantias do contribuinte são protegidas como direitos individuais.",
+      "fundamento": "CF/1988, art. 60, §4º, IV; STF, ADI 939.",
+      "dificuldade": "media",
+      "tags": [
+        "classificacao",
+        "super-rigida",
+        "clausulas-petreas",
+        "adi-939",
+        "anterioridade"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0106",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "Considere as seguintes situações hipotéticas, relativas a quatro Estados distintos:\n\nI. No Estado Alfa, qualquer dispositivo constitucional pode ser alterado por lei aprovada por maioria simples do Parlamento.\nII. No Estado Beta, as normas sobre direitos fundamentais e organização dos poderes exigem aprovação por três quintos dos parlamentares, enquanto as demais normas constitucionais podem ser alteradas por lei ordinária.\nIII. No Estado Gama, a Constituição exige, para sua reforma, votação em dois turnos nas duas Casas do Parlamento, por três quintos dos votos, e proíbe expressamente emendas que suprimam a forma federativa.\nIV. No Estado Delta, a Constituição não prevê qualquer mecanismo de reforma, admitindo-se alteração apenas por nova assembleia constituinte.\n\nAs Constituições dos Estados Alfa, Beta, Gama e Delta são classificadas, respectivamente, como:",
+      "alternativas": [
+        "flexível, semirrígida, super-rígida e fixa.",
+        "flexível, rígida, semirrígida e imutável.",
+        "semirrígida, flexível, rígida e fixa.",
+        "flexível, semirrígida, rígida e imutável.",
+        "plástica, semiflexível, super-rígida e silenciosa."
+      ],
+      "correta": 0,
+      "comentario": "Em I, alteração pelo mesmo processo das leis comuns caracteriza a Constituição flexível. Em II, a convivência de uma parte rígida com outra alterável por lei ordinária é a semirrigidez, desenho da Constituição de 1824. Em III, o procedimento agravado somado a limite material intangível corresponde à super-rigidez, na linha de Alexandre de Moraes — por isso, destacada a cláusula pétrea, essa é a resposta tecnicamente mais precisa. Em IV, a ausência de mecanismo de reforma por poder derivado caracteriza a Constituição fixa (silenciosa), e não a imutável, que não admite alteração alguma.",
+      "fundamento": "Classificação das Constituições quanto à estabilidade.",
+      "dificuldade": "dificil",
+      "tags": [
+        "classificacao",
+        "estabilidade",
+        "flexivel",
+        "semirrigida",
+        "fixa"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0107",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "A Constituição da República Federativa do Brasil de 1988 estabelece, como fundamentos da República, os valores sociais do trabalho e da livre iniciativa (art. 1º, IV) e, ao disciplinar a ordem econômica, assenta-a na livre iniciativa, impondo-lhe simultaneamente a função social da propriedade e a redução das desigualdades regionais e sociais (art. 170).\n\nEssa convivência de postulados de matrizes diversas permite classificar a Constituição de 1988, quanto à ideologia, como:",
+      "alternativas": [
+        "ortodoxa, pois os princípios da ordem econômica decorrem de uma única matriz liberal.",
+        "eclética ou compromissória, por resultar de compromisso entre ideologias distintas presentes na Assembleia Nacional Constituinte.",
+        "pactuada, por traduzir acordo entre as forças políticas que se equilibravam no momento constituinte.",
+        "dirigente, uma vez que o critério ideológico se identifica com o critério da finalidade.",
+        "nominal, pois os princípios da ordem econômica não encontram correspondência na realidade social."
+      ],
+      "correta": 1,
+      "comentario": "A presença simultânea de valores de matriz liberal (livre iniciativa, propriedade) e de matriz social (função social, redução das desigualdades, valores sociais do trabalho) caracteriza a Constituição eclética — também chamada compromissória, heterodoxa, pragmática ou pluralista. Ortodoxa seria a de ideologia única, como as socialistas. Pactuada responde ao critério da origem; dirigente, ao da finalidade; e nominal pertence à classificação ontológica de Loewenstein.",
+      "fundamento": "CF/1988, arts. 1º, IV, e 170; classificação quanto à ideologia.",
+      "dificuldade": "media",
+      "tags": [
+        "classificacao",
+        "ideologia",
+        "ecletica",
+        "compromissoria"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0108",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre as classificações das Constituições quanto à sistemática e à unidade documental, assinale a afirmativa correta.",
+      "alternativas": [
+        "A Constituição unitária, ou codificada, é aquela cujas normas se encontram distribuídas em diversos diplomas legais, ainda que escritos.",
+        "A Constituição inorgânica é a que se apresenta concentrada em um único documento solene, dotado de articulação sistemática.",
+        "A Constituição de 1988 é classificada como unitária (codificada) e orgânica, pois suas normas estão reunidas em um único documento sistematizado.",
+        "A classificação quanto à unidade documental coincide integralmente com a classificação quanto à extensão, variando apenas a terminologia.",
+        "A Constituição variada é sempre não escrita, pois a dispersão normativa impede a formalização em texto."
+      ],
+      "correta": 2,
+      "comentario": "A CF/1988 reúne suas normas em documento único e sistematizado, em títulos, capítulos e seções: é unitária (codificada) quanto à sistemática e orgânica quanto à unidade documental. A Constituição variada ou pluritextual é a que distribui normas escritas por vários diplomas, como a francesa de 1875 — dispersão não se confunde com ausência de escrita. Inorgânica é a esparsa, e não a concentrada. Unidade documental trata da concentração das normas; extensão, do grau de detalhamento das matérias.",
+      "fundamento": "Classificação quanto à sistemática (Pinto Ferreira) e à unidade documental.",
+      "dificuldade": "media",
+      "tags": [
+        "classificacao",
+        "sistematica",
+        "unidade-documental",
+        "organica"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0109",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "No Estado fictício de Rutênia, a Constituição afirma expressamente, em seu preâmbulo e ao longo de todo o texto, a adoção de um único projeto político-econômico, vedando qualquer interpretação que admita modelos concorrentes de organização da economia.\n\nQuanto à ideologia, a Constituição de Rutênia é classificada como:",
+      "alternativas": [
+        "eclética.",
+        "compromissória.",
+        "heterodoxa.",
+        "ortodoxa.",
+        "pragmática."
+      ],
+      "correta": 3,
+      "comentario": "A adoção de uma única ideologia, sem concessão a correntes concorrentes, caracteriza a Constituição ortodoxa (também chamada simples), de que são exemplos históricos as Constituições soviéticas e a chinesa de 1982. As demais opções — eclética, compromissória, heterodoxa e pragmática — são todas sinônimas e designam exatamente o oposto: a Constituição que acomoda ideologias diversas, como a brasileira de 1988.",
+      "fundamento": "Classificação das Constituições quanto à ideologia.",
+      "dificuldade": "facil",
+      "tags": [
+        "classificacao",
+        "ideologia",
+        "ortodoxa"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0110",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "O art. 3º da Constituição da República de 1988 enuncia os objetivos fundamentais da República Federativa do Brasil, entre os quais erradicar a pobreza e reduzir as desigualdades sociais e regionais.\n\nDispositivos desse tipo, somados ao extenso elenco de direitos sociais e de deveres estatais de atuação, autorizam classificar a Constituição de 1988, quanto à finalidade, como:",
+      "alternativas": [
+        "Constituição-garantia, pois o rol de objetivos limita a atuação do Estado.",
+        "Constituição-balanço, pois descreve o estágio das relações sociais existentes em 1988.",
+        "Constituição dirigente, por estabelecer programas e fins a serem perseguidos pelo Estado e pela sociedade.",
+        "Constituição-moldura, pois apenas delimita o espaço de conformação do legislador, sem impor conteúdos.",
+        "Constituição semântica, pois os objetivos nela previstos não se realizaram integralmente."
+      ],
+      "correta": 2,
+      "comentario": "Normas que fixam objetivos e programas a serem realizados caracterizam a Constituição dirigente (programática), noção desenvolvida por Canotilho; o art. 3º é o exemplo-símbolo no Brasil. A Constituição-garantia é negativa e abstencionista; a Constituição-balanço descreve o estágio das relações de produção; a Constituição-moldura apenas delimita o espaço de atuação do legislador; e semântica pertence à classificação ontológica de Loewenstein, designando a Constituição usada como fachada do poder, e não a meta não cumprida.",
+      "fundamento": "CF/1988, arts. 3º, 6º, 196, 205 e 225; Canotilho, Constituição Dirigente.",
+      "dificuldade": "facil",
+      "tags": [
+        "classificacao",
+        "finalidade",
+        "dirigente",
+        "programatica"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0111",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "A respeito das classificações das Constituições quanto à finalidade, assinale a afirmativa correta.",
+      "alternativas": [
+        "A Constituição-garantia é marcada pela previsão de normas programáticas que impõem ao Estado deveres positivos de prestação.",
+        "A Constituição-balanço registra o estágio atual das relações sociais e econômicas, devendo ser substituída quando esse estágio se altere, modelo associado às Constituições soviéticas.",
+        "A Constituição dirigente é incompatível com a existência de direitos de defesa, pois se volta exclusivamente a prestações estatais.",
+        "A expressão Constituição dirigente foi cunhada por Karl Loewenstein ao distinguir Constituições normativas, nominais e semânticas.",
+        "A revisão parcial da tese do dirigismo constitucional por Canotilho implicou a reclassificação da Constituição de 1988 como Constituição-garantia."
+      ],
+      "correta": 1,
+      "comentario": "A Constituição-balanço retrata o estágio presente das relações de produção e destina-se a ser substituída na etapa seguinte, daí a sucessão de Constituições soviéticas (1924, 1936 e 1977). Normas programáticas e deveres positivos caracterizam a dirigente, não a garantia, que é negativa e abstencionista. Não há incompatibilidade entre dirigismo e direitos de defesa — a CF/1988 reúne ambos. A classificação normativa, nominal e semântica é de Loewenstein; dirigente é de Canotilho, cuja revisão foi teórica e não alterou a classificação da Constituição brasileira.",
+      "fundamento": "Classificação quanto à finalidade; Canotilho; Loewenstein.",
+      "dificuldade": "media",
+      "tags": [
+        "classificacao",
+        "finalidade",
+        "balanco",
+        "garantia",
+        "dirigente"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0112",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "Um texto constitucional do século XIX limita-se a organizar os poderes do Estado e a assegurar aos cidadãos a liberdade, a propriedade e a segurança, abstendo-se de disciplinar a ordem econômica e social e de impor ao Estado deveres de prestação.\n\nQuanto à finalidade, esse texto é classificado como:",
+      "alternativas": [
+        "Constituição dirigente.",
+        "Constituição-balanço.",
+        "Constituição-garantia.",
+        "Constituição plástica.",
+        "Constituição expansiva."
+      ],
+      "correta": 2,
+      "comentario": "O enunciado descreve o modelo liberal clássico — organização dos poderes e liberdades negativas, sem programas de ação estatal —, que corresponde à Constituição-garantia (negativa, abstencionista, também chamada constituição-quadro). A dirigente impõe programas e fins; a balanço descreve o estágio das relações de produção; plástica diz respeito à maleabilidade de sentido do texto; e expansiva, à ampliação de temas em relação às Constituições anteriores.",
+      "fundamento": "Classificação das Constituições quanto à finalidade.",
+      "dificuldade": "facil",
+      "tags": [
+        "classificacao",
+        "finalidade",
+        "garantia",
+        "estado-liberal"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0113",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "Karl Loewenstein propôs classificação ontológica das Constituições, considerando a correspondência entre o texto constitucional e a realidade do processo político.\n\nSegundo essa classificação, é denominada semântica a Constituição que:",
+      "alternativas": [
+        "é observada por todos os detentores e destinatários do poder, havendo plena simbiose entre a norma e a realidade.",
+        "é juridicamente válida, mas ainda não corresponde à realidade, desempenhando função educativa e prospectiva.",
+        "serve apenas para formalizar e estabilizar a situação dos detentores do poder, funcionando como instrumento de legitimação do regime.",
+        "é alterável pelo mesmo procedimento das leis ordinárias, não gozando de supremacia formal.",
+        "registra o estágio das relações de produção, devendo ser substituída a cada nova etapa histórica."
+      ],
+      "correta": 2,
+      "comentario": "A Constituição semântica é a fachada: não limita o poder, apenas o legitima e estabiliza — no Brasil, citam-se as Cartas de 1937 e 1967/1969. A normativa é efetivamente observada, com simbiose entre norma e realidade; a nominal é válida, porém ainda não realizada, com função educativa e prospectiva. Alterabilidade pelo processo das leis ordinárias descreve a Constituição flexível (critério da estabilidade), e o registro do estágio das relações de produção, a Constituição-balanço (critério da finalidade).",
+      "fundamento": "Loewenstein, Teoria de la Constitución — classificação ontológica.",
+      "dificuldade": "facil",
+      "tags": [
+        "classificacao",
+        "ontologica",
+        "loewenstein",
+        "semantica"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0114",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "A Constituição da Bósnia-Herzegovina, integrante dos Acordos de Dayton celebrados em território norte-americano, e a Constituição do Chipre, resultante de acordos firmados em Zurique e Londres, são usualmente apontadas pela doutrina como exemplos de:",
+      "alternativas": [
+        "Constituições cesaristas, por decorrerem de imposição externa ratificada internamente.",
+        "heteroconstituições, por terem sido elaboradas fora do Estado que passariam a reger.",
+        "autoconstituições, pois vigoram nos respectivos territórios nacionais.",
+        "Constituições pactuadas, por resultarem de acordo entre o monarca e o parlamento.",
+        "Constituições nominais, por não corresponderem à realidade social desses países."
+      ],
+      "correta": 1,
+      "comentario": "São os exemplos padrão de heteroconstituição: Constituição decretada fora do Estado que irá reger, no caso por via de negociação internacional. O critério é o local da elaboração, e não o da vigência, razão pela qual não se trata de autoconstituição. Cesarista responde ao critério da origem; pactuada exige pacto entre duas forças políticas internas em equilíbrio; e nominal é classificação ontológica, sem relação com o local de elaboração.",
+      "fundamento": "Classificação quanto ao local da decretação.",
+      "dificuldade": "media",
+      "tags": [
+        "classificacao",
+        "local-da-decretacao",
+        "heteroconstituicao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0115",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "Sobre a Constituição da República Federativa do Brasil de 1988, considerando as classificações ontológica (Loewenstein) e quanto ao local da decretação, assinale a afirmativa correta.",
+      "alternativas": [
+        "É classificada como semântica e como heteroconstituição, em razão da forte influência das Constituições portuguesa de 1976 e alemã de 1949.",
+        "É classificada como normativa, ou com pretensão de normatividade, e como autoconstituição, pois elaborada e promulgada no próprio Estado brasileiro.",
+        "É classificada como nominal e como heteroconstituição, por ter sido parcialmente redigida com assessoria de organismos internacionais.",
+        "É classificada como semântica, pois parte de suas normas programáticas ainda não foi integralmente efetivada.",
+        "Não admite classificação ontológica, por se tratar de critério aplicável apenas a Constituições não escritas."
+      ],
+      "correta": 1,
+      "comentario": "A CF/1988 é classificada como normativa — ou, em formulação mais cautelosa, com pretensão de normatividade — e como autoconstituição (homoconstituição), pois foi elaborada pela Assembleia Nacional Constituinte brasileira e promulgada em 5 de outubro de 1988. Influência estrangeira não transforma a Constituição em heteroconstituição, já que o critério é o local da decretação. A inefetividade parcial de normas programáticas é argumento de parte da doutrina para apontar traços de Constituição nominal, jamais de semântica, reservada às Cartas autoritárias. A classificação ontológica aplica-se a qualquer Constituição.",
+      "fundamento": "Loewenstein, classificação ontológica; classificação quanto ao local da decretação.",
+      "dificuldade": "media",
+      "tags": [
+        "classificacao",
+        "cf-1988",
+        "normativa",
+        "autoconstituicao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0116",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "A doutrina constitucional contemporânea emprega a expressão Constituição dúctil (ou suave), atribuída a Gustavo Zagrebelsky, para designar a Constituição que:",
+      "alternativas": [
+        "não estabelece regras acerca do seu próprio processo de reforma, delegando-as ao órgão revisor.",
+        "admite alteração de significado por meio da legislação ordinária e da mutação constitucional, mantendo intacto o texto.",
+        "não impõe um projeto predeterminado de vida coletiva, limitando-se a assegurar as condições de convivência em uma sociedade pluralista.",
+        "amplia e aprofunda temas tratados nas Constituições anteriores, inaugurando novos títulos e capítulos.",
+        "tem função predominantemente político-ideológica, prevalecendo o aspecto simbólico sobre o normativo."
+      ],
+      "correta": 2,
+      "comentario": "A Constituição dúctil (costituzione mite), de Zagrebelsky, renuncia a impor um projeto único de sociedade e passa a garantir as condições de coexistência do pluralismo. A que silencia sobre a própria reforma é a Constituição em branco; a que se adapta por legislação e mutação, sem alteração do texto, é a plástica (Pinto Ferreira); a que amplia temas em relação às anteriores é a expansiva (Raul Machado Horta); e a de função predominantemente político-ideológica é a simbólica (Marcelo Neves).",
+      "fundamento": "Zagrebelsky, El Derecho Dúctil; classificações contemporâneas.",
+      "dificuldade": "media",
+      "tags": [
+        "classificacao",
+        "ductil",
+        "zagrebelsky",
+        "contemporaneas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0117",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "O art. 7º, IV, da CF/1988 assegura ao trabalhador salário mínimo capaz de atender às suas necessidades vitais básicas e às de sua família, cabendo à lei fixar-lhe periodicamente o valor. De igual modo, o Supremo Tribunal Federal ampliou, ao longo do tempo, o conceito de \"casa\" previsto no art. 5º, XI, sem que houvesse qualquer alteração do texto constitucional.\n\nEssas situações ilustram a característica que a doutrina denomina:",
+      "alternativas": [
+        "plasticidade constitucional.",
+        "flexibilidade constitucional.",
+        "semirrigidez constitucional.",
+        "heteroconstitucionalidade.",
+        "constitucionalização simbólica."
+      ],
+      "correta": 0,
+      "comentario": "A adaptação do sentido do texto constitucional à realidade, por meio da legislação infraconstitucional e da mutação constitucional, sem alteração formal do texto, é a plasticidade, na acepção de Pinto Ferreira. Flexibilidade é a possibilidade de alterar o próprio texto pelo processo das leis ordinárias, o que não ocorre na CF/1988, que é rígida; semirrigidez pressupõe parte do texto alterável por lei comum; heteroconstitucionalidade refere-se ao local de elaboração; e a constitucionalização simbólica descreve a prevalência da função ideológica sobre a normativa.",
+      "fundamento": "CF/1988, arts. 5º, XI, e 7º, IV; Pinto Ferreira — Constituição plástica.",
+      "dificuldade": "dificil",
+      "tags": [
+        "classificacao",
+        "plastica",
+        "mutacao-constitucional",
+        "contemporaneas"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0118",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "Relacione os tipos constitucionais às suas respectivas noções e, em seguida, assinale a opção que apresenta a correspondência correta.\n\n1. Constituição-moldura\n2. Constituição em branco\n3. Constituição expansiva\n\n( ) Limita-se a fixar os contornos dentro dos quais o legislador atua, sem predeterminar o conteúdo das políticas públicas.\n( ) Amplia os temas tratados em relação às Constituições precedentes, inaugurando novos títulos e capítulos.\n( ) Não disciplina o procedimento de sua própria alteração, remetendo a definição ao órgão revisor.",
+      "alternativas": [
+        "1 – 2 – 3",
+        "2 – 3 – 1",
+        "1 – 3 – 2",
+        "3 – 1 – 2",
+        "2 – 1 – 3"
+      ],
+      "correta": 2,
+      "comentario": "A Constituição-moldura (Rahmenverfassung) fixa apenas a moldura, isto é, os limites da atuação legislativa, cabendo ao legislador preencher o conteúdo das políticas. A expansiva, de Raul Machado Horta, amplia e aprofunda temas em relação às Constituições anteriores, classificação aplicada à CF/1988. A Constituição em branco silencia sobre o próprio processo de reforma, deixando-o ao órgão revisor — citam-se as Constituições francesas de 1799 e 1814. Sequência correta: 1 – 3 – 2.",
+      "fundamento": "Classificações contemporâneas das Constituições.",
+      "dificuldade": "media",
+      "tags": [
+        "classificacao",
+        "moldura",
+        "em-branco",
+        "expansiva"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0119",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "Considerando as classificações doutrinárias das Constituições, a Constituição da República Federativa do Brasil de 1988 é corretamente qualificada como:",
+      "alternativas": [
+        "outorgada, escrita, analítica, formal, dogmática e rígida.",
+        "promulgada, escrita, sintética, material, histórica e semirrígida.",
+        "promulgada, escrita, analítica, formal, dogmática e rígida.",
+        "promulgada, não escrita, analítica, formal, dogmática e flexível.",
+        "pactuada, escrita, analítica, material, dogmática e super-rígida."
+      ],
+      "correta": 2,
+      "comentario": "O quadro consolidado da CF/1988 é: promulgada (origem), escrita (forma), analítica (extensão), formal (conteúdo), dogmática (modo de elaboração) e rígida (estabilidade). Os rótulos que nunca lhe servem são outorgada, sintética, material, flexível, semirrígida e não escrita. Observe que super-rígida não é erro em si — é qualificação defensável, na linha de Alexandre de Moraes —, de modo que uma alternativa não deve ser descartada apenas por contê-la.",
+      "fundamento": "CF/1988, art. 60; classificação das Constituições.",
+      "dificuldade": "facil",
+      "tags": [
+        "classificacao",
+        "cf-1988",
+        "quadro-geral"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0120",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "Analise as afirmativas a seguir, sobre a Constituição da República de 1988.\n\nI. Quanto à finalidade, é dirigente, pois estabelece programas e fins a serem realizados pelo Estado.\nII. Quanto ao conteúdo, é material, pois somente as normas que tratam da organização do Estado e dos direitos fundamentais possuem natureza constitucional.\nIII. Quanto ao local da decretação, é autoconstituição, ainda que tenha recebido influência de Constituições estrangeiras.\n\nEstá correto o que se afirma em:",
+      "alternativas": [
+        "I, apenas.",
+        "I e III, apenas.",
+        "II e III, apenas.",
+        "III, apenas.",
+        "I, II e III."
+      ],
+      "correta": 1,
+      "comentario": "I está correta: a CF/1988 é dirigente, por fixar objetivos e programas (arts. 3º, 6º, 196, 205 e 225). II está errada: quanto ao conteúdo, a CF/1988 é formal, pois é constitucional tudo o que integra o texto, independentemente da matéria — exemplo clássico é o art. 242, §2º. III está correta: o critério do local da decretação considera onde a Constituição foi elaborada, e não de onde vieram suas influências; a CF/1988 é autoconstituição, embora inspirada nas Constituições de Portugal (1976) e da Alemanha (1949).",
+      "fundamento": "CF/1988, arts. 3º e 242, §2º; classificações quanto à finalidade, ao conteúdo e ao local da decretação.",
+      "dificuldade": "media",
+      "tags": [
+        "classificacao",
+        "cf-1988",
+        "dirigente",
+        "formal",
+        "autoconstituicao"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0121",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "Determinado parlamentar apresenta proposta de emenda constitucional destinada a suprimir, do texto da Constituição de 1988, a exigência de observância do princípio da anterioridade tributária em relação a determinado tributo federal.\n\nÀ luz das classificações constitucionais e do regime jurídico do poder de reforma, é correto afirmar que:",
+      "alternativas": [
+        "a proposta é admissível, pois a rigidez constitucional impõe apenas limites procedimentais ao poder de reforma.",
+        "a proposta é inadmissível, pois, além dos limites procedimentais, a Constituição de 1988 estabelece limites materiais que alcançam os direitos e garantias individuais do contribuinte, característica que fundamenta sua classificação como rígida — ou super-rígida.",
+        "a proposta é admissível, pois as normas do Sistema Tributário Nacional são apenas formalmente constitucionais e, por isso, não integram o núcleo intangível.",
+        "a proposta é inadmissível, pois a Constituição de 1988 é imutável quanto a toda matéria tributária.",
+        "a proposta é admissível desde que aprovada por maioria absoluta em sessão unicameral, nos termos do procedimento de revisão constitucional."
+      ],
+      "correta": 1,
+      "comentario": "O poder de reforma encontra limites materiais no art. 60, §4º, e o STF, na ADI 939, reconheceu a anterioridade tributária como garantia individual do contribuinte, portanto cláusula pétrea. A existência desse núcleo intangível, somada ao procedimento agravado, embasa a classificação da CF/1988 como rígida (super-rígida, para Alexandre de Moraes). Os limites não são só procedimentais: há também os circunstanciais do art. 60, §1º. A formalidade constitucional não rebaixa a norma, a CF/1988 não é imutável, e a revisão do art. 3º do ADCT foi de exercício único, já exaurido em 1993-1994.",
+      "fundamento": "CF/1988, art. 60, §§1º e 4º, e ADCT, art. 3º; STF, ADI 939.",
+      "dificuldade": "media",
+      "tags": [
+        "classificacao",
+        "rigidez",
+        "clausulas-petreas",
+        "anterioridade",
+        "poder-de-reforma"
+      ],
+      "fonte": "inédita"
+    },
+    {
+      "id": "const-0122",
+      "topico": "4.4.1",
+      "tipo": "multipla",
+      "enunciado": "A respeito das classificações da Constituição de 1988, assinale a afirmativa INCORRETA.",
+      "alternativas": [
+        "É escrita, codificada e orgânica, por reunir suas normas em documento único e sistematizado.",
+        "É eclética, por acolher valores de matrizes ideológicas diversas, como a livre iniciativa e os valores sociais do trabalho.",
+        "É dogmática, por ter sido elaborada por órgão constituinte em momento historicamente determinado.",
+        "É nominal na classificação ontológica de Karl Loewenstein, pois suas normas não vinculam os detentores do poder, servindo apenas para legitimá-los.",
+        "É analítica, por disciplinar matérias que, em outros sistemas, ficariam reservadas à legislação ordinária."
+      ],
+      "correta": 3,
+      "comentario": "A afirmativa incorreta — e, portanto, o gabarito — contém dois erros somados. Primeiro, a CF/1988 é classificada como normativa, ou com pretensão de normatividade, e não como nominal. Segundo, a descrição apresentada (normas que não vinculam os detentores do poder e apenas os legitimam) corresponde ao conceito de Constituição semântica, e não ao de nominal, que é a Constituição válida, ainda não realizada, com função educativa e prospectiva. As demais afirmativas estão corretas: a CF/1988 é escrita, codificada e orgânica; eclética; dogmática; e analítica.",
+      "fundamento": "Loewenstein, classificação ontológica; classificação das Constituições.",
+      "dificuldade": "media",
+      "tags": [
+        "classificacao",
+        "cf-1988",
+        "ontologica",
+        "nominal",
+        "semantica"
+      ],
+      "fonte": "inédita"
     }
   ]
 }
